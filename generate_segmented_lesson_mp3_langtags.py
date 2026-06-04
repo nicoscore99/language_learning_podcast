@@ -371,6 +371,87 @@ def cache_key_for_speech(
     return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:32]
 
 
+def build_manifest(
+    *,
+    input_path: Path,
+    output_path: Path,
+    manifest_path: Path,
+    segments: list[dict[str, Any]],
+    args: argparse.Namespace,
+    lang_counts: dict[str, int],
+) -> dict[str, Any]:
+    manifest_segments: list[dict[str, Any]] = []
+
+    for index, segment in enumerate(segments, start=1):
+        if segment["type"] == "speech":
+            text = segment["text"]
+            language_code = segment.get("language_code")
+            cache_key = cache_key_for_speech(
+                text=text,
+                voice_id=args.voice_id,
+                model_id=args.model_id,
+                output_format=args.output_format,
+                stability=args.stability,
+                similarity_boost=args.similarity_boost,
+                style=args.style,
+                use_speaker_boost=not args.no_speaker_boost,
+                seed=args.seed,
+                language_code=language_code,
+            )
+            manifest_segments.append({
+                "index": index,
+                "type": "speech",
+                "language_code": language_code,
+                "text": text,
+                "character_count": len(text),
+                "cache_key": cache_key,
+                "raw_audio_path": str(args.cache_dir / f"{cache_key}.mp3"),
+            })
+            continue
+
+        seconds = float(segment["seconds"])
+        rendered_seconds = max(args.min_break, seconds * args.break_multiplier)
+        manifest_segments.append({
+            "index": index,
+            "type": "silence",
+            "seconds": rendered_seconds,
+            "source_seconds": seconds,
+        })
+
+    return {
+        "schema_version": 1,
+        "input_path": str(input_path),
+        "output_path": str(output_path),
+        "manifest_path": str(manifest_path),
+        "mode": "dry_run" if args.dry_run else "synthesis",
+        "model_id": args.model_id,
+        "voice_id": args.voice_id,
+        "output_format": args.output_format,
+        "bitrate": args.bitrate,
+        "max_chars": args.max_chars,
+        "speech_tempo": args.speech_tempo,
+        "break_multiplier": args.break_multiplier,
+        "min_break": args.min_break,
+        "seed": args.seed,
+        "language_code_mode": "disabled" if args.disable_language_code else "explicit tags + fallback",
+        "summary": {
+            "segments": len(segments),
+            "speech_segments": sum(1 for item in segments if item["type"] == "speech"),
+            "silence_segments": sum(1 for item in segments if item["type"] == "silence"),
+            "language_counts": lang_counts,
+        },
+        "segments": manifest_segments,
+    }
+
+
+def write_manifest(manifest: dict[str, Any], manifest_path: Path) -> None:
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def call_elevenlabs_tts(
     *,
     api_key: str,
@@ -632,6 +713,19 @@ def main() -> None:
     parser.add_argument("--keep-work", action="store_true")
 
     parser.add_argument(
+        "--manifest",
+        type=Path,
+        default=None,
+        help="Manifest JSON path. Defaults to output path with .manifest.json suffix.",
+    )
+
+    parser.add_argument(
+        "--no-manifest",
+        action="store_true",
+        help="Do not write a manifest JSON file.",
+    )
+
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Parse and print segment summary without calling ElevenLabs or FFmpeg.",
@@ -656,12 +750,22 @@ def main() -> None:
     )
 
     output_path = args.output or input_path.with_suffix(".mp3")
+    manifest_path = args.manifest or output_path.with_suffix(".manifest.json")
 
     lang_counts: dict[str, int] = {}
     for segment in segments:
         if segment["type"] == "speech":
             key = segment.get("language_code") or "none"
             lang_counts[key] = lang_counts.get(key, 0) + 1
+
+    manifest = build_manifest(
+        input_path=input_path,
+        output_path=output_path,
+        manifest_path=manifest_path,
+        segments=segments,
+        args=args,
+        lang_counts=lang_counts,
+    )
 
     print(f"Input: {input_path}")
     print(f"Output: {output_path}")
@@ -670,6 +774,8 @@ def main() -> None:
     print(f"Silence segments: {sum(1 for s in segments if s['type'] == 'silence')}")
     print(f"Language counts: {lang_counts}")
     print(f"Language code mode: {'disabled' if args.disable_language_code else 'explicit tags + fallback'}")
+    if not args.no_manifest:
+        print(f"Manifest: {manifest_path}")
 
     if args.dry_run:
         print("\nDry run segment preview:")
@@ -683,6 +789,9 @@ def main() -> None:
                 print(f"{i:04d} SILENCE {segment['seconds']:.2f}s")
         if len(segments) > 50:
             print(f"... {len(segments) - 50} more segments")
+        if not args.no_manifest:
+            write_manifest(manifest, manifest_path)
+            print(f"Wrote manifest: {manifest_path}")
         return
 
     api_key = get_api_key()
@@ -731,8 +840,9 @@ def main() -> None:
             processed_path = lesson_work_dir / f"{index:05d}_speech.mp3"
 
             lang_note = language_code or "no-code"
+            cache_hit = raw_speech_path.exists()
 
-            if raw_speech_path.exists():
+            if cache_hit:
                 cache_hits += 1
                 print(f"[{index}/{len(segments)}] speech cache HIT ({lang_note}): {len(text)} chars")
             else:
@@ -763,6 +873,8 @@ def main() -> None:
             )
 
             final_segment_files.append(processed_path)
+            manifest["segments"][index - 1]["cache_hit"] = cache_hit
+            manifest["segments"][index - 1]["processed_audio_path"] = str(processed_path)
 
         elif segment["type"] == "silence":
             silence_count += 1
@@ -780,6 +892,7 @@ def main() -> None:
             )
 
             final_segment_files.append(silence_path)
+            manifest["segments"][index - 1]["audio_path"] = str(silence_path)
 
     print(f"Speech segments: {speech_count}")
     print(f"Silence segments: {silence_count}")
@@ -796,6 +909,13 @@ def main() -> None:
 
     if not output_path.exists():
         raise RuntimeError(f"Expected output file was not created: {output_path}")
+
+    if not args.no_manifest:
+        manifest["summary"]["cache_hits"] = cache_hits
+        manifest["summary"]["cache_misses"] = cache_misses
+        manifest["summary"]["final_segment_files"] = [str(path) for path in final_segment_files]
+        write_manifest(manifest, manifest_path)
+        print(f"Wrote manifest: {manifest_path}")
 
     if not args.keep_work:
         shutil.rmtree(lesson_work_dir, ignore_errors=True)

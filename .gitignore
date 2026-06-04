@@ -13,6 +13,7 @@
 # TTS generation cache/work directories
 tts_cache/
 tts_work/
+*.manifest.json
 
 # Python cache and local environments
 __pycache__/
