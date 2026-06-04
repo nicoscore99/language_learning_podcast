@@ -27,6 +27,13 @@ ENV/
 .env
 .env.*
 !.env.example
+cmd.txt
+cmd.local.txt
+commands.local.txt
+*.local.ps1
+*.secret.*
+pronunciation_dictionary_response.json
+pronunciation_dictionary_locator.json
 
 # Logs and temporary files
 *.log

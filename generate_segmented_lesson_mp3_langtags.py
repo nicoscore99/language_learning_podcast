@@ -6,6 +6,7 @@ Supported tags inside lesson .txt files:
     <lang code="en" />
     <lang code="zh" />
     <lang code="de-DE" />
+    <lang code="auto" />
     <break time="3.0s" />
 
 Rules:
@@ -57,6 +58,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 import time
 from pathlib import Path
 from typing import Any
@@ -65,6 +67,7 @@ import requests
 
 
 ELEVENLABS_TTS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+AUTO_LANGUAGE_CODE = "auto"
 
 BREAK_RE = re.compile(
     r'<break\s+time=["\']([0-9]+(?:\.[0-9]+)?)s["\']\s*/>',
@@ -72,12 +75,12 @@ BREAK_RE = re.compile(
 )
 
 LANG_RE = re.compile(
-    r'<lang\s+code=["\']([A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*)["\']\s*/>',
+    r'<lang\s+code=["\'](auto|[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*)["\']\s*/>',
     flags=re.IGNORECASE,
 )
 
 TAG_RE = re.compile(
-    r'(<break\s+time=["\'][0-9]+(?:\.[0-9]+)?s["\']\s*/>|<lang\s+code=["\'][A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*["\']\s*/>)',
+    r'(<break\s+time=["\'][0-9]+(?:\.[0-9]+)?s["\']\s*/>|<lang\s+code=["\'](?:auto|[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*)["\']\s*/>)',
     flags=re.IGNORECASE,
 )
 
@@ -144,6 +147,23 @@ def normalize_language_code(code: str) -> str:
     return "-".join([first] + rest)
 
 
+def normalize_tag_language_code(code: str) -> str:
+    normalized = code.strip().lower()
+    if normalized == AUTO_LANGUAGE_CODE:
+        return AUTO_LANGUAGE_CODE
+    return normalize_language_code(code)
+
+
+def configure_console_output() -> None:
+    """
+    Make dry-run/status output reliable on Windows consoles that default to cp1252.
+    """
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+
 def detect_language_code(text: str) -> str | None:
     """
     Conservative fallback detector for untagged snippets.
@@ -204,7 +224,7 @@ def parse_tts_script(script_text: str) -> list[dict[str, Any]]:
 
         lang_match = LANG_RE.fullmatch(tag)
         if lang_match:
-            current_lang = normalize_language_code(lang_match.group(1))
+            current_lang = normalize_tag_language_code(lang_match.group(1))
             pos = match.end()
             continue
 
@@ -277,7 +297,8 @@ def normalise_segments(
     Does not normalize punctuation/case.
 
     For speech segments:
-    - Explicit tag language wins.
+    - Explicit tag language wins unless it is "auto".
+    - Explicit "auto" asks the script to infer language from the tagged block.
     - If no explicit tag and default_language is set, use default_language.
     - If neither, fallback detect_language_code(text).
     - If disable_language_code is True, always use None.
@@ -302,6 +323,8 @@ def normalise_segments(
 
         if disable_language_code:
             language_code = None
+        elif explicit_language == AUTO_LANGUAGE_CODE:
+            language_code = detect_language_code(text)
         elif explicit_language:
             language_code = normalize_language_code(explicit_language)
         elif default_language:
@@ -513,6 +536,8 @@ def concat_mp3_files(
 
 
 def main() -> None:
+    configure_console_output()
+
     parser = argparse.ArgumentParser(
         description=(
             "Generate MP3 from a tagged TTS transcript using segmented ElevenLabs requests, "
