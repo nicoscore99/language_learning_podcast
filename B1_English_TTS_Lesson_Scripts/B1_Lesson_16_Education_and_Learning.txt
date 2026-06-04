@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 16 课，级别 B1。今天的主题是教育和学习，重点是
+<lang code="en" />
+Learning strategies.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+practice, memorize, review, mistake, progress, goal.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：课程。
+
+<break time="3.5s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我今年在上英语课程。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：科目。
+
+<break time="3.5s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：数学以前是我在学校最喜欢的科目。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Math was my favorite subject at school.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+practice.
+<lang code="zh" />
+这个词的意思是：练习。请跟着说。
+<lang code="en" />
+practice.
+
+<break time="4.8s" />
+
+<lang code="en" />
+practice.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：练习。
+
+<break time="3.5s" />
+
+<lang code="en" />
+practice.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Regular practice helps me speak more clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：定期练习帮助我说得更清楚。
+
+<lang code="zh" />
+请你说这个英文句子：定期练习帮助我说得更清楚。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Regular practice helps me speak more clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+memorize.
+<lang code="zh" />
+这个词的意思是：记住，背诵。请跟着说。
+<lang code="en" />
+memorize.
+
+<break time="4.8s" />
+
+<lang code="en" />
+memorize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：记住，背诵。
+
+<break time="3.5s" />
+
+<lang code="en" />
+memorize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I try to memorize five new words every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我每天努力记住五个新单词。
+
+<lang code="zh" />
+请你说这个英文句子：我每天努力记住五个新单词。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I try to memorize five new words every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+review.
+<lang code="zh" />
+这个词的意思是：复习。请跟着说。
+<lang code="en" />
+review.
+
+<break time="4.8s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：复习。
+
+<break time="3.5s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Let’s review the lesson before the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：考试前我们复习一下这节课。
+
+<lang code="zh" />
+请你说这个英文句子：考试前我们复习一下这节课。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Let’s review the lesson before the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+记住，背诵。
+
+<break time="4.8s" />
+
+<lang code="en" />
+memorize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+练习。
+
+<break time="4.8s" />
+
+<lang code="en" />
+practice.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+复习。
+
+<break time="4.8s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+mistake.
+<lang code="zh" />
+这个词的意思是：错误。请跟着说。
+<lang code="en" />
+mistake.
+
+<break time="4.8s" />
+
+<lang code="en" />
+mistake.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：错误。
+
+<break time="3.5s" />
+
+<lang code="en" />
+mistake.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+A mistake can help you learn.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：错误可以帮助你学习。
+
+<lang code="zh" />
+请你说这个英文句子：错误可以帮助你学习。
+
+<break time="5.8s" />
+
+<lang code="en" />
+A mistake can help you learn.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+progress.
+<lang code="zh" />
+这个词的意思是：进步。请跟着说。
+<lang code="en" />
+progress.
+
+<break time="4.8s" />
+
+<lang code="en" />
+progress.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：进步。
+
+<break time="3.5s" />
+
+<lang code="en" />
+progress.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I can see real progress this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个月我能看到真正的进步。
+
+<lang code="zh" />
+请你说这个英文句子：这个月我能看到真正的进步。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can see real progress this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+goal.
+<lang code="zh" />
+这个词的意思是：目标。请跟着说。
+<lang code="en" />
+goal.
+
+<break time="4.8s" />
+
+<lang code="en" />
+goal.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：目标。
+
+<break time="3.5s" />
+
+<lang code="en" />
+goal.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+My goal is to speak English at work.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我的目标是在工作中说英语。
+
+<lang code="zh" />
+请你说这个英文句子：我的目标是在工作中说英语。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My goal is to speak English at work.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+错误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+mistake.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+目标。
+
+<break time="4.8s" />
+
+<lang code="en" />
+goal.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+复习。
+
+<break time="4.8s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：考试前我们复习一下这节课。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Let’s review the lesson before the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：定期练习帮助我说得更清楚。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Regular practice helps me speak more clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这个月我能看到真正的进步。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can see real progress this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我每天努力记住五个新单词。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I try to memorize five new words every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：定期练习和复习帮助我避免同样的错误。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Regular practice and review help me avoid the same mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：我的目标是记单词并稳定进步。
+
+<break time="3.5s" />
+
+<lang code="en" />
+My goal is to memorize words and make steady progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 exam 和 practice。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use exam and practice in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 certification 和 practice。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use certification and practice in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+老师问你的学习目标。请说：我的目标是取得进步。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My goal is to make progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我需要复习，因为考试快到了。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to review because the exam is coming.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：你能给我一个例子来解释这个话题吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Can you give me an example to explain this topic?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：目标。
+
+<break time="3.5s" />
+
+<lang code="en" />
+goal.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我的目标是在工作中说英语。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My goal is to speak English at work.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：复习。
+
+<break time="3.5s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：考试前我们复习一下这节课。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Let’s review the lesson before the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：练习。
+
+<break time="3.5s" />
+
+<lang code="en" />
+practice.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：定期练习帮助我说得更清楚。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Regular practice helps me speak more clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：进步。
+
+<break time="3.5s" />
+
+<lang code="en" />
+progress.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个月我能看到真正的进步。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can see real progress this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：记住，背诵。
+
+<break time="3.5s" />
+
+<lang code="en" />
+memorize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我每天努力记住五个新单词。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I try to memorize five new words every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：错误。
+
+<break time="3.5s" />
+
+<lang code="en" />
+mistake.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：错误可以帮助你学习。
+
+<break time="5.8s" />
+
+<lang code="en" />
+A mistake can help you learn.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 practice。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with practice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 memorize 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to memorize, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 review 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If review is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 mistake。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle mistake in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 progress 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because progress is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 goal 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 exam 和新词 practice 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word exam and the new word practice into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 certification 和新词 memorize 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word certification and the new word memorize into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with practice and memorize.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about review, mistake, and progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about goal.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage education and learning in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 practice 和 memorize 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about practice and memorize in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+My goal is to improve my English through regular practice. I try to memorize useful words and review them often. When I make a mistake, I learn from it and continue making progress.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+练习。
+
+<break time="4.8s" />
+
+<lang code="en" />
+practice.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+记住，背诵。
+
+<break time="4.8s" />
+
+<lang code="en" />
+memorize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+复习。
+
+<break time="4.8s" />
+
+<lang code="en" />
+review.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+错误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+mistake.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+进步。
+
+<break time="4.8s" />
+
+<lang code="en" />
+progress.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+目标。
+
+<break time="4.8s" />
+
+<lang code="en" />
+goal.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：定期练习帮助我说得更清楚。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Regular practice helps me speak more clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：考试前我们复习一下这节课。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Let’s review the lesson before the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我的目标是在工作中说英语。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My goal is to speak English at work.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 16 课结束。下一课会继续复习前面的词，并学习新的实用表达。

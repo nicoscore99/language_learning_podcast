@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 8 课，级别 B1。今天的主题是旅行和交通，重点是
+<lang code="en" />
+Travel problems.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+delay, cancel, miss, platform, connection, refund.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：目的地。
+
+<break time="3.5s" />
+
+<lang code="en" />
+destination.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我们的目的地是海边的一座小城市。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Our destination is a small city by the sea.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：预订。
+
+<break time="3.5s" />
+
+<lang code="en" />
+reservation.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我在网上预订了酒店。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I made a hotel reservation online.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+delay.
+<lang code="zh" />
+这个词的意思是：延误。请跟着说。
+<lang code="en" />
+delay.
+
+<break time="4.8s" />
+
+<lang code="en" />
+delay.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：延误。
+
+<break time="3.5s" />
+
+<lang code="en" />
+delay.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+There is a delay because of bad weather.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：因为天气不好出现了延误。
+
+<lang code="zh" />
+请你说这个英文句子：因为天气不好出现了延误。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a delay because of bad weather.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+cancel.
+<lang code="zh" />
+这个词的意思是：取消。请跟着说。
+<lang code="en" />
+cancel.
+
+<break time="4.8s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：取消。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：他们今晚可能会取消这班火车。
+
+<lang code="zh" />
+请你说这个英文句子：他们今晚可能会取消这班火车。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+miss.
+<lang code="zh" />
+这个词的意思是：错过。请跟着说。
+<lang code="en" />
+miss.
+
+<break time="4.8s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：错过。
+
+<break time="3.5s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我不想错过换乘。
+
+<lang code="zh" />
+请你说这个英文句子：我不想错过换乘。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+取消。
+
+<break time="4.8s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+延误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+delay.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+错过。
+
+<break time="4.8s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+platform.
+<lang code="zh" />
+这个词的意思是：站台，平台。请跟着说。
+<lang code="en" />
+platform.
+
+<break time="4.8s" />
+
+<lang code="en" />
+platform.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：站台，平台。
+
+<break time="3.5s" />
+
+<lang code="en" />
+platform.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Which platform does the train leave from?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这班火车从哪个站台出发？
+
+<lang code="zh" />
+请你说这个英文句子：这班火车从哪个站台出发？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Which platform does the train leave from?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+connection.
+<lang code="zh" />
+这个词的意思是：换乘，连接。请跟着说。
+<lang code="en" />
+connection.
+
+<break time="4.8s" />
+
+<lang code="en" />
+connection.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：换乘，连接。
+
+<break time="3.5s" />
+
+<lang code="en" />
+connection.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+We have a short connection in Zurich.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我们在苏黎世换乘时间很短。
+
+<lang code="zh" />
+请你说这个英文句子：我们在苏黎世换乘时间很短。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We have a short connection in Zurich.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+refund.
+<lang code="zh" />
+这个词的意思是：退款。请跟着说。
+<lang code="en" />
+refund.
+
+<break time="4.8s" />
+
+<lang code="en" />
+refund.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：退款。
+
+<break time="3.5s" />
+
+<lang code="en" />
+refund.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I asked for a refund after the cancellation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：取消以后我申请了退款。
+
+<lang code="zh" />
+请你说这个英文句子：取消以后我申请了退款。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I asked for a refund after the cancellation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+站台，平台。
+
+<break time="4.8s" />
+
+<lang code="en" />
+platform.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+退款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+refund.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+错过。
+
+<break time="4.8s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：我不想错过换乘。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为天气不好出现了延误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is a delay because of bad weather.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我们在苏黎世换乘时间很短。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We have a short connection in Zurich.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：他们今晚可能会取消这班火车。
+
+<break time="4.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：因为延误，我可能会错过换乘。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Because of the delay, I may miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：如果他们取消火车，我会申请退款。
+
+<break time="3.5s" />
+
+<lang code="en" />
+If they cancel the train, I will ask for a refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 itinerary 和 delay。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use itinerary and delay in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 accommodation 和 delay。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use accommodation and delay in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+工作人员问你的问题。请说：我的行程有延误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is a delay in my itinerary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我不想错过换乘。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：如果取消，我想申请退款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If it is cancelled, I would like to ask for a refund.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：退款。
+
+<break time="3.5s" />
+
+<lang code="en" />
+refund.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：取消以后我申请了退款。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I asked for a refund after the cancellation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：错过。
+
+<break time="3.5s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我不想错过换乘。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：延误。
+
+<break time="3.5s" />
+
+<lang code="en" />
+delay.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：因为天气不好出现了延误。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a delay because of bad weather.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：换乘，连接。
+
+<break time="3.5s" />
+
+<lang code="en" />
+connection.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我们在苏黎世换乘时间很短。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We have a short connection in Zurich.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：取消。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：他们今晚可能会取消这班火车。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：站台，平台。
+
+<break time="3.5s" />
+
+<lang code="en" />
+platform.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这班火车从哪个站台出发？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Which platform does the train leave from?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 delay。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with delay.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 cancel 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to cancel, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 miss 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If miss is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 platform。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle platform in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 connection 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because connection is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 refund 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 itinerary 和新词 delay 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word itinerary and the new word delay into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 accommodation 和新词 cancel 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word accommodation and the new word cancel into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with delay and cancel.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about miss, platform, and connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about refund.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage travel and transport in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 delay 和 cancel 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about delay and cancel in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+There is a delay, and I may miss my connection. I need to check the platform and ask if they will cancel the train. If they cancel it, I will ask for a refund.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+延误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+delay.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+取消。
+
+<break time="4.8s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+错过。
+
+<break time="4.8s" />
+
+<lang code="en" />
+miss.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+站台，平台。
+
+<break time="4.8s" />
+
+<lang code="en" />
+platform.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+换乘，连接。
+
+<break time="4.8s" />
+
+<lang code="en" />
+connection.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+退款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+refund.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：因为天气不好出现了延误。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is a delay because of bad weather.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我不想错过换乘。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I do not want to miss my connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：取消以后我申请了退款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I asked for a refund after the cancellation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 8 课结束。下一课会继续复习前面的词，并学习新的实用表达。

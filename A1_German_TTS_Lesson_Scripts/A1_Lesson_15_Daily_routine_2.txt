@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 15. The topic is Daily routine 2. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: arbeiten, lernen, Pause, Schule, Büro, Tag.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to work". "to work" in German is: "arbeiten". You will practise these forms: ich arbeite, du arbeitest.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: Some regular verbs add an extra “e” before the ending, so “arbeiten” becomes “du arbeitest”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Es ist acht Uhr"?
+<break time="5.0s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Guten Abend"?
+<break time="5.0s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich stehe früh auf"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Stehst du spät auf"?
+<break time="5.0s" />
+
+<lang code="de" />
+Stehst du spät auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "arbeiten". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+arbeiten.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "arbeiten".
+<break time="3.5s" />
+
+<lang code="auto" />
+"arbeiten" means "to work". Say "arbeiten" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+arbeiten.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "arbeiten". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich arbeite im Büro."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "lernen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+lernen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "lernen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"lernen" means "to learn". Say "lernen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+lernen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "lernen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Du lernst Deutsch."
+<break time="5.5s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Pause". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Pause".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Pause" means "break". Say "Pause" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Pause". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich mache eine Pause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich mache eine Pause."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich mache eine Pause.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "break" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to learn" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+lernen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to work" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+arbeiten.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Schule". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Schule".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Schule" means "school". Say "Schule" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Schule". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Schule.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Schule."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Schule.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Büro". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Büro.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Büro".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Büro" means "office". Say "Büro" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Büro.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Büro". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Büro."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Büro.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "office" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Büro.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "school" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "break" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "Tag". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Tag.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Tag".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Tag" means "day". Say "Tag" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Tag.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Tag". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Tag.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Tag."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Tag.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "arbeiten". It means "to work". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich arbeite.
+<break time="3.5s" />
+
+<lang code="de" />
+du arbeitest.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich arbeite".
+<break time="4.5s" />
+
+<lang code="de" />
+ich arbeite.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du arbeitest".
+<break time="4.5s" />
+
+<lang code="de" />
+du arbeitest.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich arbeite im Büro."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Du lernst Deutsch."
+<break time="5.5s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich mache eine Pause."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich mache eine Pause.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Stehst du spät auf"
+<break time="5.5s" />
+
+<lang code="de" />
+Stehst du spät auf.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich arbeite im Büro."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Du lernst Deutsch."
+<break time="5.5s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: Some regular verbs add an extra “e” before the ending, so “arbeiten” becomes “du arbeitest”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich arbeite; du arbeitest.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich arbeite im Büro. Du lernst Deutsch. Ich mache eine Pause.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "to work".
+<break time="4.0s" />
+
+<lang code="de" />
+arbeiten.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "to learn".
+<break time="4.0s" />
+
+<lang code="de" />
+lernen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "break".
+<break time="4.0s" />
+
+<lang code="de" />
+Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "school".
+<break time="4.0s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "office".
+<break time="4.0s" />
+
+<lang code="de" />
+Büro.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "day".
+<break time="4.0s" />
+
+<lang code="de" />
+Tag.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "arbeiten", meaning "to work", and the forms: ich arbeite, du arbeitest. Keep repeating the sentences out loud.
+<break time="5.0s" />

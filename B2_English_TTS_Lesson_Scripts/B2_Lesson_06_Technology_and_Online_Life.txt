@@ -1,0 +1,739 @@
+<lang code="zh" />
+欢迎回来。今天是第6课，级别是
+
+<lang code="en" />
+B2
+
+<lang code="zh" />
+主题是科技和网络生活
+
+<lang code="zh" />
+你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
+
+<lang code="zh" />
+今天的六个新英语表达是
+
+<lang code="en" />
+notification algorithm content subscribe influence moderate
+
+<lang code="zh" />
+请放松，但要主动开口。每一次停顿都是你练习的时间。
+
+<lang code="zh" />
+先做前面课程的复习。听中文，说出英语。
+
+<lang code="zh" />
+请说英语，隐私。
+
+<break time="3.5s" />
+
+<lang code="en" />
+privacy
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，密码。
+
+<break time="3.5s" />
+
+<lang code="en" />
+password
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，加密。
+
+<break time="3.5s" />
+
+<lang code="en" />
+encryption
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，访问权限。
+
+<break time="3.5s" />
+
+<lang code="en" />
+access
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+encryption
+
+<lang code="zh" />
+这个词
+
+<break time="5.2s" />
+
+<lang code="en" />
+Encryption helps keep private messages safe.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+access
+
+<lang code="zh" />
+这个词
+
+<break time="5.2s" />
+
+<lang code="en" />
+Only managers should have access to this file.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+account
+
+<lang code="zh" />
+这个词
+
+<break time="5.2s" />
+
+<lang code="en" />
+I created a new account for the learning platform.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在进入新词学习。
+
+<lang code="zh" />
+第1个词
+
+<lang code="en" />
+notification
+
+<lang code="zh" />
+意思是通知。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是通知，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+I turned off the notification because it was distracting.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I turned off the notification because it was distracting.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第2个词
+
+<lang code="en" />
+algorithm
+
+<lang code="zh" />
+意思是算法。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+algorithm
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是算法，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+algorithm
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+The algorithm recommends content based on your activity.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The algorithm recommends content based on your activity.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，算法。
+
+<break time="3.5s" />
+
+<lang code="en" />
+algorithm
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，通知。
+
+<break time="3.5s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，通知。
+
+<break time="3.5s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第3个词
+
+<lang code="en" />
+content
+
+<lang code="zh" />
+意思是内容。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+content
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是内容，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+content
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+The content is useful, but some information is outdated.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The content is useful, but some information is outdated.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第4个词
+
+<lang code="en" />
+subscribe
+
+<lang code="zh" />
+意思是订阅。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+subscribe
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是订阅，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+subscribe
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+I subscribe to a newsletter about technology and business.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I subscribe to a newsletter about technology and business.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，订阅。
+
+<break time="3.5s" />
+
+<lang code="en" />
+subscribe
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，内容。
+
+<break time="3.5s" />
+
+<lang code="en" />
+content
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，通知。
+
+<break time="3.5s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第5个词
+
+<lang code="en" />
+influence
+
+<lang code="zh" />
+意思是影响。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+influence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是影响，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+influence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+Online reviews can influence what people buy.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Online reviews can influence what people buy.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第6个词
+
+<lang code="en" />
+moderate
+
+<lang code="zh" />
+意思是审核，管理。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+moderate
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是审核，管理，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+moderate
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+The platform needs to moderate comments more carefully.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The platform needs to moderate comments more carefully.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，审核，管理。
+
+<break time="3.5s" />
+
+<lang code="en" />
+moderate
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，影响。
+
+<break time="3.5s" />
+
+<lang code="en" />
+influence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，通知。
+
+<break time="3.5s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在把今天的词组合起来练习。
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+
+<break time="6.5s" />
+
+<lang code="en" />
+From my perspective, the notification is influence but not completely subscribe.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
+
+<break time="6.5s" />
+
+<lang code="en" />
+We should discuss the content before we make a final decision about the algorithm.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+
+<break time="6.5s" />
+
+<lang code="en" />
+This situation shows why moderate can change the way people understand the issue.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I can connect privacy with notification because both ideas affect the final decision.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+下面是一个简短对话。请根据中文提示，用英语回答。
+
+<lang code="zh" />
+你想说，最重要的一点是今天的第一个词。
+
+<break time="5.2s" />
+
+<lang code="en" />
+I think the most important point is the notification.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你想礼貌地要求对方进一步解释他的观点。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Can you explain your algorithm in a little more detail?
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你想说明，你的主要理由和第三个词有关。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Yes. My main reason is that the content affects the result.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你觉得对方说得合理，但还需要更多信息。
+
+<break time="5.2s" />
+
+<lang code="en" />
+That sounds influence, but I still need more information.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做
+
+<lang code="en" />
+B2
+
+<lang code="zh" />
+级别的问答练习。答案要自然，但不要太复杂
+
+<lang code="zh" />
+为什么这个问题重要？
+
+<break time="6.5s" />
+
+<lang code="en" />
+It is important because it affects decisions, trust, and the way people understand the situation.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请解释一下这个情况。
+
+<break time="8.0s" />
+
+<lang code="en" />
+The situation is not simple. There are different views, and each side has a reason for its position.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+下一步你会怎么做？
+
+<break time="6.5s" />
+
+<lang code="en" />
+I would ask for more information, compare the options, and then explain my decision clearly.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你怎样让自己的回答更有说服力？
+
+<break time="6.5s" />
+
+<lang code="en" />
+I would use clear examples, avoid extreme language, and acknowledge another perspective.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
+
+<break time="10.0s" />
+
+<lang code="en" />
+From my perspective, this topic needs careful discussion. The main notification may sound influence, but we should examine the content behind it. A subscribe explanation uses examples and respects other views. If the information is moderate, people may reach the wrong conclusion, so I would ask for a balanced discussion.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+最后复习今天的六个新词。听中文，说英语。
+
+<lang code="zh" />
+内容。
+
+<break time="4.0s" />
+
+<lang code="en" />
+content
+
+<break time="1.5s" />
+
+<lang code="zh" />
+通知。
+
+<break time="4.0s" />
+
+<lang code="en" />
+notification
+
+<break time="1.5s" />
+
+<lang code="zh" />
+审核，管理。
+
+<break time="4.0s" />
+
+<lang code="en" />
+moderate
+
+<break time="1.5s" />
+
+<lang code="zh" />
+算法。
+
+<break time="4.0s" />
+
+<lang code="en" />
+algorithm
+
+<break time="1.5s" />
+
+<lang code="zh" />
+影响。
+
+<break time="4.0s" />
+
+<lang code="en" />
+influence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+订阅。
+
+<break time="4.0s" />
+
+<lang code="en" />
+subscribe
+
+<break time="1.5s" />
+
+<lang code="zh" />
+最后复习三个关键句。
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+notification
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+I turned off the notification because it was distracting.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+subscribe
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+I subscribe to a newsletter about technology and business.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+influence
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+Online reviews can influence what people buy.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。

@@ -1,0 +1,495 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 13. The topic is Time of day. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Morgen, Nachmittag, Abend, Nacht, Uhr, jetzt.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to be". "to be" in German is: "sein". You will practise these forms: es ist, es ist spät, es ist früh.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: To talk about the time, German uses “es ist”: “Es ist acht Uhr.”
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich trinke Wasser"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich trinke Wasser.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Trinkst du Kaffee"?
+<break time="5.0s" />
+
+<lang code="de" />
+Trinkst du Kaffee.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich esse Frühstück"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich esse Frühstück.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Was isst du heute"?
+<break time="5.0s" />
+
+<lang code="de" />
+Was isst du heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Morgen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Morgen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Morgen" means "morning". Say "Morgen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Morgen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Es ist acht Uhr."
+<break time="5.5s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Nachmittag". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Nachmittag.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Nachmittag".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Nachmittag" means "afternoon". Say "Nachmittag" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Nachmittag.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Nachmittag". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Guten Abend."
+<break time="5.5s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Abend". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Abend.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Abend".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Abend" means "evening". Say "Abend" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Abend.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Abend". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Jetzt ist es spät.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Jetzt ist es spät."
+<break time="5.5s" />
+
+<lang code="de" />
+Jetzt ist es spät.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "evening" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Abend.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "afternoon" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Nachmittag.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "morning" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Nacht". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Nacht.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Nacht".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Nacht" means "night". Say "Nacht" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Nacht.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Nacht". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Nacht.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Nacht."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Nacht.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Uhr". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Uhr.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Uhr".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Uhr" means "o’clock or hour". Say "Uhr" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Uhr.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Uhr". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Uhr."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Uhr.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "o’clock or hour" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Uhr.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "night" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Nacht.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "evening" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Abend.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "jetzt". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+jetzt.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "jetzt".
+<break time="3.5s" />
+
+<lang code="auto" />
+"jetzt" means "now". Say "jetzt" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+jetzt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "jetzt". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage jetzt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage jetzt."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage jetzt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "sein". It means "to be". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+es ist.
+<break time="3.5s" />
+
+<lang code="de" />
+es ist spät.
+<break time="3.5s" />
+
+<lang code="de" />
+es ist früh.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "es ist".
+<break time="4.5s" />
+
+<lang code="de" />
+es ist.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "es ist spät".
+<break time="4.5s" />
+
+<lang code="de" />
+es ist spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "es ist früh".
+<break time="4.5s" />
+
+<lang code="de" />
+es ist früh.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Es ist acht Uhr."
+<break time="5.5s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Guten Abend."
+<break time="5.5s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Jetzt ist es spät."
+<break time="5.5s" />
+
+<lang code="de" />
+Jetzt ist es spät.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Was isst du heute"
+<break time="5.5s" />
+
+<lang code="de" />
+Was isst du heute.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Es ist acht Uhr."
+<break time="5.5s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Guten Abend."
+<break time="5.5s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: To talk about the time, German uses “es ist”: “Es ist acht Uhr.” Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+es ist; es ist spät; es ist früh.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Es ist acht Uhr. Guten Abend. Jetzt ist es spät.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "morning".
+<break time="4.0s" />
+
+<lang code="de" />
+Morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "afternoon".
+<break time="4.0s" />
+
+<lang code="de" />
+Nachmittag.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "evening".
+<break time="4.0s" />
+
+<lang code="de" />
+Abend.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "night".
+<break time="4.0s" />
+
+<lang code="de" />
+Nacht.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "o’clock or hour".
+<break time="4.0s" />
+
+<lang code="de" />
+Uhr.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "now".
+<break time="4.0s" />
+
+<lang code="de" />
+jetzt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "sein", meaning "to be", and the forms: es ist, es ist spät, es ist früh. Keep repeating the sentences out loud.
+<break time="5.0s" />

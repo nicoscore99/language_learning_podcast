@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 4. The topic is Where you live. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: wohnen, Stadt, Dorf, hier, dort, Adresse.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to live". "to live" in German is: "wohnen". You will practise these forms: ich wohne, du wohnst.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: In a normal German statement, the conjugated verb usually comes in the second position.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich heiße Anna"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Wie heißt du"?
+<break time="5.0s" />
+
+<lang code="de" />
+Wie heißt du.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich komme aus Deutschland"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich komme aus Deutschland.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Woher kommst du"?
+<break time="5.0s" />
+
+<lang code="de" />
+Woher kommst du.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "wohnen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+wohnen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "wohnen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"wohnen" means "to live". Say "wohnen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+wohnen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "wohnen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich wohne hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich wohne hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich wohne hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Stadt". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Stadt.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Stadt".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Stadt" means "city". Say "Stadt" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Stadt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Stadt". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Du wohnst in einer Stadt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Du wohnst in einer Stadt."
+<break time="5.5s" />
+
+<lang code="de" />
+Du wohnst in einer Stadt.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Dorf". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Dorf.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Dorf".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Dorf" means "village". Say "Dorf" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Dorf.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Dorf". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich wohne in einem Dorf.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich wohne in einem Dorf."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich wohne in einem Dorf.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "village" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Dorf.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "city" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Stadt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to live" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+wohnen.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "hier". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+hier.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "hier".
+<break time="3.5s" />
+
+<lang code="auto" />
+"hier" means "here". Say "hier" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+hier.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "hier". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "dort". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+dort.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "dort".
+<break time="3.5s" />
+
+<lang code="auto" />
+"dort" means "there". Say "dort" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+dort.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "dort". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage dort.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage dort."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage dort.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "there" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+dort.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "here" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+hier.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "village" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Dorf.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "Adresse". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Adresse.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Adresse".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Adresse" means "address". Say "Adresse" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Adresse.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Adresse". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Adresse.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Adresse."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Adresse.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "wohnen". It means "to live". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich wohne.
+<break time="3.5s" />
+
+<lang code="de" />
+du wohnst.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich wohne".
+<break time="4.5s" />
+
+<lang code="de" />
+ich wohne.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du wohnst".
+<break time="4.5s" />
+
+<lang code="de" />
+du wohnst.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich wohne hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich wohne hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Du wohnst in einer Stadt."
+<break time="5.5s" />
+
+<lang code="de" />
+Du wohnst in einer Stadt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich wohne in einem Dorf."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich wohne in einem Dorf.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Woher kommst du"
+<break time="5.5s" />
+
+<lang code="de" />
+Woher kommst du.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich wohne hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich wohne hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Du wohnst in einer Stadt."
+<break time="5.5s" />
+
+<lang code="de" />
+Du wohnst in einer Stadt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: In a normal German statement, the conjugated verb usually comes in the second position. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich wohne; du wohnst.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich wohne hier. Du wohnst in einer Stadt. Ich wohne in einem Dorf.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "to live".
+<break time="4.0s" />
+
+<lang code="de" />
+wohnen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "city".
+<break time="4.0s" />
+
+<lang code="de" />
+Stadt.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "village".
+<break time="4.0s" />
+
+<lang code="de" />
+Dorf.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "here".
+<break time="4.0s" />
+
+<lang code="de" />
+hier.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "there".
+<break time="4.0s" />
+
+<lang code="de" />
+dort.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "address".
+<break time="4.0s" />
+
+<lang code="de" />
+Adresse.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "wohnen", meaning "to live", and the forms: ich wohne, du wohnst. Keep repeating the sentences out loud.
+<break time="5.0s" />

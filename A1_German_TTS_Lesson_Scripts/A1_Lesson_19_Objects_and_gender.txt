@@ -1,0 +1,495 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 19. The topic is Objects and gender. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Tisch, Stuhl, Tasche, Handy, Buch, haben.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to have". "to have" in German is: "haben". You will practise these forms: ich habe einen, ich habe eine, ich habe ein.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: German nouns have gender. Use “einen” for many masculine objects, “eine” for feminine objects, and “ein” for neuter objects after “haben”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich fahre mit dem Bus"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Fährst du mit dem Zug"?
+<break time="5.0s" />
+
+<lang code="de" />
+Fährst du mit dem Zug.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich kaufe Brot"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich kaufe Brot.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Der Preis ist gut"?
+<break time="5.0s" />
+
+<lang code="de" />
+Der Preis ist gut.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Tisch". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Tisch.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Tisch".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Tisch" means "table". Say "Tisch" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Tisch.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Tisch". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich habe einen Tisch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich habe einen Tisch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe einen Tisch.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Stuhl". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Stuhl.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Stuhl".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Stuhl" means "chair". Say "Stuhl" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Stuhl.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Stuhl". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich habe eine Tasche.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich habe eine Tasche."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe eine Tasche.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Tasche". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Tasche.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Tasche".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Tasche" means "bag". Say "Tasche" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Tasche.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Tasche". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich habe ein Buch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich habe ein Buch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe ein Buch.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "bag" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Tasche.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "chair" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Stuhl.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "table" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Tisch.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Handy". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Handy.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Handy".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Handy" means "mobile phone". Say "Handy" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Handy.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Handy". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Handy.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Handy."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Handy.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Buch". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Buch.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Buch".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Buch" means "book". Say "Buch" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Buch.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Buch". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Buch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Buch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Buch.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "book" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Buch.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "mobile phone" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Handy.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "bag" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Tasche.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "haben". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+haben.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "haben".
+<break time="3.5s" />
+
+<lang code="auto" />
+"haben" means "to have". Say "haben" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+haben.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "haben". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage haben.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage haben."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage haben.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "haben". It means "to have". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich habe einen.
+<break time="3.5s" />
+
+<lang code="de" />
+ich habe eine.
+<break time="3.5s" />
+
+<lang code="de" />
+ich habe ein.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich habe einen".
+<break time="4.5s" />
+
+<lang code="de" />
+ich habe einen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich habe eine".
+<break time="4.5s" />
+
+<lang code="de" />
+ich habe eine.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich habe ein".
+<break time="4.5s" />
+
+<lang code="de" />
+ich habe ein.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich habe einen Tisch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe einen Tisch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich habe eine Tasche."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe eine Tasche.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich habe ein Buch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe ein Buch.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Der Preis ist gut"
+<break time="5.5s" />
+
+<lang code="de" />
+Der Preis ist gut.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich habe einen Tisch."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe einen Tisch.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Ich habe eine Tasche."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich habe eine Tasche.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: German nouns have gender. Use “einen” for many masculine objects, “eine” for feminine objects, and “ein” for neuter objects after “haben”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich habe einen; ich habe eine; ich habe ein.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich habe einen Tisch. Ich habe eine Tasche. Ich habe ein Buch.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "table".
+<break time="4.0s" />
+
+<lang code="de" />
+Tisch.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "chair".
+<break time="4.0s" />
+
+<lang code="de" />
+Stuhl.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "bag".
+<break time="4.0s" />
+
+<lang code="de" />
+Tasche.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "mobile phone".
+<break time="4.0s" />
+
+<lang code="de" />
+Handy.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "book".
+<break time="4.0s" />
+
+<lang code="de" />
+Buch.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "to have".
+<break time="4.0s" />
+
+<lang code="de" />
+haben.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "haben", meaning "to have", and the forms: ich habe einen, ich habe eine, ich habe ein. Keep repeating the sentences out loud.
+<break time="5.0s" />

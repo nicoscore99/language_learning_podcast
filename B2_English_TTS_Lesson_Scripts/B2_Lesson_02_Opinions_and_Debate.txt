@@ -1,0 +1,739 @@
+<lang code="zh" />
+欢迎回来。今天是第2课，级别是
+
+<lang code="en" />
+B2
+
+<lang code="zh" />
+主题是观点和辩论
+
+<lang code="zh" />
+你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
+
+<lang code="zh" />
+今天的六个新英语表达是
+
+<lang code="en" />
+evidence argument support counterargument justify conclude
+
+<lang code="zh" />
+请放松，但要主动开口。每一次停顿都是你练习的时间。
+
+<lang code="zh" />
+先做前面课程的复习。听中文，说出英语。
+
+<lang code="zh" />
+请说英语，主张，声称。
+
+<break time="3.5s" />
+
+<lang code="en" />
+claim
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，观点，角度。
+
+<break time="3.5s" />
+
+<lang code="en" />
+perspective
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，假设。
+
+<break time="3.5s" />
+
+<lang code="en" />
+assumption
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，有说服力的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+convincing
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+assumption
+
+<lang code="zh" />
+这个词
+
+<break time="5.2s" />
+
+<lang code="en" />
+That assumption may be wrong if the data changes.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+convincing
+
+<lang code="zh" />
+这个词
+
+<break time="5.2s" />
+
+<lang code="en" />
+Her explanation was convincing because she used real examples.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请用英语说一个上一课的关键句，使用
+
+<lang code="en" />
+reasonable
+
+<lang code="zh" />
+这个词
+
+<break time="6.5s" />
+
+<lang code="en" />
+It is reasonable to ask for more time before deciding.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在进入新词学习。
+
+<lang code="zh" />
+第1个词
+
+<lang code="en" />
+evidence
+
+<lang code="zh" />
+意思是证据。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是证据，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+We need evidence before we accept this conclusion.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+We need evidence before we accept this conclusion.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第2个词
+
+<lang code="en" />
+argument
+
+<lang code="zh" />
+意思是论点，论证。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+argument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是论点，论证，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+argument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+His argument is logical, but it is not complete.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+His argument is logical, but it is not complete.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，论点，论证。
+
+<break time="3.5s" />
+
+<lang code="en" />
+argument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，证据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，证据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第3个词
+
+<lang code="en" />
+support
+
+<lang code="zh" />
+意思是支持。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+support
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是支持，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+support
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+Can you support your opinion with one clear example?
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Can you support your opinion with one clear example?
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第4个词
+
+<lang code="en" />
+counterargument
+
+<lang code="zh" />
+意思是反驳观点。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+counterargument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是反驳观点，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+counterargument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+A strong counterargument can make the discussion more balanced.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+A strong counterargument can make the discussion more balanced.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，反驳观点。
+
+<break time="3.5s" />
+
+<lang code="en" />
+counterargument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，支持。
+
+<break time="3.5s" />
+
+<lang code="en" />
+support
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，证据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第5个词
+
+<lang code="en" />
+justify
+
+<lang code="zh" />
+意思是证明有道理。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+justify
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是证明有道理，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+justify
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+You should justify the decision with facts, not feelings.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+You should justify the decision with facts, not feelings.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+第6个词
+
+<lang code="en" />
+conclude
+
+<lang code="zh" />
+意思是总结，得出结论。请跟读
+
+<break time="2.8s" />
+
+<lang code="en" />
+conclude
+
+<break time="1.5s" />
+
+<lang code="zh" />
+中文是总结，得出结论，英语怎么说？
+
+<break time="3.5s" />
+
+<lang code="en" />
+conclude
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在听一个例句
+
+<lang code="en" />
+I would conclude that the idea is possible but risky.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I would conclude that the idea is possible but risky.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做一个小复习，顺序会打乱。
+
+<lang code="zh" />
+请说英语，总结，得出结论。
+
+<break time="3.5s" />
+
+<lang code="en" />
+conclude
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，证明有道理。
+
+<break time="3.5s" />
+
+<lang code="en" />
+justify
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说英语，证据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在把今天的词组合起来练习。
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+
+<break time="6.5s" />
+
+<lang code="en" />
+From my perspective, the evidence is justify but not completely counterargument.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
+
+<break time="6.5s" />
+
+<lang code="en" />
+We should discuss the support before we make a final decision about the argument.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+
+<break time="6.5s" />
+
+<lang code="en" />
+This situation shows why conclude can change the way people understand the issue.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I can connect claim with evidence because both ideas affect the final decision.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+下面是一个简短对话。请根据中文提示，用英语回答。
+
+<lang code="zh" />
+你想说，最重要的一点是今天的第一个词。
+
+<break time="5.2s" />
+
+<lang code="en" />
+I think the most important point is the evidence.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你想礼貌地要求对方进一步解释他的观点。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Can you explain your argument in a little more detail?
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你想说明，你的主要理由和第三个词有关。
+
+<break time="6.5s" />
+
+<lang code="en" />
+Yes. My main reason is that the support affects the result.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你觉得对方说得合理，但还需要更多信息。
+
+<break time="5.2s" />
+
+<lang code="en" />
+That sounds justify, but I still need more information.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在做
+
+<lang code="en" />
+B2
+
+<lang code="zh" />
+级别的问答练习。答案要自然，但不要太复杂
+
+<lang code="zh" />
+为什么这个问题重要？
+
+<break time="6.5s" />
+
+<lang code="en" />
+It is important because it affects decisions, trust, and the way people understand the situation.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请解释一下这个情况。
+
+<break time="8.0s" />
+
+<lang code="en" />
+The situation is not simple. There are different views, and each side has a reason for its position.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+下一步你会怎么做？
+
+<break time="6.5s" />
+
+<lang code="en" />
+I would ask for more information, compare the options, and then explain my decision clearly.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+你怎样让自己的回答更有说服力？
+
+<break time="6.5s" />
+
+<lang code="en" />
+I would use clear examples, avoid extreme language, and acknowledge another perspective.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
+
+<break time="10.0s" />
+
+<lang code="en" />
+From my perspective, this topic needs careful discussion. The main evidence may sound justify, but we should examine the support behind it. A counterargument explanation uses examples and respects other views. If the information is conclude, people may reach the wrong conclusion, so I would ask for a balanced discussion.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+最后复习今天的六个新词。听中文，说英语。
+
+<lang code="zh" />
+支持。
+
+<break time="4.0s" />
+
+<lang code="en" />
+support
+
+<break time="1.5s" />
+
+<lang code="zh" />
+证据。
+
+<break time="4.0s" />
+
+<lang code="en" />
+evidence
+
+<break time="1.5s" />
+
+<lang code="zh" />
+总结，得出结论。
+
+<break time="4.0s" />
+
+<lang code="en" />
+conclude
+
+<break time="1.5s" />
+
+<lang code="zh" />
+论点，论证。
+
+<break time="4.0s" />
+
+<lang code="en" />
+argument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+证明有道理。
+
+<break time="4.0s" />
+
+<lang code="en" />
+justify
+
+<break time="1.5s" />
+
+<lang code="zh" />
+反驳观点。
+
+<break time="4.0s" />
+
+<lang code="en" />
+counterargument
+
+<break time="1.5s" />
+
+<lang code="zh" />
+最后复习三个关键句。
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+evidence
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+We need evidence before we accept this conclusion.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+counterargument
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+A strong counterargument can make the discussion more balanced.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+请再说一次含有
+
+<lang code="en" />
+justify
+
+<lang code="zh" />
+的关键句
+
+<break time="5.2s" />
+
+<lang code="en" />
+You should justify the decision with facts, not feelings.
+
+<break time="1.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。

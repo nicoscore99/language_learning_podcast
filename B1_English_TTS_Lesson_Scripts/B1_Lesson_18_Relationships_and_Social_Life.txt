@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 18 课，级别 B1。今天的主题是关系和社交生活，重点是
+<lang code="en" />
+Making plans.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+invite, accept, refuse, arrange, cancel, suggest.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+question.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：关于这个话题我有一个问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I have a question about the topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：回答，答案。
+
+<break time="3.5s" />
+
+<lang code="en" />
+answer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：请给出清楚的回答。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Please give a clear answer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+invite.
+<lang code="zh" />
+这个词的意思是：邀请。请跟着说。
+<lang code="en" />
+invite.
+
+<break time="4.8s" />
+
+<lang code="en" />
+invite.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：邀请。
+
+<break time="3.5s" />
+
+<lang code="en" />
+invite.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I want to invite my colleague to dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我想邀请我的同事吃晚饭。
+
+<lang code="zh" />
+请你说这个英文句子：我想邀请我的同事吃晚饭。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I want to invite my colleague to dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+accept.
+<lang code="zh" />
+这个词的意思是：接受。请跟着说。
+<lang code="en" />
+accept.
+
+<break time="4.8s" />
+
+<lang code="en" />
+accept.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：接受。
+
+<break time="3.5s" />
+
+<lang code="en" />
+accept.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+She decided to accept the invitation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：她决定接受邀请。
+
+<lang code="zh" />
+请你说这个英文句子：她决定接受邀请。
+
+<break time="5.8s" />
+
+<lang code="en" />
+She decided to accept the invitation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+refuse.
+<lang code="zh" />
+这个词的意思是：拒绝。请跟着说。
+<lang code="en" />
+refuse.
+
+<break time="4.8s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：拒绝。
+
+<break time="3.5s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+It is okay to refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：礼貌地拒绝是可以的。
+
+<lang code="zh" />
+请你说这个英文句子：礼貌地拒绝是可以的。
+
+<break time="5.8s" />
+
+<lang code="en" />
+It is okay to refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+接受。
+
+<break time="4.8s" />
+
+<lang code="en" />
+accept.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+邀请。
+
+<break time="4.8s" />
+
+<lang code="en" />
+invite.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+拒绝。
+
+<break time="4.8s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+arrange.
+<lang code="zh" />
+这个词的意思是：安排。请跟着说。
+<lang code="en" />
+arrange.
+
+<break time="4.8s" />
+
+<lang code="en" />
+arrange.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：安排。
+
+<break time="3.5s" />
+
+<lang code="en" />
+arrange.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Let’s arrange a time for coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我们安排一个喝咖啡的时间吧。
+
+<lang code="zh" />
+请你说这个英文句子：我们安排一个喝咖啡的时间吧。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Let’s arrange a time for coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+cancel.
+<lang code="zh" />
+这个词的意思是：取消。请跟着说。
+<lang code="en" />
+cancel.
+
+<break time="4.8s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：取消。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：他们今晚可能会取消这班火车。
+
+<lang code="zh" />
+请你说这个英文句子：他们今晚可能会取消这班火车。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+suggest.
+<lang code="zh" />
+这个词的意思是：建议。请跟着说。
+<lang code="en" />
+suggest.
+
+<break time="4.8s" />
+
+<lang code="en" />
+suggest.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：建议。
+
+<break time="3.5s" />
+
+<lang code="en" />
+suggest.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Can you suggest a good restaurant?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：你能推荐一家好餐厅吗？
+
+<lang code="zh" />
+请你说这个英文句子：你能推荐一家好餐厅吗？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Can you suggest a good restaurant?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+安排。
+
+<break time="4.8s" />
+
+<lang code="en" />
+arrange.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+建议。
+
+<break time="4.8s" />
+
+<lang code="en" />
+suggest.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+拒绝。
+
+<break time="4.8s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：礼貌地拒绝是可以的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is okay to refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我想邀请我的同事吃晚饭。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I want to invite my colleague to dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：他们今晚可能会取消这班火车。
+
+<break time="4.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：她决定接受邀请。
+
+<break time="4.8s" />
+
+<lang code="en" />
+She decided to accept the invitation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：我想邀请你，但你可以礼貌拒绝。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I want to invite you, but you can refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：我们安排一个时间，并建议一个地点吧。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Let’s arrange a time and suggest a place.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 topic 和 invite。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use topic and invite in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 discussion 和 invite。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use discussion and invite in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+朋友邀请你。请说：谢谢你邀请我，我很高兴接受。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Thank you for inviting me. I am happy to accept.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：如果我犯错，我会道歉。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If I make a mistake, I will apologize.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：信任和支持对友谊很重要。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Trust and support are important in friendship.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：建议。
+
+<break time="3.5s" />
+
+<lang code="en" />
+suggest.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：你能推荐一家好餐厅吗？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Can you suggest a good restaurant?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：拒绝。
+
+<break time="3.5s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：礼貌地拒绝是可以的。
+
+<break time="5.8s" />
+
+<lang code="en" />
+It is okay to refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：邀请。
+
+<break time="3.5s" />
+
+<lang code="en" />
+invite.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我想邀请我的同事吃晚饭。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I want to invite my colleague to dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：取消。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：他们今晚可能会取消这班火车。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They may cancel the train tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：接受。
+
+<break time="3.5s" />
+
+<lang code="en" />
+accept.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：她决定接受邀请。
+
+<break time="5.8s" />
+
+<lang code="en" />
+She decided to accept the invitation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：安排。
+
+<break time="3.5s" />
+
+<lang code="en" />
+arrange.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我们安排一个喝咖啡的时间吧。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Let’s arrange a time for coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 invite。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with invite.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 accept 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to accept, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 refuse 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If refuse is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 arrange。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle arrange in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 cancel 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because cancel is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 suggest 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about suggest.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 topic 和新词 invite 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word topic and the new word invite into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 discussion 和新词 accept 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word discussion and the new word accept into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with invite and accept.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about refuse, arrange, and cancel.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about suggest.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage relationships and social life in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 invite 和 accept 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about invite and accept in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+I want to invite my friends to dinner. Some people may accept, and others may refuse because they are busy. I will arrange a time and suggest a quiet restaurant.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+邀请。
+
+<break time="4.8s" />
+
+<lang code="en" />
+invite.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+接受。
+
+<break time="4.8s" />
+
+<lang code="en" />
+accept.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+拒绝。
+
+<break time="4.8s" />
+
+<lang code="en" />
+refuse.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+安排。
+
+<break time="4.8s" />
+
+<lang code="en" />
+arrange.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+取消。
+
+<break time="4.8s" />
+
+<lang code="en" />
+cancel.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+建议。
+
+<break time="4.8s" />
+
+<lang code="en" />
+suggest.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我想邀请我的同事吃晚饭。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I want to invite my colleague to dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：礼貌地拒绝是可以的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is okay to refuse politely.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：你能推荐一家好餐厅吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Can you suggest a good restaurant?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 18 课结束。下一课会继续复习前面的词，并学习新的实用表达。

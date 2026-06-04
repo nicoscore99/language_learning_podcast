@@ -1,0 +1,515 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 21. The topic is Daily activities: what I do and what I did. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Hausaufgaben, Sport, eine Pause, Kaffee, gestern, machen.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to do or to make". "to do or to make" in German is: "machen". You will practise these forms: ich mache, du machst, er macht, sie macht, wir machen, ich habe gemacht.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: A first simple past pattern is “ich habe gemacht”. It means “I did” or “I have done”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich habe einen Tisch"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich habe einen Tisch.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich habe eine Tasche"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich habe eine Tasche.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich mag Musik"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich mag Musik.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Magst du Filme"?
+<break time="5.0s" />
+
+<lang code="de" />
+Magst du Filme.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Hausaufgaben". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Hausaufgaben.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Hausaufgaben".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Hausaufgaben" means "homework". Say "Hausaufgaben" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Hausaufgaben.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Hausaufgaben". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich mache Hausaufgaben.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich mache Hausaufgaben."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich mache Hausaufgaben.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Sport". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Sport.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Sport".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Sport" means "sport or exercise". Say "Sport" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Sport.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Sport". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Wir machen eine Pause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Wir machen eine Pause."
+<break time="5.5s" />
+
+<lang code="de" />
+Wir machen eine Pause.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "eine Pause". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+eine Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "eine Pause".
+<break time="3.5s" />
+
+<lang code="auto" />
+"eine Pause" means "a break". Say "eine Pause" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+eine Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "eine Pause". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Gestern habe ich Sport gemacht.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Gestern habe ich Sport gemacht."
+<break time="5.5s" />
+
+<lang code="de" />
+Gestern habe ich Sport gemacht.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "a break" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+eine Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "sport or exercise" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Sport.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "homework" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Hausaufgaben.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Kaffee". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Kaffee.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Kaffee".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Kaffee" means "coffee". Say "Kaffee" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Kaffee.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Kaffee". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Kaffee.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Kaffee."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Kaffee.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "gestern". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+gestern.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "gestern".
+<break time="3.5s" />
+
+<lang code="auto" />
+"gestern" means "yesterday". Say "gestern" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+gestern.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "gestern". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage gestern.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage gestern."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage gestern.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "yesterday" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+gestern.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "coffee" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Kaffee.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "a break" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+eine Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "machen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+machen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "machen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"machen" means "to do or to make". Say "machen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+machen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "machen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage machen.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage machen."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage machen.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "machen". It means "to do or to make". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich mache.
+<break time="3.5s" />
+
+<lang code="de" />
+du machst.
+<break time="3.5s" />
+
+<lang code="de" />
+er macht.
+<break time="3.5s" />
+
+<lang code="de" />
+sie macht.
+<break time="3.5s" />
+
+<lang code="de" />
+wir machen.
+<break time="3.5s" />
+
+<lang code="de" />
+ich habe gemacht.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich mache".
+<break time="4.5s" />
+
+<lang code="de" />
+ich mache.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du machst".
+<break time="4.5s" />
+
+<lang code="de" />
+du machst.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "er macht".
+<break time="4.5s" />
+
+<lang code="de" />
+er macht.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "sie macht".
+<break time="4.5s" />
+
+<lang code="de" />
+sie macht.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich mache Hausaufgaben."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich mache Hausaufgaben.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Wir machen eine Pause."
+<break time="5.5s" />
+
+<lang code="de" />
+Wir machen eine Pause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Gestern habe ich Sport gemacht."
+<break time="5.5s" />
+
+<lang code="de" />
+Gestern habe ich Sport gemacht.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Magst du Filme"
+<break time="5.5s" />
+
+<lang code="de" />
+Magst du Filme.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich mache Hausaufgaben."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich mache Hausaufgaben.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Wir machen eine Pause."
+<break time="5.5s" />
+
+<lang code="de" />
+Wir machen eine Pause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: A first simple past pattern is “ich habe gemacht”. It means “I did” or “I have done”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich mache; du machst; er macht.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich mache Hausaufgaben. Wir machen eine Pause. Gestern habe ich Sport gemacht.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "homework".
+<break time="4.0s" />
+
+<lang code="de" />
+Hausaufgaben.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "sport or exercise".
+<break time="4.0s" />
+
+<lang code="de" />
+Sport.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "a break".
+<break time="4.0s" />
+
+<lang code="de" />
+eine Pause.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "coffee".
+<break time="4.0s" />
+
+<lang code="de" />
+Kaffee.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "yesterday".
+<break time="4.0s" />
+
+<lang code="de" />
+gestern.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "to do or to make".
+<break time="4.0s" />
+
+<lang code="de" />
+machen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "machen", meaning "to do or to make", and the forms: ich mache, du machst, er macht, sie macht, wir machen, ich habe gemacht. Keep repeating the sentences out loud.
+<break time="5.0s" />

@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 3. The topic is Where you come from. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Deutschland, Schweiz, Österreich, aus, woher, kommen.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to come". "to come" in German is: "kommen". You will practise these forms: ich komme, du kommst.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: Use “aus” to say where someone comes from: “Ich komme aus Deutschland.”
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Hallo, ich bin Anna"?
+<break time="5.0s" />
+
+<lang code="de" />
+Hallo, ich bin Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Guten Morgen, du bist Max"?
+<break time="5.0s" />
+
+<lang code="de" />
+Guten Morgen, du bist Max.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich heiße Anna"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Wie heißt du"?
+<break time="5.0s" />
+
+<lang code="de" />
+Wie heißt du.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Deutschland". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Deutschland.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Deutschland".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Deutschland" means "Germany". Say "Deutschland" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Deutschland.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Deutschland". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich komme aus Deutschland.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich komme aus Deutschland."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich komme aus Deutschland.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Schweiz". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Schweiz.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Schweiz".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Schweiz" means "Switzerland". Say "Schweiz" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Schweiz.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Schweiz". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Woher kommst du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Woher kommst du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Woher kommst du?
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Österreich". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Österreich.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Österreich".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Österreich" means "Austria". Say "Österreich" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Österreich.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Österreich". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Du kommst aus der Schweiz.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Du kommst aus der Schweiz."
+<break time="5.5s" />
+
+<lang code="de" />
+Du kommst aus der Schweiz.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "Austria" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Österreich.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "Switzerland" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Schweiz.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "Germany" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Deutschland.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "aus". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+aus.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "aus".
+<break time="3.5s" />
+
+<lang code="auto" />
+"aus" means "from". Say "aus" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+aus.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "aus". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage aus.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage aus."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage aus.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "woher". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+woher.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "woher".
+<break time="3.5s" />
+
+<lang code="auto" />
+"woher" means "from where". Say "woher" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+woher.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "woher". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage woher.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage woher."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage woher.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "from where" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+woher.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "from" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+aus.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "Austria" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Österreich.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "kommen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+kommen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "kommen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"kommen" means "to come". Say "kommen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+kommen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "kommen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage kommen.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage kommen."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage kommen.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "kommen". It means "to come". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich komme.
+<break time="3.5s" />
+
+<lang code="de" />
+du kommst.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich komme".
+<break time="4.5s" />
+
+<lang code="de" />
+ich komme.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du kommst".
+<break time="4.5s" />
+
+<lang code="de" />
+du kommst.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich komme aus Deutschland."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich komme aus Deutschland.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Woher kommst du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Woher kommst du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Du kommst aus der Schweiz."
+<break time="5.5s" />
+
+<lang code="de" />
+Du kommst aus der Schweiz.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Wie heißt du"
+<break time="5.5s" />
+
+<lang code="de" />
+Wie heißt du.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich komme aus Deutschland."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich komme aus Deutschland.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Woher kommst du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Woher kommst du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: Use “aus” to say where someone comes from: “Ich komme aus Deutschland.” Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich komme; du kommst.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich komme aus Deutschland. Woher kommst du? Du kommst aus der Schweiz.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "Germany".
+<break time="4.0s" />
+
+<lang code="de" />
+Deutschland.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "Switzerland".
+<break time="4.0s" />
+
+<lang code="de" />
+Schweiz.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "Austria".
+<break time="4.0s" />
+
+<lang code="de" />
+Österreich.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "from".
+<break time="4.0s" />
+
+<lang code="de" />
+aus.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "from where".
+<break time="4.0s" />
+
+<lang code="de" />
+woher.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "to come".
+<break time="4.0s" />
+
+<lang code="de" />
+kommen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "kommen", meaning "to come", and the forms: ich komme, du kommst. Keep repeating the sentences out loud.
+<break time="5.0s" />

@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 15 课，级别 B1。今天的主题是教育和学习，重点是
+<lang code="en" />
+Classes and study.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+course, subject, assignment, grade, exam, certification.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：食谱。
+
+<break time="3.5s" />
+
+<lang code="en" />
+recipe.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：这个食谱很容易照着做。
+
+<break time="3.5s" />
+
+<lang code="en" />
+This recipe is easy to follow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：食材。
+
+<break time="3.5s" />
+
+<lang code="en" />
+ingredients.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：晚餐我们需要新鲜食材。
+
+<break time="3.5s" />
+
+<lang code="en" />
+We need fresh ingredients for dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+course.
+<lang code="zh" />
+这个词的意思是：课程。请跟着说。
+<lang code="en" />
+course.
+
+<break time="4.8s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：课程。
+
+<break time="3.5s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我今年在上英语课程。
+
+<lang code="zh" />
+请你说这个英文句子：我今年在上英语课程。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+subject.
+<lang code="zh" />
+这个词的意思是：科目。请跟着说。
+<lang code="en" />
+subject.
+
+<break time="4.8s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：科目。
+
+<break time="3.5s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Math was my favorite subject at school.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：数学以前是我在学校最喜欢的科目。
+
+<lang code="zh" />
+请你说这个英文句子：数学以前是我在学校最喜欢的科目。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Math was my favorite subject at school.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+assignment.
+<lang code="zh" />
+这个词的意思是：作业。请跟着说。
+<lang code="en" />
+assignment.
+
+<break time="4.8s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：作业。
+
+<break time="3.5s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The assignment is due on Thursday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：作业周四截止。
+
+<lang code="zh" />
+请你说这个英文句子：作业周四截止。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The assignment is due on Thursday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+科目。
+
+<break time="4.8s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+课程。
+
+<break time="4.8s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+作业。
+
+<break time="4.8s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+grade.
+<lang code="zh" />
+这个词的意思是：成绩，等级。请跟着说。
+<lang code="en" />
+grade.
+
+<break time="4.8s" />
+
+<lang code="en" />
+grade.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：成绩，等级。
+
+<break time="3.5s" />
+
+<lang code="en" />
+grade.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I got a good grade on the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我考试得了好成绩。
+
+<lang code="zh" />
+请你说这个英文句子：我考试得了好成绩。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I got a good grade on the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+exam.
+<lang code="zh" />
+这个词的意思是：考试。请跟着说。
+<lang code="en" />
+exam.
+
+<break time="4.8s" />
+
+<lang code="en" />
+exam.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：考试。
+
+<break time="3.5s" />
+
+<lang code="en" />
+exam.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The exam was difficult but fair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：考试很难，但很公平。
+
+<lang code="zh" />
+请你说这个英文句子：考试很难，但很公平。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The exam was difficult but fair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+certification.
+<lang code="zh" />
+这个词的意思是：证书，认证。请跟着说。
+<lang code="en" />
+certification.
+
+<break time="4.8s" />
+
+<lang code="en" />
+certification.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：证书，认证。
+
+<break time="3.5s" />
+
+<lang code="en" />
+certification.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+This certification can help my career.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个证书能帮助我的职业发展。
+
+<lang code="zh" />
+请你说这个英文句子：这个证书能帮助我的职业发展。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This certification can help my career.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+成绩，等级。
+
+<break time="4.8s" />
+
+<lang code="en" />
+grade.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+证书，认证。
+
+<break time="4.8s" />
+
+<lang code="en" />
+certification.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+作业。
+
+<break time="4.8s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：作业周四截止。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The assignment is due on Thursday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我今年在上英语课程。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：考试很难，但很公平。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The exam was difficult but fair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：数学以前是我在学校最喜欢的科目。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Math was my favorite subject at school.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：这门课有考试、作业和最终成绩。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The course has an exam, an assignment, and a final grade.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：这个证书对我喜欢的科目有用。
+
+<break time="3.5s" />
+
+<lang code="en" />
+This certification is useful for my favorite subject.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 slice 和 course。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use slice and course in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 portion 和 course。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use portion and course in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+老师问你的学习目标。请说：我的目标是取得进步。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My goal is to make progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我需要复习，因为考试快到了。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to review because the exam is coming.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：你能给我一个例子来解释这个话题吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Can you give me an example to explain this topic?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：证书，认证。
+
+<break time="3.5s" />
+
+<lang code="en" />
+certification.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个证书能帮助我的职业发展。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This certification can help my career.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：作业。
+
+<break time="3.5s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：作业周四截止。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The assignment is due on Thursday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：课程。
+
+<break time="3.5s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我今年在上英语课程。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：考试。
+
+<break time="3.5s" />
+
+<lang code="en" />
+exam.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：考试很难，但很公平。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The exam was difficult but fair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：科目。
+
+<break time="3.5s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：数学以前是我在学校最喜欢的科目。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Math was my favorite subject at school.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：成绩，等级。
+
+<break time="3.5s" />
+
+<lang code="en" />
+grade.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我考试得了好成绩。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I got a good grade on the exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 course。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with course.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 subject 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to subject, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 assignment 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If assignment is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 grade。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle grade in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 exam 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because exam is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 certification 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about certification.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 slice 和新词 course 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word slice and the new word course into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 portion 和新词 subject 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word portion and the new word subject into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with course and subject.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about assignment, grade, and exam.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about certification.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage education and learning in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 course 和 subject 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about course and subject in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+I am taking a course in a useful subject. We have an assignment every week, and the final exam is next month. I want a good grade, and the certification may help my work.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+课程。
+
+<break time="4.8s" />
+
+<lang code="en" />
+course.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+科目。
+
+<break time="4.8s" />
+
+<lang code="en" />
+subject.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+作业。
+
+<break time="4.8s" />
+
+<lang code="en" />
+assignment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+成绩，等级。
+
+<break time="4.8s" />
+
+<lang code="en" />
+grade.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+考试。
+
+<break time="4.8s" />
+
+<lang code="en" />
+exam.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+证书，认证。
+
+<break time="4.8s" />
+
+<lang code="en" />
+certification.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我今年在上英语课程。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I am taking an English course this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：作业周四截止。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The assignment is due on Thursday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这个证书能帮助我的职业发展。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This certification can help my career.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 15 课结束。下一课会继续复习前面的词，并学习新的实用表达。

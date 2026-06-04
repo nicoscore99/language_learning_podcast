@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 10 课，级别 B1。今天的主题是住房和社区，重点是
+<lang code="en" />
+Home problems.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+repair, leak, heating, electricity, noise, neighborhood.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：租金，租房。
+
+<break time="3.5s" />
+
+<lang code="en" />
+rent.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：租金很高，但是公寓很舒服。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The rent is high, but the apartment is comfortable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：房东。
+
+<break time="3.5s" />
+
+<lang code="en" />
+landlord.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：房东很快回答了我的问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The landlord answered my question quickly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+repair.
+<lang code="zh" />
+这个词的意思是：修理。请跟着说。
+<lang code="en" />
+repair.
+
+<break time="4.8s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：修理。
+
+<break time="3.5s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我们这周需要修理暖气。
+
+<lang code="zh" />
+请你说这个英文句子：我们这周需要修理暖气。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+leak.
+<lang code="zh" />
+这个词的意思是：漏水。请跟着说。
+<lang code="en" />
+leak.
+
+<break time="4.8s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：漏水。
+
+<break time="3.5s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+There is a leak under the kitchen sink.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：厨房水槽下面漏水。
+
+<lang code="zh" />
+请你说这个英文句子：厨房水槽下面漏水。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a leak under the kitchen sink.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+heating.
+<lang code="zh" />
+这个词的意思是：暖气。请跟着说。
+<lang code="en" />
+heating.
+
+<break time="4.8s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：暖气。
+
+<break time="3.5s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The heating does not work in the bedroom.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：卧室里的暖气不能用。
+
+<lang code="zh" />
+请你说这个英文句子：卧室里的暖气不能用。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The heating does not work in the bedroom.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+漏水。
+
+<break time="4.8s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+修理。
+
+<break time="4.8s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+暖气。
+
+<break time="4.8s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+electricity.
+<lang code="zh" />
+这个词的意思是：电。请跟着说。
+<lang code="en" />
+electricity.
+
+<break time="4.8s" />
+
+<lang code="en" />
+electricity.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：电。
+
+<break time="3.5s" />
+
+<lang code="en" />
+electricity.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The electricity bill is higher this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个月电费更高。
+
+<lang code="zh" />
+请你说这个英文句子：这个月电费更高。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The electricity bill is higher this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+noise.
+<lang code="zh" />
+这个词的意思是：噪音。请跟着说。
+<lang code="en" />
+noise.
+
+<break time="4.8s" />
+
+<lang code="en" />
+noise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：噪音。
+
+<break time="3.5s" />
+
+<lang code="en" />
+noise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+There is too much noise at night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：晚上噪音太大。
+
+<lang code="zh" />
+请你说这个英文句子：晚上噪音太大。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is too much noise at night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+neighborhood.
+<lang code="zh" />
+这个词的意思是：社区，街区。请跟着说。
+<lang code="en" />
+neighborhood.
+
+<break time="4.8s" />
+
+<lang code="en" />
+neighborhood.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：社区，街区。
+
+<break time="3.5s" />
+
+<lang code="en" />
+neighborhood.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The neighborhood is quiet and safe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个社区安静而且安全。
+
+<lang code="zh" />
+请你说这个英文句子：这个社区安静而且安全。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The neighborhood is quiet and safe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+电。
+
+<break time="4.8s" />
+
+<lang code="en" />
+electricity.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+社区，街区。
+
+<break time="4.8s" />
+
+<lang code="en" />
+neighborhood.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+暖气。
+
+<break time="4.8s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：卧室里的暖气不能用。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The heating does not work in the bedroom.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我们这周需要修理暖气。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：晚上噪音太大。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is too much noise at night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：厨房水槽下面漏水。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is a leak under the kitchen sink.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：暖气需要修理，因为有漏水。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The heating needs repair because there is a leak.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：社区不错，但是噪音是个问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The neighborhood is nice, but the noise is a problem.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 deposit 和 repair。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use deposit and repair in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 contract 和 repair。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use contract and repair in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+房东问你的问题。请说：公寓需要修理。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The apartment needs a repair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：暖气有问题，而且晚上有噪音。
+
+<break time="4.8s" />
+
+<lang code="en" />
+There is a problem with the heating, and there is noise at night.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我想确认合同和押金。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I would like to confirm the contract and the deposit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：社区，街区。
+
+<break time="3.5s" />
+
+<lang code="en" />
+neighborhood.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个社区安静而且安全。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The neighborhood is quiet and safe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：暖气。
+
+<break time="3.5s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：卧室里的暖气不能用。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The heating does not work in the bedroom.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：修理。
+
+<break time="3.5s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我们这周需要修理暖气。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：噪音。
+
+<break time="3.5s" />
+
+<lang code="en" />
+noise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：晚上噪音太大。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is too much noise at night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：漏水。
+
+<break time="3.5s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：厨房水槽下面漏水。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a leak under the kitchen sink.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：电。
+
+<break time="3.5s" />
+
+<lang code="en" />
+electricity.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个月电费更高。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The electricity bill is higher this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 repair。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with repair.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 leak 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to leak, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 heating 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If heating is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 electricity。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle electricity in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 noise 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because noise is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 neighborhood 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about neighborhood.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 deposit 和新词 repair 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word deposit and the new word repair into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 contract 和新词 leak 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word contract and the new word leak into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with repair and leak.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about heating, electricity, and noise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about neighborhood.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage housing and neighborhoods in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 repair 和 leak 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about repair and leak in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+There is a leak in the kitchen, and the heating needs repair. The electricity works, but the noise at night is a problem. I like the neighborhood, so I hope the landlord can fix these problems soon.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+修理。
+
+<break time="4.8s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+漏水。
+
+<break time="4.8s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+暖气。
+
+<break time="4.8s" />
+
+<lang code="en" />
+heating.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+电。
+
+<break time="4.8s" />
+
+<lang code="en" />
+electricity.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+噪音。
+
+<break time="4.8s" />
+
+<lang code="en" />
+noise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+社区，街区。
+
+<break time="4.8s" />
+
+<lang code="en" />
+neighborhood.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我们这周需要修理暖气。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：卧室里的暖气不能用。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The heating does not work in the bedroom.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这个社区安静而且安全。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The neighborhood is quiet and safe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 10 课结束。下一课会继续复习前面的词，并学习新的实用表达。

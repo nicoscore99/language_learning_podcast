@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 11 课，级别 B1。今天的主题是金钱和银行，重点是
+<lang code="en" />
+Personal finance.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+budget, savings, income, expense, afford, discount.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：修理。
+
+<break time="3.5s" />
+
+<lang code="en" />
+repair.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我们这周需要修理暖气。
+
+<break time="3.5s" />
+
+<lang code="en" />
+We need to repair the heating this week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：漏水。
+
+<break time="3.5s" />
+
+<lang code="en" />
+leak.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：厨房水槽下面漏水。
+
+<break time="3.5s" />
+
+<lang code="en" />
+There is a leak under the kitchen sink.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+budget.
+<lang code="zh" />
+这个词的意思是：预算。请跟着说。
+<lang code="en" />
+budget.
+
+<break time="4.8s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：预算。
+
+<break time="3.5s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我们这个月需要一个预算。
+
+<lang code="zh" />
+请你说这个英文句子：我们这个月需要一个预算。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+savings.
+<lang code="zh" />
+这个词的意思是：储蓄。请跟着说。
+<lang code="en" />
+savings.
+
+<break time="4.8s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：储蓄。
+
+<break time="3.5s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I use part of my savings for emergencies.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我用一部分储蓄来应急。
+
+<lang code="zh" />
+请你说这个英文句子：我用一部分储蓄来应急。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I use part of my savings for emergencies.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+income.
+<lang code="zh" />
+这个词的意思是：收入。请跟着说。
+<lang code="en" />
+income.
+
+<break time="4.8s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：收入。
+
+<break time="3.5s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+My income is stable now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我的收入现在很稳定。
+
+<lang code="zh" />
+请你说这个英文句子：我的收入现在很稳定。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My income is stable now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+储蓄。
+
+<break time="4.8s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+预算。
+
+<break time="4.8s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+收入。
+
+<break time="4.8s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+expense.
+<lang code="zh" />
+这个词的意思是：开支。请跟着说。
+<lang code="en" />
+expense.
+
+<break time="4.8s" />
+
+<lang code="en" />
+expense.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：开支。
+
+<break time="3.5s" />
+
+<lang code="en" />
+expense.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+This expense was higher than I expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这笔开支比我预想的高。
+
+<lang code="zh" />
+请你说这个英文句子：这笔开支比我预想的高。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This expense was higher than I expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+afford.
+<lang code="zh" />
+这个词的意思是：负担得起。请跟着说。
+<lang code="en" />
+afford.
+
+<break time="4.8s" />
+
+<lang code="en" />
+afford.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：负担得起。
+
+<break time="3.5s" />
+
+<lang code="en" />
+afford.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I cannot afford a bigger apartment now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我现在负担不起更大的公寓。
+
+<lang code="zh" />
+请你说这个英文句子：我现在负担不起更大的公寓。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I cannot afford a bigger apartment now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+discount.
+<lang code="zh" />
+这个词的意思是：折扣。请跟着说。
+<lang code="en" />
+discount.
+
+<break time="4.8s" />
+
+<lang code="en" />
+discount.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：折扣。
+
+<break time="3.5s" />
+
+<lang code="en" />
+discount.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The store offered a small discount.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：商店提供了一个小折扣。
+
+<lang code="zh" />
+请你说这个英文句子：商店提供了一个小折扣。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The store offered a small discount.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+开支。
+
+<break time="4.8s" />
+
+<lang code="en" />
+expense.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+折扣。
+
+<break time="4.8s" />
+
+<lang code="en" />
+discount.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+收入。
+
+<break time="4.8s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：我的收入现在很稳定。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My income is stable now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我们这个月需要一个预算。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我现在负担不起更大的公寓。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I cannot afford a bigger apartment now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我用一部分储蓄来应急。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I use part of my savings for emergencies.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：我的收入够用，但我需要更好的预算。
+
+<break time="3.5s" />
+
+<lang code="en" />
+My income is enough, but I need a better budget.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：有折扣的话，我能负担这笔开支。
+
+<break time="3.5s" />
+
+<lang code="en" />
+With a discount, I can afford this expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 noise 和 budget。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use noise and budget in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 neighborhood 和 budget。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use neighborhood and budget in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+银行职员问你需要什么。请说：我需要检查账户余额。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to check my account balance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这笔付款有手续费吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Is there a fee for this payment?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我想转账，并保留收据。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I would like to transfer money and keep the receipt.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：折扣。
+
+<break time="3.5s" />
+
+<lang code="en" />
+discount.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：商店提供了一个小折扣。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The store offered a small discount.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：收入。
+
+<break time="3.5s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我的收入现在很稳定。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My income is stable now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：预算。
+
+<break time="3.5s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我们这个月需要一个预算。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：负担得起。
+
+<break time="3.5s" />
+
+<lang code="en" />
+afford.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我现在负担不起更大的公寓。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I cannot afford a bigger apartment now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：储蓄。
+
+<break time="3.5s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我用一部分储蓄来应急。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I use part of my savings for emergencies.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：开支。
+
+<break time="3.5s" />
+
+<lang code="en" />
+expense.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这笔开支比我预想的高。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This expense was higher than I expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 budget。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with budget.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 savings 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to savings, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 income 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If income is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 expense。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle expense in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 afford 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because afford is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 discount 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about discount.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 noise 和新词 budget 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word noise and the new word budget into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 neighborhood 和新词 savings 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word neighborhood and the new word savings into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with budget and savings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about income, expense, and afford.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about discount.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage money and banking in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 budget 和 savings 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about budget and savings in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+I made a budget because my income and expenses changed this month. I want to keep some savings and avoid buying things I cannot afford. If there is a discount, I may buy what I need.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+预算。
+
+<break time="4.8s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+储蓄。
+
+<break time="4.8s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+收入。
+
+<break time="4.8s" />
+
+<lang code="en" />
+income.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+开支。
+
+<break time="4.8s" />
+
+<lang code="en" />
+expense.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+负担得起。
+
+<break time="4.8s" />
+
+<lang code="en" />
+afford.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+折扣。
+
+<break time="4.8s" />
+
+<lang code="en" />
+discount.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我们这个月需要一个预算。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我的收入现在很稳定。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My income is stable now.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：商店提供了一个小折扣。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The store offered a small discount.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 11 课结束。下一课会继续复习前面的词，并学习新的实用表达。

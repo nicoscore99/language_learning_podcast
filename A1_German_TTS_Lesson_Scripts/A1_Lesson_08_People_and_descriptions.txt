@@ -1,0 +1,495 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 8. The topic is People and descriptions. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Mann, Frau, Kind, Freund, Freundin, nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to be". "to be" in German is: "sein". You will practise these forms: er ist, sie ist, das ist.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: Use “er ist” for he is and “sie ist” for she is. “Das ist” means “that is” or “this is”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Entschuldigung, ich verstehe nicht"?
+<break time="5.0s" />
+
+<lang code="de" />
+Entschuldigung, ich verstehe nicht.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Bitte langsam"?
+<break time="5.0s" />
+
+<lang code="de" />
+Bitte langsam.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich habe eine Schwester"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich habe eine Schwester.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Hast du einen Bruder"?
+<break time="5.0s" />
+
+<lang code="de" />
+Hast du einen Bruder.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Mann". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Mann.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Mann".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Mann" means "man". Say "Mann" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Mann.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Mann". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Er ist nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Er ist nett."
+<break time="5.5s" />
+
+<lang code="de" />
+Er ist nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Frau". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Frau.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Frau".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Frau" means "woman". Say "Frau" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Frau.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Frau". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Sie ist meine Freundin.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Sie ist meine Freundin."
+<break time="5.5s" />
+
+<lang code="de" />
+Sie ist meine Freundin.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Kind". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Kind.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Kind".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Kind" means "child". Say "Kind" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Kind.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Kind". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Das ist ein Kind.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Das ist ein Kind."
+<break time="5.5s" />
+
+<lang code="de" />
+Das ist ein Kind.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "child" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Kind.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "woman" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Frau.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "man" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Mann.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Freund". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Freund.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Freund".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Freund" means "male friend or boyfriend". Say "Freund" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Freund.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Freund". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Freund.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Freund."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Freund.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Freundin". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Freundin.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Freundin".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Freundin" means "female friend or girlfriend". Say "Freundin" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Freundin.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Freundin". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Freundin.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Freundin."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Freundin.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "female friend or girlfriend" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Freundin.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "male friend or boyfriend" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Freund.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "child" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Kind.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "nett". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+nett.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "nett".
+<break time="3.5s" />
+
+<lang code="auto" />
+"nett" means "nice". Say "nett" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+nett.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "nett". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage nett."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "sein". It means "to be". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+er ist.
+<break time="3.5s" />
+
+<lang code="de" />
+sie ist.
+<break time="3.5s" />
+
+<lang code="de" />
+das ist.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "er ist".
+<break time="4.5s" />
+
+<lang code="de" />
+er ist.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "sie ist".
+<break time="4.5s" />
+
+<lang code="de" />
+sie ist.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "das ist".
+<break time="4.5s" />
+
+<lang code="de" />
+das ist.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Er ist nett."
+<break time="5.5s" />
+
+<lang code="de" />
+Er ist nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Sie ist meine Freundin."
+<break time="5.5s" />
+
+<lang code="de" />
+Sie ist meine Freundin.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Das ist ein Kind."
+<break time="5.5s" />
+
+<lang code="de" />
+Das ist ein Kind.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Hast du einen Bruder"
+<break time="5.5s" />
+
+<lang code="de" />
+Hast du einen Bruder.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Er ist nett."
+<break time="5.5s" />
+
+<lang code="de" />
+Er ist nett.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Sie ist meine Freundin."
+<break time="5.5s" />
+
+<lang code="de" />
+Sie ist meine Freundin.
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: Use “er ist” for he is and “sie ist” for she is. “Das ist” means “that is” or “this is”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+er ist; sie ist; das ist.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Er ist nett. Sie ist meine Freundin. Das ist ein Kind.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "man".
+<break time="4.0s" />
+
+<lang code="de" />
+Mann.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "woman".
+<break time="4.0s" />
+
+<lang code="de" />
+Frau.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "child".
+<break time="4.0s" />
+
+<lang code="de" />
+Kind.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "male friend or boyfriend".
+<break time="4.0s" />
+
+<lang code="de" />
+Freund.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "female friend or girlfriend".
+<break time="4.0s" />
+
+<lang code="de" />
+Freundin.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "nice".
+<break time="4.0s" />
+
+<lang code="de" />
+nett.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "sein", meaning "to be", and the forms: er ist, sie ist, das ist. Keep repeating the sentences out loud.
+<break time="5.0s" />

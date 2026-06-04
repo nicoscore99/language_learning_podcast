@@ -1,0 +1,885 @@
+<lang code="zh" />
+欢迎来到第 1 课，级别 B1。今天的主题是健康和预约，重点是
+<lang code="en" />
+Symptoms and body problems.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+hurt, cough, dizzy, swollen, rash, injury.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+这是第一课，所以我们先从新的表达开始。注意听，并且跟读。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+hurt.
+<lang code="zh" />
+这个词的意思是：疼，受伤。请跟着说。
+<lang code="en" />
+hurt.
+
+<break time="4.8s" />
+
+<lang code="en" />
+hurt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：疼，受伤。
+
+<break time="3.5s" />
+
+<lang code="en" />
+hurt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+My back hurts today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我今天背疼。
+
+<lang code="zh" />
+请你说这个英文句子：我今天背疼。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My back hurts today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+cough.
+<lang code="zh" />
+这个词的意思是：咳嗽。请跟着说。
+<lang code="en" />
+cough.
+
+<break time="4.8s" />
+
+<lang code="en" />
+cough.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：咳嗽。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cough.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I have a cough, but I do not have a fever.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我咳嗽，但是没有发烧。
+
+<lang code="zh" />
+请你说这个英文句子：我咳嗽，但是没有发烧。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I have a cough, but I do not have a fever.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+dizzy.
+<lang code="zh" />
+这个词的意思是：头晕的。请跟着说。
+<lang code="en" />
+dizzy.
+
+<break time="4.8s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：头晕的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I feel dizzy when I stand up too fast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我站起来太快的时候会头晕。
+
+<lang code="zh" />
+请你说这个英文句子：我站起来太快的时候会头晕。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I feel dizzy when I stand up too fast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+咳嗽。
+
+<break time="4.8s" />
+
+<lang code="en" />
+cough.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+疼，受伤。
+
+<break time="4.8s" />
+
+<lang code="en" />
+hurt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+头晕的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+swollen.
+<lang code="zh" />
+这个词的意思是：肿胀的。请跟着说。
+<lang code="en" />
+swollen.
+
+<break time="4.8s" />
+
+<lang code="en" />
+swollen.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：肿胀的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+swollen.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+My ankle is swollen after the injury.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：受伤以后，我的脚踝肿了。
+
+<lang code="zh" />
+请你说这个英文句子：受伤以后，我的脚踝肿了。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My ankle is swollen after the injury.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+rash.
+<lang code="zh" />
+这个词的意思是：皮疹。请跟着说。
+<lang code="en" />
+rash.
+
+<break time="4.8s" />
+
+<lang code="en" />
+rash.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：皮疹。
+
+<break time="3.5s" />
+
+<lang code="en" />
+rash.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The rash on my arm is getting better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我手臂上的皮疹正在好转。
+
+<lang code="zh" />
+请你说这个英文句子：我手臂上的皮疹正在好转。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The rash on my arm is getting better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+injury.
+<lang code="zh" />
+这个词的意思是：受伤，伤处。请跟着说。
+<lang code="en" />
+injury.
+
+<break time="4.8s" />
+
+<lang code="en" />
+injury.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：受伤，伤处。
+
+<break time="3.5s" />
+
+<lang code="en" />
+injury.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+This injury is painful, so I need to rest.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个伤处很疼，所以我需要休息。
+
+<lang code="zh" />
+请你说这个英文句子：这个伤处很疼，所以我需要休息。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This injury is painful, so I need to rest.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+肿胀的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+swollen.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+受伤，伤处。
+
+<break time="4.8s" />
+
+<lang code="en" />
+injury.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+头晕的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：我站起来太快的时候会头晕。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I feel dizzy when I stand up too fast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我今天背疼。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My back hurts today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我手臂上的皮疹正在好转。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The rash on my arm is getting better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我咳嗽，但是没有发烧。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I have a cough, but I do not have a fever.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：我的脚踝疼，而且受伤后肿了。
+
+<break time="3.5s" />
+
+<lang code="en" />
+My ankle hurts, and it is swollen after the injury.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：我今天头晕，而且咳嗽。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I feel dizzy and I have a cough today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+医生问你哪里不舒服。请说：我感觉不舒服，需要一个预约。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I do not feel well, and I need an appointment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+医生问症状。请用两个今天的词回答。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I have a cough and I feel dizzy.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我会休息，并且听医生的建议。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I will rest and follow the doctor’s advice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：受伤，伤处。
+
+<break time="3.5s" />
+
+<lang code="en" />
+injury.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个伤处很疼，所以我需要休息。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This injury is painful, so I need to rest.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：头晕的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我站起来太快的时候会头晕。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I feel dizzy when I stand up too fast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：疼，受伤。
+
+<break time="3.5s" />
+
+<lang code="en" />
+hurt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我今天背疼。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My back hurts today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：皮疹。
+
+<break time="3.5s" />
+
+<lang code="en" />
+rash.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我手臂上的皮疹正在好转。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The rash on my arm is getting better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：咳嗽。
+
+<break time="3.5s" />
+
+<lang code="en" />
+cough.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我咳嗽，但是没有发烧。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I have a cough, but I do not have a fever.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：肿胀的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+swollen.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：受伤以后，我的脚踝肿了。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My ankle is swollen after the injury.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 hurt。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with hurt.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 cough 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to cough, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 dizzy 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If dizzy is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 swollen。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle swollen in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 rash 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because rash is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 injury 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about injury.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with hurt and cough.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about dizzy, swollen, and rash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about injury.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage health and appointments in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 hurt 和 cough 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about hurt and cough in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+Today I do not feel well. My back hurts, I have a cough, and sometimes I feel dizzy. My ankle is swollen after an injury, and I also have a small rash. I need to rest and ask for medical advice if it does not improve.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+疼，受伤。
+
+<break time="4.8s" />
+
+<lang code="en" />
+hurt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+咳嗽。
+
+<break time="4.8s" />
+
+<lang code="en" />
+cough.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+头晕的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+dizzy.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+肿胀的。
+
+<break time="4.8s" />
+
+<lang code="en" />
+swollen.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+皮疹。
+
+<break time="4.8s" />
+
+<lang code="en" />
+rash.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+受伤，伤处。
+
+<break time="4.8s" />
+
+<lang code="en" />
+injury.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我今天背疼。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My back hurts today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我站起来太快的时候会头晕。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I feel dizzy when I stand up too fast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这个伤处很疼，所以我需要休息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This injury is painful, so I need to rest.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 1 课结束。下一课会继续复习前面的词，并学习新的实用表达。

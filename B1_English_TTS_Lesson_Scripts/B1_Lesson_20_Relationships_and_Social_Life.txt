@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 20 课，级别 B1。今天的主题是关系和社交生活，重点是
+<lang code="en" />
+Disagreements and apologies.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+argue, apologize, forgive, trust, support, promise.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：担心的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+worried.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我担心截止日期。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I am worried about the deadline.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：兴奋的。
+
+<break time="3.5s" />
+
+<lang code="en" />
+excited.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我们对这次旅行很兴奋。
+
+<break time="3.5s" />
+
+<lang code="en" />
+We are excited about the trip.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+argue.
+<lang code="zh" />
+这个词的意思是：争论。请跟着说。
+<lang code="en" />
+argue.
+
+<break time="4.8s" />
+
+<lang code="en" />
+argue.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：争论。
+
+<break time="3.5s" />
+
+<lang code="en" />
+argue.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+They sometimes argue about money.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：他们有时会因为钱争论。
+
+<lang code="zh" />
+请你说这个英文句子：他们有时会因为钱争论。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They sometimes argue about money.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+apologize.
+<lang code="zh" />
+这个词的意思是：道歉。请跟着说。
+<lang code="en" />
+apologize.
+
+<break time="4.8s" />
+
+<lang code="en" />
+apologize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：道歉。
+
+<break time="3.5s" />
+
+<lang code="en" />
+apologize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I need to apologize for being late.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我需要为迟到道歉。
+
+<lang code="zh" />
+请你说这个英文句子：我需要为迟到道歉。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I need to apologize for being late.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+forgive.
+<lang code="zh" />
+这个词的意思是：原谅。请跟着说。
+<lang code="en" />
+forgive.
+
+<break time="4.8s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：原谅。
+
+<break time="3.5s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Can you forgive me for my mistake?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：你能原谅我的错误吗？
+
+<lang code="zh" />
+请你说这个英文句子：你能原谅我的错误吗？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Can you forgive me for my mistake?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+道歉。
+
+<break time="4.8s" />
+
+<lang code="en" />
+apologize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+争论。
+
+<break time="4.8s" />
+
+<lang code="en" />
+argue.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+原谅。
+
+<break time="4.8s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+trust.
+<lang code="zh" />
+这个词的意思是：信任。请跟着说。
+<lang code="en" />
+trust.
+
+<break time="4.8s" />
+
+<lang code="en" />
+trust.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：信任。
+
+<break time="3.5s" />
+
+<lang code="en" />
+trust.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Trust is important in every relationship.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：信任在每段关系中都很重要。
+
+<lang code="zh" />
+请你说这个英文句子：信任在每段关系中都很重要。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Trust is important in every relationship.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+support.
+<lang code="zh" />
+这个词的意思是：支持。请跟着说。
+<lang code="en" />
+support.
+
+<break time="4.8s" />
+
+<lang code="en" />
+support.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：支持。
+
+<break time="3.5s" />
+
+<lang code="en" />
+support.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Good friends support each other.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：好朋友互相支持。
+
+<lang code="zh" />
+请你说这个英文句子：好朋友互相支持。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Good friends support each other.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+promise.
+<lang code="zh" />
+这个词的意思是：承诺。请跟着说。
+<lang code="en" />
+promise.
+
+<break time="4.8s" />
+
+<lang code="en" />
+promise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：承诺。
+
+<break time="3.5s" />
+
+<lang code="en" />
+promise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I promise to call you tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我承诺明天给你打电话。
+
+<lang code="zh" />
+请你说这个英文句子：我承诺明天给你打电话。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I promise to call you tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+信任。
+
+<break time="4.8s" />
+
+<lang code="en" />
+trust.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+承诺。
+
+<break time="4.8s" />
+
+<lang code="en" />
+promise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+原谅。
+
+<break time="4.8s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：你能原谅我的错误吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Can you forgive me for my mistake?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：他们有时会因为钱争论。
+
+<break time="4.8s" />
+
+<lang code="en" />
+They sometimes argue about money.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：好朋友互相支持。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Good friends support each other.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我需要为迟到道歉。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to apologize for being late.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：如果我们争论，我会道歉并遵守承诺。
+
+<break time="3.5s" />
+
+<lang code="en" />
+If we argue, I will apologize and keep my promise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：信任和支持让原谅变得更容易。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Trust and support make it easier to forgive.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 embarrassed 和 argue。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use embarrassed and argue in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 proud 和 argue。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use proud and argue in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+朋友邀请你。请说：谢谢你邀请我，我很高兴接受。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Thank you for inviting me. I am happy to accept.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：如果我犯错，我会道歉。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If I make a mistake, I will apologize.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：信任和支持对友谊很重要。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Trust and support are important in friendship.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：承诺。
+
+<break time="3.5s" />
+
+<lang code="en" />
+promise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我承诺明天给你打电话。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I promise to call you tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：原谅。
+
+<break time="3.5s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：你能原谅我的错误吗？
+
+<break time="5.8s" />
+
+<lang code="en" />
+Can you forgive me for my mistake?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：争论。
+
+<break time="3.5s" />
+
+<lang code="en" />
+argue.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：他们有时会因为钱争论。
+
+<break time="5.8s" />
+
+<lang code="en" />
+They sometimes argue about money.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：支持。
+
+<break time="3.5s" />
+
+<lang code="en" />
+support.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：好朋友互相支持。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Good friends support each other.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：道歉。
+
+<break time="3.5s" />
+
+<lang code="en" />
+apologize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我需要为迟到道歉。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I need to apologize for being late.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：信任。
+
+<break time="3.5s" />
+
+<lang code="en" />
+trust.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：信任在每段关系中都很重要。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Trust is important in every relationship.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 argue。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with argue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 apologize 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to apologize, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 forgive 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If forgive is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 trust。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle trust in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 support 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because support is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 promise 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about promise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 embarrassed 和新词 argue 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word embarrassed and the new word argue into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 proud 和新词 apologize 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word proud and the new word apologize into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with argue and apologize.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about forgive, trust, and support.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about promise.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage relationships and social life in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 argue 和 apologize 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about argue and apologize in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+When friends argue, it is important to apologize and listen. We should try to forgive each other, rebuild trust, and offer support. I promise to communicate more clearly next time.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+争论。
+
+<break time="4.8s" />
+
+<lang code="en" />
+argue.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+道歉。
+
+<break time="4.8s" />
+
+<lang code="en" />
+apologize.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+原谅。
+
+<break time="4.8s" />
+
+<lang code="en" />
+forgive.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+信任。
+
+<break time="4.8s" />
+
+<lang code="en" />
+trust.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+支持。
+
+<break time="4.8s" />
+
+<lang code="en" />
+support.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+承诺。
+
+<break time="4.8s" />
+
+<lang code="en" />
+promise.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：他们有时会因为钱争论。
+
+<break time="4.8s" />
+
+<lang code="en" />
+They sometimes argue about money.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：你能原谅我的错误吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Can you forgive me for my mistake?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我承诺明天给你打电话。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I promise to call you tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 20 课结束。下一课会继续复习前面的词，并学习新的实用表达。

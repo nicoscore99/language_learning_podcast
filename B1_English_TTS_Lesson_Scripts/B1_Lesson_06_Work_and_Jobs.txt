@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 6 课，级别 B1。今天的主题是工作和求职，重点是
+<lang code="en" />
+Workplace communication.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+request, confirm, explain, feedback, problem, solution.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：申请。
+
+<break time="3.5s" />
+
+<lang code="en" />
+application.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我昨天提交了申请。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I sent my application yesterday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：面试。
+
+<break time="3.5s" />
+
+<lang code="en" />
+interview.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：面试在下周一。
+
+<break time="3.5s" />
+
+<lang code="en" />
+The interview is next Monday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+request.
+<lang code="zh" />
+这个词的意思是：请求。请跟着说。
+<lang code="en" />
+request.
+
+<break time="4.8s" />
+
+<lang code="en" />
+request.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：请求。
+
+<break time="3.5s" />
+
+<lang code="en" />
+request.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I sent a request to change the meeting time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我发出了更改会议时间的请求。
+
+<lang code="zh" />
+请你说这个英文句子：我发出了更改会议时间的请求。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I sent a request to change the meeting time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+confirm.
+<lang code="zh" />
+这个词的意思是：确认。请跟着说。
+<lang code="en" />
+confirm.
+
+<break time="4.8s" />
+
+<lang code="en" />
+confirm.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：确认。
+
+<break time="3.5s" />
+
+<lang code="en" />
+confirm.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Please confirm the schedule by email.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：请通过邮件确认日程。
+
+<lang code="zh" />
+请你说这个英文句子：请通过邮件确认日程。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Please confirm the schedule by email.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+explain.
+<lang code="zh" />
+这个词的意思是：解释。请跟着说。
+<lang code="en" />
+explain.
+
+<break time="4.8s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：解释。
+
+<break time="3.5s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Can you explain the problem again?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：你能再解释一下这个问题吗？
+
+<lang code="zh" />
+请你说这个英文句子：你能再解释一下这个问题吗？
+
+<break time="6.3s" />
+
+<lang code="en" />
+Can you explain the problem again?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+确认。
+
+<break time="4.8s" />
+
+<lang code="en" />
+confirm.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请求。
+
+<break time="4.8s" />
+
+<lang code="en" />
+request.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+解释。
+
+<break time="4.8s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+feedback.
+<lang code="zh" />
+这个词的意思是：反馈。请跟着说。
+<lang code="en" />
+feedback.
+
+<break time="4.8s" />
+
+<lang code="en" />
+feedback.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：反馈。
+
+<break time="3.5s" />
+
+<lang code="en" />
+feedback.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Thank you for your feedback on my report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：谢谢你对我的报告提出反馈。
+
+<lang code="zh" />
+请你说这个英文句子：谢谢你对我的报告提出反馈。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Thank you for your feedback on my report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+problem.
+<lang code="zh" />
+这个词的意思是：问题。请跟着说。
+<lang code="en" />
+problem.
+
+<break time="4.8s" />
+
+<lang code="en" />
+problem.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+problem.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+We need to discuss the problem today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我们今天需要讨论这个问题。
+
+<lang code="zh" />
+请你说这个英文句子：我们今天需要讨论这个问题。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need to discuss the problem today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+solution.
+<lang code="zh" />
+这个词的意思是：解决办法。请跟着说。
+<lang code="en" />
+solution.
+
+<break time="4.8s" />
+
+<lang code="en" />
+solution.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：解决办法。
+
+<break time="3.5s" />
+
+<lang code="en" />
+solution.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+This solution is simple and practical.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这个解决办法简单又实用。
+
+<lang code="zh" />
+请你说这个英文句子：这个解决办法简单又实用。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This solution is simple and practical.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+反馈。
+
+<break time="4.8s" />
+
+<lang code="en" />
+feedback.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+解决办法。
+
+<break time="4.8s" />
+
+<lang code="en" />
+solution.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+解释。
+
+<break time="4.8s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：你能再解释一下这个问题吗？
+
+<break time="6.3s" />
+
+<lang code="en" />
+Can you explain the problem again?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我发出了更改会议时间的请求。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I sent a request to change the meeting time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我们今天需要讨论这个问题。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We need to discuss the problem today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：请通过邮件确认日程。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Please confirm the schedule by email.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：请确认这个请求，并解释解决办法。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Please confirm the request and explain the solution.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：你的反馈帮助我们理解了这个问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Your feedback helped us understand the problem.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 position 和 request。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use position and request in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 hire 和 request。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use hire and request in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+同事问你今天忙不忙。请说：我的日程很满。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My schedule is full today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+经理问任务进度。请说：我会在截止日期前完成报告。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I will finish the report before the deadline.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：谢谢你的反馈，我会解释解决办法。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Thank you for your feedback. I will explain the solution.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：解决办法。
+
+<break time="3.5s" />
+
+<lang code="en" />
+solution.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这个解决办法简单又实用。
+
+<break time="5.8s" />
+
+<lang code="en" />
+This solution is simple and practical.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：解释。
+
+<break time="3.5s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：你能再解释一下这个问题吗？
+
+<break time="6.3s" />
+
+<lang code="en" />
+Can you explain the problem again?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：请求。
+
+<break time="3.5s" />
+
+<lang code="en" />
+request.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我发出了更改会议时间的请求。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I sent a request to change the meeting time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：问题。
+
+<break time="3.5s" />
+
+<lang code="en" />
+problem.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我们今天需要讨论这个问题。
+
+<break time="5.8s" />
+
+<lang code="en" />
+We need to discuss the problem today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：确认。
+
+<break time="3.5s" />
+
+<lang code="en" />
+confirm.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：请通过邮件确认日程。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Please confirm the schedule by email.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：反馈。
+
+<break time="3.5s" />
+
+<lang code="en" />
+feedback.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：谢谢你对我的报告提出反馈。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Thank you for your feedback on my report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 request。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with request.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 confirm 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to confirm, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 explain 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If explain is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 feedback。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle feedback in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 problem 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because problem is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 solution 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about solution.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 position 和新词 request 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word position and the new word request into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 hire 和新词 confirm 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word hire and the new word confirm into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with request and confirm.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about explain, feedback, and problem.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about solution.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage work and jobs in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 request 和 confirm 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about request and confirm in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+I received a request from my manager, and I need to confirm the details. I will explain the problem and ask for feedback. Then we can choose a practical solution together.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+请求。
+
+<break time="4.8s" />
+
+<lang code="en" />
+request.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+确认。
+
+<break time="4.8s" />
+
+<lang code="en" />
+confirm.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+解释。
+
+<break time="4.8s" />
+
+<lang code="en" />
+explain.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+反馈。
+
+<break time="4.8s" />
+
+<lang code="en" />
+feedback.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+问题。
+
+<break time="4.8s" />
+
+<lang code="en" />
+problem.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+解决办法。
+
+<break time="4.8s" />
+
+<lang code="en" />
+solution.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我发出了更改会议时间的请求。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I sent a request to change the meeting time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：你能再解释一下这个问题吗？
+
+<break time="6.3s" />
+
+<lang code="en" />
+Can you explain the problem again?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这个解决办法简单又实用。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This solution is simple and practical.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 6 课结束。下一课会继续复习前面的词，并学习新的实用表达。

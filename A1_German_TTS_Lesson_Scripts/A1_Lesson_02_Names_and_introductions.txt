@@ -1,0 +1,467 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 2. The topic is Names and introductions. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: heißen, mein, dein, bitte, danke, Name.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to be called". "to be called" in German is: "heißen". You will practise these forms: ich heiße, du heißt.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: To say your name, German often uses “ich heiße”, literally “I am called”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Hallo, ich bin Anna"?
+<break time="5.0s" />
+
+<lang code="de" />
+Hallo, ich bin Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Guten Morgen, du bist Max"?
+<break time="5.0s" />
+
+<lang code="de" />
+Guten Morgen, du bist Max.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "heißen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+heißen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "heißen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"heißen" means "to be called". Say "heißen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+heißen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "heißen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich heiße Anna."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "mein". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+mein.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "mein".
+<break time="3.5s" />
+
+<lang code="auto" />
+"mein" means "my". Say "mein" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+mein.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "mein". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Wie heißt du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Wie heißt du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Wie heißt du?
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "dein". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+dein.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "dein".
+<break time="3.5s" />
+
+<lang code="auto" />
+"dein" means "your". Say "dein" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+dein.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "dein". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Mein Name ist Max.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Mein Name ist Max."
+<break time="5.5s" />
+
+<lang code="de" />
+Mein Name ist Max.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "your" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+dein.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "my" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+mein.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to be called" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+heißen.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "bitte". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+bitte.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "bitte".
+<break time="3.5s" />
+
+<lang code="auto" />
+"bitte" means "please or you are welcome". Say "bitte" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+bitte.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "bitte". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage bitte.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage bitte."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage bitte.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "danke". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+danke.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "danke".
+<break time="3.5s" />
+
+<lang code="auto" />
+"danke" means "thank you". Say "danke" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+danke.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "danke". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage danke.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage danke."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage danke.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "thank you" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+danke.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "please or you are welcome" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+bitte.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "your" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+dein.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "Name". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Name.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Name".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Name" means "name". Say "Name" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Name.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Name". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Name.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Name."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Name.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "heißen". It means "to be called". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich heiße.
+<break time="3.5s" />
+
+<lang code="de" />
+du heißt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich heiße".
+<break time="4.5s" />
+
+<lang code="de" />
+ich heiße.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du heißt".
+<break time="4.5s" />
+
+<lang code="de" />
+du heißt.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich heiße Anna."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Wie heißt du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Wie heißt du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Mein Name ist Max."
+<break time="5.5s" />
+
+<lang code="de" />
+Mein Name ist Max.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Guten Morgen, du bist Max"
+<break time="5.5s" />
+
+<lang code="de" />
+Guten Morgen, du bist Max.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich heiße Anna."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich heiße Anna.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Wie heißt du?"
+<break time="5.5s" />
+
+<lang code="de" />
+Wie heißt du?
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: To say your name, German often uses “ich heiße”, literally “I am called”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich heiße; du heißt.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich heiße Anna. Wie heißt du? Mein Name ist Max.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "to be called".
+<break time="4.0s" />
+
+<lang code="de" />
+heißen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "my".
+<break time="4.0s" />
+
+<lang code="de" />
+mein.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "your".
+<break time="4.0s" />
+
+<lang code="de" />
+dein.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "please or you are welcome".
+<break time="4.0s" />
+
+<lang code="de" />
+bitte.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "thank you".
+<break time="4.0s" />
+
+<lang code="de" />
+danke.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "name".
+<break time="4.0s" />
+
+<lang code="de" />
+Name.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "heißen", meaning "to be called", and the forms: ich heiße, du heißt. Keep repeating the sentences out loud.
+<break time="5.0s" />

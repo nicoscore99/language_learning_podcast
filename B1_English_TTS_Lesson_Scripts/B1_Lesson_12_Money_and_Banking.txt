@@ -1,0 +1,971 @@
+<lang code="zh" />
+欢迎来到第 12 课，级别 B1。今天的主题是金钱和银行，重点是
+<lang code="en" />
+Banking and payments.
+
+<lang code="zh" />
+你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+
+<lang code="zh" />
+今天的六个新英语表达是：
+
+<lang code="en" />
+account, transfer, payment, fee, receipt, balance.
+
+<lang code="zh" />
+听到中文以后，请说英语。现在开始。
+
+<break time="1.2s" />
+
+<lang code="zh" />
+先复习前面学过的内容。请听中文，说英文。
+
+<lang code="zh" />
+请说英文：预算。
+
+<break time="3.5s" />
+
+<lang code="en" />
+budget.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我们这个月需要一个预算。
+
+<break time="3.5s" />
+
+<lang code="en" />
+We need a budget for this month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：储蓄。
+
+<break time="3.5s" />
+
+<lang code="en" />
+savings.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：我用一部分储蓄来应急。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I use part of my savings for emergencies.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。复习会在今天的练习里继续出现。
+
+<lang code="zh" />
+第一个新词是
+<lang code="en" />
+account.
+<lang code="zh" />
+这个词的意思是：账户。请跟着说。
+<lang code="en" />
+account.
+
+<break time="4.8s" />
+
+<lang code="en" />
+account.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：账户。
+
+<break time="3.5s" />
+
+<lang code="en" />
+account.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I opened a new bank account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我开了一个新的银行账户。
+
+<lang code="zh" />
+请你说这个英文句子：我开了一个新的银行账户。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I opened a new bank account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二个新词是
+<lang code="en" />
+transfer.
+<lang code="zh" />
+这个词的意思是：转账。请跟着说。
+<lang code="en" />
+transfer.
+
+<break time="4.8s" />
+
+<lang code="en" />
+transfer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：转账。
+
+<break time="3.5s" />
+
+<lang code="en" />
+transfer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+I need to transfer money today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我今天需要转账。
+
+<lang code="zh" />
+请你说这个英文句子：我今天需要转账。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I need to transfer money today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三个新词是
+<lang code="en" />
+payment.
+<lang code="zh" />
+这个词的意思是：付款。请跟着说。
+<lang code="en" />
+payment.
+
+<break time="4.8s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：付款。
+
+<break time="3.5s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+The payment is due tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：付款明天到期。
+
+<lang code="zh" />
+请你说这个英文句子：付款明天到期。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The payment is due tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+转账。
+
+<break time="4.8s" />
+
+<lang code="en" />
+transfer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+账户。
+
+<break time="4.8s" />
+
+<lang code="en" />
+account.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+付款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+第四个新词是
+<lang code="en" />
+fee.
+<lang code="zh" />
+这个词的意思是：费用，手续费。请跟着说。
+<lang code="en" />
+fee.
+
+<break time="4.8s" />
+
+<lang code="en" />
+fee.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：费用，手续费。
+
+<break time="3.5s" />
+
+<lang code="en" />
+fee.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+There is a small fee for this service.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：这项服务有一小笔手续费。
+
+<lang code="zh" />
+请你说这个英文句子：这项服务有一小笔手续费。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a small fee for this service.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五个新词是
+<lang code="en" />
+receipt.
+<lang code="zh" />
+这个词的意思是：收据。请跟着说。
+<lang code="en" />
+receipt.
+
+<break time="4.8s" />
+
+<lang code="en" />
+receipt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：收据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+receipt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+Please keep the receipt after you pay.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：付款后请保留收据。
+
+<lang code="zh" />
+请你说这个英文句子：付款后请保留收据。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Please keep the receipt after you pay.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六个新词是
+<lang code="en" />
+balance.
+<lang code="zh" />
+这个词的意思是：余额。请跟着说。
+<lang code="en" />
+balance.
+
+<break time="4.8s" />
+
+<lang code="en" />
+balance.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+请说英文：余额。
+
+<break time="3.5s" />
+
+<lang code="en" />
+balance.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+例句。
+<lang code="en" />
+My account balance is lower than before.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+意思是：我的账户余额比以前低。
+
+<lang code="zh" />
+请你说这个英文句子：我的账户余额比以前低。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My account balance is lower than before.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个小复习。顺序会变化，请听中文说英语。
+
+<lang code="zh" />
+费用，手续费。
+
+<break time="4.8s" />
+
+<lang code="en" />
+fee.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+余额。
+
+<break time="4.8s" />
+
+<lang code="en" />
+balance.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+付款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+现在把刚才的句子再取回一次。请听中文，说完整英文句子。
+
+<lang code="zh" />
+请说：付款明天到期。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The payment is due tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我开了一个新的银行账户。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I opened a new bank account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：付款后请保留收据。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Please keep the receipt after you pay.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我今天需要转账。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to transfer money today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
+
+<lang code="zh" />
+请说英文：我从账户转账付款了。
+
+<break time="3.5s" />
+
+<lang code="en" />
+I made the payment by transfer from my account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英文：请检查收据和账户余额。
+
+<break time="3.5s" />
+
+<lang code="en" />
+Please check the receipt and the account balance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 afford 和 account。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use afford and account in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在把旧词和新词结合。请说：我可以在真实情境中使用 discount 和 account。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can use discount and account in a real situation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在做一个迷你对话。你只需要说英文回答。
+
+<lang code="zh" />
+银行职员问你需要什么。请说：我需要检查账户余额。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need to check my account balance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这笔付款有手续费吗？
+
+<break time="4.8s" />
+
+<lang code="en" />
+Is there a fee for this payment?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我想转账，并保留收据。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I would like to transfer money and keep the receipt.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
+
+<lang code="zh" />
+先说这个词：余额。
+
+<break time="3.5s" />
+
+<lang code="en" />
+balance.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我的账户余额比以前低。
+
+<break time="5.8s" />
+
+<lang code="en" />
+My account balance is lower than before.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：付款。
+
+<break time="3.5s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：付款明天到期。
+
+<break time="5.8s" />
+
+<lang code="en" />
+The payment is due tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：账户。
+
+<break time="3.5s" />
+
+<lang code="en" />
+account.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我开了一个新的银行账户。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I opened a new bank account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：收据。
+
+<break time="3.5s" />
+
+<lang code="en" />
+receipt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：付款后请保留收据。
+
+<break time="5.8s" />
+
+<lang code="en" />
+Please keep the receipt after you pay.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：转账。
+
+<break time="3.5s" />
+
+<lang code="en" />
+transfer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：我今天需要转账。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I need to transfer money today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+先说这个词：费用，手续费。
+
+<break time="3.5s" />
+
+<lang code="en" />
+fee.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再说完整句子：这项服务有一小笔手续费。
+
+<break time="5.8s" />
+
+<lang code="en" />
+There is a small fee for this service.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习把句子变得更完整。听中文，说英文。
+
+<lang code="zh" />
+请说：我需要更多信息，然后才能处理 account。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need more information before I can deal with account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：这和 transfer 有关，所以我想确认一下。
+
+<break time="4.8s" />
+
+<lang code="en" />
+This is related to transfer, so I would like to confirm it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：如果 payment 是问题的一部分，我会认真检查。
+
+<break time="4.8s" />
+
+<lang code="en" />
+If payment is part of the problem, I will check it carefully.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我们可以用简单的方法处理 fee。
+
+<break time="4.8s" />
+
+<lang code="en" />
+We can handle fee in a simple way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：因为 receipt 很重要，我会提前准备。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Because receipt is important, I will prepare early.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：最后，我会记录关于 balance 的信息。
+
+<break time="4.8s" />
+
+<lang code="en" />
+Finally, I will record the information about balance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在加入旧词。先听中文，再用英文回答。
+
+<lang code="zh" />
+请说：我可以把旧词 afford 和新词 account 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word afford and the new word account into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请说：我可以把旧词 discount 和新词 transfer 放进同一个真实情境。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can put the old word discount and the new word transfer into one real situation.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在练习更自然的回答。每个回答都不长，但要完整。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is the main problem?
+
+<break time="4.8s" />
+
+<lang code="en" />
+The main problem is connected with account and transfer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Who should you speak to?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should speak to the right person and explain the situation clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+When should you do it?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I should do it as soon as I have the correct information.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+How can you avoid a mistake?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I can avoid a mistake by checking the details first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What information do you need?
+
+<break time="4.8s" />
+
+<lang code="en" />
+I need information about payment, fee, and receipt.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What is a good final step?
+
+<break time="4.8s" />
+
+<lang code="en" />
+A good final step is to confirm everything and write down the details about balance.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在做 B1 水平的问答练习。请用自然的英文回答。
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Why is this important?
+
+<break time="4.8s" />
+
+<lang code="en" />
+It is important because it helps me manage money and banking in daily life.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+Can you explain the situation?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回答：
+<lang code="en" />
+What would you do next?
+
+<break time="6.3s" />
+
+<lang code="en" />
+Next, I would check the information and take one clear step.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请用 account 和 transfer 回答一个完整句子。
+
+<break time="5.8s" />
+
+<lang code="en" />
+I can talk about account and transfer in a clear way.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<break time="9.8s" />
+
+<lang code="en" />
+I checked my account and made a transfer for the payment. There was a small fee, so I kept the receipt. After that, I looked at my balance to make sure everything was correct.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+最后复习今天的六个词。听中文，说英文。
+
+<lang code="zh" />
+账户。
+
+<break time="4.8s" />
+
+<lang code="en" />
+account.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+转账。
+
+<break time="4.8s" />
+
+<lang code="en" />
+transfer.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+付款。
+
+<break time="4.8s" />
+
+<lang code="en" />
+payment.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+费用，手续费。
+
+<break time="4.8s" />
+
+<lang code="en" />
+fee.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+收据。
+
+<break time="4.8s" />
+
+<lang code="en" />
+receipt.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+余额。
+
+<break time="4.8s" />
+
+<lang code="en" />
+balance.
+
+<break time="2.0s" />
+
+<lang code="zh" />
+再复习三个关键句子。
+
+<lang code="zh" />
+请说：我开了一个新的银行账户。
+
+<break time="4.8s" />
+
+<lang code="en" />
+I opened a new bank account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：付款明天到期。
+
+<break time="4.8s" />
+
+<lang code="en" />
+The payment is due tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说：我的账户余额比以前低。
+
+<break time="4.8s" />
+
+<lang code="en" />
+My account balance is lower than before.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+做得很好。第 12 课结束。下一课会继续复习前面的词，并学习新的实用表达。

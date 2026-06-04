@@ -1,0 +1,162 @@
+Validation summary for B2 language-tagged lessons with longer variable breaks
+All breaks <= 10.0 seconds: True
+
+filename: B2_Lesson_01_Opinions_and_Debate.txt
+max single break duration: 10.0s
+rough estimated duration: 12.9 minutes
+number of break tags: 108
+approximate English word count: 400
+approximate Mandarin character count: 1115
+unsupported tags found: 0
+
+filename: B2_Lesson_02_Opinions_and_Debate.txt
+max single break duration: 10.0s
+rough estimated duration: 13.6 minutes
+number of break tags: 118
+approximate English word count: 411
+approximate Mandarin character count: 1160
+unsupported tags found: 0
+
+filename: B2_Lesson_03_Opinions_and_Debate.txt
+max single break duration: 10.0s
+rough estimated duration: 13.5 minutes
+number of break tags: 118
+approximate English word count: 414
+approximate Mandarin character count: 1147
+unsupported tags found: 0
+
+filename: B2_Lesson_04_Technology_and_Online_Life.txt
+max single break duration: 10.0s
+rough estimated duration: 13.5 minutes
+number of break tags: 118
+approximate English word count: 422
+approximate Mandarin character count: 1120
+unsupported tags found: 0
+
+filename: B2_Lesson_05_Technology_and_Online_Life.txt
+max single break duration: 10.0s
+rough estimated duration: 13.4 minutes
+number of break tags: 118
+approximate English word count: 397
+approximate Mandarin character count: 1143
+unsupported tags found: 0
+
+filename: B2_Lesson_06_Technology_and_Online_Life.txt
+max single break duration: 10.0s
+rough estimated duration: 13.3 minutes
+number of break tags: 118
+approximate English word count: 397
+approximate Mandarin character count: 1121
+unsupported tags found: 0
+
+filename: B2_Lesson_07_Environment_and_Sustainability.txt
+max single break duration: 10.0s
+rough estimated duration: 13.3 minutes
+number of break tags: 118
+approximate English word count: 394
+approximate Mandarin character count: 1136
+unsupported tags found: 0
+
+filename: B2_Lesson_08_Environment_and_Sustainability.txt
+max single break duration: 10.0s
+rough estimated duration: 13.4 minutes
+number of break tags: 118
+approximate English word count: 387
+approximate Mandarin character count: 1170
+unsupported tags found: 0
+
+filename: B2_Lesson_09_Environment_and_Sustainability.txt
+max single break duration: 10.0s
+rough estimated duration: 13.3 minutes
+number of break tags: 118
+approximate English word count: 387
+approximate Mandarin character count: 1144
+unsupported tags found: 0
+
+filename: B2_Lesson_10_Career_and_Business.txt
+max single break duration: 10.0s
+rough estimated duration: 13.4 minutes
+number of break tags: 118
+approximate English word count: 400
+approximate Mandarin character count: 1146
+unsupported tags found: 0
+
+filename: B2_Lesson_11_Career_and_Business.txt
+max single break duration: 10.0s
+rough estimated duration: 13.6 minutes
+number of break tags: 118
+approximate English word count: 414
+approximate Mandarin character count: 1160
+unsupported tags found: 0
+
+filename: B2_Lesson_12_Career_and_Business.txt
+max single break duration: 10.0s
+rough estimated duration: 13.3 minutes
+number of break tags: 118
+approximate English word count: 393
+approximate Mandarin character count: 1119
+unsupported tags found: 0
+
+filename: B2_Lesson_13_Society_and_Politics.txt
+max single break duration: 10.0s
+rough estimated duration: 13.2 minutes
+number of break tags: 118
+approximate English word count: 392
+approximate Mandarin character count: 1109
+unsupported tags found: 0
+
+filename: B2_Lesson_14_Society_and_Politics.txt
+max single break duration: 10.0s
+rough estimated duration: 13.4 minutes
+number of break tags: 118
+approximate English word count: 403
+approximate Mandarin character count: 1140
+unsupported tags found: 0
+
+filename: B2_Lesson_15_Science_and_Research.txt
+max single break duration: 10.0s
+rough estimated duration: 13.2 minutes
+number of break tags: 118
+approximate English word count: 388
+approximate Mandarin character count: 1112
+unsupported tags found: 0
+
+filename: B2_Lesson_16_Science_and_Research.txt
+max single break duration: 10.0s
+rough estimated duration: 13.4 minutes
+number of break tags: 118
+approximate English word count: 402
+approximate Mandarin character count: 1133
+unsupported tags found: 0
+
+filename: B2_Lesson_17_Emotions_and_Psychology.txt
+max single break duration: 10.0s
+rough estimated duration: 13.2 minutes
+number of break tags: 118
+approximate English word count: 395
+approximate Mandarin character count: 1109
+unsupported tags found: 0
+
+filename: B2_Lesson_18_Emotions_and_Psychology.txt
+max single break duration: 10.0s
+rough estimated duration: 13.2 minutes
+number of break tags: 118
+approximate English word count: 388
+approximate Mandarin character count: 1129
+unsupported tags found: 0
+
+filename: B2_Lesson_19_Global_Issues.txt
+max single break duration: 10.0s
+rough estimated duration: 13.3 minutes
+number of break tags: 118
+approximate English word count: 399
+approximate Mandarin character count: 1124
+unsupported tags found: 0
+
+filename: B2_Lesson_20_Global_Issues.txt
+max single break duration: 10.0s
+rough estimated duration: 13.2 minutes
+number of break tags: 118
+approximate English word count: 391
+approximate Mandarin character count: 1110
+unsupported tags found: 0

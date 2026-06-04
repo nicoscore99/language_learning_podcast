@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 16. The topic is Going places. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: gehen, nach Hause, Schule, Arbeit, Supermarkt, heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to go". "to go" in German is: "gehen". You will practise these forms: ich gehe, du gehst.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: Use “nach Hause” for going home: “Ich gehe nach Hause.”
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich stehe früh auf"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Stehst du spät auf"?
+<break time="5.0s" />
+
+<lang code="de" />
+Stehst du spät auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich arbeite im Büro"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Du lernst Deutsch"?
+<break time="5.0s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "gehen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+gehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "gehen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"gehen" means "to go". Say "gehen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+gehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "gehen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich gehe nach Hause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich gehe nach Hause."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich gehe nach Hause.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "nach Hause". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+nach Hause.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "nach Hause".
+<break time="3.5s" />
+
+<lang code="auto" />
+"nach Hause" means "home, as a direction". Say "nach Hause" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+nach Hause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "nach Hause". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Gehst du zur Arbeit?
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Gehst du zur Arbeit?"
+<break time="5.5s" />
+
+<lang code="de" />
+Gehst du zur Arbeit?
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Schule". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Schule".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Schule" means "school". Say "Schule" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Schule". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Heute gehe ich zum Supermarkt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Heute gehe ich zum Supermarkt."
+<break time="5.5s" />
+
+<lang code="de" />
+Heute gehe ich zum Supermarkt.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "school" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "home, as a direction" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+nach Hause.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to go" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+gehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Arbeit". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Arbeit.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Arbeit".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Arbeit" means "work". Say "Arbeit" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Arbeit.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Arbeit". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Arbeit.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Arbeit."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Arbeit.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Supermarkt". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Supermarkt.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Supermarkt".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Supermarkt" means "supermarket". Say "Supermarkt" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Supermarkt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Supermarkt". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Supermarkt.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Supermarkt."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Supermarkt.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "supermarket" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Supermarkt.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "work" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Arbeit.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "school" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "heute". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "heute".
+<break time="3.5s" />
+
+<lang code="auto" />
+"heute" means "today". Say "heute" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "heute". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage heute."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "gehen". It means "to go". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich gehe.
+<break time="3.5s" />
+
+<lang code="de" />
+du gehst.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich gehe".
+<break time="4.5s" />
+
+<lang code="de" />
+ich gehe.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du gehst".
+<break time="4.5s" />
+
+<lang code="de" />
+du gehst.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich gehe nach Hause."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich gehe nach Hause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Gehst du zur Arbeit?"
+<break time="5.5s" />
+
+<lang code="de" />
+Gehst du zur Arbeit?
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Heute gehe ich zum Supermarkt."
+<break time="5.5s" />
+
+<lang code="de" />
+Heute gehe ich zum Supermarkt.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Du lernst Deutsch"
+<break time="5.5s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich gehe nach Hause."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich gehe nach Hause.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Gehst du zur Arbeit?"
+<break time="5.5s" />
+
+<lang code="de" />
+Gehst du zur Arbeit?
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: Use “nach Hause” for going home: “Ich gehe nach Hause.” Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich gehe; du gehst.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich gehe nach Hause. Gehst du zur Arbeit? Heute gehe ich zum Supermarkt.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "to go".
+<break time="4.0s" />
+
+<lang code="de" />
+gehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "home, as a direction".
+<break time="4.0s" />
+
+<lang code="de" />
+nach Hause.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "school".
+<break time="4.0s" />
+
+<lang code="de" />
+Schule.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "work".
+<break time="4.0s" />
+
+<lang code="de" />
+Arbeit.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "supermarket".
+<break time="4.0s" />
+
+<lang code="de" />
+Supermarkt.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "today".
+<break time="4.0s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "gehen", meaning "to go", and the forms: ich gehe, du gehst. Keep repeating the sentences out loud.
+<break time="5.0s" />

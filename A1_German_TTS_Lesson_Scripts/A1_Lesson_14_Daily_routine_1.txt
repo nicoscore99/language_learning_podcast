@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 14. The topic is Daily routine 1. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: aufstehen, früh, spät, müde, morgen, heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to get up". "to get up" in German is: "aufstehen". You will practise these forms: ich stehe auf, du stehst auf.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: “aufstehen” is separable. In a simple sentence, “auf” moves to the end: “Ich stehe früh auf.”
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich esse Frühstück"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich esse Frühstück.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Was isst du heute"?
+<break time="5.0s" />
+
+<lang code="de" />
+Was isst du heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Es ist acht Uhr"?
+<break time="5.0s" />
+
+<lang code="de" />
+Es ist acht Uhr.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Guten Abend"?
+<break time="5.0s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "aufstehen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+aufstehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "aufstehen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"aufstehen" means "to get up". Say "aufstehen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+aufstehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "aufstehen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich stehe früh auf."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "früh". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+früh.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "früh".
+<break time="3.5s" />
+
+<lang code="auto" />
+"früh" means "early". Say "früh" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+früh.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "früh". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Stehst du spät auf?
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Stehst du spät auf?"
+<break time="5.5s" />
+
+<lang code="de" />
+Stehst du spät auf?
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "spät". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "spät".
+<break time="3.5s" />
+
+<lang code="auto" />
+"spät" means "late". Say "spät" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "spät". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Heute bin ich müde.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Heute bin ich müde."
+<break time="5.5s" />
+
+<lang code="de" />
+Heute bin ich müde.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "late" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "early" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+früh.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "to get up" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+aufstehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "müde". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+müde.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "müde".
+<break time="3.5s" />
+
+<lang code="auto" />
+"müde" means "tired". Say "müde" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+müde.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "müde". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage müde.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage müde."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage müde.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "morgen". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "morgen".
+<break time="3.5s" />
+
+<lang code="auto" />
+"morgen" means "tomorrow". Say "morgen" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "morgen". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage morgen.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage morgen."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage morgen.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "tomorrow" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "tired" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+müde.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "late" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "heute". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "heute".
+<break time="3.5s" />
+
+<lang code="auto" />
+"heute" means "today". Say "heute" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "heute". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage heute."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage heute.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "aufstehen". It means "to get up". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich stehe auf.
+<break time="3.5s" />
+
+<lang code="de" />
+du stehst auf.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich stehe auf".
+<break time="4.5s" />
+
+<lang code="de" />
+ich stehe auf.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du stehst auf".
+<break time="4.5s" />
+
+<lang code="de" />
+du stehst auf.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich stehe früh auf."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Stehst du spät auf?"
+<break time="5.5s" />
+
+<lang code="de" />
+Stehst du spät auf?
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Heute bin ich müde."
+<break time="5.5s" />
+
+<lang code="de" />
+Heute bin ich müde.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Guten Abend"
+<break time="5.5s" />
+
+<lang code="de" />
+Guten Abend.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich stehe früh auf."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich stehe früh auf.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Stehst du spät auf?"
+<break time="5.5s" />
+
+<lang code="de" />
+Stehst du spät auf?
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: “aufstehen” is separable. In a simple sentence, “auf” moves to the end: “Ich stehe früh auf.” Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich stehe auf; du stehst auf.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich stehe früh auf. Stehst du spät auf? Heute bin ich müde.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "to get up".
+<break time="4.0s" />
+
+<lang code="de" />
+aufstehen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "early".
+<break time="4.0s" />
+
+<lang code="de" />
+früh.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "late".
+<break time="4.0s" />
+
+<lang code="de" />
+spät.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "tired".
+<break time="4.0s" />
+
+<lang code="de" />
+müde.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "tomorrow".
+<break time="4.0s" />
+
+<lang code="de" />
+morgen.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "today".
+<break time="4.0s" />
+
+<lang code="de" />
+heute.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "aufstehen", meaning "to get up", and the forms: ich stehe auf, du stehst auf. Keep repeating the sentences out loud.
+<break time="5.0s" />

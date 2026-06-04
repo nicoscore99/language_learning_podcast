@@ -1,0 +1,483 @@
+<lang code="en" />
+Welcome. This is German A1 lesson 17. The topic is Transport. You will hear English prompts, and you should answer in German.
+<break time="3.0s" />
+
+<lang code="auto" />
+Today you will learn these German words and expressions: Bus, Zug, Auto, Fahrrad, Bahnhof, fahren.
+<break time="4.0s" />
+
+<lang code="auto" />
+The main language focus today is the verb "to drive or go by vehicle". "to drive or go by vehicle" in German is: "fahren". You will practise these forms: ich fahre, du fährst.
+<break time="5.0s" />
+
+<lang code="auto" />
+A small grammar point for today: “fahren” changes its vowel in the “du” form: “du fährst”.
+<break time="5.0s" />
+
+<lang code="en" />
+First, let us quickly review a few things from earlier lessons. Say the German.
+<break time="3.5s" />
+
+<lang code="auto" />
+How do you say: "Ich arbeite im Büro"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich arbeite im Büro.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Du lernst Deutsch"?
+<break time="5.0s" />
+
+<lang code="de" />
+Du lernst Deutsch.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Ich gehe nach Hause"?
+<break time="5.0s" />
+
+<lang code="de" />
+Ich gehe nach Hause.
+<break time="4.0s" />
+
+<lang code="auto" />
+How do you say: "Gehst du zur Arbeit"?
+<break time="5.0s" />
+
+<lang code="de" />
+Gehst du zur Arbeit.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 1: "Bus". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Bus.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Bus".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Bus" means "bus". Say "Bus" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Bus.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Bus". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich fahre mit dem Bus."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 2: "Zug". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Zug.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Zug".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Zug" means "train". Say "Zug" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Zug.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Zug". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Fährst du mit dem Zug?
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Fährst du mit dem Zug?"
+<break time="5.5s" />
+
+<lang code="de" />
+Fährst du mit dem Zug?
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 3: "Auto". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Auto.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Auto".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Auto" means "car". Say "Auto" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Auto.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Auto". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Der Bahnhof ist hier.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Der Bahnhof ist hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Der Bahnhof ist hier.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "car" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Auto.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "train" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Zug.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "bus" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Bus.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 4: "Fahrrad". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Fahrrad.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Fahrrad".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Fahrrad" means "bicycle". Say "Fahrrad" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Fahrrad.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Fahrrad". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Fahrrad.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Fahrrad."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Fahrrad.
+<break time="4.0s" />
+
+<lang code="auto" />
+New word 5: "Bahnhof". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+Bahnhof.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "Bahnhof".
+<break time="3.5s" />
+
+<lang code="auto" />
+"Bahnhof" means "train station". Say "Bahnhof" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+Bahnhof.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "Bahnhof". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage Bahnhof.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage Bahnhof."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage Bahnhof.
+<break time="4.0s" />
+
+<lang code="en" />
+Quick recall. Say these German words again.
+<break time="3.0s" />
+
+<lang code="auto" />
+Say "train station" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Bahnhof.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "bicycle" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Fahrrad.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say "car" in German.
+<break time="4.0s" />
+
+<lang code="de" />
+Auto.
+<break time="3.5s" />
+
+<lang code="auto" />
+New word 6: "fahren". Listen to the German word, then repeat it.
+<break time="3.5s" />
+
+<lang code="de" />
+fahren.
+<break time="3.5s" />
+
+<lang code="auto" />
+When you hear the English prompt, answer with the German word: "fahren".
+<break time="3.5s" />
+
+<lang code="auto" />
+"fahren" means "to drive or go by vehicle". Say "fahren" in German.
+<break time="4.5s" />
+
+<lang code="de" />
+fahren.
+<break time="3.5s" />
+
+<lang code="auto" />
+Now a short sentence with "fahren". Listen and repeat the German sentence.
+<break time="3.5s" />
+
+<lang code="de" />
+Ich sage fahren.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say this in German: "Ich sage fahren."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich sage fahren.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now practise the main verb "fahren". It means "to drive or go by vehicle". Listen and repeat each form.
+<break time="4.0s" />
+
+<lang code="de" />
+ich fahre.
+<break time="3.5s" />
+
+<lang code="de" />
+du fährst.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "ich fahre".
+<break time="4.5s" />
+
+<lang code="de" />
+ich fahre.
+<break time="3.5s" />
+
+<lang code="auto" />
+Say this German form: "du fährst".
+<break time="4.5s" />
+
+<lang code="de" />
+du fährst.
+<break time="3.5s" />
+
+<lang code="en" />
+Now combine today’s words into short useful sentences. Answer in German.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Ich fahre mit dem Bus."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Fährst du mit dem Zug?"
+<break time="5.5s" />
+
+<lang code="de" />
+Fährst du mit dem Zug?
+<break time="4.0s" />
+
+<lang code="auto" />
+Say in German: "Der Bahnhof ist hier."
+<break time="5.5s" />
+
+<lang code="de" />
+Der Bahnhof ist hier.
+<break time="4.0s" />
+
+<lang code="en" />
+Now mix today’s German with an earlier lesson.
+<break time="4.0s" />
+
+<lang code="auto" />
+Say this earlier sentence in German again: "Gehst du zur Arbeit"
+<break time="5.5s" />
+
+<lang code="de" />
+Gehst du zur Arbeit.
+<break time="4.0s" />
+
+<lang code="en" />
+Mini-dialogue. Answer each line in German. Then listen to the model answer.
+<break time="4.0s" />
+
+<lang code="auto" />
+How would you say: "Ich fahre mit dem Bus."
+<break time="5.5s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus.
+<break time="4.0s" />
+
+<lang code="auto" />
+Now say: "Fährst du mit dem Zug?"
+<break time="5.5s" />
+
+<lang code="de" />
+Fährst du mit dem Zug?
+<break time="4.0s" />
+
+<lang code="auto" />
+Small grammar reminder: “fahren” changes its vowel in the “du” form: “du fährst”. Listen to the pattern once more, then repeat it.
+<break time="5.0s" />
+
+<lang code="de" />
+ich fahre; du fährst.
+<break time="4.5s" />
+
+<lang code="auto" />
+Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
+<break time="8.5s" />
+
+<lang code="de" />
+Ich fahre mit dem Bus. Fährst du mit dem Zug? Der Bahnhof ist hier.
+<break time="6.0s" />
+
+<lang code="en" />
+Final review. Say the German after each prompt.
+<break time="3.0s" />
+
+<lang code="auto" />
+German for "bus".
+<break time="4.0s" />
+
+<lang code="de" />
+Bus.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "train".
+<break time="4.0s" />
+
+<lang code="de" />
+Zug.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "car".
+<break time="4.0s" />
+
+<lang code="de" />
+Auto.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "bicycle".
+<break time="4.0s" />
+
+<lang code="de" />
+Fahrrad.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "train station".
+<break time="4.0s" />
+
+<lang code="de" />
+Bahnhof.
+<break time="3.5s" />
+
+<lang code="auto" />
+German for "to drive or go by vehicle".
+<break time="4.0s" />
+
+<lang code="de" />
+fahren.
+<break time="3.5s" />
+
+<lang code="auto" />
+Great work. In this lesson, you practised "fahren", meaning "to drive or go by vehicle", and the forms: ich fahre, du fährst. Keep repeating the sentences out loud.
+<break time="5.0s" />
