@@ -89,16 +89,24 @@ python generate_segmented_lesson_mp3_langtags.py `
   --output A1_German_TTS_Lesson_Scripts\A1_Lesson_01_Greetings_and_saying_who_you_are.mp3 `
   --max-chars 350 `
   --speech-tempo 0.90 `
-  --break-multiplier 1.0
+  --break-multiplier 1.0 `
+  --normalize-loudness
 ```
 
-The manifest records each speech/silence segment, inferred language code, text, cache key, requested break duration, rendered break duration, and synthesis settings. This is the planned source for subtitles, video timing, and reproducible rebuilds.
+The manifest records each speech/silence segment, inferred language code, text, cache key, requested break duration, rendered break duration, synthesis settings, and post-synthesis segment timings. This is the planned source for subtitles, video timing, and reproducible rebuilds.
+
+By default, loudness normalization targets `-16 LUFS` integrated loudness, `-1.5 dBTP` true peak, and `11 LRA`. You can adjust those with:
+
+```powershell
+--loudness-target-i -16 `
+--loudness-target-tp -1.5 `
+--loudness-target-lra 11
+```
 
 ## Current Pipeline Direction
 
 Near-term improvements:
 
-- Add loudness normalization after MP3 stitching.
 - Add batch synthesis for full folders.
 - Generate subtitles from the manifest.
 - Generate simple video assets from audio plus subtitles.

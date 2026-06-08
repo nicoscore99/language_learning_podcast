@@ -106,6 +106,25 @@ def find_ffmpeg() -> str:
     )
 
 
+def find_ffprobe(ffmpeg: str) -> str:
+    ffprobe = shutil.which("ffprobe")
+    if ffprobe:
+        return ffprobe
+
+    ffmpeg_path = Path(ffmpeg)
+    sibling = ffmpeg_path.with_name("ffprobe.exe" if os.name == "nt" else "ffprobe")
+    if sibling.exists():
+        return str(sibling)
+
+    fallback = r"C:\ffmpeg\bin\ffprobe.exe"
+    if Path(fallback).exists():
+        return fallback
+
+    raise FileNotFoundError(
+        "Could not find ffprobe. Add it to PATH or place it next to ffmpeg."
+    )
+
+
 def run_command(command: list[str]) -> None:
     result = subprocess.run(command, capture_output=True, text=True)
     if result.returncode != 0:
@@ -117,6 +136,34 @@ def run_command(command: list[str]) -> None:
             + "\n\nSTDERR:\n"
             + result.stderr
         )
+
+
+def run_command_capture(command: list[str]) -> str:
+    result = subprocess.run(command, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(
+            "Command failed:\n"
+            + " ".join(command)
+            + "\n\nSTDOUT:\n"
+            + result.stdout
+            + "\n\nSTDERR:\n"
+            + result.stderr
+        )
+    return result.stdout
+
+
+def get_audio_duration_seconds(ffprobe: str, audio_path: Path) -> float:
+    output = run_command_capture([
+        ffprobe,
+        "-v",
+        "error",
+        "-show_entries",
+        "format=duration",
+        "-of",
+        "default=noprint_wrappers=1:nokey=1",
+        str(audio_path),
+    ])
+    return float(output.strip())
 
 
 def normalize_language_code(code: str) -> str:
@@ -432,6 +479,10 @@ def build_manifest(
         "speech_tempo": args.speech_tempo,
         "break_multiplier": args.break_multiplier,
         "min_break": args.min_break,
+        "normalize_loudness": args.normalize_loudness,
+        "loudness_target_i": args.loudness_target_i,
+        "loudness_target_tp": args.loudness_target_tp,
+        "loudness_target_lra": args.loudness_target_lra,
         "seed": args.seed,
         "language_code_mode": "disabled" if args.disable_language_code else "explicit tags + fallback",
         "summary": {
@@ -450,6 +501,29 @@ def write_manifest(manifest: dict[str, Any], manifest_path: Path) -> None:
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def add_manifest_timings(
+    *,
+    manifest: dict[str, Any],
+    segment_paths: list[Path],
+    ffprobe: str,
+) -> None:
+    current_time = 0.0
+
+    for segment, segment_path in zip(manifest["segments"], segment_paths):
+        duration = get_audio_duration_seconds(ffprobe, segment_path)
+        start_time = current_time
+        end_time = start_time + duration
+
+        segment["duration_seconds"] = round(duration, 6)
+        segment["start_seconds"] = round(start_time, 6)
+        segment["end_seconds"] = round(end_time, 6)
+
+        current_time = end_time
+
+    manifest["summary"]["duration_seconds"] = round(current_time, 6)
+    manifest["summary"]["duration_minutes"] = round(current_time / 60.0, 3)
 
 
 def call_elevenlabs_tts(
@@ -616,6 +690,50 @@ def concat_mp3_files(
         list_file.unlink(missing_ok=True)
 
 
+def normalize_loudness(
+    *,
+    ffmpeg: str,
+    input_path: Path,
+    output_path: Path,
+    target_i: float,
+    target_tp: float,
+    target_lra: float,
+    bitrate: str,
+) -> None:
+    temp_path = output_path.with_name(f"{output_path.stem}_normalized_tmp{output_path.suffix}")
+    filter_value = f"loudnorm=I={target_i}:TP={target_tp}:LRA={target_lra}"
+
+    command = [
+        ffmpeg,
+        "-y",
+        "-i",
+        str(input_path),
+        "-af",
+        filter_value,
+        "-ar",
+        "44100",
+        "-ac",
+        "1",
+        "-acodec",
+        "libmp3lame",
+        "-b:a",
+        bitrate,
+        str(temp_path),
+    ]
+
+    try:
+        run_command(command)
+        try:
+            temp_path.replace(output_path)
+        except PermissionError:
+            shutil.copyfile(temp_path, output_path)
+    finally:
+        try:
+            temp_path.unlink(missing_ok=True)
+        except PermissionError:
+            pass
+
+
 def main() -> None:
     configure_console_output()
 
@@ -672,6 +790,33 @@ def main() -> None:
         type=float,
         default=1.0,
         help="Multiply every break duration. Example: 1.25 makes breaks 25 percent longer.",
+    )
+
+    parser.add_argument(
+        "--normalize-loudness",
+        action="store_true",
+        help="Normalize the final MP3 with FFmpeg loudnorm after concatenation.",
+    )
+
+    parser.add_argument(
+        "--loudness-target-i",
+        type=float,
+        default=-16.0,
+        help="Integrated loudness target in LUFS for --normalize-loudness.",
+    )
+
+    parser.add_argument(
+        "--loudness-target-tp",
+        type=float,
+        default=-1.5,
+        help="True peak target in dBTP for --normalize-loudness.",
+    )
+
+    parser.add_argument(
+        "--loudness-target-lra",
+        type=float,
+        default=11.0,
+        help="Loudness range target for --normalize-loudness.",
     )
 
     parser.add_argument(
@@ -796,6 +941,7 @@ def main() -> None:
 
     api_key = get_api_key()
     ffmpeg = find_ffmpeg()
+    ffprobe = find_ffprobe(ffmpeg)
 
     args.cache_dir.mkdir(parents=True, exist_ok=True)
 
@@ -809,7 +955,9 @@ def main() -> None:
     print(f"Speech tempo: {args.speech_tempo}")
     print(f"Break multiplier: {args.break_multiplier}")
     print(f"Minimum break: {args.min_break}")
+    print(f"Loudness normalization: {'on' if args.normalize_loudness else 'off'}")
     print(f"FFmpeg: {ffmpeg}")
+    print(f"FFprobe: {ffprobe}")
 
     final_segment_files: list[Path] = []
     speech_count = 0
@@ -911,9 +1059,35 @@ def main() -> None:
         raise RuntimeError(f"Expected output file was not created: {output_path}")
 
     if not args.no_manifest:
+        add_manifest_timings(
+            manifest=manifest,
+            segment_paths=final_segment_files,
+            ffprobe=ffprobe,
+        )
         manifest["summary"]["cache_hits"] = cache_hits
         manifest["summary"]["cache_misses"] = cache_misses
         manifest["summary"]["final_segment_files"] = [str(path) for path in final_segment_files]
+
+    if args.normalize_loudness:
+        print(
+            "Normalizing loudness "
+            f"(I={args.loudness_target_i}, TP={args.loudness_target_tp}, LRA={args.loudness_target_lra})..."
+        )
+        normalize_loudness(
+            ffmpeg=ffmpeg,
+            input_path=output_path,
+            output_path=output_path,
+            target_i=args.loudness_target_i,
+            target_tp=args.loudness_target_tp,
+            target_lra=args.loudness_target_lra,
+            bitrate=args.bitrate,
+        )
+
+    if not args.no_manifest:
+        manifest["summary"]["final_output_duration_seconds"] = round(
+            get_audio_duration_seconds(ffprobe, output_path),
+            6,
+        )
         write_manifest(manifest, manifest_path)
         print(f"Wrote manifest: {manifest_path}")
 
