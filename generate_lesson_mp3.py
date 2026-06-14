@@ -33,7 +33,7 @@ Windows PowerShell setup:
     $env:Path += ";C:\ffmpeg\bin"
 
 Example:
-    python generate_segmented_lesson_mp3_langtags.py `
+    python generate_lesson_mp3.py `
       lesson01.txt `
       --voice-id YOUR_VOICE_ID `
       --model-id eleven_multilingual_v2 `
@@ -55,11 +55,13 @@ import argparse
 import hashlib
 import json
 import os
+import platform
 import re
 import shutil
 import subprocess
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -83,6 +85,33 @@ TAG_RE = re.compile(
     r'(<break\s+time=["\'][0-9]+(?:\.[0-9]+)?s["\']\s*/>|<lang\s+code=["\'](?:auto|[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*)["\']\s*/>)',
     flags=re.IGNORECASE,
 )
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def get_git_metadata() -> dict[str, Any] | None:
+    try:
+        commit = subprocess.run(
+            ["git", "rev-parse", "HEAD"],
+            capture_output=True,
+            text=True,
+            check=True,
+        ).stdout.strip()
+        status = subprocess.run(
+            ["git", "status", "--porcelain"],
+            capture_output=True,
+            text=True,
+            check=True,
+        ).stdout
+    except (FileNotFoundError, subprocess.CalledProcessError):
+        return None
+    return {"commit": commit, "dirty": bool(status.strip())}
 
 
 def get_api_key() -> str:
@@ -199,6 +228,22 @@ def normalize_tag_language_code(code: str) -> str:
     if normalized == AUTO_LANGUAGE_CODE:
         return AUTO_LANGUAGE_CODE
     return normalize_language_code(code)
+
+
+def language_matches_role(language_code: str | None, role_language: str | None) -> bool:
+    if not language_code or not role_language:
+        return False
+    if "-" in role_language:
+        return language_code == role_language
+    return language_code.split("-", 1)[0] == role_language
+
+
+def speech_tempo_for_language(language_code: str | None, args: argparse.Namespace) -> float:
+    if language_matches_role(language_code, args.teacher_language):
+        return args.teacher_speech_tempo
+    if language_matches_role(language_code, args.target_language):
+        return args.target_speech_tempo
+    return args.speech_tempo
 
 
 def configure_console_output() -> None:
@@ -428,6 +473,7 @@ def build_manifest(
     lang_counts: dict[str, int],
 ) -> dict[str, Any]:
     manifest_segments: list[dict[str, Any]] = []
+    generator_path = Path(__file__).resolve()
 
     for index, segment in enumerate(segments, start=1):
         if segment["type"] == "speech":
@@ -451,6 +497,7 @@ def build_manifest(
                 "language_code": language_code,
                 "text": text,
                 "character_count": len(text),
+                "speech_tempo": speech_tempo_for_language(language_code, args),
                 "cache_key": cache_key,
                 "raw_audio_path": str(args.cache_dir / f"{cache_key}.mp3"),
             })
@@ -466,24 +513,59 @@ def build_manifest(
         })
 
     return {
-        "schema_version": 1,
+        "schema_version": 2,
+        "created_at_utc": datetime.now(timezone.utc).isoformat(),
+        "generator": {
+            "path": str(generator_path),
+            "sha256": sha256_file(generator_path),
+            "command": [sys.executable, *sys.argv],
+            "python_version": platform.python_version(),
+            "platform": platform.platform(),
+            "requests_version": requests.__version__,
+        },
+        "git": get_git_metadata(),
+        "source": {
+            "path": str(input_path),
+            "sha256": sha256_file(input_path),
+        },
         "input_path": str(input_path),
         "output_path": str(output_path),
         "manifest_path": str(manifest_path),
         "mode": "dry_run" if args.dry_run else "synthesis",
-        "model_id": args.model_id,
-        "voice_id": args.voice_id,
-        "output_format": args.output_format,
-        "bitrate": args.bitrate,
-        "max_chars": args.max_chars,
-        "speech_tempo": args.speech_tempo,
-        "break_multiplier": args.break_multiplier,
-        "min_break": args.min_break,
-        "normalize_loudness": args.normalize_loudness,
-        "loudness_target_i": args.loudness_target_i,
-        "loudness_target_tp": args.loudness_target_tp,
-        "loudness_target_lra": args.loudness_target_lra,
-        "seed": args.seed,
+        "tts_settings": {
+            "provider": "ElevenLabs",
+            "model_id": args.model_id,
+            "voice_id": args.voice_id,
+            "output_format": args.output_format,
+            "stability": args.stability,
+            "similarity_boost": args.similarity_boost,
+            "style": args.style,
+            "use_speaker_boost": not args.no_speaker_boost,
+            "seed": args.seed,
+        },
+        "processing_settings": {
+            "bitrate": args.bitrate,
+            "max_chars": args.max_chars,
+            "speech_tempo": args.speech_tempo,
+            "teacher_language": args.teacher_language,
+            "teacher_speech_tempo": args.teacher_speech_tempo,
+            "target_language": args.target_language,
+            "target_speech_tempo": args.target_speech_tempo,
+            "break_multiplier": args.break_multiplier,
+            "min_break": args.min_break,
+            "normalize_loudness": args.normalize_loudness,
+            "loudness_target_i": args.loudness_target_i,
+            "loudness_target_tp": args.loudness_target_tp,
+            "loudness_target_lra": args.loudness_target_lra,
+            "default_language": args.default_language,
+            "disable_language_code": args.disable_language_code,
+        },
+        "workspace_settings": {
+            "cache_dir": str(args.cache_dir),
+            "work_dir": str(args.work_dir),
+            "keep_work": args.keep_work,
+            "sleep_between_api_calls": args.sleep,
+        },
         "language_code_mode": "disabled" if args.disable_language_code else "explicit tags + fallback",
         "summary": {
             "segments": len(segments),
@@ -775,7 +857,33 @@ def main() -> None:
         "--speech-tempo",
         type=float,
         default=0.90,
-        help="Tempo for spoken audio only. 0.90 = 10 percent slower. 1.0 = unchanged.",
+        help="Fallback tempo for speech not matched to a teacher or target language.",
+    )
+
+    parser.add_argument(
+        "--teacher-language",
+        default=None,
+        help="Language code spoken by the narrator/teacher, e.g. zh or en.",
+    )
+
+    parser.add_argument(
+        "--teacher-speech-tempo",
+        type=float,
+        default=None,
+        help="Tempo for --teacher-language. Defaults to --speech-tempo.",
+    )
+
+    parser.add_argument(
+        "--target-language",
+        default=None,
+        help="Language code being taught, e.g. en or de.",
+    )
+
+    parser.add_argument(
+        "--target-speech-tempo",
+        type=float,
+        default=None,
+        help="Tempo for --target-language. Defaults to --speech-tempo.",
     )
 
     parser.add_argument(
@@ -881,6 +989,37 @@ def main() -> None:
     if args.seed == -1:
         args.seed = None
 
+    if args.teacher_speech_tempo is not None and not args.teacher_language:
+        parser.error("--teacher-speech-tempo requires --teacher-language")
+    if args.target_speech_tempo is not None and not args.target_language:
+        parser.error("--target-speech-tempo requires --target-language")
+
+    if args.teacher_language:
+        args.teacher_language = normalize_language_code(args.teacher_language)
+    if args.target_language:
+        args.target_language = normalize_language_code(args.target_language)
+    if (
+        args.teacher_language
+        and args.target_language
+        and (
+            language_matches_role(args.teacher_language, args.target_language)
+            or language_matches_role(args.target_language, args.teacher_language)
+        )
+    ):
+        parser.error("--teacher-language and --target-language must not overlap")
+
+    if args.teacher_speech_tempo is None:
+        args.teacher_speech_tempo = args.speech_tempo
+    if args.target_speech_tempo is None:
+        args.target_speech_tempo = args.speech_tempo
+    for option, tempo in (
+        ("--speech-tempo", args.speech_tempo),
+        ("--teacher-speech-tempo", args.teacher_speech_tempo),
+        ("--target-speech-tempo", args.target_speech_tempo),
+    ):
+        if tempo <= 0:
+            parser.error(f"{option} must be greater than zero")
+
     input_path = args.input_txt
     if not input_path.exists():
         raise FileNotFoundError(f"Input file not found: {input_path}")
@@ -929,7 +1068,12 @@ def main() -> None:
                 preview = segment["text"].replace("\n", " ")
                 if len(preview) > 90:
                     preview = preview[:87] + "..."
-                print(f"{i:04d} SPEECH lang={segment.get('language_code') or 'none'} chars={len(segment['text'])}: {preview}")
+                language_code = segment.get("language_code")
+                tempo = speech_tempo_for_language(language_code, args)
+                print(
+                    f"{i:04d} SPEECH lang={language_code or 'none'} tempo={tempo} "
+                    f"chars={len(segment['text'])}: {preview}"
+                )
             else:
                 print(f"{i:04d} SILENCE {segment['seconds']:.2f}s")
         if len(segments) > 50:
@@ -952,7 +1096,11 @@ def main() -> None:
 
     print(f"Model: {args.model_id}")
     print(f"Voice ID: {args.voice_id}")
-    print(f"Speech tempo: {args.speech_tempo}")
+    print(f"Fallback speech tempo: {args.speech_tempo}")
+    if args.teacher_language:
+        print(f"Teacher speech tempo: {args.teacher_language} = {args.teacher_speech_tempo}")
+    if args.target_language:
+        print(f"Target speech tempo: {args.target_language} = {args.target_speech_tempo}")
     print(f"Break multiplier: {args.break_multiplier}")
     print(f"Minimum break: {args.min_break}")
     print(f"Loudness normalization: {'on' if args.normalize_loudness else 'off'}")
@@ -986,6 +1134,7 @@ def main() -> None:
 
             raw_speech_path = args.cache_dir / f"{key}.mp3"
             processed_path = lesson_work_dir / f"{index:05d}_speech.mp3"
+            speech_tempo = speech_tempo_for_language(language_code, args)
 
             lang_note = language_code or "no-code"
             cache_hit = raw_speech_path.exists()
@@ -1016,7 +1165,7 @@ def main() -> None:
                 ffmpeg=ffmpeg,
                 input_path=raw_speech_path,
                 output_path=processed_path,
-                tempo=args.speech_tempo,
+                tempo=speech_tempo,
                 bitrate=args.bitrate,
             )
 
@@ -1088,6 +1237,11 @@ def main() -> None:
             get_audio_duration_seconds(ffprobe, output_path),
             6,
         )
+        manifest["output"] = {
+            "path": str(output_path),
+            "sha256": sha256_file(output_path),
+            "bytes": output_path.stat().st_size,
+        }
         write_manifest(manifest, manifest_path)
         print(f"Wrote manifest: {manifest_path}")
 
