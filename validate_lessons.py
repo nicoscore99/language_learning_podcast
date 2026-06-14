@@ -9,7 +9,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-from generate_segmented_lesson_mp3_langtags import (
+from generate_lesson_mp3 import (
     BREAK_RE,
     LANG_RE,
     TAG_RE,

@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from generate_segmented_lesson_mp3_langtags import parse_tts_script
+from generate_lesson_mp3 import parse_tts_script
 from standardize_lessons import render_segments
 
 
