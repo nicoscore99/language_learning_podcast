@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 10. The topic is Ordering simple things. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: zahlen, Rechnung, Karte, bar, nehmen, bitte.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to take". "to take" in German is: "nehmen". You will practise these forms: ich nehme, du nimmst.
+
 <break time="5.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 A small grammar point for today: In a yes-or-no question, the verb often comes first: “Nimmst du Kaffee?”
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Er ist nett"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Er ist nett.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Sie ist meine Freundin"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sie ist meine Freundin.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich möchte Kaffee"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Möchtest du Tee"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "zahlen". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 zahlen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "zahlen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "zahlen" means "to pay". Say "zahlen" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 zahlen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "zahlen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich nehme Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich nehme Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich nehme Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Rechnung". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Rechnung.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Rechnung".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Rechnung" means "bill". Say "Rechnung" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Rechnung.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Rechnung". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Die Rechnung, bitte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Karte". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Karte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Karte".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Karte" means "card". Say "Karte" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Karte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Karte". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich zahle mit Karte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich zahle mit Karte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich zahle mit Karte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "card" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Karte.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "bill" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Rechnung.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "to pay" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 zahlen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "bar". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 bar.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "bar".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "bar" means "in cash". Say "bar" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 bar.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "bar". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage bar.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage bar."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage bar.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "nehmen". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 nehmen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "nehmen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "nehmen" means "to take". Say "nehmen" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nehmen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "nehmen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage nehmen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage nehmen."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage nehmen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "to take" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nehmen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "in cash" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 bar.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "card" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Karte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "bitte". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 bitte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "bitte".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "bitte" means "please or you are welcome". Say "bitte" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 bitte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "bitte". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage bitte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "nehmen". It means "to take". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich nehme.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du nimmst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich nehme".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich nehme.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du nimmst".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du nimmst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich nehme Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich nehme Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Die Rechnung, bitte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Ich zahle mit Karte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich zahle mit Karte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Möchtest du Tee"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich nehme Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich nehme Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Die Rechnung, bitte."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Small grammar reminder: In a yes-or-no question, the verb often comes first: “Nimmst du Kaffee?” Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich nehme; du nimmst.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 Ich nehme Wasser. Die Rechnung, bitte. Ich zahle mit Karte.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "to pay".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 zahlen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "bill".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Rechnung.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "card".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Karte.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "in cash".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 bar.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to take".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nehmen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "please or you are welcome".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 bitte.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "nehmen", meaning "to take", and the forms: ich nehme, du nimmst. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

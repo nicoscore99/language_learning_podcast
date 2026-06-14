@@ -1,439 +1,549 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 1. The topic is Greetings and saying who you are. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: hallo, guten Morgen, ich, du, Name, sein.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to be". "to be" in German is: "sein". You will practise these forms: ich bin, du bist.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: German uses different forms of verbs for different people. For “I am”, say “ich bin”. For “you are”, say “du bist”.
+
 <break time="5.0s" />
 
 <lang code="en" />
 Because this is the first lesson, we will begin slowly. Listen, repeat, and answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 New word 1: "hallo". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 hallo.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "hallo".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "hallo" means "hello". Say "hallo" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 hallo.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "hallo". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hallo, ich bin Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Hallo, ich bin Anna."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hallo, ich bin Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "guten Morgen". Listen to the German word, then repeat it.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 guten Morgen.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "guten Morgen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "guten Morgen" means "good morning". Say "guten Morgen" in German.
+
 <break time="4.5s" />
 
 <lang code="de" />
 guten Morgen.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now a short sentence with "guten Morgen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Guten Morgen, du bist Max.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Guten Morgen, du bist Max."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Guten Morgen, du bist Max.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "ich". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 ich.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "ich".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "ich" means "I". Say "ich" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ich.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "ich". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Mein Name ist Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Mein Name ist Anna."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Mein Name ist Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "I" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ich.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "good morning" in German.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 guten Morgen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Say "hello" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 hallo.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "du". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 du.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "du".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "du" means "you, informal singular". Say "du" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 du.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "du". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage du.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage du."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage du.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "Name". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Name.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Name".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Name" means "name". Say "Name" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Name.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Name". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Name.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Name."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Name.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Say "name" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Name.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "you, informal singular" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 du.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "I" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ich.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "sein". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 sein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "sein".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "sein" means "to be". Say "sein" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 sein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "sein". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage sein.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage sein."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage sein.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "sein". It means "to be". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich bin.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du bist.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich bin".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich bin.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du bist".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du bist.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Hallo, ich bin Anna."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hallo, ich bin Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Guten Morgen, du bist Max."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Guten Morgen, du bist Max.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Mein Name ist Anna."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Mein Name ist Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Hallo, ich bin Anna."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hallo, ich bin Anna.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Guten Morgen, du bist Max."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Guten Morgen, du bist Max.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: German uses different forms of verbs for different people. For “I am”, say “ich bin”. For “you are”, say “du bist”. Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich bin; du bist.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="6.5s" />
 
 <lang code="de" />
 Hallo, ich bin Anna. Guten Morgen, du bist Max. Mein Name ist Anna.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "hello".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 hallo.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "good morning".
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 guten Morgen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 German for "I".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ich.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "you, informal singular".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 du.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 German for "name".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Name.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to be".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 sein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "sein", meaning "to be", and the forms: ich bin, du bist. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

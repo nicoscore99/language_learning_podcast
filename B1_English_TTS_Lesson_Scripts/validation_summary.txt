@@ -1,168 +1,249 @@
-Validation summary for B1 tagged TTS lesson files with longer adaptive breaks
-Generated: 2026-05-31T14:18:37
-All lesson files include explicit <lang code="zh" /> and <lang code="en" /> tags before spoken blocks wherever practical.
-Allowed tag scan: only <lang code="..." /> and <break time="...s" /> are used inside lesson files.
-Break rule scan: no individual break exceeds 10.0 seconds.
-Break update: short reflection pauses after English model answers were increased, usually to 2.0-3.0 seconds.
+Validation summary for B1_English_TTS_Lesson_Scripts
+Standard: LESSON_STYLE.md
+Allowed tags: lang=en/de/zh/auto and break
+Maximum allowed break: 10.0s
 
 filename: B1_Lesson_01_Health_and_Appointments.txt
-max single break duration: 9.8s
-rough estimated duration: 17.8 minutes
-number of break tags: 151
-approximate English word count: 570
-approximate Mandarin character count: 1213
-allowed tag check: PASS
+status: PASS
+estimated duration: 11.4 minutes
+speech segments: 151
+break tags: 105
+max break: 6.5s
+total break time: 352.5s
+language counts: en=81, zh=70
+auto tag count: 0
+English word count: 1134
+CJK character count: 664
 
 filename: B1_Lesson_02_Health_and_Appointments.txt
-max single break duration: 9.8s
-rough estimated duration: 19.8 minutes
-number of break tags: 167
-approximate English word count: 625
-approximate Mandarin character count: 1406
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 405.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1255
+CJK character count: 725
 
 filename: B1_Lesson_03_Health_and_Appointments.txt
-max single break duration: 9.8s
-rough estimated duration: 19.6 minutes
-number of break tags: 167
-approximate English word count: 612
-approximate Mandarin character count: 1386
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 401.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1257
+CJK character count: 719
 
 filename: B1_Lesson_04_Work_and_Jobs.txt
-max single break duration: 9.8s
-rough estimated duration: 19.4 minutes
-number of break tags: 167
-approximate English word count: 591
-approximate Mandarin character count: 1364
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 401.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1224
+CJK character count: 723
 
 filename: B1_Lesson_05_Work_and_Jobs.txt
-max single break duration: 9.8s
-rough estimated duration: 19.3 minutes
-number of break tags: 167
-approximate English word count: 590
-approximate Mandarin character count: 1349
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 395.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1222
+CJK character count: 730
 
 filename: B1_Lesson_06_Work_and_Jobs.txt
-max single break duration: 9.8s
-rough estimated duration: 19.6 minutes
-number of break tags: 167
-approximate English word count: 594
-approximate Mandarin character count: 1396
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 403.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1242
+CJK character count: 730
 
 filename: B1_Lesson_07_Travel_and_Transport.txt
-max single break duration: 9.8s
-rough estimated duration: 19.5 minutes
-number of break tags: 167
-approximate English word count: 603
-approximate Mandarin character count: 1378
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 399.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1224
+CJK character count: 714
 
 filename: B1_Lesson_08_Travel_and_Transport.txt
-max single break duration: 9.8s
-rough estimated duration: 19.6 minutes
-number of break tags: 167
-approximate English word count: 621
-approximate Mandarin character count: 1371
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 399.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1246
+CJK character count: 721
 
 filename: B1_Lesson_09_Housing_and_Neighborhoods.txt
-max single break duration: 9.8s
-rough estimated duration: 19.4 minutes
-number of break tags: 167
-approximate English word count: 613
-approximate Mandarin character count: 1342
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.2 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 396.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1221
+CJK character count: 715
 
 filename: B1_Lesson_10_Housing_and_Neighborhoods.txt
-max single break duration: 9.8s
-rough estimated duration: 19.4 minutes
-number of break tags: 167
-approximate English word count: 624
-approximate Mandarin character count: 1304
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 405.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1259
+CJK character count: 712
 
 filename: B1_Lesson_11_Money_and_Banking.txt
-max single break duration: 9.8s
-rough estimated duration: 19.4 minutes
-number of break tags: 167
-approximate English word count: 599
-approximate Mandarin character count: 1355
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 399.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1232
+CJK character count: 706
 
 filename: B1_Lesson_12_Money_and_Banking.txt
-max single break duration: 9.8s
-rough estimated duration: 19.2 minutes
-number of break tags: 167
-approximate English word count: 590
-approximate Mandarin character count: 1316
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.1 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 395.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1205
+CJK character count: 714
 
 filename: B1_Lesson_13_Food_and_Restaurants.txt
-max single break duration: 9.8s
-rough estimated duration: 19.3 minutes
-number of break tags: 167
-approximate English word count: 606
-approximate Mandarin character count: 1307
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 401.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1229
+CJK character count: 712
 
 filename: B1_Lesson_14_Food_and_Restaurants.txt
-max single break duration: 9.8s
-rough estimated duration: 19.2 minutes
-number of break tags: 167
-approximate English word count: 586
-approximate Mandarin character count: 1318
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 398.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1237
+CJK character count: 712
 
 filename: B1_Lesson_15_Education_and_Learning.txt
-max single break duration: 9.8s
-rough estimated duration: 19.4 minutes
-number of break tags: 167
-approximate English word count: 601
-approximate Mandarin character count: 1361
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 398.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1222
+CJK character count: 725
 
 filename: B1_Lesson_16_Education_and_Learning.txt
-max single break duration: 9.8s
-rough estimated duration: 19.8 minutes
-number of break tags: 167
-approximate English word count: 622
-approximate Mandarin character count: 1407
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 402.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1251
+CJK character count: 714
 
 filename: B1_Lesson_17_Education_and_Learning.txt
-max single break duration: 9.8s
-rough estimated duration: 19.5 minutes
-number of break tags: 167
-approximate English word count: 586
-approximate Mandarin character count: 1383
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.2 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 395.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1214
+CJK character count: 721
 
 filename: B1_Lesson_18_Relationships_and_Social_Life.txt
-max single break duration: 9.8s
-rough estimated duration: 19.3 minutes
-number of break tags: 167
-approximate English word count: 590
-approximate Mandarin character count: 1355
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 396.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1263
+CJK character count: 725
 
 filename: B1_Lesson_19_Relationships_and_Social_Life.txt
-max single break duration: 9.8s
-rough estimated duration: 19.3 minutes
-number of break tags: 167
-approximate English word count: 592
-approximate Mandarin character count: 1345
-allowed tag check: PASS
+status: PASS
+estimated duration: 13.4 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 400.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1374
+CJK character count: 731
 
 filename: B1_Lesson_20_Relationships_and_Social_Life.txt
-max single break duration: 9.8s
-rough estimated duration: 19.1 minutes
-number of break tags: 167
-approximate English word count: 577
-approximate Mandarin character count: 1323
-allowed tag check: PASS
+status: PASS
+estimated duration: 12.8 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 394.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1306
+CJK character count: 710
 
+files validated: 20
+errors: 0
+warnings: 0
 overall validation: PASS

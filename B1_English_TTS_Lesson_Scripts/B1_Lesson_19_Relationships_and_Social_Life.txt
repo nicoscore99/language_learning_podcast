@@ -1,59 +1,119 @@
 <lang code="zh" />
-欢迎来到第 19 课，级别 B1。今天的主题是关系和社交生活，重点是
-<lang code="en" />
-Feelings and reactions.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第19课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-worried, excited, annoyed, surprised, embarrassed, proud.
+今天的主题是关系和社交生活。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：邀请。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-invite.
+to be worried about something.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：我想邀请我的同事吃晚饭。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-I want to invite my colleague to dinner.
+to be excited about something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be embarrassed about something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be proud of something.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：邀请。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to invite someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to invite someone.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：接受。
+请说英语：接受。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-accept.
+to accept something.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+to accept something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：她决定接受邀请。
+请说英语：拒绝。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+to refuse something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to refuse something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to arrange something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to arrange something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 She decided to accept the invitation.
@@ -61,48 +121,59 @@ She decided to accept the invitation.
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+请回忆并说出上一课的这个句子。
 
-<lang code="zh" />
-第一个新词是
-<lang code="en" />
-worried.
-<lang code="zh" />
-这个词的意思是：担心的。请跟着说。
-<lang code="en" />
-worried.
-
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-worried.
+They may cancel the train tonight.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：担心的。
+第三部分，新词介绍。
 
-<break time="3.5s" />
+<lang code="zh" />
+今天的第1个表达是。
 
 <lang code="en" />
-worried.
-
-<break time="2.0s" />
+to be worried about something.
 
 <lang code="zh" />
-例句。
+意思是：担心的。请跟读。
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：担心的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 I am worried about the deadline.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我担心截止日期。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我担心截止日期。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I am worried about the deadline.
@@ -110,45 +181,36 @@ I am worried about the deadline.
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-excited.
-<lang code="zh" />
-这个词的意思是：兴奋的。请跟着说。
-<lang code="en" />
-excited.
-
-<break time="4.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-excited.
-
-<break time="2.0s" />
+to be excited about something.
 
 <lang code="zh" />
-请说英文：兴奋的。
-
-<break time="3.5s" />
+意思是：兴奋的。请跟读。
 
 <lang code="en" />
-excited.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-We are excited about the trip.
+to be excited about something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我们对这次旅行很兴奋。
+请说英语：兴奋的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：我们对这次旅行很兴奋。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 We are excited about the trip.
@@ -156,45 +218,56 @@ We are excited about the trip.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-annoyed.
-<lang code="zh" />
-这个词的意思是：恼火的。请跟着说。
-<lang code="en" />
-annoyed.
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-annoyed.
+We are excited about the trip.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：恼火的。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-annoyed.
-
-<break time="2.0s" />
+to be annoyed about something.
 
 <lang code="zh" />
-例句。
+意思是：恼火的。请跟读。
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：恼火的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 He felt annoyed because of the noise.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：因为噪音，他感到恼火。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：因为噪音，他感到恼火。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 He felt annoyed because of the noise.
@@ -202,78 +275,36 @@ He felt annoyed because of the noise.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+今天的第4个表达是。
+
+<lang code="en" />
+to be surprised by something.
 
 <lang code="zh" />
-兴奋的。
-
-<break time="4.8s" />
+意思是：惊讶的。请跟读。
 
 <lang code="en" />
-excited.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-担心的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-worried.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-恼火的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-annoyed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-surprised.
-<lang code="zh" />
-这个词的意思是：惊讶的。请跟着说。
-<lang code="en" />
-surprised.
-
-<break time="4.8s" />
-
-<lang code="en" />
-surprised.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：惊讶的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-surprised.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-I was surprised by the good news.
+to be surprised by something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：这个好消息让我很惊讶。
+请说英语：惊讶的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：这个好消息让我很惊讶。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 I was surprised by the good news.
@@ -281,366 +312,9 @@ I was surprised by the good news.
 <break time="2.5s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-embarrassed.
-<lang code="zh" />
-这个词的意思是：尴尬的。请跟着说。
-<lang code="en" />
-embarrassed.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-embarrassed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：尴尬的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-embarrassed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-She felt embarrassed after the mistake.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：犯错后她觉得尴尬。
-
-<lang code="zh" />
-请你说这个英文句子：犯错后她觉得尴尬。
-
-<break time="5.8s" />
-
-<lang code="en" />
-She felt embarrassed after the mistake.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-proud.
-<lang code="zh" />
-这个词的意思是：自豪的。请跟着说。
-<lang code="en" />
-proud.
-
-<break time="4.8s" />
-
-<lang code="en" />
-proud.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：自豪的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-proud.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-I am proud of my progress.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：我为自己的进步感到自豪。
-
-<lang code="zh" />
-请你说这个英文句子：我为自己的进步感到自豪。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I am proud of my progress.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-惊讶的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-surprised.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-自豪的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-proud.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-恼火的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-annoyed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：因为噪音，他感到恼火。
-
-<break time="4.8s" />
-
-<lang code="en" />
-He felt annoyed because of the noise.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我担心截止日期。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I am worried about the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：犯错后她觉得尴尬。
-
-<break time="4.8s" />
-
-<lang code="en" />
-She felt embarrassed after the mistake.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我们对这次旅行很兴奋。
-
-<break time="4.8s" />
-
-<lang code="en" />
-We are excited about the trip.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：我以前担心，但现在感到兴奋和自豪。
-
-<break time="3.5s" />
-
-<lang code="en" />
-I was worried, but now I feel excited and proud.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：犯错后他觉得尴尬又恼火。
-
-<break time="3.5s" />
-
-<lang code="en" />
-He felt embarrassed and annoyed after the mistake.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 cancel 和 worried。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use cancel and worried in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 suggest 和 worried。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use suggest and worried in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-朋友邀请你。请说：谢谢你邀请我，我很高兴接受。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Thank you for inviting me. I am happy to accept.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：如果我犯错，我会道歉。
-
-<break time="4.8s" />
-
-<lang code="en" />
-If I make a mistake, I will apologize.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：信任和支持对友谊很重要。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Trust and support are important in friendship.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：自豪的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-proud.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我为自己的进步感到自豪。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I am proud of my progress.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：恼火的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-annoyed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：因为噪音，他感到恼火。
-
-<break time="5.8s" />
-
-<lang code="en" />
-He felt annoyed because of the noise.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：担心的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-worried.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我担心截止日期。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I am worried about the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：尴尬的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-embarrassed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：犯错后她觉得尴尬。
-
-<break time="5.8s" />
-
-<lang code="en" />
-She felt embarrassed after the mistake.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：兴奋的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-excited.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我们对这次旅行很兴奋。
-
-<break time="5.8s" />
-
-<lang code="en" />
-We are excited about the trip.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：惊讶的。
-
-<break time="3.5s" />
-
-<lang code="en" />
-surprised.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这个好消息让我很惊讶。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I was surprised by the good news.
@@ -648,319 +322,83 @@ I was surprised by the good news.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 worried。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-I need more information before I can deal with worried.
+to be embarrassed about something.
+
+<lang code="zh" />
+意思是：尴尬的。请跟读。
+
+<lang code="en" />
+to be embarrassed about something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：这和 excited 有关，所以我想确认一下。
+请说英语：尴尬的。
 
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to excited, so I would like to confirm it.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：如果 annoyed 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-If annoyed is part of the problem, I will check it carefully.
+to be embarrassed about something.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我们可以用简单的方法处理 surprised。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We can handle surprised in a simple way.
+to be embarrassed about something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 embarrassed 很重要，我会提前准备。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Because embarrassed is important, I will prepare early.
+She felt embarrassed after the mistake.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 proud 的信息。
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-Finally, I will record the information about proud.
+She felt embarrassed after the mistake.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
-
-<lang code="zh" />
-请说：我可以把旧词 cancel 和新词 worried 放进同一个真实情境。
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I can put the old word cancel and the new word worried into one real situation.
-
-<break time="3.0s" />
+to be proud of something.
 
 <lang code="zh" />
-请说：我可以把旧词 suggest 和新词 excited 放进同一个真实情境。
-
-<break time="4.8s" />
+意思是：自豪的。请跟读。
 
 <lang code="en" />
-I can put the old word suggest and the new word excited into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with worried and excited.
+to be proud of something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
+请说英语：自豪的。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
+to be proud of something.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+to be proud of something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need information about annoyed, surprised, and embarrassed.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good final step is to confirm everything and write down the details about proud.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
-
-<lang code="en" />
-It is important because it helps me manage relationships and social life in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请用 worried 和 excited 回答一个完整句子。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I can talk about worried and excited in a clear way.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<lang code="en" />
-I was worried about the meeting, but now I feel excited. I was surprised by the good feedback and proud of my progress. I felt embarrassed about one mistake, but I am not annoyed anymore.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-担心的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-worried.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-兴奋的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-excited.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-恼火的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-annoyed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-惊讶的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-surprised.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-尴尬的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-embarrassed.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-自豪的。
-
-<break time="4.8s" />
-
-<lang code="en" />
-proud.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再复习三个关键句子。
-
-<lang code="zh" />
-请说：我担心截止日期。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I am worried about the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：因为噪音，他感到恼火。
-
-<break time="4.8s" />
-
-<lang code="en" />
-He felt annoyed because of the noise.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我为自己的进步感到自豪。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
 I am proud of my progress.
@@ -968,4 +406,340 @@ I am proud of my progress.
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 19 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I am proud of my progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：惊讶的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：担心的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：自豪的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be proud of something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be proud of something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：恼火的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：尴尬的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be embarrassed about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be embarrassed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：兴奋的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I am worried about the deadline.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I was surprised by the good news.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I am proud of my progress.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你在工作会议后谈论自己的感受。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+I was worried before the meeting, but now I feel proud.
+
+<break time="6.5s" />
+
+<lang code="en" />
+I was worried before the meeting, but now I feel proud.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+My manager surprised me with very positive feedback.
+
+<break time="5.5s" />
+
+<lang code="en" />
+My manager surprised me with very positive feedback.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I felt embarrassed about one small mistake.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I felt embarrassed about one small mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I am excited to work on the next project.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I am excited to work on the next project.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+开会前我很担心，但现在感到很自豪。
+
+<break time="6.5s" />
+
+<lang code="en" />
+I was worried before the meeting, but now I feel proud.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+经理给我的积极反馈让我很惊讶。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My manager surprised me with very positive feedback.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+我因为一个小错误感到尴尬。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I felt embarrassed about one small mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+我很期待参与下一个项目。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I am excited to work on the next project.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：担心的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worried about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：兴奋的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be excited about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：恼火的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be annoyed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：惊讶的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be surprised by something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：尴尬的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be embarrassed about something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be embarrassed about something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：自豪的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be proud of something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be proud of something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

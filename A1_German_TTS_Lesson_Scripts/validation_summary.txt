@@ -1,26 +1,261 @@
-filename	max_single_break_duration	rough_estimated_duration	number_of_break_tags
-approx_english_word_count
-auto_tag_count
-de_tag_count
-spoken_character_count
-A1_Lesson_01_Greetings_and_saying_who_you_are.txt	8.5s	13.0 min	110	1327	56	47	4772
-A1_Lesson_02_Names_and_introductions.txt	8.5s	13.7 min	117	1329	59	50	4883
-A1_Lesson_03_Where_you_come_from.txt	8.5s	14.4 min	121	1384	61	52	5217
-A1_Lesson_04_Where_you_live.txt	8.5s	14.2 min	121	1402	61	52	5054
-A1_Lesson_05_Languages.txt	8.5s	14.6 min	121	1414	61	52	5423
-A1_Lesson_06_Polite_survival_phrases.txt	8.5s	14.6 min	121	1395	61	52	5420
-A1_Lesson_07_Family_basics.txt	8.5s	14.3 min	121	1388	61	52	5164
-A1_Lesson_08_People_and_descriptions.txt	8.5s	14.5 min	124	1454	62	54	5199
-A1_Lesson_09_Food_basics.txt	8.5s	14.1 min	121	1339	61	52	5022
-A1_Lesson_10_Ordering_simple_things.txt	8.5s	14.2 min	121	1388	61	52	5049
-A1_Lesson_11_Drinks_and_preferences.txt	8.5s	14.1 min	121	1373	61	52	5019
-A1_Lesson_12_Everyday_eating.txt	8.5s	14.3 min	121	1373	61	52	5133
-A1_Lesson_13_Time_of_day.txt	8.5s	14.4 min	124	1410	62	54	5052
-A1_Lesson_14_Daily_routine_1.txt	8.5s	14.2 min	121	1360	61	52	5096
-A1_Lesson_15_Daily_routine_2.txt	8.5s	14.2 min	121	1373	61	52	5090
-A1_Lesson_16_Going_places.txt	8.5s	14.4 min	121	1414	61	52	5212
-A1_Lesson_17_Transport.txt	8.5s	14.3 min	121	1420	61	52	5160
-A1_Lesson_18_Shopping_basics.txt	8.5s	14.2 min	121	1387	61	52	5038
-A1_Lesson_19_Objects_and_gender.txt	8.5s	14.7 min	124	1473	62	54	5330
-A1_Lesson_20_Likes_and_dislikes.txt	8.5s	14.1 min	121	1405	61	52	5016
-A1_Lesson_21_Daily_activities_what_I_do_and_what_I_did.txt	8.5s	15.5 min	129	1535	63	58	5731
+Validation summary for A1_German_TTS_Lesson_Scripts
+Standard: LESSON_STYLE.md
+Allowed tags: lang=en/de/zh/auto and break
+Maximum allowed break: 10.0s
+
+filename: A1_Lesson_01_Greetings_and_saying_who_you_are.txt
+status: PASS
+estimated duration: 11.6 minutes
+speech segments: 110
+break tags: 110
+max break: 6.5s
+total break time: 361.0s
+language counts: de=47, en=18, none=45
+auto tag count: 45
+English word count: 1441
+CJK character count: 0
+
+filename: A1_Lesson_02_Names_and_introductions.txt
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 117
+break tags: 117
+max break: 6.5s
+total break time: 386.5s
+language counts: de=50, en=20, none=47
+auto tag count: 47
+English word count: 1537
+CJK character count: 0
+
+filename: A1_Lesson_03_Where_you_come_from.txt
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 393.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1533
+CJK character count: 0
+
+filename: A1_Lesson_04_Where_you_live.txt
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 393.5s
+language counts: de=52, en=23, none=46
+auto tag count: 46
+English word count: 1536
+CJK character count: 0
+
+filename: A1_Lesson_05_Languages.txt
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 399.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1540
+CJK character count: 0
+
+filename: A1_Lesson_06_Polite_survival_phrases.txt
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 121
+break tags: 121
+max break: 5.5s
+total break time: 398.0s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1521
+CJK character count: 0
+
+filename: A1_Lesson_07_Family_basics.txt
+status: PASS
+estimated duration: 12.1 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 393.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1514
+CJK character count: 0
+
+filename: A1_Lesson_08_People_and_descriptions.txt
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 124
+break tags: 124
+max break: 6.5s
+total break time: 404.0s
+language counts: de=54, en=22, none=48
+auto tag count: 48
+English word count: 1583
+CJK character count: 0
+
+filename: A1_Lesson_09_Food_basics.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 399.0s
+language counts: de=52, en=19, none=50
+auto tag count: 50
+English word count: 1555
+CJK character count: 0
+
+filename: A1_Lesson_10_Ordering_simple_things.txt
+status: PASS
+estimated duration: 12.2 minutes
+speech segments: 121
+break tags: 121
+max break: 5.5s
+total break time: 392.5s
+language counts: de=52, en=23, none=46
+auto tag count: 46
+English word count: 1530
+CJK character count: 0
+
+filename: A1_Lesson_11_Drinks_and_preferences.txt
+status: PASS
+estimated duration: 12.1 minutes
+speech segments: 121
+break tags: 121
+max break: 5.5s
+total break time: 392.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1507
+CJK character count: 0
+
+filename: A1_Lesson_12_Everyday_eating.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 399.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1553
+CJK character count: 0
+
+filename: A1_Lesson_13_Time_of_day.txt
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 124
+break tags: 124
+max break: 6.5s
+total break time: 404.5s
+language counts: de=54, en=22, none=48
+auto tag count: 48
+English word count: 1584
+CJK character count: 0
+
+filename: A1_Lesson_14_Daily_routine_1.txt
+status: PASS
+estimated duration: 13.2 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 414.0s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1608
+CJK character count: 0
+
+filename: A1_Lesson_15_Daily_routine_2.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 399.5s
+language counts: de=52, en=20, none=49
+auto tag count: 49
+English word count: 1553
+CJK character count: 0
+
+filename: A1_Lesson_16_Going_places.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 399.5s
+language counts: de=52, en=21, none=48
+auto tag count: 48
+English word count: 1552
+CJK character count: 0
+
+filename: A1_Lesson_17_Transport.txt
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 397.5s
+language counts: de=52, en=19, none=50
+auto tag count: 50
+English word count: 1582
+CJK character count: 0
+
+filename: A1_Lesson_18_Shopping_basics.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 6.5s
+total break time: 400.0s
+language counts: de=52, en=18, none=51
+auto tag count: 51
+English word count: 1545
+CJK character count: 0
+
+filename: A1_Lesson_19_Objects_and_gender.txt
+status: PASS
+estimated duration: 12.9 minutes
+speech segments: 124
+break tags: 124
+max break: 6.5s
+total break time: 405.5s
+language counts: de=54, en=21, none=49
+auto tag count: 49
+English word count: 1606
+CJK character count: 0
+
+filename: A1_Lesson_20_Likes_and_dislikes.txt
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 121
+break tags: 121
+max break: 5.5s
+total break time: 397.0s
+language counts: de=52, en=16, none=53
+auto tag count: 53
+English word count: 1561
+CJK character count: 0
+
+filename: A1_Lesson_21_Daily_activities_what_I_do_and_what_I_did.txt
+status: PASS
+estimated duration: 13.4 minutes
+speech segments: 129
+break tags: 129
+max break: 6.5s
+total break time: 426.0s
+language counts: de=58, en=19, none=52
+auto tag count: 52
+English word count: 1669
+CJK character count: 0
+
+files validated: 21
+errors: 0
+warnings: 0
+overall validation: PASS

@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第18课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第18课，级别是B2。
+
+<lang code="zh" />
+今天的主题是情绪和心理。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the attitude.
 
-<lang code="zh" />
-主题是情绪和心理
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-attitude habit greedy empathy resilience personality
+the habit.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，焦虑。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-anxiety
+to be greedy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，自信。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-confidence
+the empathy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，压力。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-stress
+the resilience.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，动力。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-motivation
-
-<break time="1.5s" />
+the personality.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：焦虑。
+
+<break time="4.5s" />
 
 <lang code="en" />
-stress
+the anxiety.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Too much stress can make it harder to concentrate.
+the anxiety.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：自信。
+
+<break time="4.5s" />
 
 <lang code="en" />
-motivation
+the confidence.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Motivation often increases when progress is visible.
+the confidence.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：压力。
+
+<break time="4.5s" />
 
 <lang code="en" />
-self-esteem
+the stress.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the stress.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：动力。
 
-<break time="5.2s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the motivation.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the motivation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Regular practice can build confidence over time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 Positive feedback can support a learner’s self-esteem.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-attitude
+the attitude.
 
 <lang code="zh" />
-意思是态度。请跟读
-
-<break time="2.8s" />
+意思是：态度。请跟读。
 
 <lang code="en" />
-attitude
+the attitude.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是态度，英语怎么说？
+请说英语：态度。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-attitude
+the attitude.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-A positive attitude can make difficult tasks easier.
+the attitude.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 A positive attitude can make difficult tasks easier.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-habit
+A positive attitude can make difficult tasks easier.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是习惯。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-habit
-
-<break time="1.5s" />
+the habit.
 
 <lang code="zh" />
-中文是习惯，英语怎么说？
-
-<break time="3.5s" />
+意思是：习惯。请跟读。
 
 <lang code="en" />
-habit
+the habit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：习惯。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the habit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the habit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 Reading every morning became a useful habit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Reading every morning became a useful habit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，习惯。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-habit
-
-<break time="1.5s" />
+to be greedy.
 
 <lang code="zh" />
-请说英语，态度。
-
-<break time="3.5s" />
+意思是：贪婪的。请跟读。
 
 <lang code="en" />
-attitude
+to be greedy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，态度。
+请说英语：贪婪的。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-attitude
+to be greedy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-greedy
+to be greedy.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是贪婪的。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-greedy
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是贪婪的，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-greedy
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 A greedy decision may damage trust in the team.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 A greedy decision may damage trust in the team.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-empathy
+the empathy.
 
 <lang code="zh" />
-意思是同理心。请跟读
-
-<break time="2.8s" />
+意思是：同理心。请跟读。
 
 <lang code="en" />
-empathy
+the empathy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是同理心，英语怎么说？
+请说英语：同理心。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-empathy
+the empathy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Empathy helps us understand other people’s feelings.
+the empathy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Empathy helps us understand other people’s feelings.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，同理心。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-empathy
+Empathy helps us understand other people’s feelings.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，贪婪的。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-greedy
-
-<break time="1.5s" />
+the resilience.
 
 <lang code="zh" />
-请说英语，态度。
-
-<break time="3.5s" />
+意思是：韧性，恢复力。请跟读。
 
 <lang code="en" />
-attitude
+the resilience.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：韧性，恢复力。
+
+<break time="4.5s" />
 
 <lang code="en" />
-resilience
+the resilience.
 
-<lang code="zh" />
-意思是韧性，恢复力。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-resilience
+the resilience.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是韧性，恢复力，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-resilience
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 Community resilience helps people recover after disasters.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Community resilience helps people recover after disasters.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-personality
+the personality.
 
 <lang code="zh" />
-意思是性格。请跟读
-
-<break time="2.8s" />
+意思是：性格。请跟读。
 
 <lang code="en" />
-personality
+the personality.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是性格，英语怎么说？
+请说英语：性格。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-personality
+the personality.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Her personality is calm, careful, and friendly.
+the personality.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Her personality is calm, careful, and friendly.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，性格。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-personality
+Her personality is calm, careful, and friendly.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，韧性，恢复力。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：同理心。
+
+<break time="4.5s" />
 
 <lang code="en" />
-resilience
+the empathy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，态度。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-attitude
+the empathy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：态度。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the attitude is resilience but not completely empathy.
+the attitude.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the greedy before we make a final decision about the habit.
+the attitude.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：性格。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why personality can change the way people understand the issue.
+the personality.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect anxiety with attitude because both ideas affect the final decision.
+the personality.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：贪婪的。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the attitude.
+to be greedy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your habit in a little more detail?
+to be greedy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：韧性，恢复力。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the greedy affects the result.
+the resilience.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds resilience, but I still need more information.
+the resilience.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：习惯。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the habit.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the habit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main attitude may sound resilience, but we should examine the greedy behind it. A empathy explanation uses examples and respects other views. If the information is personality, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-贪婪的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-greedy
-
-<break time="1.5s" />
-
-<lang code="zh" />
-态度。
-
-<break time="4.0s" />
-
-<lang code="en" />
-attitude
-
-<break time="1.5s" />
-
-<lang code="zh" />
-性格。
-
-<break time="4.0s" />
-
-<lang code="en" />
-personality
-
-<break time="1.5s" />
-
-<lang code="zh" />
-习惯。
-
-<break time="4.0s" />
-
-<lang code="en" />
-habit
-
-<break time="1.5s" />
-
-<lang code="zh" />
-韧性，恢复力。
-
-<break time="4.0s" />
-
-<lang code="en" />
-resilience
-
-<break time="1.5s" />
-
-<lang code="zh" />
-同理心。
-
-<break time="4.0s" />
-
-<lang code="en" />
-empathy
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-attitude
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 A positive attitude can make difficult tasks easier.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-empathy
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Empathy helps us understand other people’s feelings.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-resilience
+Her personality is calm, careful, and friendly.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：同事们正在讨论一位新团队成员。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-Community resilience helps people recover after disasters.
+Jon's calm personality gives him a positive attitude at work.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+Jon's calm personality gives him a positive attitude at work.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+He has a habit of listening carefully before speaking.
+
+<break time="5.5s" />
+
+<lang code="en" />
+He has a habit of listening carefully before speaking.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His empathy helps colleagues feel understood.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His empathy helps colleagues feel understood.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His resilience helps the team recover after difficult projects.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His resilience helps the team recover after difficult projects.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+乔恩冷静的性格让他在工作中保持积极态度。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Jon's calm personality gives him a positive attitude at work.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+他习惯在说话前认真倾听。
+
+<break time="5.5s" />
+
+<lang code="en" />
+He has a habit of listening carefully before speaking.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+他的同理心让同事感到被理解。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His empathy helps colleagues feel understood.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他的韧性帮助团队从困难项目中恢复过来。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His resilience helps the team recover after difficult projects.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：态度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the attitude.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the attitude.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：习惯。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the habit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the habit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：贪婪的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be greedy.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be greedy.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：同理心。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the empathy.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the empathy.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：韧性，恢复力。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the resilience.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the resilience.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：性格。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the personality.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the personality.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

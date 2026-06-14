@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 11. The topic is Drinks and preferences. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: Milch, Saft, Bier, Wein, lieber, trinken.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to drink". "to drink" in German is: "trinken". You will practise these forms: ich trinke, du trinkst.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: Use “lieber” to compare preferences: “Ich trinke lieber Tee.”
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich möchte Kaffee"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Möchtest du Tee"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich nehme Wasser"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich nehme Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Die Rechnung, bitte"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "Milch". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Milch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Milch".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Milch" means "milk". Say "Milch" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Milch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Milch". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich trinke Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Saft". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Saft.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Saft".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Saft" means "juice". Say "Saft" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Saft.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Saft". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Trinkst du Kaffee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Trinkst du Kaffee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Trinkst du Kaffee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Bier". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Bier.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Bier".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Bier" means "beer". Say "Bier" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bier.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Bier". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke lieber Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich trinke lieber Tee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke lieber Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "beer" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bier.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "juice" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Saft.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "milk" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Milch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "Wein". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Wein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Wein".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Wein" means "wine". Say "Wein" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Wein". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Wein.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Wein."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Wein.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "lieber". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 lieber.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "lieber".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "lieber" means "rather or prefer". Say "lieber" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 lieber.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "lieber". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage lieber.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage lieber."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage lieber.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "rather or prefer" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 lieber.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "wine" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wein.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "beer" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bier.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "trinken". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 trinken.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "trinken".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "trinken" means "to drink". Say "trinken" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 trinken.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "trinken". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage trinken.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage trinken."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage trinken.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "trinken". It means "to drink". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich trinke.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du trinkst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich trinke".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich trinke.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du trinkst".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du trinkst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich trinke Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Trinkst du Kaffee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Trinkst du Kaffee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Ich trinke lieber Tee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke lieber Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Die Rechnung, bitte"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Die Rechnung, bitte.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich trinke Wasser."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich trinke Wasser.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Trinkst du Kaffee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Trinkst du Kaffee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: Use “lieber” to compare preferences: “Ich trinke lieber Tee.” Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich trinke; du trinkst.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 Ich trinke Wasser. Trinkst du Kaffee? Ich trinke lieber Tee.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "milk".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Milch.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "juice".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Saft.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "beer".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bier.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "wine".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wein.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "rather or prefer".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 lieber.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to drink".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 trinken.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "trinken", meaning "to drink", and the forms: ich trinke, du trinkst. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

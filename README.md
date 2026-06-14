@@ -7,7 +7,11 @@ The lesson `.txt` files are the source of truth. Generated audio, TTS cache file
 ## Project Layout
 
 - `generate_segmented_lesson_mp3_langtags.py` - canonical TTS generator.
+- `standardize_lessons.py` - applies shared tag, formatting, pause, and B1 English-quality rules.
+- `rebuild_english_lessons.py` - rebuilds B1 and B2 lessons in the six-section, scenario-based format.
 - `validate_lessons.py` - local QA checks for lesson scripts before synthesis.
+- `refresh_validation_summaries.py` - refreshes per-course validation reports.
+- `LESSON_STYLE.md` - sole authoritative lesson-generation, pedagogy, formatting, caching, and validation specification.
 - `A1_German_TTS_Lesson_Scripts/` - A1 German lesson scripts.
 - `B1_English_TTS_Lesson_Scripts/` - B1 English lesson scripts for Mandarin-speaking learners.
 - `B2_English_TTS_Lesson_Scripts/` - B2 English lesson scripts for Mandarin-speaking learners.
@@ -63,6 +67,16 @@ Use strict mode to fail on warnings too:
 ```powershell
 python validate_lessons.py A1_German_TTS_Lesson_Scripts --strict
 ```
+
+Apply the shared lesson standard and refresh reports:
+
+```powershell
+python standardize_lessons.py
+python rebuild_english_lessons.py
+python refresh_validation_summaries.py
+```
+
+Recurring Mandarin instructions are identical standalone speech blocks. The generator reuses complete spoken blocks through its exact-text cache; it never assembles sentences from cached word fragments.
 
 ## Dry Run
 

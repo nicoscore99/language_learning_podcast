@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 6. The topic is Polite survival phrases. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: ja, nein, Entschuldigung, kein Problem, langsam, verstehen.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to understand". "to understand" in German is: "verstehen". You will practise these forms: ich verstehe, du verstehst.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: To make a simple negative sentence, use “nicht”: “Ich verstehe nicht.”
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich wohne hier"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich wohne hier.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Du wohnst in einer Stadt"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Du wohnst in einer Stadt.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich spreche Englisch"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich spreche Englisch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Sprichst du Deutsch"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sprichst du Deutsch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "ja". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 ja.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "ja".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "ja" means "yes". Say "ja" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ja.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "ja". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Entschuldigung, ich verstehe nicht."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "nein". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 nein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "nein".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "nein" means "no". Say "nein" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nein.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "nein". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Bitte langsam."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Entschuldigung". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Entschuldigung.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Entschuldigung".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Entschuldigung" means "excuse me or sorry". Say "Entschuldigung" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Entschuldigung.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Entschuldigung". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Kein Problem.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Kein Problem."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Kein Problem.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "excuse me or sorry" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Entschuldigung.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "no" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nein.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "yes" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ja.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "kein Problem". Listen to the German word, then repeat it.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 kein Problem.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "kein Problem".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "kein Problem" means "no problem". Say "kein Problem" in German.
+
 <break time="4.5s" />
 
 <lang code="de" />
 kein Problem.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now a short sentence with "kein Problem". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage kein Problem.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage kein Problem."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage kein Problem.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "langsam". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 langsam.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "langsam".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "langsam" means "slowly". Say "langsam" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 langsam.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "langsam". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage langsam."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "slowly" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 langsam.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "no problem" in German.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 kein Problem.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Say "excuse me or sorry" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Entschuldigung.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "verstehen". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 verstehen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "verstehen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "verstehen" means "to understand". Say "verstehen" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 verstehen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "verstehen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage verstehen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage verstehen."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage verstehen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "verstehen". It means "to understand". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich verstehe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du verstehst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich verstehe".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich verstehe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du verstehst".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du verstehst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Entschuldigung, ich verstehe nicht."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Bitte langsam."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Kein Problem."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Kein Problem.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Sprichst du Deutsch"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sprichst du Deutsch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Entschuldigung, ich verstehe nicht."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Bitte langsam."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: To make a simple negative sentence, use “nicht”: “Ich verstehe nicht.” Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich verstehe; du verstehst.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht. Bitte langsam. Kein Problem.
-<break time="6.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "yes".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 ja.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "no".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 nein.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "excuse me or sorry".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Entschuldigung.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "no problem".
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 kein Problem.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 German for "slowly".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 langsam.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to understand".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 verstehen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "verstehen", meaning "to understand", and the forms: ich verstehe, du verstehst. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

@@ -1,162 +1,249 @@
-Validation summary for B2 language-tagged lessons with longer variable breaks
-All breaks <= 10.0 seconds: True
+Validation summary for B2_English_TTS_Lesson_Scripts
+Standard: LESSON_STYLE.md
+Allowed tags: lang=en/de/zh/auto and break
+Maximum allowed break: 10.0s
 
 filename: B2_Lesson_01_Opinions_and_Debate.txt
-max single break duration: 10.0s
-rough estimated duration: 12.9 minutes
-number of break tags: 108
-approximate English word count: 400
-approximate Mandarin character count: 1115
-unsupported tags found: 0
+status: PASS
+estimated duration: 11.8 minutes
+speech segments: 151
+break tags: 105
+max break: 5.5s
+total break time: 354.5s
+language counts: en=81, zh=70
+auto tag count: 0
+English word count: 1179
+CJK character count: 691
 
 filename: B2_Lesson_02_Opinions_and_Debate.txt
-max single break duration: 10.0s
-rough estimated duration: 13.6 minutes
-number of break tags: 118
-approximate English word count: 411
-approximate Mandarin character count: 1160
-unsupported tags found: 0
+status: PASS
+estimated duration: 13.9 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 424.0s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1373
+CJK character count: 799
 
 filename: B2_Lesson_03_Opinions_and_Debate.txt
-max single break duration: 10.0s
-rough estimated duration: 13.5 minutes
-number of break tags: 118
-approximate English word count: 414
-approximate Mandarin character count: 1147
-unsupported tags found: 0
+status: PASS
+estimated duration: 13.2 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 405.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1318
+CJK character count: 753
 
 filename: B2_Lesson_04_Technology_and_Online_Life.txt
-max single break duration: 10.0s
-rough estimated duration: 13.5 minutes
-number of break tags: 118
-approximate English word count: 422
-approximate Mandarin character count: 1120
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 408.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1264
+CJK character count: 717
 
 filename: B2_Lesson_05_Technology_and_Online_Life.txt
-max single break duration: 10.0s
-rough estimated duration: 13.4 minutes
-number of break tags: 118
-approximate English word count: 397
-approximate Mandarin character count: 1143
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 401.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1226
+CJK character count: 746
 
 filename: B2_Lesson_06_Technology_and_Online_Life.txt
-max single break duration: 10.0s
-rough estimated duration: 13.3 minutes
-number of break tags: 118
-approximate English word count: 397
-approximate Mandarin character count: 1121
-unsupported tags found: 0
+status: PASS
+estimated duration: 13.1 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 406.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1309
+CJK character count: 741
 
 filename: B2_Lesson_07_Environment_and_Sustainability.txt
-max single break duration: 10.0s
-rough estimated duration: 13.3 minutes
-number of break tags: 118
-approximate English word count: 394
-approximate Mandarin character count: 1136
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 399.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1229
+CJK character count: 732
 
 filename: B2_Lesson_08_Environment_and_Sustainability.txt
-max single break duration: 10.0s
-rough estimated duration: 13.4 minutes
-number of break tags: 118
-approximate English word count: 387
-approximate Mandarin character count: 1170
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 400.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1246
+CJK character count: 764
 
 filename: B2_Lesson_09_Environment_and_Sustainability.txt
-max single break duration: 10.0s
-rough estimated duration: 13.3 minutes
-number of break tags: 118
-approximate English word count: 387
-approximate Mandarin character count: 1144
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 400.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1242
+CJK character count: 757
 
 filename: B2_Lesson_10_Career_and_Business.txt
-max single break duration: 10.0s
-rough estimated duration: 13.4 minutes
-number of break tags: 118
-approximate English word count: 400
-approximate Mandarin character count: 1146
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 404.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1241
+CJK character count: 745
 
 filename: B2_Lesson_11_Career_and_Business.txt
-max single break duration: 10.0s
-rough estimated duration: 13.6 minutes
-number of break tags: 118
-approximate English word count: 414
-approximate Mandarin character count: 1160
-unsupported tags found: 0
+status: PASS
+estimated duration: 13.0 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 407.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1286
+CJK character count: 754
 
 filename: B2_Lesson_12_Career_and_Business.txt
-max single break duration: 10.0s
-rough estimated duration: 13.3 minutes
-number of break tags: 118
-approximate English word count: 393
-approximate Mandarin character count: 1119
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 404.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1253
+CJK character count: 726
 
 filename: B2_Lesson_13_Society_and_Politics.txt
-max single break duration: 10.0s
-rough estimated duration: 13.2 minutes
-number of break tags: 118
-approximate English word count: 392
-approximate Mandarin character count: 1109
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.3 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 399.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1223
+CJK character count: 710
 
 filename: B2_Lesson_14_Society_and_Politics.txt
-max single break duration: 10.0s
-rough estimated duration: 13.4 minutes
-number of break tags: 118
-approximate English word count: 403
-approximate Mandarin character count: 1140
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 403.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1235
+CJK character count: 750
 
 filename: B2_Lesson_15_Science_and_Research.txt
-max single break duration: 10.0s
-rough estimated duration: 13.2 minutes
-number of break tags: 118
-approximate English word count: 388
-approximate Mandarin character count: 1112
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 400.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1227
+CJK character count: 724
 
 filename: B2_Lesson_16_Science_and_Research.txt
-max single break duration: 10.0s
-rough estimated duration: 13.4 minutes
-number of break tags: 118
-approximate English word count: 402
-approximate Mandarin character count: 1133
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.8 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 406.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1259
+CJK character count: 737
 
 filename: B2_Lesson_17_Emotions_and_Psychology.txt
-max single break duration: 10.0s
-rough estimated duration: 13.2 minutes
-number of break tags: 118
-approximate English word count: 395
-approximate Mandarin character count: 1109
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.6 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 402.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1263
+CJK character count: 714
 
 filename: B2_Lesson_18_Emotions_and_Psychology.txt
-max single break duration: 10.0s
-rough estimated duration: 13.2 minutes
-number of break tags: 118
-approximate English word count: 388
-approximate Mandarin character count: 1129
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 400.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1234
+CJK character count: 734
 
 filename: B2_Lesson_19_Global_Issues.txt
-max single break duration: 10.0s
-rough estimated duration: 13.3 minutes
-number of break tags: 118
-approximate English word count: 399
-approximate Mandarin character count: 1124
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.5 minutes
+speech segments: 168
+break tags: 121
+max break: 5.5s
+total break time: 402.5s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1241
+CJK character count: 734
 
 filename: B2_Lesson_20_Global_Issues.txt
-max single break duration: 10.0s
-rough estimated duration: 13.2 minutes
-number of break tags: 118
-approximate English word count: 391
-approximate Mandarin character count: 1110
-unsupported tags found: 0
+status: PASS
+estimated duration: 12.4 minutes
+speech segments: 168
+break tags: 121
+max break: 6.5s
+total break time: 402.0s
+language counts: en=91, zh=77
+auto tag count: 0
+English word count: 1235
+CJK character count: 722
+
+files validated: 20
+errors: 0
+warnings: 0
+overall validation: PASS

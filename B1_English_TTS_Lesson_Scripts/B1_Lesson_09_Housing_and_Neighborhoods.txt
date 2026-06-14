@@ -1,59 +1,119 @@
 <lang code="zh" />
-欢迎来到第 9 课，级别 B1。今天的主题是住房和社区，重点是
-<lang code="en" />
-Finding a place.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第9课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-rent, landlord, tenant, apartment, deposit, contract.
+今天的主题是住房和社区。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：延误。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-delay.
+the rent.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：因为天气不好出现了延误。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-There is a delay because of bad weather.
+the landlord.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the deposit.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the contract.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：延误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the delay.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the delay.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：取消。
+请说英语：取消。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-cancel.
+to cancel something.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+to cancel something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：他们今晚可能会取消这班火车。
+请说英语：错过。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+to miss something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to miss something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：站台，平台。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the platform.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the platform.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 They may cancel the train tonight.
@@ -61,94 +121,106 @@ They may cancel the train tonight.
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+请回忆并说出上一课的这个句子。
 
-<lang code="zh" />
-第一个新词是
-<lang code="en" />
-rent.
-<lang code="zh" />
-这个词的意思是：租金，租房。请跟着说。
-<lang code="en" />
-rent.
-
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-rent.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：租金，租房。
-
-<break time="3.5s" />
-
-<lang code="en" />
-rent.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The rent is high, but the apartment is comfortable.
+We have a short connection in Zurich.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：租金很高，但是公寓很舒服。
+第三部分，新词介绍。
 
 <lang code="zh" />
-请你说这个英文句子：租金很高，但是公寓很舒服。
-
-<break time="5.8s" />
+今天的第1个表达是。
 
 <lang code="en" />
-The rent is high, but the apartment is comfortable.
+the rent.
+
+<lang code="zh" />
+意思是：租金，租房。请跟读。
+
+<lang code="en" />
+the rent.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-landlord.
-<lang code="zh" />
-这个词的意思是：房东。请跟着说。
-<lang code="en" />
-landlord.
+请说英语：租金，租房。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-landlord.
+the rent.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：房东。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-landlord.
+the rent.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-例句。
+请听例句。
+
+<lang code="en" />
+The rent is high, but the apartment is comfortable.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The rent is high, but the apartment is comfortable.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the landlord.
+
+<lang code="zh" />
+意思是：房东。请跟读。
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：房东。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 The landlord answered my question quickly.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：房东很快回答了我的问题。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：房东很快回答了我的问题。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The landlord answered my question quickly.
@@ -156,45 +228,36 @@ The landlord answered my question quickly.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-tenant.
-<lang code="zh" />
-这个词的意思是：租客。请跟着说。
-<lang code="en" />
-tenant.
-
-<break time="4.8s" />
+今天的第3个表达是。
 
 <lang code="en" />
-tenant.
-
-<break time="2.0s" />
+the tenant.
 
 <lang code="zh" />
-请说英文：租客。
-
-<break time="3.5s" />
+意思是：租客。请跟读。
 
 <lang code="en" />
-tenant.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-A good tenant pays the rent on time.
+the tenant.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：好的租客会按时付租金。
+请说英语：租客。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：好的租客会按时付租金。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 A good tenant pays the rent on time.
@@ -202,78 +265,46 @@ A good tenant pays the rent on time.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+请重复这个英语句子。
 
-<lang code="zh" />
-房东。
-
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-landlord.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-租金，租房。
-
-<break time="4.8s" />
-
-<lang code="en" />
-rent.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-租客。
-
-<break time="4.8s" />
-
-<lang code="en" />
-tenant.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-apartment.
-<lang code="zh" />
-这个词的意思是：公寓。请跟着说。
-<lang code="en" />
-apartment.
-
-<break time="4.8s" />
-
-<lang code="en" />
-apartment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：公寓。
-
-<break time="3.5s" />
-
-<lang code="en" />
-apartment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The apartment has two bedrooms.
+A good tenant pays the rent on time.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：这套公寓有两个卧室。
+今天的第4个表达是。
+
+<lang code="en" />
+the apartment.
 
 <lang code="zh" />
-请你说这个英文句子：这套公寓有两个卧室。
+意思是：公寓。请跟读。
 
-<break time="5.8s" />
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：公寓。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 The apartment has two bedrooms.
@@ -281,366 +312,9 @@ The apartment has two bedrooms.
 <break time="2.5s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-deposit.
-<lang code="zh" />
-这个词的意思是：押金。请跟着说。
-<lang code="en" />
-deposit.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-deposit.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：押金。
-
-<break time="3.5s" />
-
-<lang code="en" />
-deposit.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-We paid a deposit before we moved in.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：搬进去之前我们付了押金。
-
-<lang code="zh" />
-请你说这个英文句子：搬进去之前我们付了押金。
-
-<break time="5.8s" />
-
-<lang code="en" />
-We paid a deposit before we moved in.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-contract.
-<lang code="zh" />
-这个词的意思是：合同。请跟着说。
-<lang code="en" />
-contract.
-
-<break time="4.8s" />
-
-<lang code="en" />
-contract.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：合同。
-
-<break time="3.5s" />
-
-<lang code="en" />
-contract.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-Please read the contract carefully.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：请仔细阅读合同。
-
-<lang code="zh" />
-请你说这个英文句子：请仔细阅读合同。
-
-<break time="5.8s" />
-
-<lang code="en" />
-Please read the contract carefully.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-公寓。
-
-<break time="4.8s" />
-
-<lang code="en" />
-apartment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-合同。
-
-<break time="4.8s" />
-
-<lang code="en" />
-contract.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-租客。
-
-<break time="4.8s" />
-
-<lang code="en" />
-tenant.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：好的租客会按时付租金。
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good tenant pays the rent on time.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：租金很高，但是公寓很舒服。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The rent is high, but the apartment is comfortable.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：搬进去之前我们付了押金。
-
-<break time="4.8s" />
-
-<lang code="en" />
-We paid a deposit before we moved in.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：房东很快回答了我的问题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The landlord answered my question quickly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：租客签合同后付了押金。
-
-<break time="3.5s" />
-
-<lang code="en" />
-The tenant paid the deposit after signing the contract.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：这套公寓的租金太高了。
-
-<break time="3.5s" />
-
-<lang code="en" />
-The rent for this apartment is too high.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 connection 和 rent。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use connection and rent in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 refund 和 rent。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use refund and rent in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-房东问你的问题。请说：公寓需要修理。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The apartment needs a repair.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：暖气有问题，而且晚上有噪音。
-
-<break time="4.8s" />
-
-<lang code="en" />
-There is a problem with the heating, and there is noise at night.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我想确认合同和押金。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I would like to confirm the contract and the deposit.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：合同。
-
-<break time="3.5s" />
-
-<lang code="en" />
-contract.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：请仔细阅读合同。
-
-<break time="5.8s" />
-
-<lang code="en" />
-Please read the contract carefully.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：租客。
-
-<break time="3.5s" />
-
-<lang code="en" />
-tenant.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：好的租客会按时付租金。
-
-<break time="5.8s" />
-
-<lang code="en" />
-A good tenant pays the rent on time.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：租金，租房。
-
-<break time="3.5s" />
-
-<lang code="en" />
-rent.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：租金很高，但是公寓很舒服。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The rent is high, but the apartment is comfortable.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：押金。
-
-<break time="3.5s" />
-
-<lang code="en" />
-deposit.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：搬进去之前我们付了押金。
-
-<break time="5.8s" />
-
-<lang code="en" />
-We paid a deposit before we moved in.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：房东。
-
-<break time="3.5s" />
-
-<lang code="en" />
-landlord.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：房东很快回答了我的问题。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The landlord answered my question quickly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：公寓。
-
-<break time="3.5s" />
-
-<lang code="en" />
-apartment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这套公寓有两个卧室。
-
-<break time="5.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
 The apartment has two bedrooms.
@@ -648,319 +322,83 @@ The apartment has two bedrooms.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 rent。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-I need more information before I can deal with rent.
+the deposit.
+
+<lang code="zh" />
+意思是：押金。请跟读。
+
+<lang code="en" />
+the deposit.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：这和 landlord 有关，所以我想确认一下。
+请说英语：押金。
 
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to landlord, so I would like to confirm it.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：如果 tenant 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-If tenant is part of the problem, I will check it carefully.
+the deposit.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我们可以用简单的方法处理 apartment。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We can handle apartment in a simple way.
+the deposit.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 deposit 很重要，我会提前准备。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Because deposit is important, I will prepare early.
+We paid a deposit before we moved in.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 contract 的信息。
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-Finally, I will record the information about contract.
+We paid a deposit before we moved in.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
-
-<lang code="zh" />
-请说：我可以把旧词 connection 和新词 rent 放进同一个真实情境。
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I can put the old word connection and the new word rent into one real situation.
-
-<break time="3.0s" />
+the contract.
 
 <lang code="zh" />
-请说：我可以把旧词 refund 和新词 landlord 放进同一个真实情境。
-
-<break time="4.8s" />
+意思是：合同。请跟读。
 
 <lang code="en" />
-I can put the old word refund and the new word landlord into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with rent and landlord.
+the contract.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
+请说英语：合同。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
+the contract.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+the contract.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need information about tenant, apartment, and deposit.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good final step is to confirm everything and write down the details about contract.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
-
-<lang code="en" />
-It is important because it helps me manage housing and neighborhoods in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请用 rent 和 landlord 回答一个完整句子。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I can talk about rent and landlord in a clear way.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<lang code="en" />
-I found an apartment with a fair rent. The landlord seems helpful, and the tenant before me said the area is quiet. Before I move in, I need to pay the deposit and read the contract carefully.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-租金，租房。
-
-<break time="4.8s" />
-
-<lang code="en" />
-rent.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-房东。
-
-<break time="4.8s" />
-
-<lang code="en" />
-landlord.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-租客。
-
-<break time="4.8s" />
-
-<lang code="en" />
-tenant.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-公寓。
-
-<break time="4.8s" />
-
-<lang code="en" />
-apartment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-押金。
-
-<break time="4.8s" />
-
-<lang code="en" />
-deposit.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-合同。
-
-<break time="4.8s" />
-
-<lang code="en" />
-contract.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再复习三个关键句子。
-
-<lang code="zh" />
-请说：租金很高，但是公寓很舒服。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The rent is high, but the apartment is comfortable.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：好的租客会按时付租金。
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good tenant pays the rent on time.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：请仔细阅读合同。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
 Please read the contract carefully.
@@ -968,4 +406,340 @@ Please read the contract carefully.
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 9 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+请重复这个英语句子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+Please read the contract carefully.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：公寓。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：租金，租房。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the rent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the rent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：合同。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the contract.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the contract.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：租客。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：押金。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the deposit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the deposit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：房东。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The rent is high, but the apartment is comfortable.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+The apartment has two bedrooms.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+Please read the contract carefully.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你正在考虑租一套公寓。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+The landlord showed me a bright apartment near the station.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The landlord showed me a bright apartment near the station.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The rent is fair, but the deposit is quite high.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The rent is fair, but the deposit is quite high.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I asked the previous tenant about the neighborhood.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I asked the previous tenant about the neighborhood.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I will read the contract carefully before signing it.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I will read the contract carefully before signing it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+房东带我看了一套车站附近的明亮公寓。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The landlord showed me a bright apartment near the station.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+租金合理，但押金相当高。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The rent is fair, but the deposit is quite high.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+我向上一位租客询问了这个社区的情况。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I asked the previous tenant about the neighborhood.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+签字之前，我会仔细阅读合同。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I will read the contract carefully before signing it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：租金，租房。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the rent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the rent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：房东。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landlord.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：租客。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tenant.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：公寓。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the apartment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：押金。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the deposit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the deposit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：合同。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the contract.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the contract.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

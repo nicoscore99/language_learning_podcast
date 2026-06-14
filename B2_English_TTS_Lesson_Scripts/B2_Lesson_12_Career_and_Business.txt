@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第12课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第12课，级别是B2。
+
+<lang code="zh" />
+今天的主题是职业和商业。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the market.
 
-<lang code="zh" />
-主题是职业和商业
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-market demand profit investment competitor strategy
+the demand.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，谈判，协商。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-negotiate
+the profit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，提案，建议。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-proposal
+the investment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，优先事项。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-priority
+the competitor.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，风险。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-risk
-
-<break time="1.5s" />
+the strategy.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：谈判，协商。
+
+<break time="4.5s" />
 
 <lang code="en" />
-priority
+to negotiate with someone.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Our first priority is to finish the urgent task.
+to negotiate with someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：提案，建议。
+
+<break time="4.5s" />
 
 <lang code="en" />
-risk
+the proposal.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Every investment has some level of risk.
+the proposal.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：优先事项。
+
+<break time="4.5s" />
 
 <lang code="en" />
-benefit
+the priority.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the priority.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：风险。
 
-<break time="6.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the risk.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the risk.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The proposal explains the problem and offers a practical solution.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 The main benefit is that the process will be faster.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-market
+the market.
 
 <lang code="zh" />
-意思是市场。请跟读
-
-<break time="2.8s" />
+意思是：市场。请跟读。
 
 <lang code="en" />
-market
+the market.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是市场，英语怎么说？
+请说英语：市场。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-market
+the market.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The market for online education is growing quickly.
+the market.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The market for online education is growing quickly.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-demand
+The market for online education is growing quickly.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是需求。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-demand
-
-<break time="1.5s" />
+the demand.
 
 <lang code="zh" />
-中文是需求，英语怎么说？
-
-<break time="3.5s" />
+意思是：需求。请跟读。
 
 <lang code="en" />
-demand
+the demand.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：需求。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the demand.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the demand.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 Demand for clean energy is increasing around the world.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Demand for clean energy is increasing around the world.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，需求。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-demand
-
-<break time="1.5s" />
+the profit.
 
 <lang code="zh" />
-请说英语，市场。
-
-<break time="3.5s" />
+意思是：利润。请跟读。
 
 <lang code="en" />
-market
+the profit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，市场。
+请说英语：利润。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-market
+the profit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-profit
+the profit.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是利润。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-profit
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是利润，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-profit
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The company made a profit after reducing costs.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The company made a profit after reducing costs.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-investment
+the investment.
 
 <lang code="zh" />
-意思是投资。请跟读
-
-<break time="2.8s" />
+意思是：投资。请跟读。
 
 <lang code="en" />
-investment
+the investment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是投资，英语怎么说？
+请说英语：投资。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-investment
+the investment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-This investment could help the business expand.
+the investment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 This investment could help the business expand.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，投资。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-investment
+This investment could help the business expand.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，利润。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-profit
-
-<break time="1.5s" />
+the competitor.
 
 <lang code="zh" />
-请说英语，市场。
-
-<break time="3.5s" />
+意思是：竞争者。请跟读。
 
 <lang code="en" />
-market
+the competitor.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：竞争者。
+
+<break time="4.5s" />
 
 <lang code="en" />
-competitor
+the competitor.
 
-<lang code="zh" />
-意思是竞争者。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-competitor
+the competitor.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是竞争者，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-competitor
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 Our main competitor offers a cheaper service.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Our main competitor offers a cheaper service.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-strategy
+the strategy.
 
 <lang code="zh" />
-意思是策略。请跟读
-
-<break time="2.8s" />
+意思是：策略。请跟读。
 
 <lang code="en" />
-strategy
+the strategy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是策略，英语怎么说？
+请说英语：策略。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-strategy
+the strategy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The strategy focuses on quality, trust, and long-term growth.
+the strategy.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The strategy focuses on quality, trust, and long-term growth.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，策略。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-strategy
+The strategy focuses on quality, trust, and long-term growth.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，竞争者。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：投资。
+
+<break time="4.5s" />
 
 <lang code="en" />
-competitor
+the investment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，市场。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-market
+the investment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：市场。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the market is competitor but not completely investment.
+the market.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the profit before we make a final decision about the demand.
+the market.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：策略。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why strategy can change the way people understand the issue.
+the strategy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect negotiate with market because both ideas affect the final decision.
+the strategy.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：利润。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the market.
+the profit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your demand in a little more detail?
+the profit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：竞争者。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the profit affects the result.
+the competitor.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds competitor, but I still need more information.
+the competitor.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：需求。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the demand.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the demand.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main market may sound competitor, but we should examine the profit behind it. A investment explanation uses examples and respects other views. If the information is strategy, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-利润。
-
-<break time="4.0s" />
-
-<lang code="en" />
-profit
-
-<break time="1.5s" />
-
-<lang code="zh" />
-市场。
-
-<break time="4.0s" />
-
-<lang code="en" />
-market
-
-<break time="1.5s" />
-
-<lang code="zh" />
-策略。
-
-<break time="4.0s" />
-
-<lang code="en" />
-strategy
-
-<break time="1.5s" />
-
-<lang code="zh" />
-需求。
-
-<break time="4.0s" />
-
-<lang code="en" />
-demand
-
-<break time="1.5s" />
-
-<lang code="zh" />
-竞争者。
-
-<break time="4.0s" />
-
-<lang code="en" />
-competitor
-
-<break time="1.5s" />
-
-<lang code="zh" />
-投资。
-
-<break time="4.0s" />
-
-<lang code="en" />
-investment
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-market
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The market for online education is growing quickly.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-investment
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 This investment could help the business expand.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-competitor
+The strategy focuses on quality, trust, and long-term growth.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：一家小公司正在计划进入新市场。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-Our main competitor offers a cheaper service.
+The company sees growing demand in a new market.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+The company sees growing demand in a new market.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+Its main competitor already offers a similar product.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Its main competitor already offers a similar product.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The team develops a strategy based on quality and service.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The team develops a strategy based on quality and service.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They believe the investment will produce a profit within two years.
+
+<break time="6.5s" />
+
+<lang code="en" />
+They believe the investment will produce a profit within two years.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+公司发现一个新市场的需求正在增长。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The company sees growing demand in a new market.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+其主要竞争对手已经提供类似产品。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Its main competitor already offers a similar product.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+团队制定了注重质量和服务的策略。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The team develops a strategy based on quality and service.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+他们认为这项投资将在两年内带来利润。
+
+<break time="6.5s" />
+
+<lang code="en" />
+They believe the investment will produce a profit within two years.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：市场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the market.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the market.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：需求。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the demand.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the demand.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：利润。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the profit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the profit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：投资。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the investment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the investment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：竞争者。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the competitor.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the competitor.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：策略。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the strategy.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the strategy.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

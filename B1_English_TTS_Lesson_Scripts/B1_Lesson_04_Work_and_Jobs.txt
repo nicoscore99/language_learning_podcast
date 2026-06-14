@@ -1,59 +1,119 @@
 <lang code="zh" />
-欢迎来到第 4 课，级别 B1。今天的主题是工作和求职，重点是
-<lang code="en" />
-Office routines.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第4课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-colleague, meeting, schedule, task, deadline, report.
+今天的主题是工作和求职。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：恢复。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-recover.
+the colleague.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：我希望下周前恢复。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-I hope to recover before next week.
+the meeting.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the task.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the deadline.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the report.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：恢复。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to recover from something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to recover from something.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：休息。
+请说英语：休息。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-rest.
+to rest.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+to rest.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：如果你觉得头晕，你应该休息。
+请说英语：饮食。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the diet.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the diet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：锻炼。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the exercise.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the exercise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 You should rest if you feel dizzy.
@@ -61,48 +121,59 @@ You should rest if you feel dizzy.
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+请回忆并说出上一课的这个句子。
 
-<lang code="zh" />
-第一个新词是
-<lang code="en" />
-colleague.
-<lang code="zh" />
-这个词的意思是：同事。请跟着说。
-<lang code="en" />
-colleague.
-
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-colleague.
+Please avoid heavy exercise for a few days.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：同事。
+第三部分，新词介绍。
 
-<break time="3.5s" />
+<lang code="zh" />
+今天的第1个表达是。
 
 <lang code="en" />
-colleague.
-
-<break time="2.0s" />
+the colleague.
 
 <lang code="zh" />
-例句。
+意思是：同事。请跟读。
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：同事。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 My colleague will join the meeting.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我的同事会参加会议。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我的同事会参加会议。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 My colleague will join the meeting.
@@ -110,45 +181,36 @@ My colleague will join the meeting.
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-meeting.
-<lang code="zh" />
-这个词的意思是：会议。请跟着说。
-<lang code="en" />
-meeting.
-
-<break time="4.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-meeting.
-
-<break time="2.0s" />
+the meeting.
 
 <lang code="zh" />
-请说英文：会议。
-
-<break time="3.5s" />
+意思是：会议。请跟读。
 
 <lang code="en" />
-meeting.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The meeting starts at ten o’clock.
+the meeting.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：会议十点开始。
+请说英语：会议。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the meeting.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the meeting.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：会议十点开始。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 The meeting starts at ten o’clock.
@@ -156,45 +218,56 @@ The meeting starts at ten o’clock.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-schedule.
-<lang code="zh" />
-这个词的意思是：日程，安排。请跟着说。
-<lang code="en" />
-schedule.
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-schedule.
+The meeting starts at ten o’clock.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：日程，安排。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-schedule.
-
-<break time="2.0s" />
+the schedule.
 
 <lang code="zh" />
-例句。
+意思是：日程，安排。请跟读。
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：日程，安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 My schedule is full this afternoon.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我今天下午的日程很满。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我今天下午的日程很满。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 My schedule is full this afternoon.
@@ -202,78 +275,36 @@ My schedule is full this afternoon.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+今天的第4个表达是。
+
+<lang code="en" />
+the task.
 
 <lang code="zh" />
-会议。
-
-<break time="4.8s" />
+意思是：任务。请跟读。
 
 <lang code="en" />
-meeting.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-同事。
-
-<break time="4.8s" />
-
-<lang code="en" />
-colleague.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-日程，安排。
-
-<break time="4.8s" />
-
-<lang code="en" />
-schedule.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-task.
-<lang code="zh" />
-这个词的意思是：任务。请跟着说。
-<lang code="en" />
-task.
-
-<break time="4.8s" />
-
-<lang code="en" />
-task.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：任务。
-
-<break time="3.5s" />
-
-<lang code="en" />
-task.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-This task is important for the report.
+the task.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：这项任务对报告很重要。
+请说英语：任务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：这项任务对报告很重要。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 This task is important for the report.
@@ -281,366 +312,9 @@ This task is important for the report.
 <break time="2.5s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-deadline.
-<lang code="zh" />
-这个词的意思是：截止日期。请跟着说。
-<lang code="en" />
-deadline.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-deadline.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：截止日期。
-
-<break time="3.5s" />
-
-<lang code="en" />
-deadline.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The deadline is Friday morning.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：截止日期是星期五上午。
-
-<lang code="zh" />
-请你说这个英文句子：截止日期是星期五上午。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The deadline is Friday morning.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-report.
-<lang code="zh" />
-这个词的意思是：报告。请跟着说。
-<lang code="en" />
-report.
-
-<break time="4.8s" />
-
-<lang code="en" />
-report.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：报告。
-
-<break time="3.5s" />
-
-<lang code="en" />
-report.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-I need to finish the report before the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：我需要在截止日期前完成报告。
-
-<lang code="zh" />
-请你说这个英文句子：我需要在截止日期前完成报告。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I need to finish the report before the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-任务。
-
-<break time="4.8s" />
-
-<lang code="en" />
-task.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-报告。
-
-<break time="4.8s" />
-
-<lang code="en" />
-report.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-日程，安排。
-
-<break time="4.8s" />
-
-<lang code="en" />
-schedule.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：我今天下午的日程很满。
-
-<break time="4.8s" />
-
-<lang code="en" />
-My schedule is full this afternoon.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我的同事会参加会议。
-
-<break time="4.8s" />
-
-<lang code="en" />
-My colleague will join the meeting.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：截止日期是星期五上午。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The deadline is Friday morning.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：会议十点开始。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The meeting starts at ten o’clock.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：我的同事在报告截止日期前有一个会议。
-
-<break time="3.5s" />
-
-<lang code="en" />
-My colleague has a meeting before the report deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：这项任务在我明天的日程里。
-
-<break time="3.5s" />
-
-<lang code="en" />
-This task is on my schedule for tomorrow.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 avoid 和 colleague。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use avoid and colleague in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 improve 和 colleague。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use improve and colleague in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-同事问你今天忙不忙。请说：我的日程很满。
-
-<break time="4.8s" />
-
-<lang code="en" />
-My schedule is full today.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-经理问任务进度。请说：我会在截止日期前完成报告。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I will finish the report before the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：谢谢你的反馈，我会解释解决办法。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Thank you for your feedback. I will explain the solution.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：报告。
-
-<break time="3.5s" />
-
-<lang code="en" />
-report.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我需要在截止日期前完成报告。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I need to finish the report before the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：日程，安排。
-
-<break time="3.5s" />
-
-<lang code="en" />
-schedule.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我今天下午的日程很满。
-
-<break time="5.8s" />
-
-<lang code="en" />
-My schedule is full this afternoon.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：同事。
-
-<break time="3.5s" />
-
-<lang code="en" />
-colleague.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我的同事会参加会议。
-
-<break time="5.8s" />
-
-<lang code="en" />
-My colleague will join the meeting.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：截止日期。
-
-<break time="3.5s" />
-
-<lang code="en" />
-deadline.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：截止日期是星期五上午。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The deadline is Friday morning.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：会议。
-
-<break time="3.5s" />
-
-<lang code="en" />
-meeting.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：会议十点开始。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The meeting starts at ten o’clock.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：任务。
-
-<break time="3.5s" />
-
-<lang code="en" />
-task.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这项任务对报告很重要。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 This task is important for the report.
@@ -648,299 +322,202 @@ This task is important for the report.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 colleague。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-I need more information before I can deal with colleague.
+the deadline.
+
+<lang code="zh" />
+意思是：截止日期。请跟读。
+
+<lang code="en" />
+the deadline.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：这和 meeting 有关，所以我想确认一下。
+请说英语：截止日期。
 
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to meeting, so I would like to confirm it.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：如果 schedule 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-If schedule is part of the problem, I will check it carefully.
+the deadline.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我们可以用简单的方法处理 task。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We can handle task in a simple way.
+the deadline.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 deadline 很重要，我会提前准备。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Because deadline is important, I will prepare early.
+The deadline is Friday morning.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 report 的信息。
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Finally, I will record the information about report.
+The deadline is Friday morning.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
-
-<lang code="zh" />
-请说：我可以把旧词 avoid 和新词 colleague 放进同一个真实情境。
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I can put the old word avoid and the new word colleague into one real situation.
-
-<break time="3.0s" />
+the report.
 
 <lang code="zh" />
-请说：我可以把旧词 improve 和新词 meeting 放进同一个真实情境。
-
-<break time="4.8s" />
+意思是：报告。请跟读。
 
 <lang code="en" />
-I can put the old word improve and the new word meeting into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with colleague and meeting.
+the report.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
+请说英语：报告。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
+the report.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+the report.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-I need information about schedule, task, and deadline.
+I need to finish the report before the deadline.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I need to finish the report before the deadline.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：任务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the task.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
+请说英语：同事。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-A good final step is to confirm everything and write down the details about report.
+the colleague.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it helps me manage work and jobs in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
+the colleague.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请用 colleague 和 meeting 回答一个完整句子。
+请说英语：报告。
 
-<break time="5.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I can talk about colleague and meeting in a clear way.
+the report.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the report.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
+请说英语：日程，安排。
 
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-My colleague and I have a meeting about an important task. Our schedule is busy, and the deadline is soon. We need to finish the report carefully and send it before Friday.
+the schedule.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-同事。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-colleague.
+the schedule.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-会议。
+请说英语：截止日期。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-meeting.
+the deadline.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-日程，安排。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-schedule.
+the deadline.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-任务。
+请说英语：会议。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-task.
+the meeting.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-截止日期。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-deadline.
+the meeting.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-报告。
-
-<break time="4.8s" />
-
-<lang code="en" />
-report.
-
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-再复习三个关键句子。
+现在练习三个完整句子。
 
 <lang code="zh" />
-请说：我的同事会参加会议。
+请回忆并说出这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 My colleague will join the meeting.
@@ -948,24 +525,221 @@ My colleague will join the meeting.
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：我今天下午的日程很满。
+请回忆并说出这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-My schedule is full this afternoon.
+This task is important for the report.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：我需要在截止日期前完成报告。
+请回忆并说出这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I need to finish the report before the deadline.
 
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你和同事正在计划一个工作项目。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+My colleague and I have a meeting about the new project.
+
+<break time="6.5s" />
+
+<lang code="en" />
+My colleague and I have a meeting about the new project.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+We checked the schedule and agreed on a deadline.
+
+<break time="5.5s" />
+
+<lang code="en" />
+We checked the schedule and agreed on a deadline.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I will write the report, and she will review it.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I will write the report, and she will review it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+We plan to finish everything by Friday.
+
+<break time="5.5s" />
+
+<lang code="en" />
+We plan to finish everything by Friday.
+
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 4 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+我和同事要开会讨论新项目。
+
+<break time="6.5s" />
+
+<lang code="en" />
+My colleague and I have a meeting about the new project.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+我们查看了日程并商定了截止日期。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We checked the schedule and agreed on a deadline.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+我会写报告，她会进行审核。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I will write the report, and she will review it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+我们计划在星期五之前完成所有工作。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We plan to finish everything by Friday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：同事。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：会议。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the meeting.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the meeting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：日程，安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：任务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：截止日期。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the deadline.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the deadline.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：报告。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the report.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

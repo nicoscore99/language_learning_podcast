@@ -42,6 +42,7 @@ pronunciation_dictionary_locator.json
 *.temp
 tmp/
 temp/
+legacy/
 
 # OS/editor files
 .DS_Store

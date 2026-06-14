@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第11课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第11课，级别是B2。
+
+<lang code="zh" />
+今天的主题是职业和商业。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+to negotiate with someone.
 
-<lang code="zh" />
-主题是职业和商业
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-negotiate proposal priority risk benefit trade-off
+the proposal.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，抱负，野心。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-ambition
+the priority.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，晋升。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-promotion
+the risk.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，表现，业绩。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-performance
+the benefit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，领导力。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-leadership
-
-<break time="1.5s" />
+the trade-off.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：抱负，野心。
+
+<break time="4.5s" />
 
 <lang code="en" />
-performance
+the ambition.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Good performance depends on clear goals and regular feedback.
+the ambition.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：晋升。
+
+<break time="4.5s" />
 
 <lang code="en" />
-leadership
+the promotion.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Leadership means helping people work toward a shared goal.
+the promotion.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：表现，业绩。
+
+<break time="4.5s" />
 
 <lang code="en" />
-mentor
+the performance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the performance.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：领导力。
 
-<break time="5.2s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the leadership.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leadership.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+He received a promotion after improving his performance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 A mentor can give advice during important career decisions.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-negotiate
+to negotiate with someone.
 
 <lang code="zh" />
-意思是谈判，协商。请跟读
-
-<break time="2.8s" />
+意思是：谈判，协商。请跟读。
 
 <lang code="en" />
-negotiate
+to negotiate with someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是谈判，协商，英语怎么说？
+请说英语：谈判，协商。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-negotiate
+to negotiate with someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
+
+<lang code="en" />
+to negotiate with someone.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 We need to negotiate the price before we sign the contract.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
 <break time="6.5s" />
 
 <lang code="en" />
 We need to negotiate the price before we sign the contract.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第2个词
+今天的第2个表达是。
 
 <lang code="en" />
-proposal
+the proposal.
 
 <lang code="zh" />
-意思是提案，建议。请跟读
-
-<break time="2.8s" />
+意思是：提案，建议。请跟读。
 
 <lang code="en" />
-proposal
+the proposal.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是提案，建议，英语怎么说？
+请说英语：提案，建议。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-proposal
+the proposal.
 
-<break time="1.5s" />
+<break time="2.5s" />
+
+<lang code="en" />
+the proposal.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The proposal explains the problem and offers a practical solution.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The proposal explains the problem and offers a practical solution.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，提案，建议。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-proposal
-
-<break time="1.5s" />
+the priority.
 
 <lang code="zh" />
-请说英语，谈判，协商。
-
-<break time="3.5s" />
+意思是：优先事项。请跟读。
 
 <lang code="en" />
-negotiate
+the priority.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，谈判，协商。
+请说英语：优先事项。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-negotiate
+the priority.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-priority
+the priority.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是优先事项。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-priority
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是优先事项，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-priority
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 Our first priority is to finish the urgent task.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Our first priority is to finish the urgent task.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-risk
+the risk.
 
 <lang code="zh" />
-意思是风险。请跟读
-
-<break time="2.8s" />
+意思是：风险。请跟读。
 
 <lang code="en" />
-risk
+the risk.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是风险，英语怎么说？
+请说英语：风险。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-risk
+the risk.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Every investment has some level of risk.
+the risk.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Every investment has some level of risk.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，风险。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-risk
+Every investment has some level of risk.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，优先事项。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-priority
-
-<break time="1.5s" />
+the benefit.
 
 <lang code="zh" />
-请说英语，谈判，协商。
-
-<break time="3.5s" />
+意思是：好处，利益。请跟读。
 
 <lang code="en" />
-negotiate
+the benefit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：好处，利益。
+
+<break time="4.5s" />
 
 <lang code="en" />
-benefit
+the benefit.
 
-<lang code="zh" />
-意思是好处，利益。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-benefit
+the benefit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是好处，利益，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-benefit
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The main benefit is that the process will be faster.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The main benefit is that the process will be faster.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-trade-off
+the trade-off.
 
 <lang code="zh" />
-意思是权衡，取舍。请跟读
-
-<break time="2.8s" />
+意思是：权衡，取舍。请跟读。
 
 <lang code="en" />
-trade-off
+the trade-off.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是权衡，取舍，英语怎么说？
+请说英语：权衡，取舍。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-trade-off
+the trade-off.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-There is a trade-off between speed and quality.
+the trade-off.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 There is a trade-off between speed and quality.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，权衡，取舍。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-trade-off
+There is a trade-off between speed and quality.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，好处，利益。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：风险。
+
+<break time="4.5s" />
 
 <lang code="en" />
-benefit
+the risk.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，谈判，协商。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-negotiate
+the risk.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：谈判，协商。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the negotiate is benefit but not completely risk.
+to negotiate with someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the priority before we make a final decision about the proposal.
+to negotiate with someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：权衡，取舍。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why trade-off can change the way people understand the issue.
+the trade-off.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect ambition with negotiate because both ideas affect the final decision.
+the trade-off.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：优先事项。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the negotiate.
+the priority.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your proposal in a little more detail?
+the priority.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：好处，利益。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the priority affects the result.
+the benefit.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds benefit, but I still need more information.
+the benefit.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：提案，建议。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the proposal.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the proposal.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main negotiate may sound benefit, but we should examine the priority behind it. A risk explanation uses examples and respects other views. If the information is trade-off, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-优先事项。
-
-<break time="4.0s" />
-
-<lang code="en" />
-priority
-
-<break time="1.5s" />
-
-<lang code="zh" />
-谈判，协商。
-
-<break time="4.0s" />
-
-<lang code="en" />
-negotiate
-
-<break time="1.5s" />
-
-<lang code="zh" />
-权衡，取舍。
-
-<break time="4.0s" />
-
-<lang code="en" />
-trade-off
-
-<break time="1.5s" />
-
-<lang code="zh" />
-提案，建议。
-
-<break time="4.0s" />
-
-<lang code="en" />
-proposal
-
-<break time="1.5s" />
-
-<lang code="zh" />
-好处，利益。
-
-<break time="4.0s" />
-
-<lang code="en" />
-benefit
-
-<break time="1.5s" />
-
-<lang code="zh" />
-风险。
-
-<break time="4.0s" />
-
-<lang code="en" />
-risk
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-negotiate
-
-<lang code="zh" />
-的关键句
+请回忆并说出这个英语句子。
 
 <break time="6.5s" />
 
 <lang code="en" />
 We need to negotiate the price before we sign the contract.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-risk
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Every investment has some level of risk.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-benefit
+There is a trade-off between speed and quality.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：两家公司正在商谈一项商业提案。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+The companies meet to negotiate a new proposal.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The companies meet to negotiate a new proposal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Price is one priority, but product quality is equally important.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Price is one priority, but product quality is equally important.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Both sides discuss the risks and benefits.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Both sides discuss the risks and benefits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They accept a trade-off between a lower price and slower delivery.
 
 <break time="6.5s" />
 
 <lang code="en" />
-The main benefit is that the process will be faster.
+They accept a trade-off between a lower price and slower delivery.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+两家公司会面，商谈一项新提案。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The companies meet to negotiate a new proposal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+价格是一项重点，但产品质量同样重要。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Price is one priority, but product quality is equally important.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+双方讨论了风险和益处。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Both sides discuss the risks and benefits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们接受了低价与较慢交付之间的权衡。
+
+<break time="6.5s" />
+
+<lang code="en" />
+They accept a trade-off between a lower price and slower delivery.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：谈判，协商。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to negotiate with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to negotiate with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：提案，建议。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the proposal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the proposal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：优先事项。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the priority.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the priority.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：风险。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the risk.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the risk.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：好处，利益。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the benefit.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the benefit.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：权衡，取舍。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the trade-off.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the trade-off.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

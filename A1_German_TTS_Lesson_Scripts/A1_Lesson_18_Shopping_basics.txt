@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 18. The topic is Shopping basics. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: kaufen, Preis, Euro, teuer, billig, Geschäft.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to buy". "to buy" in German is: "kaufen". You will practise these forms: ich kaufe, du kaufst.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: Use “nicht” after adjectives or phrases to say “not”: “Das ist nicht teuer.”
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich gehe nach Hause"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich gehe nach Hause.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Gehst du zur Arbeit"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Gehst du zur Arbeit.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich fahre mit dem Bus"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich fahre mit dem Bus.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Fährst du mit dem Zug"?
-<break time="5.0s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 Fährst du mit dem Zug.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "kaufen". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 kaufen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "kaufen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "kaufen" means "to buy". Say "kaufen" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 kaufen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "kaufen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich kaufe Brot.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich kaufe Brot."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich kaufe Brot.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Preis". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Preis.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Preis".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Preis" means "price". Say "Preis" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Preis.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Preis". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Der Preis ist gut.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Der Preis ist gut."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Der Preis ist gut.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Euro". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Euro.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Euro".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Euro" means "euro". Say "Euro" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Euro.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Euro". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Das ist nicht teuer.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Das ist nicht teuer."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Das ist nicht teuer.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Say "euro" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Euro.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "price" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Preis.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "to buy" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 kaufen.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "teuer". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 teuer.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "teuer".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "teuer" means "expensive". Say "teuer" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 teuer.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "teuer". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage teuer.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage teuer."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage teuer.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "billig". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 billig.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "billig".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "billig" means "cheap". Say "billig" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 billig.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "billig". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage billig.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage billig."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage billig.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "cheap" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 billig.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "expensive" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 teuer.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Say "euro" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Euro.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "Geschäft". Listen to the German word, then repeat it.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Geschäft.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Geschäft".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Geschäft" means "shop". Say "Geschäft" in German.
+
 <break time="4.5s" />
 
 <lang code="de" />
 Geschäft.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now a short sentence with "Geschäft". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Geschäft.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Geschäft."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Geschäft.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "kaufen". It means "to buy". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich kaufe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du kaufst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich kaufe".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich kaufe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du kaufst".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du kaufst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich kaufe Brot."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich kaufe Brot.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Der Preis ist gut."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Der Preis ist gut.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Das ist nicht teuer."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Das ist nicht teuer.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Fährst du mit dem Zug"
+
 <break time="5.5s" />
 
 <lang code="de" />
 Fährst du mit dem Zug.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich kaufe Brot."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich kaufe Brot.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Der Preis ist gut."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Der Preis ist gut.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: Use “nicht” after adjectives or phrases to say “not”: “Das ist nicht teuer.” Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich kaufe; du kaufst.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="6.5s" />
 
 <lang code="de" />
 Ich kaufe Brot. Der Preis ist gut. Das ist nicht teuer.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "to buy".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 kaufen.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "price".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Preis.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 German for "euro".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Euro.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "expensive".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 teuer.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "cheap".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 billig.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "shop".
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Geschäft.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "kaufen", meaning "to buy", and the forms: ich kaufe, du kaufst. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

@@ -345,7 +345,7 @@ def normalise_segments(
 
     For speech segments:
     - Explicit tag language wins unless it is "auto".
-    - Explicit "auto" asks the script to infer language from the tagged block.
+    - Explicit "auto" leaves language_code unset for mixed-language blocks.
     - If no explicit tag and default_language is set, use default_language.
     - If neither, fallback detect_language_code(text).
     - If disable_language_code is True, always use None.
@@ -371,7 +371,7 @@ def normalise_segments(
         if disable_language_code:
             language_code = None
         elif explicit_language == AUTO_LANGUAGE_CODE:
-            language_code = detect_language_code(text)
+            language_code = None
         elif explicit_language:
             language_code = normalize_language_code(explicit_language)
         elif default_language:

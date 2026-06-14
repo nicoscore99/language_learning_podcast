@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第3课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第3课，级别是B2。
+
+<lang code="zh" />
+今天的主题是观点和辩论。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+to challenge something.
 
-<lang code="zh" />
-主题是观点和辩论
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-challenge disagree acknowledge persuade compromise controversial
+to disagree with someone.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，证据。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-evidence
+to acknowledge something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，论点，论证。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-argument
+to persuade someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，支持。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-support
+the compromise.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，反驳观点。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-counterargument
-
-<break time="1.5s" />
+to be controversial.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：证据。
+
+<break time="4.5s" />
 
 <lang code="en" />
-support
+the evidence.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you support your opinion with one clear example?
+the evidence.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：论点，论证。
+
+<break time="4.5s" />
 
 <lang code="en" />
-counterargument
+the argument.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-A strong counterargument can make the discussion more balanced.
+the argument.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：支持。
+
+<break time="4.5s" />
 
 <lang code="en" />
-justify
+to support someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to support someone or something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：反驳观点。
 
-<break time="5.2s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the counterargument.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the counterargument.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His argument is logical, but it is not complete.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 You should justify the decision with facts, not feelings.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-challenge
+to challenge something.
 
 <lang code="zh" />
-意思是质疑，挑战。请跟读
-
-<break time="2.8s" />
+意思是：质疑，挑战。请跟读。
 
 <lang code="en" />
-challenge
+to challenge something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是质疑，挑战，英语怎么说？
+请说英语：质疑，挑战。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-challenge
+to challenge something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-I want to challenge one part of your explanation.
+to challenge something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 I want to challenge one part of your explanation.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-disagree
+I want to challenge one part of your explanation.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-意思是不同意。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-disagree
-
-<break time="1.5s" />
+to disagree with someone.
 
 <lang code="zh" />
-中文是不同意，英语怎么说？
-
-<break time="3.5s" />
+意思是：不同意。请跟读。
 
 <lang code="en" />
-disagree
+to disagree with someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：不同意。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to disagree with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to disagree with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 I disagree with the method, but I understand the goal.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I disagree with the method, but I understand the goal.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，不同意。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-disagree
-
-<break time="1.5s" />
+to acknowledge something.
 
 <lang code="zh" />
-请说英语，质疑，挑战。
-
-<break time="3.5s" />
+意思是：承认，认可。请跟读。
 
 <lang code="en" />
-challenge
+to acknowledge something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，质疑，挑战。
+请说英语：承认，认可。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-challenge
+to acknowledge something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-acknowledge
+to acknowledge something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是承认，认可。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-acknowledge
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是承认，认可，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-acknowledge
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 We should acknowledge the problem before we offer a solution.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 We should acknowledge the problem before we offer a solution.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-persuade
+to persuade someone.
 
 <lang code="zh" />
-意思是说服。请跟读
-
-<break time="2.8s" />
+意思是：说服。请跟读。
 
 <lang code="en" />
-persuade
+to persuade someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是说服，英语怎么说？
+请说英语：说服。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-persuade
+to persuade someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Good evidence can persuade people to change their minds.
+to persuade someone.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Good evidence can persuade people to change their minds.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，说服。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-persuade
+Good evidence can persuade people to change their minds.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，承认，认可。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-acknowledge
-
-<break time="1.5s" />
+the compromise.
 
 <lang code="zh" />
-请说英语，质疑，挑战。
-
-<break time="3.5s" />
+意思是：妥协。请跟读。
 
 <lang code="en" />
-challenge
+the compromise.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：妥协。
+
+<break time="4.5s" />
 
 <lang code="en" />
-compromise
+the compromise.
 
-<lang code="zh" />
-意思是妥协。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-compromise
+the compromise.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是妥协，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-compromise
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 A compromise may help both sides move forward.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 A compromise may help both sides move forward.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-controversial
+to be controversial.
 
 <lang code="zh" />
-意思是有争议的。请跟读
-
-<break time="2.8s" />
+意思是：有争议的。请跟读。
 
 <lang code="en" />
-controversial
+to be controversial.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是有争议的，英语怎么说？
+请说英语：有争议的。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-controversial
+to be controversial.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-This is a controversial topic, so we should speak carefully.
+to be controversial.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 This is a controversial topic, so we should speak carefully.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，有争议的。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-controversial
+This is a controversial topic, so we should speak carefully.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，妥协。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：说服。
+
+<break time="4.5s" />
 
 <lang code="en" />
-compromise
+to persuade someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，质疑，挑战。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-challenge
+to persuade someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：质疑，挑战。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the challenge is compromise but not completely persuade.
+to challenge something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the acknowledge before we make a final decision about the disagree.
+to challenge something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：有争议的。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why controversial can change the way people understand the issue.
+to be controversial.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect evidence with challenge because both ideas affect the final decision.
+to be controversial.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：承认，认可。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the challenge.
+to acknowledge something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your disagree in a little more detail?
+to acknowledge something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：妥协。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the acknowledge affects the result.
+the compromise.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds compromise, but I still need more information.
+the compromise.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：不同意。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+to disagree with someone.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+to disagree with someone.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main challenge may sound compromise, but we should examine the acknowledge behind it. A persuade explanation uses examples and respects other views. If the information is controversial, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-承认，认可。
-
-<break time="4.0s" />
-
-<lang code="en" />
-acknowledge
-
-<break time="1.5s" />
-
-<lang code="zh" />
-质疑，挑战。
-
-<break time="4.0s" />
-
-<lang code="en" />
-challenge
-
-<break time="1.5s" />
-
-<lang code="zh" />
-有争议的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-controversial
-
-<break time="1.5s" />
-
-<lang code="zh" />
-不同意。
-
-<break time="4.0s" />
-
-<lang code="en" />
-disagree
-
-<break time="1.5s" />
-
-<lang code="zh" />
-妥协。
-
-<break time="4.0s" />
-
-<lang code="en" />
-compromise
-
-<break time="1.5s" />
-
-<lang code="zh" />
-说服。
-
-<break time="4.0s" />
-
-<lang code="en" />
-persuade
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-challenge
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I want to challenge one part of your explanation.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-persuade
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Good evidence can persuade people to change their minds.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-compromise
+This is a controversial topic, so we should speak carefully.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：两个邻居正在讨论一项有争议的社区计划。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-A compromise may help both sides move forward.
+Lena disagrees with the controversial plan to remove the park.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+Lena disagrees with the controversial plan to remove the park.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+Mark challenges her argument but acknowledges her concerns.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mark challenges her argument but acknowledges her concerns.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Lena uses local survey results to persuade him.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lena uses local survey results to persuade him.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They finally reach a compromise that protects half the park.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They finally reach a compromise that protects half the park.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+莉娜不同意拆除公园这一有争议的计划。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lena disagrees with the controversial plan to remove the park.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+马克质疑她的论点，但也承认她的担忧。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mark challenges her argument but acknowledges her concerns.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+莉娜用当地调查结果来说服他。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lena uses local survey results to persuade him.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后，他们达成了保留一半公园的妥协方案。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They finally reach a compromise that protects half the park.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：质疑，挑战。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to challenge something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to challenge something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：不同意。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to disagree with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to disagree with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：承认，认可。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to acknowledge something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to acknowledge something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：说服。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to persuade someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to persuade someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：妥协。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the compromise.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the compromise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：有争议的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be controversial.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be controversial.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

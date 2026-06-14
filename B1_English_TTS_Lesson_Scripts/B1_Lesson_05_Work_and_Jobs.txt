@@ -1,59 +1,119 @@
 <lang code="zh" />
-欢迎来到第 5 课，级别 B1。今天的主题是工作和求职，重点是
-<lang code="en" />
-Job search.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第5课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-application, interview, experience, qualification, position, hire.
+今天的主题是工作和求职。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：同事。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-colleague.
+the application.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：我的同事会参加会议。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-My colleague will join the meeting.
+the interview.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the experience.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the position.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to hire someone.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：同事。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the colleague.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the colleague.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：会议。
+请说英语：会议。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-meeting.
+the meeting.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+the meeting.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：会议十点开始。
+请说英语：日程，安排。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the schedule.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：任务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the task.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 The meeting starts at ten o’clock.
@@ -61,48 +121,59 @@ The meeting starts at ten o’clock.
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+请回忆并说出上一课的这个句子。
 
-<lang code="zh" />
-第一个新词是
-<lang code="en" />
-application.
-<lang code="zh" />
-这个词的意思是：申请。请跟着说。
-<lang code="en" />
-application.
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-application.
+The deadline is Friday morning.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：申请。
+第三部分，新词介绍。
 
-<break time="3.5s" />
+<lang code="zh" />
+今天的第1个表达是。
 
 <lang code="en" />
-application.
-
-<break time="2.0s" />
+the application.
 
 <lang code="zh" />
-例句。
+意思是：申请。请跟读。
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：申请。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 I sent my application yesterday.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我昨天提交了申请。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我昨天提交了申请。
-
-<break time="5.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
 I sent my application yesterday.
@@ -110,45 +181,36 @@ I sent my application yesterday.
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-interview.
-<lang code="zh" />
-这个词的意思是：面试。请跟着说。
-<lang code="en" />
-interview.
-
-<break time="4.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-interview.
-
-<break time="2.0s" />
+the interview.
 
 <lang code="zh" />
-请说英文：面试。
-
-<break time="3.5s" />
+意思是：面试。请跟读。
 
 <lang code="en" />
-interview.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The interview is next Monday.
+the interview.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：面试在下周一。
+请说英语：面试。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：面试在下周一。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 The interview is next Monday.
@@ -156,45 +218,56 @@ The interview is next Monday.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-experience.
-<lang code="zh" />
-这个词的意思是：经验，经历。请跟着说。
-<lang code="en" />
-experience.
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-experience.
+The interview is next Monday.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：经验，经历。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-experience.
-
-<break time="2.0s" />
+the experience.
 
 <lang code="zh" />
-例句。
+意思是：经验，经历。请跟读。
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：经验，经历。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 I have three years of experience in sales.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我有三年的销售经验。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我有三年的销售经验。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I have three years of experience in sales.
@@ -202,78 +275,36 @@ I have three years of experience in sales.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+今天的第4个表达是。
+
+<lang code="en" />
+the qualification.
 
 <lang code="zh" />
-面试。
-
-<break time="4.8s" />
+意思是：资格，资质。请跟读。
 
 <lang code="en" />
-interview.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-申请。
-
-<break time="4.8s" />
-
-<lang code="en" />
-application.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-经验，经历。
-
-<break time="4.8s" />
-
-<lang code="en" />
-experience.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-qualification.
-<lang code="zh" />
-这个词的意思是：资格，资质。请跟着说。
-<lang code="en" />
-qualification.
-
-<break time="4.8s" />
-
-<lang code="en" />
-qualification.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：资格，资质。
-
-<break time="3.5s" />
-
-<lang code="en" />
-qualification.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-This qualification is useful for the position.
+the qualification.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：这个资质对这个职位有用。
+请说英语：资格，资质。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：这个资质对这个职位有用。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 This qualification is useful for the position.
@@ -281,366 +312,9 @@ This qualification is useful for the position.
 <break time="2.5s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-position.
-<lang code="zh" />
-这个词的意思是：职位。请跟着说。
-<lang code="en" />
-position.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-position.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：职位。
-
-<break time="3.5s" />
-
-<lang code="en" />
-position.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-I am interested in the position.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：我对这个职位感兴趣。
-
-<lang code="zh" />
-请你说这个英文句子：我对这个职位感兴趣。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I am interested in the position.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-hire.
-<lang code="zh" />
-这个词的意思是：雇用，录用。请跟着说。
-<lang code="en" />
-hire.
-
-<break time="4.8s" />
-
-<lang code="en" />
-hire.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：雇用，录用。
-
-<break time="3.5s" />
-
-<lang code="en" />
-hire.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The company wants to hire a new assistant.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：公司想录用一名新助理。
-
-<lang code="zh" />
-请你说这个英文句子：公司想录用一名新助理。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The company wants to hire a new assistant.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-资格，资质。
-
-<break time="4.8s" />
-
-<lang code="en" />
-qualification.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-雇用，录用。
-
-<break time="4.8s" />
-
-<lang code="en" />
-hire.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-经验，经历。
-
-<break time="4.8s" />
-
-<lang code="en" />
-experience.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：我有三年的销售经验。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have three years of experience in sales.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我昨天提交了申请。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I sent my application yesterday.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我对这个职位感兴趣。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I am interested in the position.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：面试在下周一。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The interview is next Monday.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：我的申请展示了我的经验和资质。
-
-<break time="3.5s" />
-
-<lang code="en" />
-My application shows my experience and qualifications.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：面试后，公司可能录用我担任这个职位。
-
-<break time="3.5s" />
-
-<lang code="en" />
-The company may hire me for the position after the interview.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 deadline 和 application。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use deadline and application in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 report 和 application。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use report and application in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-同事问你今天忙不忙。请说：我的日程很满。
-
-<break time="4.8s" />
-
-<lang code="en" />
-My schedule is full today.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-经理问任务进度。请说：我会在截止日期前完成报告。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I will finish the report before the deadline.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：谢谢你的反馈，我会解释解决办法。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Thank you for your feedback. I will explain the solution.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：雇用，录用。
-
-<break time="3.5s" />
-
-<lang code="en" />
-hire.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：公司想录用一名新助理。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The company wants to hire a new assistant.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：经验，经历。
-
-<break time="3.5s" />
-
-<lang code="en" />
-experience.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我有三年的销售经验。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I have three years of experience in sales.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：申请。
-
-<break time="3.5s" />
-
-<lang code="en" />
-application.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我昨天提交了申请。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I sent my application yesterday.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：职位。
-
-<break time="3.5s" />
-
-<lang code="en" />
-position.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我对这个职位感兴趣。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I am interested in the position.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：面试。
-
-<break time="3.5s" />
-
-<lang code="en" />
-interview.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：面试在下周一。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The interview is next Monday.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：资格，资质。
-
-<break time="3.5s" />
-
-<lang code="en" />
-qualification.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这个资质对这个职位有用。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 This qualification is useful for the position.
@@ -648,319 +322,83 @@ This qualification is useful for the position.
 <break time="2.5s" />
 
 <lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 application。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-I need more information before I can deal with application.
+the position.
+
+<lang code="zh" />
+意思是：职位。请跟读。
+
+<lang code="en" />
+the position.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：这和 interview 有关，所以我想确认一下。
+请说英语：职位。
 
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to interview, so I would like to confirm it.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：如果 experience 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-If experience is part of the problem, I will check it carefully.
+the position.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我们可以用简单的方法处理 qualification。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We can handle qualification in a simple way.
+the position.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 position 很重要，我会提前准备。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Because position is important, I will prepare early.
+I am interested in the position.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 hire 的信息。
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-Finally, I will record the information about hire.
+I am interested in the position.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
-
-<lang code="zh" />
-请说：我可以把旧词 deadline 和新词 application 放进同一个真实情境。
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I can put the old word deadline and the new word application into one real situation.
-
-<break time="3.0s" />
+to hire someone.
 
 <lang code="zh" />
-请说：我可以把旧词 report 和新词 interview 放进同一个真实情境。
-
-<break time="4.8s" />
+意思是：雇用，录用。请跟读。
 
 <lang code="en" />
-I can put the old word report and the new word interview into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with application and interview.
+to hire someone.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
+请说英语：雇用，录用。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
+to hire someone.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+to hire someone.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need information about experience, qualification, and position.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good final step is to confirm everything and write down the details about hire.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
-
-<lang code="en" />
-It is important because it helps me manage work and jobs in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请用 application 和 interview 回答一个完整句子。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I can talk about application and interview in a clear way.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<lang code="en" />
-I sent an application for a new position. In the interview, I will talk about my experience and qualifications. I hope the company decides to hire me because I am interested in the job.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-申请。
-
-<break time="4.8s" />
-
-<lang code="en" />
-application.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-面试。
-
-<break time="4.8s" />
-
-<lang code="en" />
-interview.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-经验，经历。
-
-<break time="4.8s" />
-
-<lang code="en" />
-experience.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-资格，资质。
-
-<break time="4.8s" />
-
-<lang code="en" />
-qualification.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-职位。
-
-<break time="4.8s" />
-
-<lang code="en" />
-position.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-雇用，录用。
-
-<break time="4.8s" />
-
-<lang code="en" />
-hire.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再复习三个关键句子。
-
-<lang code="zh" />
-请说：我昨天提交了申请。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I sent my application yesterday.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我有三年的销售经验。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have three years of experience in sales.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：公司想录用一名新助理。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
 The company wants to hire a new assistant.
@@ -968,4 +406,340 @@ The company wants to hire a new assistant.
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 5 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The company wants to hire a new assistant.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：资格，资质。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：申请。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：雇用，录用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to hire someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to hire someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：经验，经历。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：职位。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the position.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the position.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：面试。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+I sent my application yesterday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This qualification is useful for the position.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The company wants to hire a new assistant.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你正在申请一份新工作。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+I sent my application for a sales position yesterday.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I sent my application for a sales position yesterday.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+During the interview, I will describe my experience in sales.
+
+<break time="5.5s" />
+
+<lang code="en" />
+During the interview, I will describe my experience in sales.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The company wants to hire someone next month.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The company wants to hire someone next month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I hope my qualifications make me right for the position.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I hope my qualifications make me right for the position.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+我昨天提交了一份销售职位的申请。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I sent my application for a sales position yesterday.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+面试时，我会介绍自己的销售经验。
+
+<break time="5.5s" />
+
+<lang code="en" />
+During the interview, I will describe my experience in sales.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+公司想在下个月招聘一个人。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The company wants to hire someone next month.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+我希望自己的资历适合这个职位。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I hope my qualifications make me right for the position.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：申请。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the application.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：面试。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the interview.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：经验，经历。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the experience.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：资格，资质。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the qualification.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：职位。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the position.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the position.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：雇用，录用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to hire someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to hire someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

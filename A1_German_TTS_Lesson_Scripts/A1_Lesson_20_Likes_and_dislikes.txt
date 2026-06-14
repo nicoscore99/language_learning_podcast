@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 20. The topic is Likes and dislikes. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: gern, Musik, Film, Sport, Buch, mögen.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to like". "to like" in German is: "mögen". You will practise these forms: ich mag, du magst.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: You can say likes with “ich mag” plus a noun, or with “ich mache gern” plus an activity.
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich kaufe Brot"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich kaufe Brot.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Der Preis ist gut"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Der Preis ist gut.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich habe einen Tisch"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe einen Tisch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Ich habe eine Tasche"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Tasche.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "gern". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 gern.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "gern".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "gern" means "gladly or like to". Say "gern" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 gern.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "gern". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mag Musik.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich mag Musik."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mag Musik.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Musik". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Musik.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Musik".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Musik" means "music". Say "Musik" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Musik.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Musik". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Magst du Filme?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Magst du Filme?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Magst du Filme?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Film". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Film.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Film".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Film" means "film or movie". Say "Film" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Film.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Film". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mache gern Sport.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich mache gern Sport."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mache gern Sport.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Say "film or movie" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Film.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "music" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Musik.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "gladly or like to" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 gern.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "Sport". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Sport.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Sport".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Sport" means "sport or exercise". Say "Sport" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Sport.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Sport". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Sport.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Sport."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Sport.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "Buch". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Buch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Buch".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Buch" means "book". Say "Buch" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Buch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Buch". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Buch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Buch."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Buch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "book" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Buch.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Say "sport or exercise" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Sport.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Say "film or movie" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Film.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "mögen". Listen to the German word, then repeat it.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 mögen.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "mögen".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "mögen" means "to like". Say "mögen" in German.
+
 <break time="4.5s" />
 
 <lang code="de" />
 mögen.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now a short sentence with "mögen". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage mögen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage mögen."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage mögen.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "mögen". It means "to like". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich mag.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du magst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich mag".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich mag.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du magst".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du magst.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich mag Musik."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mag Musik.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Magst du Filme?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Magst du Filme?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Ich mache gern Sport."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mache gern Sport.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Ich habe eine Tasche"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Tasche.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich mag Musik."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich mag Musik.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Magst du Filme?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Magst du Filme?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: You can say likes with “ich mag” plus a noun, or with “ich mache gern” plus an activity. Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich mag; du magst.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 Ich mag Musik. Magst du Filme? Ich mache gern Sport.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "gladly or like to".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 gern.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "music".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Musik.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 German for "film or movie".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Film.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 German for "sport or exercise".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Sport.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "book".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Buch.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to like".
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 mögen.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "mögen", meaning "to like", and the forms: ich mag, du magst. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

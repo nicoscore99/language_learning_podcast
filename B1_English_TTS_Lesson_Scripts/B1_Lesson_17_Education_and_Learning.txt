@@ -1,108 +1,179 @@
 <lang code="zh" />
-欢迎来到第 17 课，级别 B1。今天的主题是教育和学习，重点是
-<lang code="en" />
-Classroom communication.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第17课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-question, answer, explain, example, topic, discussion.
+今天的主题是教育和学习。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：练习。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-practice.
+the question.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：定期练习帮助我说得更清楚。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-Regular practice helps me speak more clearly.
+the answer.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the example.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the topic.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the discussion.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：练习。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the practice.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the practice.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：记住，背诵。
+请说英语：记住，背诵。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-memorize.
+to memorize something.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+to memorize something.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：我每天努力记住五个新单词。
+请说英语：复习。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+to review something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to review something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：错误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 I try to memorize five new words every day.
 
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I can see real progress this month.
+
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第一个新词是
-<lang code="en" />
-question.
-<lang code="zh" />
-这个词的意思是：问题。请跟着说。
-<lang code="en" />
-question.
-
-<break time="4.8s" />
+今天的第1个表达是。
 
 <lang code="en" />
-question.
-
-<break time="2.0s" />
+the question.
 
 <lang code="zh" />
-请说英文：问题。
-
-<break time="3.5s" />
+意思是：问题。请跟读。
 
 <lang code="en" />
-question.
+the question.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-例句。
+请说英语：问题。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 I have a question about the topic.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：关于这个话题我有一个问题。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：关于这个话题我有一个问题。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I have a question about the topic.
@@ -110,45 +181,36 @@ I have a question about the topic.
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-answer.
-<lang code="zh" />
-这个词的意思是：回答，答案。请跟着说。
-<lang code="en" />
-answer.
-
-<break time="4.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-answer.
-
-<break time="2.0s" />
+the answer.
 
 <lang code="zh" />
-请说英文：回答，答案。
-
-<break time="3.5s" />
+意思是：回答，答案。请跟读。
 
 <lang code="en" />
-answer.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-Please give a clear answer.
+the answer.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：请给出清楚的回答。
+请说英语：回答，答案。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：请给出清楚的回答。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 Please give a clear answer.
@@ -156,45 +218,56 @@ Please give a clear answer.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-explain.
-<lang code="zh" />
-这个词的意思是：解释。请跟着说。
-<lang code="en" />
-explain.
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-explain.
+Please give a clear answer.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：解释。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-explain.
-
-<break time="2.0s" />
+to explain something.
 
 <lang code="zh" />
-例句。
+意思是：解释。请跟读。
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：解释。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 Can you explain the problem again?
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：你能再解释一下这个问题吗？
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：你能再解释一下这个问题吗？
-
-<break time="6.3s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Can you explain the problem again?
@@ -202,78 +275,36 @@ Can you explain the problem again?
 <break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+今天的第4个表达是。
+
+<lang code="en" />
+the example.
 
 <lang code="zh" />
-回答，答案。
-
-<break time="4.8s" />
+意思是：例子。请跟读。
 
 <lang code="en" />
-answer.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-问题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-question.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-解释。
-
-<break time="4.8s" />
-
-<lang code="en" />
-explain.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-example.
-<lang code="zh" />
-这个词的意思是：例子。请跟着说。
-<lang code="en" />
-example.
-
-<break time="4.8s" />
-
-<lang code="en" />
-example.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：例子。
-
-<break time="3.5s" />
-
-<lang code="en" />
-example.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-Can you give me another example?
+the example.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：你能再给我一个例子吗？
+请说英语：例子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：你能再给我一个例子吗？
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 Can you give me another example?
@@ -281,366 +312,9 @@ Can you give me another example?
 <break time="2.5s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-topic.
-<lang code="zh" />
-这个词的意思是：话题。请跟着说。
-<lang code="en" />
-topic.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-topic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：话题。
-
-<break time="3.5s" />
-
-<lang code="en" />
-topic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-Today’s topic is classroom communication.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：今天的话题是课堂交流。
-
-<lang code="zh" />
-请你说这个英文句子：今天的话题是课堂交流。
-
-<break time="5.8s" />
-
-<lang code="en" />
-Today’s topic is classroom communication.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-discussion.
-<lang code="zh" />
-这个词的意思是：讨论。请跟着说。
-<lang code="en" />
-discussion.
-
-<break time="4.8s" />
-
-<lang code="en" />
-discussion.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：讨论。
-
-<break time="3.5s" />
-
-<lang code="en" />
-discussion.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The discussion helped me understand the lesson.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：这次讨论帮助我理解了课程。
-
-<lang code="zh" />
-请你说这个英文句子：这次讨论帮助我理解了课程。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The discussion helped me understand the lesson.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-例子。
-
-<break time="4.8s" />
-
-<lang code="en" />
-example.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-讨论。
-
-<break time="4.8s" />
-
-<lang code="en" />
-discussion.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-解释。
-
-<break time="4.8s" />
-
-<lang code="en" />
-explain.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：你能再解释一下这个问题吗？
-
-<break time="6.3s" />
-
-<lang code="en" />
-Can you explain the problem again?
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：关于这个话题我有一个问题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have a question about the topic.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：今天的话题是课堂交流。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Today’s topic is classroom communication.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：请给出清楚的回答。
-
-<break time="4.8s" />
-
-<lang code="en" />
-Please give a clear answer.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：请回答问题并举一个例子。
-
-<break time="3.5s" />
-
-<lang code="en" />
-Please answer the question and give an example.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：讨论的话题是如何清楚解释想法。
-
-<break time="3.5s" />
-
-<lang code="en" />
-The topic of the discussion is how to explain ideas clearly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 progress 和 question。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use progress and question in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 goal 和 question。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use goal and question in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-老师问你的学习目标。请说：我的目标是取得进步。
-
-<break time="4.8s" />
-
-<lang code="en" />
-My goal is to make progress.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我需要复习，因为考试快到了。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need to review because the exam is coming.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：你能给我一个例子来解释这个话题吗？
-
-<break time="4.8s" />
-
-<lang code="en" />
-Can you give me an example to explain this topic?
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：讨论。
-
-<break time="3.5s" />
-
-<lang code="en" />
-discussion.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这次讨论帮助我理解了课程。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The discussion helped me understand the lesson.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：解释。
-
-<break time="3.5s" />
-
-<lang code="en" />
-explain.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：你能再解释一下这个问题吗？
-
-<break time="6.3s" />
-
-<lang code="en" />
-Can you explain the problem again?
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：问题。
-
-<break time="3.5s" />
-
-<lang code="en" />
-question.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：关于这个话题我有一个问题。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I have a question about the topic.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：话题。
-
-<break time="3.5s" />
-
-<lang code="en" />
-topic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：今天的话题是课堂交流。
-
-<break time="5.8s" />
-
-<lang code="en" />
-Today’s topic is classroom communication.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：回答，答案。
-
-<break time="3.5s" />
-
-<lang code="en" />
-answer.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：请给出清楚的回答。
-
-<break time="5.8s" />
-
-<lang code="en" />
-Please give a clear answer.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：例子。
-
-<break time="3.5s" />
-
-<lang code="en" />
-example.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：你能再给我一个例子吗？
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Can you give me another example?
@@ -648,319 +322,83 @@ Can you give me another example?
 <break time="2.5s" />
 
 <lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 question。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-I need more information before I can deal with question.
+the topic.
+
+<lang code="zh" />
+意思是：话题。请跟读。
+
+<lang code="en" />
+the topic.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：这和 answer 有关，所以我想确认一下。
+请说英语：话题。
 
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to answer, so I would like to confirm it.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：如果 explain 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-If explain is part of the problem, I will check it carefully.
+the topic.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我们可以用简单的方法处理 example。
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We can handle example in a simple way.
+the topic.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 topic 很重要，我会提前准备。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Because topic is important, I will prepare early.
+Today’s topic is classroom communication.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 discussion 的信息。
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Finally, I will record the information about discussion.
+Today’s topic is classroom communication.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
-
-<lang code="zh" />
-请说：我可以把旧词 progress 和新词 question 放进同一个真实情境。
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I can put the old word progress and the new word question into one real situation.
-
-<break time="3.0s" />
+the discussion.
 
 <lang code="zh" />
-请说：我可以把旧词 goal 和新词 answer 放进同一个真实情境。
-
-<break time="4.8s" />
+意思是：讨论。请跟读。
 
 <lang code="en" />
-I can put the old word goal and the new word answer into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with question and answer.
+the discussion.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
+请说英语：讨论。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
+the discussion.
 
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+the discussion.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need information about explain, example, and topic.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good final step is to confirm everything and write down the details about discussion.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
-
-<lang code="en" />
-It is important because it helps me manage education and learning in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请用 question 和 answer 回答一个完整句子。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I can talk about question and answer in a clear way.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<lang code="en" />
-In class, I asked a question about the topic. The teacher gave a clear answer and an example. Then we had a short discussion, and I could explain my idea better.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-问题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-question.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-回答，答案。
-
-<break time="4.8s" />
-
-<lang code="en" />
-answer.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-解释。
-
-<break time="4.8s" />
-
-<lang code="en" />
-explain.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例子。
-
-<break time="4.8s" />
-
-<lang code="en" />
-example.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-话题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-topic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-讨论。
-
-<break time="4.8s" />
-
-<lang code="en" />
-discussion.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再复习三个关键句子。
-
-<lang code="zh" />
-请说：关于这个话题我有一个问题。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have a question about the topic.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：你能再解释一下这个问题吗？
-
-<break time="6.3s" />
-
-<lang code="en" />
-Can you explain the problem again?
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：这次讨论帮助我理解了课程。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
 The discussion helped me understand the lesson.
@@ -968,4 +406,340 @@ The discussion helped me understand the lesson.
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 17 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The discussion helped me understand the lesson.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：例子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：问题。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：讨论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the discussion.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the discussion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：解释。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：话题。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the topic.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：回答，答案。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I have a question about the topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Can you give me another example?
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The discussion helped me understand the lesson.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你在课堂上参加讨论。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+I asked a question about today's topic.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I asked a question about today's topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The teacher gave a clear answer and a helpful example.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The teacher gave a clear answer and a helpful example.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Then she asked me to explain my opinion.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Then she asked me to explain my opinion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The discussion helped everyone understand the topic better.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The discussion helped everyone understand the topic better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+我问了一个关于今天主题的问题。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I asked a question about today's topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+老师给出了清楚的答案和一个有帮助的例子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The teacher gave a clear answer and a helpful example.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+然后她请我解释自己的观点。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Then she asked me to explain my opinion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+这次讨论帮助大家更好地理解了这个主题。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The discussion helped everyone understand the topic better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：问题。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the question.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：回答，答案。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the answer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：解释。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to explain something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：例子。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the example.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：话题。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the topic.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the topic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：讨论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the discussion.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the discussion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

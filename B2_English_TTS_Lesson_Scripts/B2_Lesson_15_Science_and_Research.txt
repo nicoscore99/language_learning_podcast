@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第15课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第15课，级别是B2。
+
+<lang code="zh" />
+今天的主题是科学和研究。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the research.
 
-<lang code="zh" />
-主题是科学和研究
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-research hypothesis experiment sample survey data
+the hypothesis.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，不平等。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-inequality
+the experiment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，公平，正义。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-justice
+the sample.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，福利。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-welfare
+the survey.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，改革。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-reform
-
-<break time="1.5s" />
+the data.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：不平等。
+
+<break time="4.5s" />
 
 <lang code="en" />
-welfare
+the inequality.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The welfare system helps people who need support.
+the inequality.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：公平，正义。
+
+<break time="4.5s" />
 
 <lang code="en" />
-reform
+the justice.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The reform aims to make public services more efficient.
+the justice.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：福利。
+
+<break time="4.5s" />
 
 <lang code="en" />
-minority
+the welfare.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the welfare.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：改革。
 
-<break time="5.2s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the reform.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the reform.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Justice means that people are treated fairly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 The minority group asked for equal treatment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-research
+the research.
 
 <lang code="zh" />
-意思是研究。请跟读
-
-<break time="2.8s" />
+意思是：研究。请跟读。
 
 <lang code="en" />
-research
+the research.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是研究，英语怎么说？
+请说英语：研究。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-research
+the research.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The research examines how people learn languages online.
+the research.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The research examines how people learn languages online.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-hypothesis
+The research examines how people learn languages online.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是假设。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-hypothesis
-
-<break time="1.5s" />
+the hypothesis.
 
 <lang code="zh" />
-中文是假设，英语怎么说？
-
-<break time="3.5s" />
+意思是：假设。请跟读。
 
 <lang code="en" />
-hypothesis
+the hypothesis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：假设。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the hypothesis.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the hypothesis.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 Our hypothesis is that practice improves confidence.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Our hypothesis is that practice improves confidence.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，假设。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-hypothesis
-
-<break time="1.5s" />
+the experiment.
 
 <lang code="zh" />
-请说英语，研究。
-
-<break time="3.5s" />
+意思是：实验。请跟读。
 
 <lang code="en" />
-research
+the experiment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，研究。
+请说英语：实验。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-research
+the experiment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-experiment
+the experiment.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是实验。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-experiment
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是实验，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-experiment
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The experiment tested two different learning methods.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The experiment tested two different learning methods.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-sample
+the sample.
 
 <lang code="zh" />
-意思是样本。请跟读
-
-<break time="2.8s" />
+意思是：样本。请跟读。
 
 <lang code="en" />
-sample
+the sample.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是样本，英语怎么说？
+请说英语：样本。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-sample
+the sample.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The sample included adults from several countries.
+the sample.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The sample included adults from several countries.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，样本。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-sample
+The sample included adults from several countries.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，实验。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-experiment
-
-<break time="1.5s" />
+the survey.
 
 <lang code="zh" />
-请说英语，研究。
-
-<break time="3.5s" />
+意思是：调查。请跟读。
 
 <lang code="en" />
-research
+the survey.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：调查。
+
+<break time="4.5s" />
 
 <lang code="en" />
-survey
+the survey.
 
-<lang code="zh" />
-意思是调查。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-survey
+the survey.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是调查，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-survey
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The survey asked students about their study habits.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The survey asked students about their study habits.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-data
+the data.
 
 <lang code="zh" />
-意思是数据。请跟读
-
-<break time="2.8s" />
+意思是：数据。请跟读。
 
 <lang code="en" />
-data
+the data.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是数据，英语怎么说？
+请说英语：数据。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-data
+the data.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The data shows a clear improvement after six weeks.
+the data.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The data shows a clear improvement after six weeks.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，数据。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-data
+The data shows a clear improvement after six weeks.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，调查。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：样本。
+
+<break time="4.5s" />
 
 <lang code="en" />
-survey
+the sample.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，研究。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-research
+the sample.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：研究。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the research is survey but not completely sample.
+the research.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the experiment before we make a final decision about the hypothesis.
+the research.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：数据。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why data can change the way people understand the issue.
+the data.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect inequality with research because both ideas affect the final decision.
+the data.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：实验。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the research.
+the experiment.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your hypothesis in a little more detail?
+the experiment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：调查。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the experiment affects the result.
+the survey.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds survey, but I still need more information.
+the survey.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：假设。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the hypothesis.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the hypothesis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main research may sound survey, but we should examine the experiment behind it. A sample explanation uses examples and respects other views. If the information is data, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-实验。
-
-<break time="4.0s" />
-
-<lang code="en" />
-experiment
-
-<break time="1.5s" />
-
-<lang code="zh" />
-研究。
-
-<break time="4.0s" />
-
-<lang code="en" />
-research
-
-<break time="1.5s" />
-
-<lang code="zh" />
-数据。
-
-<break time="4.0s" />
-
-<lang code="en" />
-data
-
-<break time="1.5s" />
-
-<lang code="zh" />
-假设。
-
-<break time="4.0s" />
-
-<lang code="en" />
-hypothesis
-
-<break time="1.5s" />
-
-<lang code="zh" />
-调查。
-
-<break time="4.0s" />
-
-<lang code="en" />
-survey
-
-<break time="1.5s" />
-
-<lang code="zh" />
-样本。
-
-<break time="4.0s" />
-
-<lang code="en" />
-sample
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-research
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The research examines how people learn languages online.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-sample
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The sample included adults from several countries.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-survey
+The data shows a clear improvement after six weeks.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：研究人员正在计划一项语言学习研究。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-The survey asked students about their study habits.
+The research team develops a clear hypothesis about daily practice.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+The research team develops a clear hypothesis about daily practice.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+They design an experiment with a large sample of learners.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They design an experiment with a large sample of learners.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Each participant completes a weekly survey.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Each participant completes a weekly survey.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The researchers will compare the data after three months.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The researchers will compare the data after three months.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+研究团队提出了一个关于每日练习的明确假设。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The research team develops a clear hypothesis about daily practice.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+他们设计了一项包含大量学习者样本的实验。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They design an experiment with a large sample of learners.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+每位参与者每周完成一次调查。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Each participant completes a weekly survey.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+研究人员将在三个月后比较数据。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The researchers will compare the data after three months.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：研究。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the research.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the research.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：假设。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the hypothesis.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the hypothesis.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：实验。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the experiment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the experiment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：样本。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sample.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sample.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：调查。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the survey.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the survey.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：数据。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the data.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the data.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

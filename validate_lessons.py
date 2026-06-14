@@ -24,12 +24,21 @@ ALLOWED_TAG_RE = re.compile(
 )
 ANY_TAG_RE = re.compile(r"<[^>\n]+>")
 ENGLISH_WORD_RE = re.compile(r"[A-Za-z]+(?:'[A-Za-z]+)?")
+SENTENCE_RE = re.compile(r"[^.!?]+[.!?]?")
 CJK_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
 MOJIBAKE_RE = re.compile(r"(?:Ã|Â|â€|â€™|â€œ|â€�|ã€|ï¼|æ[\x80-\xbf])")
 SPEAKER_LABEL_RE = re.compile(
     r"(?im)^\s*(?:narrator|teacher|student|learner|host|speaker\s*\d*)\s*:"
 )
 MARKDOWN_RE = re.compile(r"(?m)^\s*(?:#{1,6}\s+|[-*+]\s+|\d+\.\s+)")
+ENGLISH_SECTION_TITLES = [
+    "第一部分，课程介绍。",
+    "第二部分，复习。",
+    "第三部分，新词介绍。",
+    "第四部分，新词练习。",
+    "第五部分，情境句子练习。",
+    "第六部分，课程总结。",
+]
 
 
 @dataclass
@@ -56,13 +65,13 @@ def find_lesson_files(paths: list[Path]) -> list[Path]:
 
     for path in paths:
         if path.is_file() and path.suffix.lower() == ".txt":
-            if path.name.lower() not in {"readme_repetition_plan.txt", "validation_summary.txt"}:
+            if path.name.lower() not in {"readme_repetition_plan.txt", "validation_summary.txt"} and not path.stem.lower().endswith("_example"):
                 files.append(path)
             continue
 
         if path.is_dir():
             for txt_path in path.rglob("*.txt"):
-                if txt_path.name.lower() in {"readme_repetition_plan.txt", "validation_summary.txt"}:
+                if txt_path.name.lower() in {"readme_repetition_plan.txt", "validation_summary.txt"} or txt_path.stem.lower().endswith("_example"):
                     continue
                 files.append(txt_path)
             continue
@@ -146,9 +155,229 @@ def validate_file(path: Path, max_break: float, max_chars: int) -> LessonReport:
     no_language_segments = [
         segment for segment in speech_segments if not segment.get("language_code")
     ]
-    if no_language_segments:
+    explicit_auto_segments = sum(
+        1
+        for segment in raw_segments
+        if segment["type"] == "speech" and segment.get("language_code") == "auto"
+    )
+    unexpected_no_language = max(0, len(no_language_segments) - explicit_auto_segments)
+    if unexpected_no_language:
         report.warnings.append(
-            f"{len(no_language_segments)} speech segment(s) have no language_code after inference"
+            f"{unexpected_no_language} speech segment(s) have no language_code after inference"
+        )
+
+    if path.name.startswith(("B1_Lesson_", "B2_Lesson_")):
+        spoken_texts = [
+            segment["text"].strip()
+            for segment in raw_segments
+            if segment["type"] == "speech"
+        ]
+        section_positions: list[int] = []
+        for title in ENGLISH_SECTION_TITLES:
+            if spoken_texts.count(title) != 1:
+                report.errors.append(
+                    f"required section title must appear exactly once: {title}"
+                )
+                continue
+            section_positions.append(spoken_texts.index(title))
+        if (
+            len(section_positions) == len(ENGLISH_SECTION_TITLES)
+            and section_positions != sorted(section_positions)
+        ):
+            report.errors.append("required lesson sections are not in the expected order")
+
+        preview_prompt_index = next(
+            (
+                index
+                for index, segment in enumerate(raw_segments)
+                if segment["type"] == "speech"
+                and segment["text"].strip() == "今天的六个新英语表达是。"
+            ),
+            None,
+        )
+        review_title_index = next(
+            (
+                index
+                for index, segment in enumerate(raw_segments)
+                if segment["type"] == "speech"
+                and segment["text"].strip() == ENGLISH_SECTION_TITLES[1]
+            ),
+            None,
+        )
+        if preview_prompt_index is not None and review_title_index is not None:
+            preview_segments = raw_segments[preview_prompt_index + 1 : review_title_index]
+            preview_english = [
+                segment
+                for segment in preview_segments
+                if segment["type"] == "speech" and segment.get("language_code") == "en"
+            ]
+            preview_breaks = [
+                segment
+                for segment in preview_segments
+                if segment["type"] == "silence"
+            ]
+            if len(preview_english) != 6:
+                report.errors.append("opening preview must contain six separate English blocks")
+            elif any(
+                not segment["text"].strip().casefold().startswith(("the ", "to "))
+                for segment in preview_english
+            ):
+                report.errors.append(
+                    "opening expressions must identify nouns with 'the' and verbs/adjectives with a 'to' pattern"
+                )
+            if any(
+                segment["text"].strip().casefold().startswith("the to ")
+                for segment in preview_english
+            ):
+                report.errors.append("opening expression contains invalid 'the to' pattern")
+            if len(preview_breaks) != 5 or any(
+                float(segment["seconds"]) != 1.0 for segment in preview_breaks
+            ):
+                report.errors.append("opening preview must use five 1.0s breaks")
+
+        for index, segment in enumerate(raw_segments):
+            if (
+                segment["type"] != "speech"
+                or segment.get("language_code") != "zh"
+                or not segment["text"].strip().startswith("请说英语：")
+            ):
+                continue
+            following_english = [
+                item["text"].strip()
+                for item in raw_segments[index + 1 :]
+                if item["type"] == "speech" and item.get("language_code") == "en"
+            ][:2]
+            if len(following_english) != 2 or following_english[0] != following_english[1]:
+                report.errors.append(
+                    "expression translation prompts must provide the same English answer twice"
+                )
+                break
+
+        scenario_title_index = next(
+            (
+                index
+                for index, segment in enumerate(raw_segments)
+                if segment["type"] == "speech"
+                and segment["text"].strip() == ENGLISH_SECTION_TITLES[4]
+            ),
+            None,
+        )
+        conclusion_title_index = next(
+            (
+                index
+                for index, segment in enumerate(raw_segments)
+                if segment["type"] == "speech"
+                and segment["text"].strip() == ENGLISH_SECTION_TITLES[5]
+            ),
+            None,
+        )
+        if scenario_title_index is not None and conclusion_title_index is not None:
+            scenario_segments = raw_segments[scenario_title_index:conclusion_title_index]
+            listen_index = next(
+                (
+                    index
+                    for index, segment in enumerate(scenario_segments)
+                    if segment["type"] == "speech"
+                    and segment["text"].strip()
+                    == "先听每个英语句子，然后在停顿时大声重复。"
+                ),
+                None,
+            )
+            translation_index = next(
+                (
+                    index
+                    for index, segment in enumerate(scenario_segments)
+                    if segment["type"] == "speech"
+                    and segment["text"].strip()
+                    == "现在根据中文提示，把这个情境中的句子翻译成英语。"
+                ),
+                None,
+            )
+            if translation_index is None:
+                report.errors.append("scenario section is missing its Mandarin translation round")
+            if listen_index is None:
+                report.errors.append("scenario section is missing its listen-and-repeat instruction")
+            elif translation_index is not None:
+                first_round = scenario_segments[listen_index + 1 : translation_index]
+                cursor = 0
+                sentence_count = 0
+                first_round_ok = True
+                while cursor < len(first_round):
+                    if sentence_count > 0:
+                        prompt = first_round[cursor]
+                        if (
+                            prompt["type"] != "speech"
+                            or prompt.get("language_code") != "zh"
+                            or prompt["text"].strip() != "请重复这个英语句子。"
+                        ):
+                            first_round_ok = False
+                            break
+                        cursor += 1
+                    if cursor + 3 >= len(first_round):
+                        first_round_ok = False
+                        break
+                    first_answer, response_break, repeated_answer, reflection_break = first_round[
+                        cursor : cursor + 4
+                    ]
+                    if not (
+                        first_answer["type"] == "speech"
+                        and first_answer.get("language_code") == "en"
+                        and response_break["type"] == "silence"
+                        and repeated_answer["type"] == "speech"
+                        and repeated_answer.get("language_code") == "en"
+                        and first_answer["text"].strip() == repeated_answer["text"].strip()
+                        and reflection_break["type"] == "silence"
+                    ):
+                        first_round_ok = False
+                        break
+                    cursor += 4
+                    sentence_count += 1
+                if not first_round_ok or not 4 <= sentence_count <= 6:
+                    report.errors.append(
+                        "scenario listen-and-repeat round must use each complete English sentence twice with the repeat prompt before later sentences"
+                    )
+
+                translation_round = scenario_segments[translation_index + 1 :]
+                cursor = 0
+                translated_count = 0
+                translation_round_ok = True
+                while cursor < len(translation_round):
+                    if cursor + 3 >= len(translation_round):
+                        translation_round_ok = False
+                        break
+                    prompt, response_break, answer, reflection_break = translation_round[
+                        cursor : cursor + 4
+                    ]
+                    if not (
+                        prompt["type"] == "speech"
+                        and prompt.get("language_code") == "zh"
+                        and response_break["type"] == "silence"
+                        and answer["type"] == "speech"
+                        and answer.get("language_code") == "en"
+                        and reflection_break["type"] == "silence"
+                    ):
+                        translation_round_ok = False
+                        break
+                    cursor += 4
+                    translated_count += 1
+                if (
+                    not translation_round_ok
+                    or translated_count != sentence_count
+                ):
+                    report.errors.append(
+                        "scenario translation round must provide one Mandarin prompt and one English answer per scenario sentence"
+                    )
+
+    overlong_english_sentences = [
+        sentence.strip()
+        for segment in raw_segments
+        if segment["type"] == "speech" and segment.get("language_code") == "en"
+        for sentence in SENTENCE_RE.findall(segment["text"])
+        if len(ENGLISH_WORD_RE.findall(sentence)) > 20
+    ]
+    if overlong_english_sentences:
+        report.warnings.append(
+            f"{len(overlong_english_sentences)} English sentence(s) exceed 20 words"
         )
 
     overlong_speech = [
@@ -296,4 +525,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

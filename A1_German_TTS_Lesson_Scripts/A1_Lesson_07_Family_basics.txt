@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 7. The topic is Family basics. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: Mutter, Vater, Bruder, Schwester, Familie, haben.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "to have". "to have" in German is: "haben". You will practise these forms: ich habe, du hast.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: The verb “haben” is irregular. Say “ich habe”, but “du hast”.
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich spreche Englisch"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich spreche Englisch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Sprichst du Deutsch"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sprichst du Deutsch.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Entschuldigung, ich verstehe nicht"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Entschuldigung, ich verstehe nicht.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Bitte langsam"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "Mutter". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Mutter.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Mutter".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Mutter" means "mother". Say "Mutter" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Mutter.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Mutter". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich habe eine Schwester."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Vater". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Vater.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Vater".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Vater" means "father". Say "Vater" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Vater.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Vater". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hast du einen Bruder?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Hast du einen Bruder?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hast du einen Bruder?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Bruder". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Bruder.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Bruder".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Bruder" means "brother". Say "Bruder" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bruder.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Bruder". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Meine Familie ist hier.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Meine Familie ist hier."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Meine Familie ist hier.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "brother" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bruder.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "father" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Vater.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "mother" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Mutter.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "Schwester". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Schwester.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Schwester".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Schwester" means "sister". Say "Schwester" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Schwester.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Schwester". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Schwester."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "Familie". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Familie.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Familie".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Familie" means "family". Say "Familie" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Familie.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Familie". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Familie.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Familie."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Familie.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "family" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Familie.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "sister" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Schwester.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "brother" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bruder.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "haben". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 haben.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "haben".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "haben" means "to have". Say "haben" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 haben.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "haben". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage haben.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage haben."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage haben.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "haben". It means "to have". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich habe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du hast.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich habe".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich habe.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du hast".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du hast.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich habe eine Schwester."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Hast du einen Bruder?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hast du einen Bruder?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Meine Familie ist hier."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Meine Familie ist hier.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Bitte langsam"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Bitte langsam.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich habe eine Schwester."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Hast du einen Bruder?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hast du einen Bruder?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: The verb “haben” is irregular. Say “ich habe”, but “du hast”. Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich habe; du hast.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="6.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester. Hast du einen Bruder? Meine Familie ist hier.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "mother".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Mutter.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "father".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Vater.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "brother".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Bruder.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "sister".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Schwester.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "family".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Familie.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "to have".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 haben.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "haben", meaning "to have", and the forms: ich habe, du hast. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

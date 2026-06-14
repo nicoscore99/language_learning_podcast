@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第16课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第16课，级别是B2。
+
+<lang code="zh" />
+今天的主题是科学和研究。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the analysis.
 
-<lang code="zh" />
-主题是科学和研究
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-analysis evidence trend variable significant proof
+the evidence.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，研究。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-research
+the trend.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，假设。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-hypothesis
+the variable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，实验。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-experiment
+to be significant.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，样本。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-sample
-
-<break time="1.5s" />
+the proof.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：研究。
+
+<break time="4.5s" />
 
 <lang code="en" />
-experiment
+the research.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The experiment tested two different learning methods.
+the research.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：假设。
+
+<break time="4.5s" />
 
 <lang code="en" />
-sample
+the hypothesis.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The sample included adults from several countries.
+the hypothesis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：实验。
+
+<break time="4.5s" />
 
 <lang code="en" />
-survey
+the experiment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the experiment.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：样本。
 
-<break time="5.2s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the sample.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sample.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Our hypothesis is that practice improves confidence.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 The survey asked students about their study habits.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-analysis
+the analysis.
 
 <lang code="zh" />
-意思是分析。请跟读
-
-<break time="2.8s" />
+意思是：分析。请跟读。
 
 <lang code="en" />
-analysis
+the analysis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是分析，英语怎么说？
+请说英语：分析。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-analysis
+the analysis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The analysis explains why the results changed.
+the analysis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The analysis explains why the results changed.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-evidence
+The analysis explains why the results changed.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是证据。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-evidence
-
-<break time="1.5s" />
+the evidence.
 
 <lang code="zh" />
-中文是证据，英语怎么说？
-
-<break time="3.5s" />
+意思是：证据。请跟读。
 
 <lang code="en" />
-evidence
+the evidence.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：证据。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the evidence.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the evidence.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 We need evidence before we accept this conclusion.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 We need evidence before we accept this conclusion.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，证据。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-evidence
-
-<break time="1.5s" />
+the trend.
 
 <lang code="zh" />
-请说英语，分析。
-
-<break time="3.5s" />
+意思是：趋势。请跟读。
 
 <lang code="en" />
-analysis
+the trend.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，分析。
+请说英语：趋势。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-analysis
+the trend.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-trend
+the trend.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是趋势。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-trend
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是趋势，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-trend
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 There is a trend toward remote work in many industries.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 There is a trend toward remote work in many industries.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-variable
+the variable.
 
 <lang code="zh" />
-意思是变量。请跟读
-
-<break time="2.8s" />
+意思是：变量。请跟读。
 
 <lang code="en" />
-variable
+the variable.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是变量，英语怎么说？
+请说英语：变量。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-variable
+the variable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-One important variable is the amount of daily practice.
+the variable.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 One important variable is the amount of daily practice.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，变量。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-variable
+One important variable is the amount of daily practice.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，趋势。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-trend
-
-<break time="1.5s" />
+to be significant.
 
 <lang code="zh" />
-请说英语，分析。
-
-<break time="3.5s" />
+意思是：显著的，重要的。请跟读。
 
 <lang code="en" />
-analysis
+to be significant.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：显著的，重要的。
+
+<break time="4.5s" />
 
 <lang code="en" />
-significant
+to be significant.
 
-<lang code="zh" />
-意思是显著的，重要的。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-significant
+to be significant.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是显著的，重要的，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-significant
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 The difference was significant enough to change our plan.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The difference was significant enough to change our plan.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-proof
+the proof.
 
 <lang code="zh" />
-意思是证据，证明。请跟读
-
-<break time="2.8s" />
+意思是：证据，证明。请跟读。
 
 <lang code="en" />
-proof
+the proof.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是证据，证明，英语怎么说？
+请说英语：证据，证明。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-proof
+the proof.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-We need more proof before we make a strong claim.
+the proof.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 We need more proof before we make a strong claim.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，证据，证明。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-proof
+We need more proof before we make a strong claim.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，显著的，重要的。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：变量。
+
+<break time="4.5s" />
 
 <lang code="en" />
-significant
+the variable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，分析。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-analysis
+the variable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：分析。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the analysis is significant but not completely variable.
+the analysis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the trend before we make a final decision about the evidence.
+the analysis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：证据，证明。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why proof can change the way people understand the issue.
+the proof.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect research with analysis because both ideas affect the final decision.
+the proof.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：趋势。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the analysis.
+the trend.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your evidence in a little more detail?
+the trend.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：显著的，重要的。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the trend affects the result.
+to be significant.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds significant, but I still need more information.
+to be significant.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：证据。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the evidence.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the evidence.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main analysis may sound significant, but we should examine the trend behind it. A variable explanation uses examples and respects other views. If the information is proof, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-趋势。
-
-<break time="4.0s" />
-
-<lang code="en" />
-trend
-
-<break time="1.5s" />
-
-<lang code="zh" />
-分析。
-
-<break time="4.0s" />
-
-<lang code="en" />
-analysis
-
-<break time="1.5s" />
-
-<lang code="zh" />
-证据，证明。
-
-<break time="4.0s" />
-
-<lang code="en" />
-proof
-
-<break time="1.5s" />
-
-<lang code="zh" />
-证据。
-
-<break time="4.0s" />
-
-<lang code="en" />
-evidence
-
-<break time="1.5s" />
-
-<lang code="zh" />
-显著的，重要的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-significant
-
-<break time="1.5s" />
-
-<lang code="zh" />
-变量。
-
-<break time="4.0s" />
-
-<lang code="en" />
-variable
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-analysis
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The analysis explains why the results changed.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-variable
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 One important variable is the amount of daily practice.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-significant
+We need more proof before we make a strong claim.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：同事们正在讨论一份研究报告。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-The difference was significant enough to change our plan.
+The analysis shows a significant increase in customer satisfaction.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+The analysis shows a significant increase in customer satisfaction.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+However, one variable may have influenced the trend.
+
+<break time="5.5s" />
+
+<lang code="en" />
+However, one variable may have influenced the trend.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The team needs more evidence before changing its strategy.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The team needs more evidence before changing its strategy.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The current results are promising, but they are not final proof.
+
+<break time="6.5s" />
+
+<lang code="en" />
+The current results are promising, but they are not final proof.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+分析显示，客户满意度显著提高。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The analysis shows a significant increase in customer satisfaction.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+然而，一个变量可能影响了这一趋势。
+
+<break time="5.5s" />
+
+<lang code="en" />
+However, one variable may have influenced the trend.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+团队需要更多证据才能改变策略。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The team needs more evidence before changing its strategy.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+目前的结果很有希望，但还不能作为最终证明。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The current results are promising, but they are not final proof.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：分析。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the analysis.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the analysis.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：证据。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the evidence.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the evidence.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：趋势。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the trend.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the trend.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：变量。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the variable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the variable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：显著的，重要的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be significant.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be significant.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：证据，证明。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the proof.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the proof.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

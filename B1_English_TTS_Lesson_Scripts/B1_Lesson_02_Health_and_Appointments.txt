@@ -1,108 +1,179 @@
 <lang code="zh" />
-欢迎来到第 2 课，级别 B1。今天的主题是健康和预约，重点是
-<lang code="en" />
-Visiting the doctor.
+第一部分，课程介绍。
 
 <lang code="zh" />
-你会听到中文提示，请用英语回答。先想一想，再大声说出来。
+欢迎回来。今天是第2课，级别是B1。
 
 <lang code="zh" />
-今天的六个新英语表达是：
-
-<lang code="en" />
-appointment, clinic, prescription, check-up, treatment, specialist.
+今天的主题是健康和预约。
 
 <lang code="zh" />
-听到中文以后，请说英语。现在开始。
-
-<break time="1.2s" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
 
 <lang code="zh" />
-先复习前面学过的内容。请听中文，说英文。
-
-<lang code="zh" />
-请说英文：疼，受伤。
-
-<break time="3.5s" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-hurt.
+the appointment.
 
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：我今天背疼。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-My back hurts today.
+the clinic.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the treatment.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the specialist.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：疼，受伤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to hurt.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to hurt.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说英文：咳嗽。
+请说英语：咳嗽。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-cough.
+the cough.
 
-<break time="2.0s" />
+<break time="2.5s" />
+
+<lang code="en" />
+the cough.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：我咳嗽，但是没有发烧。
+请说英语：头晕的。
 
-<break time="3.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+to feel dizzy.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to feel dizzy.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：肿胀的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be swollen.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be swollen.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="6.5s" />
 
 <lang code="en" />
 I have a cough, but I do not have a fever.
 
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The rash on my arm is getting better.
+
 <break time="2.5s" />
 
 <lang code="zh" />
-很好。复习会在今天的练习里继续出现。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第一个新词是
-<lang code="en" />
-appointment.
-<lang code="zh" />
-这个词的意思是：预约，约定。请跟着说。
-<lang code="en" />
-appointment.
-
-<break time="4.8s" />
+今天的第1个表达是。
 
 <lang code="en" />
-appointment.
-
-<break time="2.0s" />
+the appointment.
 
 <lang code="zh" />
-请说英文：预约，约定。
-
-<break time="3.5s" />
+意思是：预约，约定。请跟读。
 
 <lang code="en" />
-appointment.
+the appointment.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-例句。
+请说英语：预约，约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 I have an appointment at the clinic tomorrow.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我明天在诊所有一个预约。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：我明天在诊所有一个预约。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I have an appointment at the clinic tomorrow.
@@ -110,45 +181,36 @@ I have an appointment at the clinic tomorrow.
 <break time="2.5s" />
 
 <lang code="zh" />
-第二个新词是
-<lang code="en" />
-clinic.
-<lang code="zh" />
-这个词的意思是：诊所。请跟着说。
-<lang code="en" />
-clinic.
-
-<break time="4.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-clinic.
-
-<break time="2.0s" />
+the clinic.
 
 <lang code="zh" />
-请说英文：诊所。
-
-<break time="3.5s" />
+意思是：诊所。请跟读。
 
 <lang code="en" />
-clinic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The clinic is near my office.
+the clinic.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：诊所在我办公室附近。
+请说英语：诊所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：诊所在我办公室附近。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 The clinic is near my office.
@@ -156,811 +218,187 @@ The clinic is near my office.
 <break time="2.5s" />
 
 <lang code="zh" />
-第三个新词是
-<lang code="en" />
-prescription.
-<lang code="zh" />
-这个词的意思是：处方。请跟着说。
-<lang code="en" />
-prescription.
+请重复这个英语句子。
 
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-prescription.
+The clinic is near my office.
 
-<break time="2.0s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英文：处方。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-prescription.
-
-<break time="2.0s" />
+the prescription.
 
 <lang code="zh" />
-例句。
+意思是：处方。请跟读。
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：处方。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
 <lang code="en" />
 The doctor gave me a prescription for the medicine.
 
-<break time="2.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-意思是：医生给了我买药的处方。
+请重复这个英语句子。
 
-<lang code="zh" />
-请你说这个英文句子：医生给了我买药的处方。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The doctor gave me a prescription for the medicine.
 
-<break time="2.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
+今天的第4个表达是。
+
+<lang code="en" />
+the check-up.
 
 <lang code="zh" />
-诊所。
-
-<break time="4.8s" />
+意思是：体检，检查。请跟读。
 
 <lang code="en" />
-clinic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-预约，约定。
-
-<break time="4.8s" />
-
-<lang code="en" />
-appointment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-处方。
-
-<break time="4.8s" />
-
-<lang code="en" />
-prescription.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-第四个新词是
-<lang code="en" />
-check-up.
-<lang code="zh" />
-这个词的意思是：体检，检查。请跟着说。
-<lang code="en" />
-check-up.
-
-<break time="4.8s" />
-
-<lang code="en" />
-check-up.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：体检，检查。
-
-<break time="3.5s" />
-
-<lang code="en" />
-check-up.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-I need a check-up because I still feel tired.
+the check-up.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-意思是：我需要做检查，因为我还是觉得累。
+请说英语：体检，检查。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-请你说这个英文句子：我需要做检查，因为我还是觉得累。
-
-<break time="5.8s" />
+请听例句。
 
 <lang code="en" />
 I need a check-up because I still feel tired.
 
-<break time="2.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第五个新词是
-<lang code="en" />
-treatment.
-<lang code="zh" />
-这个词的意思是：治疗。请跟着说。
-<lang code="en" />
-treatment.
+请重复这个英语句子。
 
-<break time="4.8s" />
-
-<lang code="en" />
-treatment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：治疗。
-
-<break time="3.5s" />
-
-<lang code="en" />
-treatment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The treatment helped me recover slowly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：这个治疗帮助我慢慢恢复。
-
-<lang code="zh" />
-请你说这个英文句子：这个治疗帮助我慢慢恢复。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The treatment helped me recover slowly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-第六个新词是
-<lang code="en" />
-specialist.
-<lang code="zh" />
-这个词的意思是：专科医生。请跟着说。
-<lang code="en" />
-specialist.
-
-<break time="4.8s" />
-
-<lang code="en" />
-specialist.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-请说英文：专科医生。
-
-<break time="3.5s" />
-
-<lang code="en" />
-specialist.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-例句。
-<lang code="en" />
-The specialist explained the problem clearly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-意思是：专科医生清楚地解释了这个问题。
-
-<lang code="zh" />
-请你说这个英文句子：专科医生清楚地解释了这个问题。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The specialist explained the problem clearly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个小复习。顺序会变化，请听中文说英语。
-
-<lang code="zh" />
-体检，检查。
-
-<break time="4.8s" />
-
-<lang code="en" />
-check-up.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-专科医生。
-
-<break time="4.8s" />
-
-<lang code="en" />
-specialist.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-处方。
-
-<break time="4.8s" />
-
-<lang code="en" />
-prescription.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-现在把刚才的句子再取回一次。请听中文，说完整英文句子。
-
-<lang code="zh" />
-请说：医生给了我买药的处方。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The doctor gave me a prescription for the medicine.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我明天在诊所有一个预约。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have an appointment at the clinic tomorrow.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：这个治疗帮助我慢慢恢复。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The treatment helped me recover slowly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：诊所在我办公室附近。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The clinic is near my office.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习组合句。请把两个或更多今天的词放在同一个英文句子里。
-
-<lang code="zh" />
-请说英文：我在诊所有一个体检预约。
-
-<break time="3.5s" />
-
-<lang code="en" />
-I have an appointment at the clinic for a check-up.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说英文：专科医生给了我处方，并解释了治疗。
-
-<break time="3.5s" />
-
-<lang code="en" />
-The specialist gave me a prescription and explained the treatment.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 rash 和 appointment。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use rash and appointment in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在把旧词和新词结合。请说：我可以在真实情境中使用 injury 和 appointment。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can use injury and appointment in a real situation.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在做一个迷你对话。你只需要说英文回答。
-
-<lang code="zh" />
-医生问你哪里不舒服。请说：我感觉不舒服，需要一个预约。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I do not feel well, and I need an appointment.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-医生问症状。请用两个今天的词回答。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need a check-up and treatment.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：我会休息，并且听医生的建议。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I will rest and follow the doctor’s advice.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-现在进入密集轮换练习。不要只记单词，要把单词放进句子里。
-
-<lang code="zh" />
-先说这个词：专科医生。
-
-<break time="3.5s" />
-
-<lang code="en" />
-specialist.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：专科医生清楚地解释了这个问题。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The specialist explained the problem clearly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：处方。
-
-<break time="3.5s" />
-
-<lang code="en" />
-prescription.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：医生给了我买药的处方。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The doctor gave me a prescription for the medicine.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：预约，约定。
-
-<break time="3.5s" />
-
-<lang code="en" />
-appointment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我明天在诊所有一个预约。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I have an appointment at the clinic tomorrow.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：治疗。
-
-<break time="3.5s" />
-
-<lang code="en" />
-treatment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：这个治疗帮助我慢慢恢复。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The treatment helped me recover slowly.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：诊所。
-
-<break time="3.5s" />
-
-<lang code="en" />
-clinic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：诊所在我办公室附近。
-
-<break time="5.8s" />
-
-<lang code="en" />
-The clinic is near my office.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-先说这个词：体检，检查。
-
-<break time="3.5s" />
-
-<lang code="en" />
-check-up.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再说完整句子：我需要做检查，因为我还是觉得累。
-
-<break time="5.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
 I need a check-up because I still feel tired.
 
-<break time="2.5s" />
-
-<lang code="zh" />
-现在练习把句子变得更完整。听中文，说英文。
-
-<lang code="zh" />
-请说：我需要更多信息，然后才能处理 appointment。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I need more information before I can deal with appointment.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：这和 clinic 有关，所以我想确认一下。
-
-<break time="4.8s" />
-
-<lang code="en" />
-This is related to clinic, so I would like to confirm it.
-
 <break time="3.0s" />
 
 <lang code="zh" />
-请说：如果 prescription 是问题的一部分，我会认真检查。
-
-<break time="4.8s" />
+今天的第5个表达是。
 
 <lang code="en" />
-If prescription is part of the problem, I will check it carefully.
-
-<break time="3.0s" />
+the treatment.
 
 <lang code="zh" />
-请说：我们可以用简单的方法处理 check-up。
-
-<break time="4.8s" />
+意思是：治疗。请跟读。
 
 <lang code="en" />
-We can handle check-up in a simple way.
+the treatment.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：因为 treatment 很重要，我会提前准备。
+请说英语：治疗。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Because treatment is important, I will prepare early.
+the treatment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the treatment.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请说：最后，我会记录关于 specialist 的信息。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
-Finally, I will record the information about specialist.
+The treatment helped me recover slowly.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-现在加入旧词。先听中文，再用英文回答。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说：我可以把旧词 rash 和新词 appointment 放进同一个真实情境。
-
-<break time="4.8s" />
+<break time="5.5s" />
 
 <lang code="en" />
-I can put the old word rash and the new word appointment into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请说：我可以把旧词 injury 和新词 clinic 放进同一个真实情境。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can put the old word injury and the new word clinic into one real situation.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在练习更自然的回答。每个回答都不长，但要完整。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What is the main problem?
-
-<break time="4.8s" />
-
-<lang code="en" />
-The main problem is connected with appointment and clinic.
+The treatment helped me recover slowly.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-Who should you speak to?
-
-<break time="4.8s" />
+今天的第6个表达是。
 
 <lang code="en" />
-I should speak to the right person and explain the situation clearly.
-
-<break time="3.0s" />
+the specialist.
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-When should you do it?
-
-<break time="4.8s" />
+意思是：专科医生。请跟读。
 
 <lang code="en" />
-I should do it as soon as I have the correct information.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-How can you avoid a mistake?
-
-<break time="4.8s" />
-
-<lang code="en" />
-I can avoid a mistake by checking the details first.
+the specialist.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What information do you need?
+请说英语：专科医生。
 
-<break time="4.8s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I need information about prescription, check-up, and treatment.
+the specialist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the specialist.
 
 <break time="2.5s" />
 
 <lang code="zh" />
-请回答：
-<lang code="en" />
-What is a good final step?
-
-<break time="4.8s" />
-
-<lang code="en" />
-A good final step is to confirm everything and write down the details about specialist.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-现在做 B1 水平的问答练习。请用自然的英文回答。
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Why is this important?
-
-<break time="4.8s" />
-
-<lang code="en" />
-It is important because it helps me manage health and appointments in daily life.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-Can you explain the situation?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Yes. I need to understand the problem, choose a practical solution, and communicate clearly.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-请回答：
-<lang code="en" />
-What would you do next?
-
-<break time="6.3s" />
-
-<lang code="en" />
-Next, I would check the information and take one clear step.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请用 appointment 和 clinic 回答一个完整句子。
-
-<break time="5.8s" />
-
-<lang code="en" />
-I can talk about appointment and clinic in a clear way.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-最后做长回答练习。请用英文说一小段话，尽量使用今天大部分或全部六个新词。你会有更长的思考时间。
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<break time="9.8s" />
-
-<lang code="en" />
-Tomorrow I have an appointment at the clinic. I need a check-up because my symptoms are not better. The doctor may give me a prescription or suggest treatment. If the problem is serious, I may need to see a specialist.
-
-<break time="3.0s" />
-
-<lang code="zh" />
-最后复习今天的六个词。听中文，说英文。
-
-<lang code="zh" />
-预约，约定。
-
-<break time="4.8s" />
-
-<lang code="en" />
-appointment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-诊所。
-
-<break time="4.8s" />
-
-<lang code="en" />
-clinic.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-处方。
-
-<break time="4.8s" />
-
-<lang code="en" />
-prescription.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-体检，检查。
-
-<break time="4.8s" />
-
-<lang code="en" />
-check-up.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-治疗。
-
-<break time="4.8s" />
-
-<lang code="en" />
-treatment.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-专科医生。
-
-<break time="4.8s" />
-
-<lang code="en" />
-specialist.
-
-<break time="2.0s" />
-
-<lang code="zh" />
-再复习三个关键句子。
-
-<lang code="zh" />
-请说：我明天在诊所有一个预约。
-
-<break time="4.8s" />
-
-<lang code="en" />
-I have an appointment at the clinic tomorrow.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：医生给了我买药的处方。
-
-<break time="4.8s" />
-
-<lang code="en" />
-The doctor gave me a prescription for the medicine.
-
-<break time="2.5s" />
-
-<lang code="zh" />
-请说：专科医生清楚地解释了这个问题。
-
-<break time="4.8s" />
+请听例句。
 
 <lang code="en" />
 The specialist explained the problem clearly.
@@ -968,4 +406,340 @@ The specialist explained the problem clearly.
 <break time="2.5s" />
 
 <lang code="zh" />
-做得很好。第 2 课结束。下一课会继续复习前面的词，并学习新的实用表达。
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The specialist explained the problem clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：体检，检查。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：预约，约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：专科医生。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the specialist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the specialist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：处方。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：治疗。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the treatment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the treatment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：诊所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I have an appointment at the clinic tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I need a check-up because I still feel tired.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The specialist explained the problem clearly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：你去诊所看医生。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+I have an appointment at the clinic this afternoon.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I have an appointment at the clinic this afternoon.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The doctor will give me a check-up and discuss my treatment.
+
+<break time="6.5s" />
+
+<lang code="en" />
+The doctor will give me a check-up and discuss my treatment.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+I may need a prescription for the medicine.
+
+<break time="5.5s" />
+
+<lang code="en" />
+I may need a prescription for the medicine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+If I do not improve, I will see a specialist.
+
+<break time="5.5s" />
+
+<lang code="en" />
+If I do not improve, I will see a specialist.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+我今天下午在诊所有预约。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I have an appointment at the clinic this afternoon.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+医生会给我做检查并讨论治疗方案。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The doctor will give me a check-up and discuss my treatment.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+我可能需要一张买药的处方。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I may need a prescription for the medicine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+如果没有好转，我会去看专科医生。
+
+<break time="5.5s" />
+
+<lang code="en" />
+If I do not improve, I will see a specialist.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：预约，约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the appointment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：诊所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the clinic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：处方。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the prescription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：体检，检查。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the check-up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：治疗。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the treatment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the treatment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：专科医生。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the specialist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the specialist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

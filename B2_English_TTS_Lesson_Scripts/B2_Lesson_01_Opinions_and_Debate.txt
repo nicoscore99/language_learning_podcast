@@ -1,674 +1,662 @@
 <lang code="zh" />
-欢迎回来。今天是第1课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第1课，级别是B2。
+
+<lang code="zh" />
+今天的主题是观点和辩论。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the claim.
 
-<lang code="zh" />
-主题是观点和辩论
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-claim perspective assumption convincing reasonable biased
+the perspective.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-这是本课程的第一课，所以我们直接开始新内容。
-
-<lang code="zh" />
-现在进入新词学习。
-
-<lang code="zh" />
-第1个词
+<break time="1.0s" />
 
 <lang code="en" />
-claim
+the assumption.
 
-<lang code="zh" />
-意思是主张，声称。请跟读
-
-<break time="2.8s" />
+<break time="1.0s" />
 
 <lang code="en" />
-claim
+to be convincing.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是主张，声称，英语怎么说？
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-claim
+to be reasonable.
 
-<break time="1.5s" />
+<break time="1.0s" />
+
+<lang code="en" />
+to be biased against someone or something.
 
 <lang code="zh" />
-现在听一个例句
+第二部分，复习。
+
+<lang code="zh" />
+这是第一课。我们直接开始学习新内容。
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the claim.
+
+<lang code="zh" />
+意思是：主张，声称。请跟读。
+
+<lang code="en" />
+the claim.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：主张，声称。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the claim.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the claim.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 The main claim is clear, but it needs stronger evidence.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The main claim is clear, but it needs stronger evidence.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第2个词
+今天的第2个表达是。
 
 <lang code="en" />
-perspective
+the perspective.
 
 <lang code="zh" />
-意思是观点，角度。请跟读
-
-<break time="2.8s" />
+意思是：观点，角度。请跟读。
 
 <lang code="en" />
-perspective
+the perspective.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是观点，角度，英语怎么说？
+请说英语：观点，角度。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-perspective
+the perspective.
 
-<break time="1.5s" />
+<break time="2.5s" />
+
+<lang code="en" />
+the perspective.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 From my perspective, the plan is useful but incomplete.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 From my perspective, the plan is useful but incomplete.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，观点，角度。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-perspective
-
-<break time="1.5s" />
+the assumption.
 
 <lang code="zh" />
-请说英语，主张，声称。
-
-<break time="3.5s" />
+意思是：假设。请跟读。
 
 <lang code="en" />
-claim
+the assumption.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，主张，声称。
+请说英语：假设。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-claim
+the assumption.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-assumption
+the assumption.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是假设。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-assumption
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是假设，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-assumption
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 That assumption may be wrong if the data changes.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 That assumption may be wrong if the data changes.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-convincing
+to be convincing.
 
 <lang code="zh" />
-意思是有说服力的。请跟读
-
-<break time="2.8s" />
+意思是：有说服力的。请跟读。
 
 <lang code="en" />
-convincing
+to be convincing.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是有说服力的，英语怎么说？
+请说英语：有说服力的。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-convincing
+to be convincing.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Her explanation was convincing because she used real examples.
+to be convincing.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Her explanation was convincing because she used real examples.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，有说服力的。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-convincing
+Her explanation was convincing because she used real examples.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，假设。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-assumption
-
-<break time="1.5s" />
+to be reasonable.
 
 <lang code="zh" />
-请说英语，主张，声称。
-
-<break time="3.5s" />
+意思是：合理的。请跟读。
 
 <lang code="en" />
-claim
+to be reasonable.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：合理的。
+
+<break time="4.5s" />
 
 <lang code="en" />
-reasonable
+to be reasonable.
 
-<lang code="zh" />
-意思是合理的。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-reasonable
+to be reasonable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是合理的，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-reasonable
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 It is reasonable to ask for more time before deciding.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 It is reasonable to ask for more time before deciding.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-biased
+to be biased against someone or something.
 
 <lang code="zh" />
-意思是有偏见的。请跟读
-
-<break time="2.8s" />
+意思是：有偏见的。请跟读。
 
 <lang code="en" />
-biased
+to be biased against someone or something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是有偏见的，英语怎么说？
+请说英语：有偏见的。
 
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-biased
+to be biased against someone or something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The report may be biased because it ignores other opinions.
+to be biased against someone or something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The report may be biased because it ignores other opinions.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，有偏见的。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-biased
+The report may be biased because it ignores other opinions.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请说英语，合理的。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：有说服力的。
+
+<break time="4.5s" />
 
 <lang code="en" />
-reasonable
+to be convincing.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，主张，声称。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-claim
+to be convincing.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：主张，声称。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the claim is reasonable but not completely convincing.
+the claim.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the assumption before we make a final decision about the perspective.
+the claim.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：有偏见的。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-This situation shows why biased can change the way people understand the issue.
+to be biased against someone or something.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
-
-<lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I think the most important point is the claim.
+to be biased against someone or something.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
+请说英语：假设。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Can you explain your perspective in a little more detail?
+the assumption.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the assumption affects the result.
+the assumption.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
+请说英语：合理的。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-That sounds reasonable, but I still need more information.
+to be reasonable.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-在第一课里，我们再加强一次观点表达。请听中文，用英语回答。
-
-<lang code="zh" />
-你想说：从我的角度看，这个主张需要更多证据。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-From my perspective, this claim needs more evidence.
+to be reasonable.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说：这个解释合理，但可能有偏见。
+请说英语：观点，角度。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This explanation is reasonable, but it may be biased.
+the perspective.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想说：如果假设错了，结论就不够有说服力。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-If the assumption is wrong, the conclusion is not convincing enough.
+the perspective.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在做
-
-<lang code="en" />
-B2
+<break time="2.5s" />
 
 <lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
+现在练习三个完整句子。
 
 <lang code="zh" />
-为什么这个问题重要？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-你怎样让自己的回答更有说服力？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main claim may sound reasonable, but we should examine the assumption behind it. A convincing explanation uses examples and respects other views. If the information is biased, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-假设。
-
-<break time="4.0s" />
-
-<lang code="en" />
-assumption
-
-<break time="1.5s" />
-
-<lang code="zh" />
-主张，声称。
-
-<break time="4.0s" />
-
-<lang code="en" />
-claim
-
-<break time="1.5s" />
-
-<lang code="zh" />
-有偏见的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-biased
-
-<break time="1.5s" />
-
-<lang code="zh" />
-观点，角度。
-
-<break time="4.0s" />
-
-<lang code="en" />
-perspective
-
-<break time="1.5s" />
-
-<lang code="zh" />
-合理的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-reasonable
-
-<break time="1.5s" />
-
-<lang code="zh" />
-有说服力的。
-
-<break time="4.0s" />
-
-<lang code="en" />
-convincing
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-claim
-
-<lang code="zh" />
-的关键句
-
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The main claim is clear, but it needs stronger evidence.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-convincing
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Her explanation was convincing because she used real examples.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-reasonable
+The report may be biased because it ignores other opinions.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="6.5s" />
+<lang code="zh" />
+情境：两位同事正在讨论一篇有争议的新闻报道。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-It is reasonable to ask for more time before deciding.
+Nina claims that the report presents a reasonable argument.
 
-<break time="1.5s" />
+<break time="5.5s" />
+
+<lang code="en" />
+Nina claims that the report presents a reasonable argument.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+Omar thinks the writer's perspective is biased.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Omar thinks the writer's perspective is biased.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They examine the assumptions behind the report.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They examine the assumptions behind the report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+In the end, neither finds the evidence completely convincing.
+
+<break time="5.5s" />
+
+<lang code="en" />
+In the end, neither finds the evidence completely convincing.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+妮娜声称这篇报道提出了合理的论点。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nina claims that the report presents a reasonable argument.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+奥马尔认为作者的观点带有偏见。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Omar thinks the writer's perspective is biased.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们分析了报道背后的假设。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They examine the assumptions behind the report.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+最后，两人都认为证据并不完全有说服力。
+
+<break time="5.5s" />
+
+<lang code="en" />
+In the end, neither finds the evidence completely convincing.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：主张，声称。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the claim.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the claim.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：观点，角度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the perspective.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the perspective.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：假设。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the assumption.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the assumption.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：有说服力的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be convincing.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be convincing.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：合理的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be reasonable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be reasonable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：有偏见的。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to be biased against someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be biased against someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

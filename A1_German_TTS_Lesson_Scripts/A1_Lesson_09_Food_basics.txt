@@ -1,483 +1,604 @@
 <lang code="en" />
 Welcome. This is German A1 lesson 9. The topic is Food basics. You will hear English prompts, and you should answer in German.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Today you will learn these German words and expressions: Brot, Wasser, Kaffee, Tee, Hunger, möchten.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 The main language focus today is the verb "would like". "would like" in German is: "möchten". You will practise these forms: ich möchte, du möchtest.
+
 <break time="5.0s" />
 
 <lang code="auto" />
 A small grammar point for today: “Ich möchte” is a polite way to ask for something. It means “I would like”.
+
 <break time="5.0s" />
 
 <lang code="en" />
 First, let us quickly review a few things from earlier lessons. Say the German.
+
 <break time="3.5s" />
 
 <lang code="auto" />
 How do you say: "Ich habe eine Schwester"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe eine Schwester.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Hast du einen Bruder"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Hast du einen Bruder.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Er ist nett"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Er ist nett.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 How do you say: "Sie ist meine Freundin"?
-<break time="5.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sie ist meine Freundin.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 1: "Brot". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Brot.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Brot".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Brot" means "bread". Say "Brot" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Brot.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Brot". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich möchte Kaffee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 2: "Wasser". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Wasser.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Wasser".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Wasser" means "water". Say "Wasser" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wasser.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Wasser". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Möchtest du Tee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 3: "Kaffee". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Kaffee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Kaffee".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Kaffee" means "coffee". Say "Kaffee" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Kaffee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Kaffee". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe Hunger.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich habe Hunger."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe Hunger.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 Say "coffee" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Kaffee.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "water" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wasser.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "bread" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Brot.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 4: "Tee". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Tee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Tee".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Tee" means "tea". Say "Tee" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Tee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Tee". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Tee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Tee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 New word 5: "Hunger". Listen to the German word, then repeat it.
+
 <break time="3.5s" />
 
 <lang code="de" />
 Hunger.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "Hunger".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "Hunger" means "hunger". Say "Hunger" in German.
-<break time="4.5s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Hunger.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 Now a short sentence with "Hunger". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Hunger.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage Hunger."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage Hunger.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Quick recall. Say these German words again.
+
 <break time="3.0s" />
 
 <lang code="auto" />
 Say "hunger" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Hunger.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "tea" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Tee.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 Say "coffee" in German.
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Kaffee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 New word 6: "möchten". Listen to the German word, then repeat it.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 möchten.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 When you hear the English prompt, answer with the German word: "möchten".
+
 <break time="3.5s" />
 
 <lang code="auto" />
 "möchten" means "would like". Say "möchten" in German.
+
 <break time="4.5s" />
 
 <lang code="de" />
 möchten.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now a short sentence with "möchten". Listen and repeat the German sentence.
-<break time="3.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage möchten.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say this in German: "Ich sage möchten."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich sage möchten.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now practise the main verb "möchten". It means "would like". Listen and repeat each form.
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 ich möchte.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="de" />
 du möchtest.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "ich möchte".
+
 <break time="4.5s" />
 
 <lang code="de" />
 ich möchte.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say this German form: "du möchtest".
+
 <break time="4.5s" />
 
 <lang code="de" />
 du möchtest.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now combine today’s words into short useful sentences. Answer in German.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say in German: "Ich möchte Kaffee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Möchtest du Tee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Say in German: "Ich habe Hunger."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich habe Hunger.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Now mix today’s German with an earlier lesson.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 Say this earlier sentence in German again: "Sie ist meine Freundin"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Sie ist meine Freundin.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="en" />
 Mini-dialogue. Answer each line in German. Then listen to the model answer.
+
 <break time="4.0s" />
 
 <lang code="auto" />
 How would you say: "Ich möchte Kaffee."
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee.
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Now say: "Möchtest du Tee?"
-<break time="5.5s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 Möchtest du Tee?
-<break time="4.0s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Small grammar reminder: “Ich möchte” is a polite way to ask for something. It means “I would like”. Listen to the pattern once more, then repeat it.
-<break time="5.0s" />
+
+<break time="5.5s" />
 
 <lang code="de" />
 ich möchte; du möchtest.
-<break time="4.5s" />
 
-<lang code="auto" />
+<break time="2.5s" />
+
+<lang code="en" />
 Final practice. Say a short German answer using several words from today’s lesson. You can use the model after the pause.
-<break time="8.5s" />
+
+<break time="6.5s" />
 
 <lang code="de" />
 Ich möchte Kaffee. Möchtest du Tee? Ich habe Hunger.
-<break time="6.0s" />
+
+<break time="3.0s" />
 
 <lang code="en" />
 Final review. Say the German after each prompt.
+
 <break time="3.0s" />
 
-<lang code="auto" />
+<lang code="en" />
 German for "bread".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Brot.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "water".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Wasser.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "coffee".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Kaffee.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "tea".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Tee.
-<break time="3.5s" />
+
+<break time="2.0s" />
 
 <lang code="auto" />
 German for "hunger".
-<break time="4.0s" />
+
+<break time="3.5s" />
 
 <lang code="de" />
 Hunger.
-<break time="3.5s" />
 
-<lang code="auto" />
+<break time="2.0s" />
+
+<lang code="en" />
 German for "would like".
-<break time="4.0s" />
+
+<break time="4.5s" />
 
 <lang code="de" />
 möchten.
-<break time="3.5s" />
+
+<break time="2.5s" />
 
 <lang code="auto" />
 Great work. In this lesson, you practised "möchten", meaning "would like", and the forms: ich möchte, du möchtest. Keep repeating the sentences out loud.
+
 <break time="5.0s" />

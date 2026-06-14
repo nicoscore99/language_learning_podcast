@@ -1,739 +1,745 @@
 <lang code="zh" />
-欢迎回来。今天是第20课，级别是
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第20课，级别是B2。
+
+<lang code="zh" />
+今天的主题是全球议题。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
 
 <lang code="en" />
-B2
+the poverty.
 
-<lang code="zh" />
-主题是全球议题
-
-<lang code="zh" />
-你会先听到中文提示，请你用英语回答。回答之后，你会听到一个自然的英语示范答案。
-
-<lang code="zh" />
-今天的六个新英语表达是
+<break time="1.0s" />
 
 <lang code="en" />
-poverty aid cooperation crisis resource development
+the aid.
 
-<lang code="zh" />
-请放松，但要主动开口。每一次停顿都是你练习的时间。
-
-<lang code="zh" />
-先做前面课程的复习。听中文，说出英语。
-
-<lang code="zh" />
-请说英语，迁移，移民。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-migration
+the cooperation.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，难民。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-refugee
+the crisis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，边境。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-border
+the resource.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，冲突。
-
-<break time="3.5s" />
+<break time="1.0s" />
 
 <lang code="en" />
-conflict
-
-<break time="1.5s" />
+the development.
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：迁移，移民。
+
+<break time="4.5s" />
 
 <lang code="en" />
-border
+the migration.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The border area needs better services and security.
+the migration.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：难民。
+
+<break time="4.5s" />
 
 <lang code="en" />
-conflict
+the refugee.
 
-<lang code="zh" />
-这个词
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-The conflict forced many families to move.
+the refugee.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请用英语说一个上一课的关键句，使用
+请说英语：边境。
+
+<break time="4.5s" />
 
 <lang code="en" />
-security
+the border.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the border.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-这个词
+请说英语：冲突。
 
-<break time="6.5s" />
+<break time="4.5s" />
+
+<lang code="en" />
+the conflict.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the conflict.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A refugee may leave home because of war or danger.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
 Security is important, but human rights must also be protected.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-现在进入新词学习。
+第三部分，新词介绍。
 
 <lang code="zh" />
-第1个词
+今天的第1个表达是。
 
 <lang code="en" />
-poverty
+the poverty.
 
 <lang code="zh" />
-意思是贫困。请跟读
-
-<break time="2.8s" />
+意思是：贫困。请跟读。
 
 <lang code="en" />
-poverty
+the poverty.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是贫困，英语怎么说？
+请说英语：贫困。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-poverty
+the poverty.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Poverty can affect health, education, and future opportunities.
+the poverty.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Poverty can affect health, education, and future opportunities.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第2个词
+请重复这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-aid
+Poverty can affect health, education, and future opportunities.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是援助。请跟读
-
-<break time="2.8s" />
+今天的第2个表达是。
 
 <lang code="en" />
-aid
-
-<break time="1.5s" />
+the aid.
 
 <lang code="zh" />
-中文是援助，英语怎么说？
-
-<break time="3.5s" />
+意思是：援助。请跟读。
 
 <lang code="en" />
-aid
+the aid.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请说英语：援助。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
 
 <lang code="en" />
 Emergency aid arrived after the crisis began.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Emergency aid arrived after the crisis began.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
-
-<lang code="zh" />
-请说英语，援助。
-
-<break time="3.5s" />
+今天的第3个表达是。
 
 <lang code="en" />
-aid
-
-<break time="1.5s" />
+the cooperation.
 
 <lang code="zh" />
-请说英语，贫困。
-
-<break time="3.5s" />
+意思是：合作。请跟读。
 
 <lang code="en" />
-poverty
+the cooperation.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，贫困。
+请说英语：合作。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-poverty
+the cooperation.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-第3个词
+<break time="2.5s" />
 
 <lang code="en" />
-cooperation
+the cooperation.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-意思是合作。请跟读
-
-<break time="2.8s" />
-
-<lang code="en" />
-cooperation
-
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是合作，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-cooperation
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 International cooperation is necessary during global problems.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 International cooperation is necessary during global problems.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第4个词
+今天的第4个表达是。
 
 <lang code="en" />
-crisis
+the crisis.
 
 <lang code="zh" />
-意思是危机。请跟读
-
-<break time="2.8s" />
+意思是：危机。请跟读。
 
 <lang code="en" />
-crisis
+the crisis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是危机，英语怎么说？
+请说英语：危机。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-crisis
+the crisis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-The crisis showed the need for better planning.
+the crisis.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 The crisis showed the need for better planning.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，危机。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-crisis
+The crisis showed the need for better planning.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，合作。
-
-<break time="3.5s" />
+今天的第5个表达是。
 
 <lang code="en" />
-cooperation
-
-<break time="1.5s" />
+the resource.
 
 <lang code="zh" />
-请说英语，贫困。
-
-<break time="3.5s" />
+意思是：资源。请跟读。
 
 <lang code="en" />
-poverty
+the resource.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-第5个词
+请说英语：资源。
+
+<break time="4.5s" />
 
 <lang code="en" />
-resource
+the resource.
 
-<lang code="zh" />
-意思是资源。请跟读
-
-<break time="2.8s" />
+<break time="2.5s" />
 
 <lang code="en" />
-resource
+the resource.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-中文是资源，英语怎么说？
-
-<break time="3.5s" />
-
-<lang code="en" />
-resource
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在听一个例句
+请听例句。
 
 <lang code="en" />
 Clean water is an essential resource for every community.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
+请重复这个英语句子。
 
-<break time="6.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Clean water is an essential resource for every community.
 
-<break time="1.5s" />
+<break time="3.0s" />
 
 <lang code="zh" />
-第6个词
+今天的第6个表达是。
 
 <lang code="en" />
-development
+the development.
 
 <lang code="zh" />
-意思是发展。请跟读
-
-<break time="2.8s" />
+意思是：发展。请跟读。
 
 <lang code="en" />
-development
+the development.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-中文是发展，英语怎么说？
+请说英语：发展。
 
-<break time="3.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-development
+the development.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在听一个例句
+<break time="2.5s" />
 
 <lang code="en" />
-Economic development should also protect the environment.
+the development.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-这句话的意思是：在这个情境中，你要清楚表达这个想法。请你说完整的英语句子。
-
-<break time="6.5s" />
+请听例句。
 
 <lang code="en" />
 Economic development should also protect the environment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做一个小复习，顺序会打乱。
+请重复这个英语句子。
 
-<lang code="zh" />
-请说英语，发展。
-
-<break time="3.5s" />
+<break time="5.5s" />
 
 <lang code="en" />
-development
+Economic development should also protect the environment.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说英语，资源。
+第四部分，新词练习。
 
-<break time="3.5s" />
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：危机。
+
+<break time="4.5s" />
 
 <lang code="en" />
-resource
+the crisis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说英语，贫困。
-
-<break time="3.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-poverty
+the crisis.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词组合起来练习。
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：从你的角度看，第一个观点合理，但是还不完全有说服力。
+请说英语：贫困。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-From my perspective, the poverty is resource but not completely crisis.
+the poverty.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请说一个完整英文句子，意思是：做最终决定之前，我们应该讨论背后的假设或原因。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-We should discuss the cooperation before we make a final decision about the aid.
+the poverty.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请说一个完整英文句子，意思是：这个情况说明，最后一个词会改变人们理解问题的方式。
+请说英语：发展。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-This situation shows why development can change the way people understand the issue.
+the development.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-现在把今天的词和上一课的词连接起来。请说一个英文句子，说明这两个概念都会影响最后决定。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-I can connect migration with poverty because both ideas affect the final decision.
+the development.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-下面是一个简短对话。请根据中文提示，用英语回答。
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说，最重要的一点是今天的第一个词。
+请说英语：合作。
 
-<break time="5.2s" />
+<break time="4.5s" />
 
 <lang code="en" />
-I think the most important point is the poverty.
+the cooperation.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你想礼貌地要求对方进一步解释他的观点。
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-Can you explain your aid in a little more detail?
+the cooperation.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-你想说明，你的主要理由和第三个词有关。
+请说英语：资源。
 
-<break time="6.5s" />
+<break time="4.5s" />
 
 <lang code="en" />
-Yes. My main reason is that the cooperation affects the result.
+the resource.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-你觉得对方说得合理，但还需要更多信息。
-
-<break time="5.2s" />
+<break time="2.5s" />
 
 <lang code="en" />
-That sounds resource, but I still need more information.
+the resource.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-现在做
+请说英语：援助。
+
+<break time="4.5s" />
 
 <lang code="en" />
-B2
+the aid.
 
-<lang code="zh" />
-级别的问答练习。答案要自然，但不要太复杂
-
-<lang code="zh" />
-为什么这个问题重要？
-
-<break time="6.5s" />
+<break time="2.5s" />
 
 <lang code="en" />
-It is important because it affects decisions, trust, and the way people understand the situation.
+the aid.
 
-<break time="1.5s" />
-
-<lang code="zh" />
-请解释一下这个情况。
-
-<break time="8.0s" />
-
-<lang code="en" />
-The situation is not simple. There are different views, and each side has a reason for its position.
-
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-下一步你会怎么做？
-
-<break time="6.5s" />
-
-<lang code="en" />
-I would ask for more information, compare the options, and then explain my decision clearly.
-
-<break time="1.5s" />
+现在练习三个完整句子。
 
 <lang code="zh" />
-你怎样让自己的回答更有说服力？
+请回忆并说出这个英语句子。
 
-<break time="6.5s" />
-
-<lang code="en" />
-I would use clear examples, avoid extreme language, and acknowledge another perspective.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-现在是长回答练习。请用英语说一小段话，尽量使用今天的大部分新词。先自己说。
-
-<break time="10.0s" />
-
-<lang code="en" />
-From my perspective, this topic needs careful discussion. The main poverty may sound resource, but we should examine the cooperation behind it. A crisis explanation uses examples and respects other views. If the information is development, people may reach the wrong conclusion, so I would ask for a balanced discussion.
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习今天的六个新词。听中文，说英语。
-
-<lang code="zh" />
-合作。
-
-<break time="4.0s" />
-
-<lang code="en" />
-cooperation
-
-<break time="1.5s" />
-
-<lang code="zh" />
-贫困。
-
-<break time="4.0s" />
-
-<lang code="en" />
-poverty
-
-<break time="1.5s" />
-
-<lang code="zh" />
-发展。
-
-<break time="4.0s" />
-
-<lang code="en" />
-development
-
-<break time="1.5s" />
-
-<lang code="zh" />
-援助。
-
-<break time="4.0s" />
-
-<lang code="en" />
-aid
-
-<break time="1.5s" />
-
-<lang code="zh" />
-资源。
-
-<break time="4.0s" />
-
-<lang code="en" />
-resource
-
-<break time="1.5s" />
-
-<lang code="zh" />
-危机。
-
-<break time="4.0s" />
-
-<lang code="en" />
-crisis
-
-<break time="1.5s" />
-
-<lang code="zh" />
-最后复习三个关键句。
-
-<lang code="zh" />
-请再说一次含有
-
-<lang code="en" />
-poverty
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 Poverty can affect health, education, and future opportunities.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
 
-<lang code="en" />
-crisis
-
-<lang code="zh" />
-的关键句
-
-<break time="5.2s" />
+<break time="5.5s" />
 
 <lang code="en" />
 The crisis showed the need for better planning.
 
-<break time="1.5s" />
+<break time="2.5s" />
 
 <lang code="zh" />
-请再说一次含有
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
 
 <lang code="en" />
-resource
+Economic development should also protect the environment.
+
+<break time="2.5s" />
 
 <lang code="zh" />
-的关键句
+第五部分，情境句子练习。
 
-<break time="5.2s" />
+<lang code="zh" />
+情境：国际组织正在应对一场严重危机。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
 
 <lang code="en" />
-Clean water is an essential resource for every community.
+The crisis has increased poverty and limited access to clean water.
 
-<break time="1.5s" />
+<break time="6.5s" />
+
+<lang code="en" />
+The crisis has increased poverty and limited access to clean water.
+
+<break time="3.0s" />
 
 <lang code="zh" />
-很好。今天的练习到这里结束。下一课会继续复习以前的词，并加入新的表达。请继续保持主动开口的习惯。
+请重复这个英语句子。
+
+<lang code="en" />
+International cooperation brings emergency aid to affected communities.
+
+<break time="5.5s" />
+
+<lang code="en" />
+International cooperation brings emergency aid to affected communities.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Clean water is the most urgent resource.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Clean water is the most urgent resource.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Long-term development will require education, healthcare, and stable jobs.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Long-term development will require education, healthcare, and stable jobs.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+这场危机加剧了贫困，并限制了人们获得清洁饮用水。
+
+<break time="6.5s" />
+
+<lang code="en" />
+The crisis has increased poverty and limited access to clean water.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+国际合作为受影响的社区带来了紧急援助。
+
+<break time="5.5s" />
+
+<lang code="en" />
+International cooperation brings emergency aid to affected communities.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+清洁饮用水是最紧急的资源。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Clean water is the most urgent resource.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+长期发展需要教育、医疗和稳定的工作。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Long-term development will require education, healthcare, and stable jobs.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：贫困。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the poverty.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the poverty.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：援助。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：合作。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the cooperation.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the cooperation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：危机。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the crisis.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the crisis.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：资源。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the resource.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the resource.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：发展。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the development.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the development.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。
