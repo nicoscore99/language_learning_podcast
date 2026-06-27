@@ -24,9 +24,13 @@ export const waveformRibbonsSchema = z.object({
 
   amplitude: z.number().positive().default(74),
   gain: z.number().positive().default(5.5),
+  minVolume: z.number().min(0).max(1).default(0.18),
   sampleCount: z.number().int().min(24).max(240).default(140),
   smoothFrames: z.number().int().min(0).max(20).default(3),
   waveCount: z.number().positive().default(2.2),
+  trebleWaveInfluence: z.number().min(0).max(3).default(0.65),
+  bassThicknessInfluence: z.number().min(0).max(3).default(0.5),
+  rhythmSpeedInfluence: z.number().min(0).max(3).default(0.35),
 
   ribbonCount: z.number().int().min(2).max(8).default(4),
   thickness: z.number().positive().default(46),
@@ -100,6 +104,14 @@ const pseudoRandom = (seed: number) => {
 const gaussian = (x: number, center: number, sigma: number) => {
   const d = (x - center) / sigma;
   return Math.exp(-0.5 * d * d);
+};
+
+const average = (values: number[]) => {
+  if (values.length === 0) {
+    return 0;
+  }
+
+  return values.reduce((sum, value) => sum + value, 0) / values.length;
 };
 
 const pointsToSmoothPath = (points: Point[]) => {
@@ -256,9 +268,13 @@ export const WaveformRibbons: React.FC<WaveformRibbonsProps> = ({
   glowOpacity,
   amplitude,
   gain,
+  minVolume,
   sampleCount,
   smoothFrames,
   waveCount,
+  trebleWaveInfluence,
+  bassThicknessInfluence,
+  rhythmSpeedInfluence,
   ribbonCount,
   thickness,
   modeCountMin,
@@ -276,34 +292,68 @@ export const WaveformRibbons: React.FC<WaveformRibbonsProps> = ({
   const {fps} = useVideoConfig();
   const audioData = useAudioData(audioSrc);
 
-  const volume = useMemo(() => {
+  const audioFeatures = useMemo(() => {
     if (!audioData) {
-      return 0.35;
+      return {
+        volume: Math.max(minVolume, 0.35),
+        bassRatio: 0.5,
+        trebleRatio: 0.5,
+        rhythm: 0,
+      };
     }
 
-    let total = 0;
+    let speechTotal = 0;
+    let bassTotal = 0;
+    let trebleTotal = 0;
+    let rhythmTotal = 0;
     let count = 0;
+    let previousSpeech: number | null = null;
 
     for (let offset = -smoothFrames; offset <= smoothFrames; offset++) {
+      const currentFrame = Math.max(0, frame + offset);
       const visualization = visualizeAudio({
         fps,
-        frame: Math.max(0, frame + offset),
+        frame: currentFrame,
         audioData,
         numberOfSamples: 32,
       });
 
       const speechBands = visualization.slice(0, 14);
+      const bassBands = visualization.slice(0, 5);
+      const trebleBands = visualization.slice(14, 32);
 
-      total +=
-        speechBands.reduce((sum, value) => sum + value, 0) / speechBands.length;
+      const speechEnergy = average(speechBands);
+      speechTotal += speechEnergy;
+      bassTotal += average(bassBands);
+      trebleTotal += average(trebleBands);
+
+      if (previousSpeech !== null) {
+        rhythmTotal += Math.abs(speechEnergy - previousSpeech);
+      }
+      previousSpeech = speechEnergy;
 
       count++;
     }
 
-    return clamp((total / count) * gain, 0.18, 1);
-  }, [audioData, fps, frame, gain, smoothFrames]);
+    const speechAverage = speechTotal / count;
+    const bassAverage = bassTotal / count;
+    const trebleAverage = trebleTotal / count;
+    const spectralTotal = bassAverage + trebleAverage + 0.001;
+
+    return {
+      volume: clamp(speechAverage * gain, minVolume, 1),
+      bassRatio: clamp(bassAverage / spectralTotal, 0, 1),
+      trebleRatio: clamp(trebleAverage / spectralTotal, 0, 1),
+      rhythm: clamp(rhythmTotal * gain, 0, 1),
+    };
+  }, [audioData, fps, frame, gain, minVolume, smoothFrames]);
 
   const motion = frame / fps;
+  const waveDetailMultiplier =
+    1 + (audioFeatures.trebleRatio - 0.5) * trebleWaveInfluence;
+  const thicknessMultiplier =
+    1 + (audioFeatures.bassRatio - 0.5) * bassThicknessInfluence;
+  const speedMultiplier = 1 + audioFeatures.rhythm * rhythmSpeedInfluence;
 
   const ribbons = Array.from({length: ribbonCount}, (_, index) => {
     const centeredOffsets = [-0.12, 0.1, -0.04, 0.16, -0.18, 0.04, 0.2, -0.22];
@@ -317,14 +367,14 @@ export const WaveformRibbons: React.FC<WaveformRibbonsProps> = ({
         width,
         height,
         sampleCount,
-        volume,
+        volume: audioFeatures.volume,
         amplitude: amplitude * (1 - index * 0.08),
-        thickness: thickness * (1 - index * 0.07),
-        phase: motion * (1.15 + index * 0.18) + index * 1.4,
-        waveCount: waveCount + index * 0.2,
+        thickness: thickness * thicknessMultiplier * (1 - index * 0.07),
+        phase: motion * speedMultiplier * (1.15 + index * 0.18) + index * 1.4,
+        waveCount: Math.max(0.1, (waveCount + index * 0.2) * waveDetailMultiplier),
         verticalOffset: layerOffset,
         ribbonIndex: index,
-        motion,
+        motion: motion * speedMultiplier,
         modeCountMin,
         modeCountMax,
         modeWidth,

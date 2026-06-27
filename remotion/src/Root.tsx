@@ -27,9 +27,13 @@ const ribbonDefaults = {
   glowOpacity: 0.14,
   amplitude: 54,
   gain: 5.8,
+  minVolume: 0.18,
   sampleCount: 140,
   smoothFrames: 3,
   waveCount: 2.4,
+  trebleWaveInfluence: 0.65,
+  bassThicknessInfluence: 0.5,
+  rhythmSpeedInfluence: 0.35,
   ribbonCount: 4,
   thickness: 28,
   modeCountMin: 2,
@@ -71,8 +75,8 @@ const ribbonsStillProps: WaveformRibbonsStillProps = {
   frame: 120,
   waveform: {
     ...ribbonDefaults,
-    width: 160,
-    height: 80,
+    width: 320,
+    height: 160,
     x: 0,
     y: 0,
   },
@@ -104,8 +108,8 @@ export const Root: React.FC = () => {
         component={WaveformRibbonsStill}
         durationInFrames={1}
         fps={30}
-        width={160}
-        height={80}
+        width={320}
+        height={160}
         schema={waveformRibbonsStillSchema}
         defaultProps={ribbonsStillProps}
       />
@@ -113,7 +117,7 @@ export const Root: React.FC = () => {
       <Composition
         id="WaveformRibbonsVideo"
         component={WaveformRibbonsVideo}
-        durationInFrames={150}
+        durationInFrames={900}
         fps={30}
         width={640}
         height={320}

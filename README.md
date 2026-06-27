@@ -291,7 +291,7 @@ To iterate on the waveform ribbon by itself, edit `remotion/ribbon-still-props.j
 npm run remotion:still:ribbon
 ```
 
-The PNG is written to `out/waveform-ribbon-still.png`. Change `frame` in the props file to sample a different moment in the audio-driven waveform.
+The `320x160` PNG is written to `out/waveform-ribbon-still.png`. Change `frame` in the props file to sample a different moment in the audio-driven waveform.
 
 Render a short ribbon-only video with audio:
 
@@ -299,7 +299,7 @@ Render a short ribbon-only video with audio:
 npm run remotion:render:ribbon
 ```
 
-The MP4 is written to `out/waveform-ribbon-test.mp4`. It uses the same waveform settings from `remotion/ribbon-still-props.json`, centered and scaled inside a `640x320` video.
+The MP4 is written to `out/waveform-ribbon-30s-test.mp4`. It uses the same waveform settings from `remotion/ribbon-still-props.json`, centered and scaled inside a `640x320` video.
 
 ## Script Reference
 
