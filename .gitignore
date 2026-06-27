@@ -10,6 +10,14 @@
 *.aiff
 *.aif
 
+# Generated subtitle and video output
+*.srt
+*.ass
+*.mp4
+*.mkv
+*.webm
+*.mov
+
 # TTS generation cache/work directories
 tts_cache/
 tts_work/
@@ -23,6 +31,10 @@ __pycache__/
 venv/
 env/
 ENV/
+
+# Node/Remotion dependencies and renders
+node_modules/
+out/
 
 # Local config and secrets
 .env

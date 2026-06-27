@@ -1,0 +1,24 @@
+{
+  "name": "language-learning-channel-video",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "remotion:studio": "remotion studio remotion/index.ts",
+    "remotion:preview": "remotion preview remotion/index.ts",
+    "remotion:render:demo": "remotion render remotion/index.ts PodcastFinal out/waveform-ribbon-demo.mp4 --props=remotion/demo-props.json",
+    "remotion:still:ribbon": "remotion still remotion/index.ts WaveformRibbonsStill out/waveform-ribbon-still.png --props=remotion/ribbon-still-props.json",
+    "remotion:render:ribbon": "remotion render remotion/index.ts WaveformRibbonsVideo out/waveform-ribbon-test.mp4 --props=remotion/ribbon-still-props.json"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.20",
+    "@remotion/cli": "4.0.482",
+    "@remotion/media-utils": "4.0.482",
+    "remotion": "4.0.482",
+    "typescript": "^5.5.4",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  }
+}

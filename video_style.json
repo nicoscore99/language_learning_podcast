@@ -1,0 +1,45 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "subtitle_area": {
+    "left": 180,
+    "top": 190,
+    "right": 1740,
+    "bottom": 890
+  },
+  "text": {
+    "line_height": 132,
+    "active": {
+      "font": "Arial",
+      "font_size": 48,
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#FFFFFF",
+      "outline_color": "#151515",
+      "background_color": "#151515B8",
+      "bold": true,
+      "border_style": 3,
+      "outline_width": 12,
+      "shadow": 0
+    },
+    "inactive": {
+      "font": "Arial",
+      "font_size": 40,
+      "primary_color": "#D6D6D6",
+      "secondary_color": "#D6D6D6",
+      "outline_color": "#111111",
+      "background_color": "#00000000",
+      "bold": false,
+      "border_style": 1,
+      "outline_width": 2,
+      "shadow": 1
+    }
+  },
+  "animation": {
+    "transition_seconds": 0.35,
+    "visible_lines_before": 2,
+    "visible_lines_after": 2
+  }
+}

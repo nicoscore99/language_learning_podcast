@@ -7,6 +7,9 @@ The lesson `.txt` files are the source of truth. Generated audio, TTS cache file
 ## Project Layout
 
 - `generate_lesson_mp3.py` - canonical TTS generator.
+- `generate_subtitles.py` - creates standard SRT and flowing styled ASS subtitles from a completed manifest.
+- `render_lesson_video.py` - renders lesson audio and ASS subtitles over an image or looping video.
+- `video_style.json` - reusable video dimensions, subtitle frame, typography, colors, and animation settings.
 - `standardize_lessons.py` - applies shared tag, formatting, pause, and B1 English-quality rules.
 - `rebuild_english_lessons.py` - rebuilds B1 and B2 lessons in the six-section, scenario-based format.
 - `validate_lessons.py` - local QA checks for lesson scripts before synthesis.
@@ -211,6 +214,93 @@ Generation is sequential to make failures and API-rate limits easier to manage. 
 
 To generate B1 or A1, change `$folder` and the `-Filter` value to `B1_Lesson_*.txt` or `A1_Lesson_*.txt`.
 
+## Generate Subtitles And Video
+
+Subtitle generation requires a completed synthesis manifest because it uses the measured timing of every processed speech and silence segment. A dry-run manifest does not contain these timings.
+
+Generate both standard SRT subtitles and the flowing styled ASS subtitles used by the video renderer:
+
+```powershell
+python generate_subtitles.py `
+  B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.manifest.json
+```
+
+The SRT contains one compatible subtitle cue per speech block. The ASS file displays surrounding speech blocks inside the frame configured in `video_style.json`, keeps the active block highlighted at the center, and moves the text upward before the next block begins.
+
+Render with a static image:
+
+```powershell
+python render_lesson_video.py `
+  B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp3 `
+  B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.ass `
+  --background-image background.jpg `
+  --output B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp4
+```
+
+Render with a short video that repeats until the lesson ends:
+
+```powershell
+python render_lesson_video.py `
+  lesson.mp3 `
+  lesson.ass `
+  --background-video background_loop.mp4 `
+  --output lesson.mp4
+```
+
+Render a short styling preview before processing the full lesson:
+
+```powershell
+python render_lesson_video.py `
+  lesson.mp3 `
+  lesson.ass `
+  --background-image background.jpg `
+  --preview-start 60 `
+  --preview-duration 20 `
+  --output lesson_preview.mp4
+```
+
+Adjust `video_style.json` to define the output resolution and frame rate, the allowed subtitle area, active/inactive text styles, visible surrounding lines, line spacing, and transition duration.
+
+## Remotion Waveform Demo
+
+The Remotion demo renders a white-background layout with centered text and a compact animated waveform pill. The waveform is drawn with SVG paths and reacts to the lesson audio.
+
+Install dependencies once:
+
+```powershell
+npm install
+```
+
+Place a local demo audio file in Remotion's public asset folder:
+
+```powershell
+Copy-Item B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp3 public\demo-audio.mp3
+```
+
+Render the demo:
+
+```powershell
+npm run remotion:render:demo
+```
+
+The demo props live in `remotion/demo-props.json`. Change `previousText`, `currentText`, and `nextText` for the sentence stack. Change `waveform.colors` for different flag palettes, and adjust width, height, position, opacity, amplitude, sample count, and smoothing there.
+
+To iterate on the waveform ribbon by itself, edit `remotion/ribbon-still-props.json` and render a static PNG:
+
+```powershell
+npm run remotion:still:ribbon
+```
+
+The PNG is written to `out/waveform-ribbon-still.png`. Change `frame` in the props file to sample a different moment in the audio-driven waveform.
+
+Render a short ribbon-only video with audio:
+
+```powershell
+npm run remotion:render:ribbon
+```
+
+The MP4 is written to `out/waveform-ribbon-test.mp4`. It uses the same waveform settings from `remotion/ribbon-still-props.json`, centered and scaled inside a `640x320` video.
+
 ## Script Reference
 
 ### `generate_lesson_mp3.py`
@@ -241,6 +331,29 @@ Validates lesson files before synthesis. It accepts one or more file or folder `
 - `--strict` - fail when warnings are present.
 - `--json` - print the full machine-readable report.
 
+### `generate_subtitles.py`
+
+Reads a completed lesson manifest and creates standard SRT plus flowing styled ASS subtitles.
+
+- `manifest` - required completed `.manifest.json` path.
+- `--config` - style configuration path; defaults to `video_style.json`.
+- `--srt-output`, `--ass-output` - choose output paths.
+- `--languages` - include only specified exact language codes.
+- `--srt-speech-only` - end SRT cues when speech ends instead of holding until the next speech block.
+- `--no-srt`, `--no-ass` - disable either output format.
+
+### `render_lesson_video.py`
+
+Uses FFmpeg to burn flowing ASS subtitles over a static image or repeating video and attach the lesson audio.
+
+- `audio`, `subtitles` - required lesson audio and ASS paths.
+- `--background-image`, `--background-video` - choose exactly one background source.
+- `--output`, `--config` - output MP4 and style configuration paths.
+- `--preview-start`, `--preview-duration` - render only a short time range for testing.
+- `--video-codec`, `--preset`, `--crf` - video encoder and quality settings.
+- `--audio-codec`, `--audio-bitrate` - output audio settings.
+- `--dry-run` - print the FFmpeg command without rendering.
+
 ### Lesson Maintenance Scripts
 
 These scripts currently take no command-line options:
@@ -250,12 +363,12 @@ These scripts currently take no command-line options:
 - `refresh_validation_summaries.py` - refreshes the validation summary in each course folder.
 - `naturalize_english_lessons.py` - deprecated older English rewrite script; it is incompatible with the current six-section lesson format.
 
-Use `python generate_lesson_mp3.py --help` or `python validate_lessons.py --help` for defaults and the current CLI help. Do not pass `--help` to the maintenance scripts because they execute immediately.
+Use `python SCRIPT_NAME.py --help` for defaults and current CLI help on the generator, validator, subtitle, and video scripts. Do not pass `--help` to the maintenance scripts because they execute immediately.
 
 ## Current Pipeline Direction
 
 Near-term improvements:
 
 - Add a dedicated batch-generation CLI with resumable progress reporting.
-- Generate subtitles from the manifest.
-- Generate simple video assets from audio plus subtitles.
+- Add word-level timing when a reliable alignment source is available.
+- Add batch subtitle and video rendering for full course folders.

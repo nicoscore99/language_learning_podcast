@@ -1,0 +1,35 @@
+{
+  "audioSrc": "demo-audio.mp3",
+  "backgroundColor": "#ffffff",
+  "frame": 120,
+  "waveform": {
+    "width": 160,
+    "height": 80,
+    "x": 0,
+    "y": 0,
+    "colorPairs": [
+      ["#18C9F4", "#256BFF"],
+      ["#256BFF", "#7B2EF2"],
+      ["#0EA5E9", "#14B8A6"]
+    ],
+    "opacity": 0.9,
+    "glowOpacity": 0.14,
+    "amplitude": 54,
+    "gain": 5.8,
+    "sampleCount": 64,
+    "smoothFrames": 3,
+    "waveCount": 2.4,
+    "ribbonCount": 3,
+    "thickness": 50,
+    "modeCountMin": 2,
+    "modeCountMax": 5,
+    "modeWidth": 0.1,
+    "centerDrift": 0.12,
+    "modeSpeed": 1,
+    "spread": 0.18,
+    "gradientPeak": 50,
+    "gradientSpread": 55,
+    "gradientAngleVariance": 75,
+    "gradientHardness": 18
+  }
+}

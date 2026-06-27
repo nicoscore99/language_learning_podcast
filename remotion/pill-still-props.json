@@ -1,0 +1,23 @@
+{
+  "audioSrc": "demo-audio.mp3",
+  "backgroundColor": "#ffffff",
+  "frame": 120,
+  "waveform": {
+    "width": 200,
+    "height": 100,
+    "x": 100,
+    "y": 50,
+    "backgroundColor": "#f7f7f4",
+    "surfaceColor": "#e4e5e6",
+    "borderColor": "transparent",
+    "colors": ["#174EA6", "#FFFFFF", "#E11D2E"],
+    "opacity": 0.86,
+    "glowOpacity": 0.22,
+    "fillOpacity": 0.5,
+    "amplitude": 46,
+    "gain": 6.2,
+    "sampleCount": 52,
+    "smoothFrames": 2,
+    "waveCount": 3.35
+  }
+}
