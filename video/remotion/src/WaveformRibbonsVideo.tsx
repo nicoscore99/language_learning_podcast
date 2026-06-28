@@ -1,7 +1,8 @@
 import React from 'react';
-import {AbsoluteFill, Audio, staticFile, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Audio, useVideoConfig} from 'remotion';
 import {z} from 'zod';
 import {WaveformRibbons, waveformRibbonsSchema} from './components/WaveformRibbons';
+import {mediaSource} from './mediaSource';
 
 export const waveformRibbonsVideoSchema = z.object({
   audioSrc: z.string(),
@@ -11,14 +12,6 @@ export const waveformRibbonsVideoSchema = z.object({
 });
 
 export type WaveformRibbonsVideoProps = z.infer<typeof waveformRibbonsVideoSchema>;
-
-const mediaSource = (src: string) => {
-  if (/^(https?:|file:|data:|\/)/.test(src)) {
-    return src;
-  }
-
-  return staticFile(src);
-};
 
 export const WaveformRibbonsVideo: React.FC<WaveformRibbonsVideoProps> = ({
   audioSrc,

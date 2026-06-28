@@ -4,50 +4,28 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 from pathlib import Path
 from typing import Any
 
-
-DEFAULT_WAVEFORM = {
-    "width": 520,
-    "height": 390,
-    "x": 120,
-    "y": 345,
-    "colorPairs": [
-        ["#14C8F2", "#1E5BFF"],
-        ["#1D56E8", "#6F2BEF"],
-        ["#7428E8", "#CC3B2F"],
-        ["#f02b99", "#FFA043"],
-    ],
-    "opacity": 1.0,
-    "glowOpacity": 0.5,
-    "amplitude": 116,
-    "gain": 5.8,
-    "minVolume": 0.18,
-    "sampleCount": 96,
-    "smoothFrames": 7,
-    "waveCount": 2.4,
-    "trebleWaveInfluence": 0.05,
-    "bassThicknessInfluence": 0.5,
-    "rhythmSpeedInfluence": 0.04,
-    "ribbonCount": 4,
-    "thickness": 80,
-    "modeCountMin": 2,
-    "modeCountMax": 5,
-    "modeWidth": 0.1,
-    "centerDrift": 0.08,
-    "modeSpeed": 0.4,
-    "spread": 0.18,
-    "gradientPeak": 85,
-    "gradientSpread": 90,
-    "gradientAngleVariance": 75,
-    "gradientHardness": 34,
-}
+DEFAULT_STYLE_PROPS = Path(__file__).with_name("remotion") / "podcast-final-style.json"
 
 
 def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def remove_comment_keys(value: Any) -> Any:
+    if isinstance(value, dict):
+        return {
+            key: remove_comment_keys(item)
+            for key, item in value.items()
+            if not key.startswith("_")
+        }
+    if isinstance(value, list):
+        return [remove_comment_keys(item) for item in value]
+    return value
 
 
 def speech_segments(manifest: dict[str, Any]) -> list[dict[str, Any]]:
@@ -137,6 +115,15 @@ def main() -> None:
         default="demo-audio.mp3",
         help="Audio source as Remotion should load it, usually a file in public/.",
     )
+    parser.add_argument(
+        "--style-props",
+        type=Path,
+        default=DEFAULT_STYLE_PROPS,
+        help=(
+            "Reusable PodcastFinal style props JSON. May contain a top-level waveform "
+            "object or any other PodcastFinal props to merge into the generated file."
+        ),
+    )
     parser.add_argument("--preview-start", type=float, default=0.0)
     parser.add_argument(
         "--preview-duration",
@@ -157,9 +144,12 @@ def main() -> None:
         parser.error("--preview-duration must be greater than zero.")
     if not args.manifest.exists():
         parser.error(f"Manifest not found: {args.manifest}")
+    if not args.style_props.exists():
+        parser.error(f"Style props file not found: {args.style_props}")
 
     try:
         manifest = load_json(args.manifest)
+        style_props = remove_comment_keys(load_json(args.style_props))
         segments = speech_segments(manifest)
         manifest_duration = float(
             manifest.get("summary", {}).get("duration_seconds")
@@ -181,12 +171,14 @@ def main() -> None:
     except (json.JSONDecodeError, KeyError, TypeError, ValueError) as exc:
         parser.error(str(exc))
 
-    props = {
+    props = copy.deepcopy(style_props)
+    props.update({
         "audioSrc": args.audio_src,
         "durationInSeconds": preview_duration,
         "subtitleEntries": entries,
-        "waveform": DEFAULT_WAVEFORM,
-    }
+    })
+    if "waveform" not in props:
+        parser.error(f"Style props file must define a waveform object: {args.style_props}")
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(

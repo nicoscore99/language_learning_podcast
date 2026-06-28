@@ -1,0 +1,38 @@
+{
+  "_comment": "Reusable PodcastFinal visual settings. Pass this to video/manifest_to_remotion_props.py with --style-props.",
+  "waveform": {
+    "width": 520,
+    "height": 390,
+    "x": 120,
+    "y": 345,
+    "colorPairs": [
+      ["#14C8F2", "#1E5BFF"],
+      ["#1D56E8", "#6F2BEF"],
+      ["#7428E8", "#CC3B2F"],
+      ["#f02b99", "#FFA043"]
+    ],
+    "opacity": 1.0,
+    "glowOpacity": 0.5,
+    "amplitude": 116,
+    "gain": 5.8,
+    "minVolume": 0.18,
+    "sampleCount": 96,
+    "smoothFrames": 7,
+    "waveCount": 2.4,
+    "trebleWaveInfluence": 0.05,
+    "bassThicknessInfluence": 0.5,
+    "rhythmSpeedInfluence": 0.04,
+    "ribbonCount": 4,
+    "thickness": 100,
+    "modeCountMin": 2,
+    "modeCountMax": 5,
+    "modeWidth": 0.1,
+    "centerDrift": 0.08,
+    "modeSpeed": 0.4,
+    "spread": 0.18,
+    "gradientPeak": 85,
+    "gradientSpread": 90,
+    "gradientAngleVariance": 75,
+    "gradientHardness": 34
+  }
+}

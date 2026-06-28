@@ -180,7 +180,6 @@ Copy or generate the episode audio into `public/` for Remotion:
 
 ```powershell
 Copy-Item `
-  curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp3 `
   public\demo-audio.mp3
 ```
 
@@ -191,6 +190,7 @@ python video\manifest_to_remotion_props.py `
   curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.manifest.json `
   --output video\remotion\combined-30s-props.json `
   --audio-src demo-audio.mp3 `
+  --style-props video\remotion\podcast-final-style.json `
   --preview-duration 30
 ```
 
@@ -204,6 +204,22 @@ npm run remotion:render:combined30
 
 Output: `out\podcast-combined-30s-demo.mp4`.
 
+The render command uses `video/render_remotion_video.py`, which also writes a sidecar video manifest:
+
+```text
+out\podcast-combined-30s-demo.video.manifest.json
+```
+
+That sidecar records the render command, Remotion entry/composition, props hash, audio manifest hash, props snapshot, output hash, output probe data, timestamp, and git state.
+
+The reusable visual settings live in:
+
+```text
+video\remotion\podcast-final-style.json
+```
+
+Pass a different file with `--style-props` when creating Remotion props if you want a different waveform/layout preset.
+
 Iterate on the standalone waveform ribbon:
 
 ```powershell
@@ -211,7 +227,7 @@ npm run remotion:still:ribbon
 npm run remotion:render:ribbon
 ```
 
-Useful waveform settings live in `video/remotion/ribbon-still-props.json`:
+Useful standalone ribbon settings live in `video/remotion/ribbon-still-props.json`. Production `PodcastFinal` settings live in `video/remotion/podcast-final-style.json`.
 
 - `width`, `height` - ribbon canvas size.
 - `amplitude`, `gain`, `minVolume` - how strongly audio drives movement.
@@ -250,7 +266,11 @@ Uses FFmpeg to burn ASS subtitles over a static image or looping video. Useful o
 
 ### `video/manifest_to_remotion_props.py`
 
-Converts a completed manifest into Remotion `PodcastFinal` props with exact segment timings. Omit `--preview-duration` for a full episode, or set it for short demos.
+Converts a completed manifest into Remotion `PodcastFinal` props with exact segment timings. Omit `--preview-duration` for a full episode, or set it for short demos. Use `--style-props` to pass reusable waveform/layout settings instead of editing the converter.
+
+### `video/render_remotion_video.py`
+
+Renders Remotion through a Python wrapper and writes a `.video.manifest.json` sidecar beside the MP4. Use this for production renders so video settings are reproducible like audio settings.
 
 ## Current Direction
 

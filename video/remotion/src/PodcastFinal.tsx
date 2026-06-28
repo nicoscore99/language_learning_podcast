@@ -6,12 +6,12 @@ import {
   AbsoluteFill,
   Audio,
   OffthreadVideo,
-  staticFile,
   useCurrentFrame,
   useVideoConfig,
 } from 'remotion';
 import {z} from 'zod';
 import {WaveformRibbons, waveformRibbonsSchema} from './components/WaveformRibbons';
+import {mediaSource} from './mediaSource';
 
 export const podcastFinalSchema = z.object({
   audioSrc: z.string(),
@@ -40,13 +40,6 @@ export const podcastFinalSchema = z.object({
 });
 
 export type PodcastFinalProps = z.infer<typeof podcastFinalSchema>;
-
-const mediaSource = (src: string) => {
-  if (/^(https?:|file:|data:|\/)/.test(src)) {
-    return src;
-  }
-  return staticFile(src);
-};
 
 export const PodcastFinal: React.FC<PodcastFinalProps> = ({
   audioSrc,
