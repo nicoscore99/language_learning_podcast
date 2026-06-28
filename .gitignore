@@ -65,3 +65,6 @@ Desktop.ini
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Denoising experiments
+denoising/

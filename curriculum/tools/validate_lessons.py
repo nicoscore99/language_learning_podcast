@@ -9,6 +9,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
+ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "audio"))
+
 from generate_lesson_mp3 import (
     BREAK_RE,
     LANG_RE,

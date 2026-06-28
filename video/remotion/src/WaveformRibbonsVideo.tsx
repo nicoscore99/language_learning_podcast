@@ -6,7 +6,7 @@ import {WaveformRibbons, waveformRibbonsSchema} from './components/WaveformRibbo
 export const waveformRibbonsVideoSchema = z.object({
   audioSrc: z.string(),
   backgroundColor: z.string().default('#ffffff'),
-  scale: z.number().positive().default(3),
+  scale: z.number().positive().default(2),
   waveform: waveformRibbonsSchema,
 });
 

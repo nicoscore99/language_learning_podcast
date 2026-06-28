@@ -2,16 +2,21 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 from typing import Any
+
+ROOT = Path(__file__).resolve().parents[2]
+COURSES_ROOT = ROOT / "curriculum" / "courses"
+sys.path.insert(0, str(ROOT / "audio"))
 
 from generate_lesson_mp3 import parse_tts_script
 
 
 COURSES = {
-    "A1_German_TTS_Lesson_Scripts": {"teacher": {"en", "auto"}, "target": "de"},
-    "B1_English_TTS_Lesson_Scripts": {"teacher": {"zh"}, "target": "en"},
-    "B2_English_TTS_Lesson_Scripts": {"teacher": {"zh"}, "target": "en"},
+    COURSES_ROOT / "A1_German_TTS_Lesson_Scripts": {"teacher": {"en", "auto"}, "target": "de"},
+    COURSES_ROOT / "B1_English_TTS_Lesson_Scripts": {"teacher": {"zh"}, "target": "en"},
+    COURSES_ROOT / "B2_English_TTS_Lesson_Scripts": {"teacher": {"zh"}, "target": "en"},
 }
 
 BAD_B1_PATTERNS = [
@@ -431,7 +436,7 @@ def main() -> None:
     changed: list[Path] = []
     global_b1_examples: dict[str, str] = {}
 
-    for path in sorted(Path("B1_English_TTS_Lesson_Scripts").glob("*Lesson*.txt")):
+    for path in sorted((COURSES_ROOT / "B1_English_TTS_Lesson_Scripts").glob("*Lesson*.txt")):
         if path.stem.lower().endswith("_example"):
             continue
         for word, example in collect_b1_example_map(
@@ -439,8 +444,8 @@ def main() -> None:
         ).items():
             global_b1_examples.setdefault(word, example)
 
-    for folder_name, course in COURSES.items():
-        for path in sorted(Path(folder_name).glob("*Lesson*.txt")):
+    for folder, course in COURSES.items():
+        for path in sorted(folder.glob("*Lesson*.txt")):
             if path.stem.lower().endswith("_example"):
                 continue
             if standardize_file(path, course, global_b1_examples):

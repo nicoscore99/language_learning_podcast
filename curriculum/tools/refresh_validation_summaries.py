@@ -3,13 +3,16 @@ from __future__ import annotations
 
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[2]
+COURSES_ROOT = ROOT / "curriculum" / "courses"
+
 from validate_lessons import find_lesson_files, validate_file
 
 
 COURSE_FOLDERS = [
-    Path("A1_German_TTS_Lesson_Scripts"),
-    Path("B1_English_TTS_Lesson_Scripts"),
-    Path("B2_English_TTS_Lesson_Scripts"),
+    COURSES_ROOT / "A1_German_TTS_Lesson_Scripts",
+    COURSES_ROOT / "B1_English_TTS_Lesson_Scripts",
+    COURSES_ROOT / "B2_English_TTS_Lesson_Scripts",
 ]
 
 

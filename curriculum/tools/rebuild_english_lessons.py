@@ -2,16 +2,21 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 from typing import Any
+
+ROOT = Path(__file__).resolve().parents[2]
+COURSES_ROOT = ROOT / "curriculum" / "courses"
+sys.path.insert(0, str(ROOT / "audio"))
 
 from generate_lesson_mp3 import parse_tts_script
 from standardize_lessons import reflection_pause, render_segments, response_pause
 
 
 COURSE_FOLDERS = {
-    "B1": Path("B1_English_TTS_Lesson_Scripts"),
-    "B2": Path("B2_English_TTS_Lesson_Scripts"),
+    "B1": COURSES_ROOT / "B1_English_TTS_Lesson_Scripts",
+    "B2": COURSES_ROOT / "B2_English_TTS_Lesson_Scripts",
 }
 
 SECTION_TITLES = [

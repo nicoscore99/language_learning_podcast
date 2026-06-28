@@ -10,5 +10,5 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true
   },
-  "include": ["remotion/**/*.ts", "remotion/**/*.tsx"]
+  "include": ["video/remotion/**/*.ts", "video/remotion/**/*.tsx"]
 }

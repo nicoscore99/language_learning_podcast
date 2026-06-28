@@ -2,8 +2,13 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 from typing import Any
+
+ROOT = Path(__file__).resolve().parents[2]
+COURSES_ROOT = ROOT / "curriculum" / "courses"
+sys.path.insert(0, str(ROOT / "audio"))
 
 from generate_lesson_mp3 import parse_tts_script
 from standardize_lessons import render_segments
@@ -311,7 +316,7 @@ def replace_b2_practice(segments: list[dict[str, Any]], lesson: int) -> None:
 
 def process() -> None:
     changed: list[Path] = []
-    for path in sorted(Path("B1_English_TTS_Lesson_Scripts").glob("B1_Lesson_*.txt")):
+    for path in sorted((COURSES_ROOT / "B1_English_TTS_Lesson_Scripts").glob("B1_Lesson_*.txt")):
         original = path.read_text(encoding="utf-8")
         segments = parse_tts_script(original)
         remove_forced_b1_combinations(segments)
@@ -320,7 +325,7 @@ def process() -> None:
             path.write_text(updated, encoding="utf-8", newline="\n")
             changed.append(path)
 
-    for path in sorted(Path("B2_English_TTS_Lesson_Scripts").glob("B2_Lesson_*.txt")):
+    for path in sorted((COURSES_ROOT / "B2_English_TTS_Lesson_Scripts").glob("B2_Lesson_*.txt")):
         original = path.read_text(encoding="utf-8")
         segments = parse_tts_script(original)
         lesson = int(re.search(r"B2_Lesson_(\d+)_", path.name).group(1))

@@ -18,14 +18,14 @@ import {
 
 const ribbonDefaults = {
   colorPairs: [
-    ['#18C9F4', '#256BFF'],
-    ['#256BFF', '#7B2EF2'],
-    ['#7B2EF2', '#EC1688'],
-    ['#EC1688', '#FFA24A'],
+    ['#43d0fc', '#2f7df3'],
+    ['#2f7df3', '#6848e4'],
+    ['#6848e4', '#f02b99'],
+    ['#f02b99', '#fca264'],
   ] as [string, string][],
   opacity: 0.9,
   glowOpacity: 0.14,
-  amplitude: 54,
+  amplitude: 72,
   gain: 5.8,
   minVolume: 0.18,
   sampleCount: 140,
@@ -76,7 +76,7 @@ const ribbonsStillProps: WaveformRibbonsStillProps = {
   waveform: {
     ...ribbonDefaults,
     width: 320,
-    height: 160,
+    height: 240,
     x: 0,
     y: 0,
   },
@@ -85,7 +85,7 @@ const ribbonsStillProps: WaveformRibbonsStillProps = {
 const ribbonsVideoProps: WaveformRibbonsVideoProps = {
   audioSrc: ribbonsStillProps.audioSrc,
   backgroundColor: '#ffffff',
-  scale: 3,
+  scale: 2,
   waveform: ribbonsStillProps.waveform,
 };
 
@@ -95,6 +95,9 @@ export const Root: React.FC = () => {
       <Composition
         id="PodcastFinal"
         component={PodcastFinal}
+        calculateMetadata={({props}) => ({
+          durationInFrames: Math.round(props.durationInSeconds * 30),
+        })}
         durationInFrames={defaultProps.durationInSeconds * 30}
         fps={30}
         width={1920}
@@ -109,7 +112,7 @@ export const Root: React.FC = () => {
         durationInFrames={1}
         fps={30}
         width={320}
-        height={160}
+        height={240}
         schema={waveformRibbonsStillSchema}
         defaultProps={ribbonsStillProps}
       />
@@ -120,7 +123,7 @@ export const Root: React.FC = () => {
         durationInFrames={900}
         fps={30}
         width={640}
-        height={320}
+        height={480}
         schema={waveformRibbonsVideoSchema}
         defaultProps={ribbonsVideoProps}
       />

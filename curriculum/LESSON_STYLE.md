@@ -526,23 +526,23 @@ Before delivery:
 Rebuild the English B1 and B2 lessons:
 
 ```powershell
-python rebuild_english_lessons.py
+python curriculum\tools\rebuild_english_lessons.py
 ```
 
 Apply shared formatting and pause standardization:
 
 ```powershell
-python standardize_lessons.py
+python curriculum\tools\standardize_lessons.py
 ```
 
 Validate every production lesson:
 
 ```powershell
-python validate_lessons.py A1_German_TTS_Lesson_Scripts B1_English_TTS_Lesson_Scripts B2_English_TTS_Lesson_Scripts --strict
+python curriculum\tools\validate_lessons.py curriculum\courses\A1_German_TTS_Lesson_Scripts curriculum\courses\B1_English_TTS_Lesson_Scripts curriculum\courses\B2_English_TTS_Lesson_Scripts --strict
 ```
 
 Refresh stored validation summaries:
 
 ```powershell
-python refresh_validation_summaries.py
+python curriculum\tools\refresh_validation_summaries.py
 ```
