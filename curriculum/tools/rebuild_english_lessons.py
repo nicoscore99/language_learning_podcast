@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import re
 import sys
+import json
 from pathlib import Path
 from typing import Any
 
@@ -17,6 +18,9 @@ from standardize_lessons import reflection_pause, render_segments, response_paus
 COURSE_FOLDERS = {
     "B1": COURSES_ROOT / "B1_English_TTS_Lesson_Scripts",
     "B2": COURSES_ROOT / "B2_English_TTS_Lesson_Scripts",
+}
+EXTRA_LESSON_FILES = {
+    "B2": COURSE_FOLDERS["B2"] / "extra_lessons.json",
 }
 
 SECTION_TITLES = [
@@ -428,6 +432,38 @@ def expression_recall(
     model_answer(blocks, answer)
 
 
+def lesson_filename(data: dict[str, Any]) -> str:
+    topic_slug = re.sub(r"[^A-Za-z0-9]+", "_", data["topic_en"]).strip("_")
+    return f"{data['level']}_Lesson_{data['lesson']:02d}_{topic_slug}.txt"
+
+
+def load_extra_lessons(level: str) -> list[dict[str, Any]]:
+    path = EXTRA_LESSON_FILES.get(level)
+    if not path or not path.exists():
+        return []
+
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    extra_patterns = payload.get("expression_patterns", {})
+    EXPRESSION_PATTERNS.update(extra_patterns)
+
+    lessons: list[dict[str, Any]] = []
+    for lesson in payload.get("lessons", []):
+        key = (lesson["level"], int(lesson["lesson"]))
+        SCENARIOS[key] = (lesson["scenario_intro"], lesson["scenario_sentences"])
+        SCENARIO_MANDARIN[key] = lesson["scenario_mandarin"]
+        targets = lesson["targets"]
+        lessons.append({
+            "lesson": int(lesson["lesson"]),
+            "level": lesson["level"],
+            "topic": lesson["topic_zh"],
+            "topic_en": lesson["topic_en"],
+            "targets": [target["word"] for target in targets],
+            "meanings": {target["word"]: target["meaning"] for target in targets},
+            "examples": {target["word"]: target["example"] for target in targets},
+        })
+    return lessons
+
+
 def extract_lesson(path: Path, source_text: str | None = None) -> dict[str, Any]:
     segments = parse_tts_script(
         source_text if source_text is not None else path.read_text(encoding="utf-8")
@@ -565,7 +601,7 @@ def extract_lesson(path: Path, source_text: str | None = None) -> dict[str, Any]
 
     if set(targets) != set(meanings) or set(targets) != set(examples):
         raise ValueError(f"Could not extract curriculum data from {path}")
-    return {"lesson": lesson, "level": level, "topic": topic, "targets": targets, "meanings": meanings, "examples": examples}
+    return {"lesson": lesson, "level": level, "topic": topic, "topic_en": path.stem.split("_", 3)[-1], "targets": targets, "meanings": meanings, "examples": examples}
 
 
 def build_lesson(data: dict[str, Any], previous: dict[str, Any] | None) -> list[dict[str, Any]]:
@@ -667,10 +703,17 @@ def main() -> None:
     changed: list[Path] = []
     for level, folder in COURSE_FOLDERS.items():
         paths = sorted(path for path in folder.glob(f"{level}_Lesson_*.txt") if "example" not in path.name)
-        lessons = [extract_lesson(path) for path in paths]
-        for path, data, previous in zip(paths, lessons, [None, *lessons[:-1]]):
+        existing_lessons = [extract_lesson(path) for path in paths]
+        extra_lessons = load_extra_lessons(level)
+        lessons_by_number = {
+            lesson["lesson"]: lesson for lesson in [*existing_lessons, *extra_lessons]
+        }
+        lessons = [lessons_by_number[number] for number in sorted(lessons_by_number)]
+        for data, previous in zip(lessons, [None, *lessons[:-1]]):
+            path = folder / lesson_filename(data)
             updated = render_segments(build_lesson(data, previous))
-            if updated != path.read_text(encoding="utf-8").replace("\r\n", "\n"):
+            existing = path.read_text(encoding="utf-8").replace("\r\n", "\n") if path.exists() else ""
+            if updated != existing:
                 path.write_text(updated, encoding="utf-8", newline="\n")
                 changed.append(path)
     print(f"Rebuilt English lessons: {len(changed)}")

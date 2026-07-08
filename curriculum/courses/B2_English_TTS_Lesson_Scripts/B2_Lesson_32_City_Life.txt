@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第32课，级别是B2。
+
+<lang code="zh" />
+今天的主题是城市生活。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the commute.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the district.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to get around.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：爱好。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the hobby.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the hobby.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：工作坊，实践课。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the workshop.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the workshop.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：草图，素描。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sketch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sketch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：开始学习一种爱好。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pick up a hobby.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pick up a hobby.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The weekend workshop teaches basic watercolor techniques.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You improve at drawing by practicing small details.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the commute.
+
+<lang code="zh" />
+意思是：通勤。请跟读。
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：通勤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Her commute takes forty minutes on a good day.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her commute takes forty minutes on a good day.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the district.
+
+<lang code="zh" />
+意思是：城区，区域。请跟读。
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：城区，区域。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+This district has several small parks and cafes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This district has several small parks and cafes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the pedestrian.
+
+<lang code="zh" />
+意思是：行人。请跟读。
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The new crossing is safer for every pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The new crossing is safer for every pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to get around.
+
+<lang code="zh" />
+意思是：出行，四处走动。请跟读。
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出行，四处走动。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+It is easy to get around by tram here.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It is easy to get around by tram here.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to be crowded.
+
+<lang code="zh" />
+意思是：拥挤。请跟读。
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拥挤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The station is crowded during the evening rush.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The station is crowded during the evening rush.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to settle into somewhere.
+
+<lang code="zh" />
+意思是：适应并融入某地。请跟读。
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：适应并融入某地。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+It took me months to settle into the city.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It took me months to settle into the city.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：出行，四处走动。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：通勤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：适应并融入某地。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拥挤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：城区，区域。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her commute takes forty minutes on a good day.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It is easy to get around by tram here.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It took me months to settle into the city.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：本刚搬到一座新城市，正在适应日常生活。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Ben is trying to settle into his new city.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ben is trying to settle into his new city.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His district has quiet streets and good cafes.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His district has quiet streets and good cafes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+He uses the tram to get around most days.
+
+<break time="5.5s" />
+
+<lang code="en" />
+He uses the tram to get around most days.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The station is crowded during his morning commute.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The station is crowded during his morning commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+A new crossing makes the road safer for pedestrians.
+
+<break time="5.5s" />
+
+<lang code="en" />
+A new crossing makes the road safer for pedestrians.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+本正在努力适应他的新城市。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ben is trying to settle into his new city.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+他所在的城区有安静的街道和不错的咖啡馆。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His district has quiet streets and good cafes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+大多数日子，他坐有轨电车出行。
+
+<break time="5.5s" />
+
+<lang code="en" />
+He uses the tram to get around most days.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+早上通勤时，车站很拥挤。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The station is crowded during his morning commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+一个新的过街通道让这条路对行人更安全。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A new crossing makes the road safer for pedestrians.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：通勤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：城区，区域。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出行，四处走动。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拥挤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be crowded.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：适应并融入某地。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to settle into somewhere.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

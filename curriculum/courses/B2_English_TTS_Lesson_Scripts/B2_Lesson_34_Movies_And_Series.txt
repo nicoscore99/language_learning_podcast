@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第34课，级别是B2。
+
+<lang code="zh" />
+今天的主题是电影和剧集。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the plot.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the character.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the scene.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to spoil something.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：自发的，临时起意的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：可靠的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人叙旧。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora is reliable, so she always arrives on time.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please show up before the movie starts.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the plot.
+
+<lang code="zh" />
+意思是：剧情。请跟读。
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：剧情。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The plot becomes darker in the final episode.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plot becomes darker in the final episode.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the character.
+
+<lang code="zh" />
+意思是：角色。请跟读。
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：角色。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+My favorite character changes a lot during the story.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My favorite character changes a lot during the story.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the scene.
+
+<lang code="zh" />
+意思是：场景，片段。请跟读。
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场景，片段。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The opening scene is quiet but powerful.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The opening scene is quiet but powerful.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to be overrated.
+
+<lang code="zh" />
+意思是：被高估。请跟读。
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被高估。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Many viewers think the sequel is overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Many viewers think the sequel is overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to recommend something.
+
+<lang code="zh" />
+意思是：推荐。请跟读。
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：推荐。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I recommend the series if you enjoy slow dramas.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I recommend the series if you enjoy slow dramas.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to spoil something.
+
+<lang code="zh" />
+意思是：剧透，破坏悬念。请跟读。
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：剧透，破坏悬念。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Please do not spoil the ending for me.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please do not spoil the ending for me.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：被高估。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：剧情。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：剧透，破坏悬念。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场景，片段。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：推荐。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：角色。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plot becomes darker in the final episode.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Many viewers think the sequel is overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please do not spoil the ending for me.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：艾拉和朋友聊昨晚看的新剧。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Ella recommends a new series to her friend.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ella recommends a new series to her friend.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She says the opening scene is beautifully filmed.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She says the opening scene is beautifully filmed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her favorite character makes a difficult choice.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her favorite character makes a difficult choice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The plot becomes tense in episode three.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plot becomes tense in episode three.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Ella refuses to spoil the ending.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ella refuses to spoil the ending.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend thinks the show may be overrated.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend thinks the show may be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+艾拉向朋友推荐一部新剧。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ella recommends a new series to her friend.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她说开场场景拍得非常漂亮。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She says the opening scene is beautifully filmed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她最喜欢的角色做出了一个艰难的选择。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her favorite character makes a difficult choice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+剧情在第三集变得紧张起来。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plot becomes tense in episode three.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+艾拉拒绝剧透结局。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Ella refuses to spoil the ending.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友认为这部剧可能被高估了。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend thinks the show may be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：剧情。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：角色。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场景，片段。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被高估。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：推荐。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to recommend something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：剧透，破坏悬念。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to spoil something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

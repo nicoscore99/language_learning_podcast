@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第23课，级别是B2。
+
+<lang code="zh" />
+今天的主题是????。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the recipe.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the portion.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to chop something.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：犯规。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：射门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：带球过人，盘带。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：扑救。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The winger chooses to shoot from a tight angle.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His tackle was strong, but it was completely fair.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the recipe.
+
+<lang code="zh" />
+意思是：?????。请跟读。
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+This recipe is simple, but the flavor is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This recipe is simple, but the flavor is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the portion.
+
+<lang code="zh" />
+意思是：?????。请跟读。
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+One portion is enough if you serve it with rice.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+One portion is enough if you serve it with rice.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the seasoning.
+
+<lang code="zh" />
+意思是：??????。请跟读。
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The seasoning gives the soup a warmer taste.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The seasoning gives the soup a warmer taste.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+the leftovers.
+
+<lang code="zh" />
+意思是：?????。请跟读。
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+We can save the leftovers for lunch tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We can save the leftovers for lunch tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to simmer something.
+
+<lang code="zh" />
+意思是：????。请跟读。
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Let the sauce simmer for twenty minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Let the sauce simmer for twenty minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to chop something.
+
+<lang code="zh" />
+意思是：??。请跟读。
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Please chop the onions into small pieces.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please chop the onions into small pieces.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This recipe is simple, but the flavor is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We can save the leftovers for lunch tomorrow.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please chop the onions into small pieces.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+??????????????????
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Anna chooses a recipe for spicy tomato soup.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Anna chooses a recipe for spicy tomato soup.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Mark chops the onions while the water heats up.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mark chops the onions while the water heats up.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Anna adds seasoning and lets the soup simmer.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Anna adds seasoning and lets the soup simmer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They make one extra portion for Anna's brother.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They make one extra portion for Anna's brother.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+After dinner, they put the leftovers in the fridge.
+
+<break time="5.5s" />
+
+<lang code="en" />
+After dinner, they put the leftovers in the fridge.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+???????????????
+
+<break time="5.5s" />
+
+<lang code="en" />
+Anna chooses a recipe for spicy tomato soup.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+?????????????
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mark chops the onions while the water heats up.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+????????????????
+
+<break time="5.5s" />
+
+<lang code="en" />
+Anna adds seasoning and lets the soup simmer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+??????????????
+
+<break time="5.5s" />
+
+<lang code="en" />
+They make one extra portion for Anna's brother.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+??????????????
+
+<break time="5.5s" />
+
+<lang code="en" />
+After dinner, they put the leftovers in the fridge.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the recipe.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the portion.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the seasoning.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leftovers.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to simmer something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：??。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to chop something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

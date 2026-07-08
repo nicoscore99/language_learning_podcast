@@ -1,0 +1,1199 @@
+{
+  "expression_patterns": {
+    "cheer for": "to cheer for a team",
+    "be offside": "to be offside",
+    "score": "to score a goal",
+    "shoot": "to shoot",
+    "dribble": "to dribble past someone",
+    "pass": "to pass the ball",
+    "simmer": "to simmer something",
+    "chop": "to chop something",
+    "tidy": "to tidy something",
+    "complain about": "to complain about something",
+    "be considerate": "to be considerate",
+    "stretch": "to stretch",
+    "keep up with": "to keep up with something",
+    "be sore": "to be sore",
+    "get delayed": "to get delayed",
+    "make a connection": "to make a connection",
+    "get along with": "to get along with someone",
+    "break up with": "to break up with someone",
+    "be honest with": "to be honest with someone",
+    "look after": "to look after someone",
+    "set limits": "to set limits",
+    "be patient with": "to be patient with someone",
+    "try on": "to try something on",
+    "be worth it": "to be worth it",
+    "book": "to book an appointment",
+    "describe": "to describe symptoms",
+    "be allergic to": "to be allergic to something",
+    "pick up": "to pick up a hobby",
+    "improve at": "to improve at something",
+    "be inspired by": "to be inspired by something",
+    "get around": "to get around",
+    "be crowded": "to be crowded",
+    "settle into": "to settle into somewhere",
+    "catch up with": "to catch up with someone",
+    "show up": "to show up",
+    "cancel on": "to cancel on someone",
+    "be overrated": "to be overrated",
+    "recommend": "to recommend something",
+    "spoil": "to spoil something",
+    "perform": "to perform live",
+    "sing along": "to sing along",
+    "be sold out": "to be sold out",
+    "adopt": "to adopt a pet",
+    "take care of": "to take care of someone or something",
+    "be attached to": "to be attached to someone or something",
+    "cool down": "to cool down",
+    "warm up": "to warm up",
+    "be humid": "to be humid",
+    "scroll through": "to scroll through something",
+    "post": "to post something",
+    "mute": "to mute someone",
+    "cut back on": "to cut back on something",
+    "split": "to split the bill",
+    "be affordable": "to be affordable",
+    "pick up a phrase": "to pick up a phrase",
+    "practice": "to practice regularly",
+    "be fluent in": "to be fluent in something",
+    "wander around": "to wander around",
+    "check in": "to check in",
+    "be worth visiting": "to be worth visiting"
+  },
+  "lessons": [
+    {
+      "level": "B2",
+      "lesson": 21,
+      "topic_en": "World_Championship_Football_One",
+      "topic_zh": "世界杯足球特辑一",
+      "targets": [
+        {
+          "word": "pitch",
+          "meaning": "足球场，球场",
+          "example": "The players walk onto the pitch before kickoff."
+        },
+        {
+          "word": "goal",
+          "meaning": "进球，球门",
+          "example": "The first goal came after only ten minutes."
+        },
+        {
+          "word": "score",
+          "meaning": "进球，得分",
+          "example": "Brazil needs to score before half-time."
+        },
+        {
+          "word": "striker",
+          "meaning": "前锋",
+          "example": "The striker waits for space near the penalty area."
+        },
+        {
+          "word": "defender",
+          "meaning": "后卫",
+          "example": "The defender stays close to the fastest forward."
+        },
+        {
+          "word": "pass",
+          "meaning": "传球",
+          "example": "The captain decides to pass the ball wide."
+        }
+      ],
+      "scenario_intro": "情境：世界杯决赛开始了，杰克和莉娜在客厅看直播。",
+      "scenario_sentences": [
+        "The players run onto the pitch before the final.",
+        "Lena says the striker looks calm and focused.",
+        "A defender blocks the first dangerous pass.",
+        "The captain passes the ball toward the right side.",
+        "Brazil scores the first goal after fifteen minutes.",
+        "Jack thinks that goal may change the whole match."
+      ],
+      "scenario_mandarin": [
+        "决赛开始前，球员们跑上球场。",
+        "莉娜说这名前锋看起来冷静又专注。",
+        "一名后卫挡住了第一次危险的传球。",
+        "队长把球传向右路。",
+        "巴西在十五分钟后打进第一个进球。",
+        "杰克认为这个进球可能会改变整场比赛。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 22,
+      "topic_en": "World_Championship_Football_Two",
+      "topic_zh": "世界杯足球特辑二",
+      "targets": [
+        {
+          "word": "foul",
+          "meaning": "犯规",
+          "example": "The referee gives a foul near the box."
+        },
+        {
+          "word": "shoot",
+          "meaning": "射门",
+          "example": "The winger chooses to shoot from a tight angle."
+        },
+        {
+          "word": "dribble",
+          "meaning": "带球过人，盘带",
+          "example": "She can dribble past two defenders easily."
+        },
+        {
+          "word": "save",
+          "meaning": "扑救",
+          "example": "The save keeps the team in the match."
+        },
+        {
+          "word": "tackle",
+          "meaning": "铲球，拦截",
+          "example": "His tackle was strong, but it was completely fair."
+        },
+        {
+          "word": "be offside",
+          "meaning": "越位",
+          "example": "The striker was offside when the pass was played."
+        }
+      ],
+      "scenario_intro": "情境：世界杯半决赛进入下半场，场面越来越紧张。",
+      "scenario_sentences": [
+        "The referee gives a foul just outside the box.",
+        "The winger tries to dribble past the last defender.",
+        "A clean tackle stops him before he can shoot.",
+        "Moments later, the striker is clearly offside.",
+        "The goalkeeper makes the save of the tournament."
+      ],
+      "scenario_mandarin": [
+        "裁判在禁区外判了一次犯规。",
+        "边锋试图带球过掉最后一名后卫。",
+        "一次干净的铲球在他射门前阻止了他。",
+        "片刻之后，前锋明显越位了。",
+        "守门员做出了本届赛事最佳扑救。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 23,
+      "topic_en": "Cooking_At_Home",
+      "topic_zh": "????",
+      "targets": [
+        {
+          "word": "recipe",
+          "meaning": "?????",
+          "example": "This recipe is simple, but the flavor is excellent."
+        },
+        {
+          "word": "portion",
+          "meaning": "?????",
+          "example": "One portion is enough if you serve it with rice."
+        },
+        {
+          "word": "seasoning",
+          "meaning": "??????",
+          "example": "The seasoning gives the soup a warmer taste."
+        },
+        {
+          "word": "leftovers",
+          "meaning": "?????",
+          "example": "We can save the leftovers for lunch tomorrow."
+        },
+        {
+          "word": "simmer",
+          "meaning": "????",
+          "example": "Let the sauce simmer for twenty minutes."
+        },
+        {
+          "word": "chop",
+          "meaning": "??",
+          "example": "Please chop the onions into small pieces."
+        }
+      ],
+      "scenario_intro": "??????????????????",
+      "scenario_sentences": [
+        "Anna chooses a recipe for spicy tomato soup.",
+        "Mark chops the onions while the water heats up.",
+        "Anna adds seasoning and lets the soup simmer.",
+        "They make one extra portion for Anna's brother.",
+        "After dinner, they put the leftovers in the fridge."
+      ],
+      "scenario_mandarin": [
+        "???????????????",
+        "?????????????",
+        "????????????????",
+        "??????????????",
+        "??????????????"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 24,
+      "topic_en": "Home_And_Neighbors",
+      "topic_zh": "????",
+      "targets": [
+        {
+          "word": "renovation",
+          "meaning": "?????",
+          "example": "The renovation should make the kitchen much brighter."
+        },
+        {
+          "word": "clutter",
+          "meaning": "?????",
+          "example": "The hallway looks smaller because of all the clutter."
+        },
+        {
+          "word": "appliance",
+          "meaning": "????",
+          "example": "The old appliance uses too much electricity."
+        },
+        {
+          "word": "tidy",
+          "meaning": "?????",
+          "example": "I need to tidy the living room before dinner."
+        },
+        {
+          "word": "complain about",
+          "meaning": "????",
+          "example": "The neighbors complain about noise after ten."
+        },
+        {
+          "word": "be considerate",
+          "meaning": "????????",
+          "example": "It is considerate to warn neighbors before a party."
+        }
+      ],
+      "scenario_intro": "?????????????????????????",
+      "scenario_sentences": [
+        "Emma plans a small renovation in her kitchen.",
+        "She removes clutter from the hallway first.",
+        "Her brother helps her replace one noisy appliance.",
+        "Emma will tidy the living room before guests arrive.",
+        "She tells her neighbors, so they do not complain about noise.",
+        "Her neighbor says the message was very considerate."
+      ],
+      "scenario_mandarin": [
+        "??????????????",
+        "???????????",
+        "??????????????????",
+        "??????????????",
+        "?????????????????????",
+        "???????????????"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 25,
+      "topic_en": "Fitness_And_Routine",
+      "topic_zh": "健身和日常训练",
+      "targets": [
+        {
+          "word": "stamina",
+          "meaning": "耐力",
+          "example": "Running twice a week can improve your stamina."
+        },
+        {
+          "word": "routine",
+          "meaning": "固定流程，日常安排",
+          "example": "Her morning routine includes stretching and coffee."
+        },
+        {
+          "word": "posture",
+          "meaning": "姿势，体态",
+          "example": "Good posture can reduce pain during long workdays."
+        },
+        {
+          "word": "stretch",
+          "meaning": "拉伸",
+          "example": "Always stretch gently before a long run."
+        },
+        {
+          "word": "keep up with",
+          "meaning": "跟上，保持同步",
+          "example": "I struggled to keep up with the faster runners."
+        },
+        {
+          "word": "be sore",
+          "meaning": "酸痛",
+          "example": "My legs are sore after yesterday's workout."
+        }
+      ],
+      "scenario_intro": "情境：诺亚和萨拉一起开始新的健身计划。",
+      "scenario_sentences": [
+        "Noah wants to build stamina before summer.",
+        "Sara suggests a simple weekly routine.",
+        "They stretch before running around the park.",
+        "Noah checks his posture during each exercise.",
+        "He cannot keep up with Sara at first.",
+        "The next morning, his legs are sore."
+      ],
+      "scenario_mandarin": [
+        "诺亚想在夏天之前增强耐力。",
+        "萨拉建议一个简单的每周训练安排。",
+        "他们在公园跑步前先拉伸。",
+        "诺亚在每个动作中检查自己的姿势。",
+        "一开始，他跟不上萨拉。",
+        "第二天早上，他的腿很酸痛。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 26,
+      "topic_en": "Travel_Delays",
+      "topic_zh": "旅行延误",
+      "targets": [
+        {
+          "word": "queue",
+          "meaning": "队伍，排队的人",
+          "example": "The queue at security moved very slowly."
+        },
+        {
+          "word": "boarding pass",
+          "meaning": "登机牌",
+          "example": "I saved my boarding pass on my phone."
+        },
+        {
+          "word": "luggage allowance",
+          "meaning": "行李额度",
+          "example": "The luggage allowance is lower on this ticket."
+        },
+        {
+          "word": "announcement",
+          "meaning": "广播通知，公告",
+          "example": "The announcement said our gate had changed."
+        },
+        {
+          "word": "get delayed",
+          "meaning": "被延误",
+          "example": "Our flight may get delayed because of heavy rain."
+        },
+        {
+          "word": "make a connection",
+          "meaning": "赶上转机或转车",
+          "example": "We still have time to make our connection."
+        }
+      ],
+      "scenario_intro": "情境：米娅和丹尼尔在机场赶一次转机。",
+      "scenario_sentences": [
+        "Mia checks the luggage allowance before leaving home.",
+        "Daniel saves both boarding passes on his phone.",
+        "The queue at security is longer than expected.",
+        "An announcement says their first flight may get delayed.",
+        "Mia worries they will not make their connection."
+      ],
+      "scenario_mandarin": [
+        "米娅出门前检查行李额度。",
+        "丹尼尔把两张登机牌都存在手机上。",
+        "安检队伍比预期更长。",
+        "广播通知说，他们的第一班飞机可能会延误。",
+        "米娅担心他们赶不上转机。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 27,
+      "topic_en": "Dating_And_Relationships",
+      "topic_zh": "约会和感情关系",
+      "targets": [
+        {
+          "word": "chemistry",
+          "meaning": "默契，来电的感觉",
+          "example": "They had chemistry from the first conversation."
+        },
+        {
+          "word": "boundary",
+          "meaning": "界限，边界",
+          "example": "A healthy boundary can make a relationship stronger."
+        },
+        {
+          "word": "commitment",
+          "meaning": "承诺，投入",
+          "example": "Commitment matters more than impressive words."
+        },
+        {
+          "word": "get along with",
+          "meaning": "与某人相处融洽",
+          "example": "I get along with her friends very well."
+        },
+        {
+          "word": "break up with",
+          "meaning": "和某人分手",
+          "example": "He decided to break up with her after a long talk."
+        },
+        {
+          "word": "be honest with",
+          "meaning": "对某人诚实",
+          "example": "You should be honest with your partner about money."
+        }
+      ],
+      "scenario_intro": "情境：索菲亚和朋友谈论一段新的感情。",
+      "scenario_sentences": [
+        "Sophia says she and Leo have real chemistry.",
+        "Her friend asks if Leo respects her boundaries.",
+        "Sophia says they get along with each other's families.",
+        "She wants commitment, not just romantic messages.",
+        "Her friend tells her to be honest with Leo.",
+        "Sophia is not planning to break up with him."
+      ],
+      "scenario_mandarin": [
+        "索菲亚说，她和利奥之间真的很有默契。",
+        "她的朋友问利奥是否尊重她的界限。",
+        "索菲亚说他们和彼此的家人相处融洽。",
+        "她想要承诺，而不只是浪漫的信息。",
+        "她的朋友告诉她要对利奥诚实。",
+        "索菲亚并不打算和他分手。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 28,
+      "topic_en": "Family_And_Parenting",
+      "topic_zh": "家庭和育儿",
+      "targets": [
+        {
+          "word": "sibling",
+          "meaning": "兄弟姐妹",
+          "example": "My younger sibling often asks me for advice."
+        },
+        {
+          "word": "responsibility",
+          "meaning": "责任",
+          "example": "Looking after children is a serious responsibility."
+        },
+        {
+          "word": "curfew",
+          "meaning": "宵禁，回家时间规定",
+          "example": "Their parents set a curfew for school nights."
+        },
+        {
+          "word": "look after",
+          "meaning": "照顾某人",
+          "example": "I promised to look after my cousin tonight."
+        },
+        {
+          "word": "set limits",
+          "meaning": "设定界限",
+          "example": "Parents need to set limits without shouting."
+        },
+        {
+          "word": "be patient with",
+          "meaning": "对某人有耐心",
+          "example": "Try to be patient with younger children."
+        }
+      ],
+      "scenario_intro": "情境：奥利维亚帮妹妹照顾两个孩子。",
+      "scenario_sentences": [
+        "Olivia agrees to look after her sister's children.",
+        "Her younger sibling says it is a big responsibility.",
+        "Olivia explains the curfew before dinner.",
+        "She tries to set limits without sounding strict.",
+        "When the children argue, she is patient with them."
+      ],
+      "scenario_mandarin": [
+        "奥利维亚同意照顾她妹妹的孩子。",
+        "她的妹妹说这是一项很大的责任。",
+        "晚饭前，奥利维亚解释了回家时间规定。",
+        "她努力设定界限，同时不显得太严厉。",
+        "孩子们争吵时，她对他们很有耐心。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 29,
+      "topic_en": "Shopping_For_Clothes",
+      "topic_zh": "购买衣服",
+      "targets": [
+        {
+          "word": "bargain",
+          "meaning": "划算的东西，便宜货",
+          "example": "This jacket was a real bargain in the sale."
+        },
+        {
+          "word": "refund",
+          "meaning": "退款",
+          "example": "You can ask for a refund within thirty days."
+        },
+        {
+          "word": "size",
+          "meaning": "尺码",
+          "example": "This size fits better across the shoulders."
+        },
+        {
+          "word": "fabric",
+          "meaning": "布料，面料",
+          "example": "The fabric feels soft but looks very durable."
+        },
+        {
+          "word": "try on",
+          "meaning": "试穿",
+          "example": "I want to try on the blue coat."
+        },
+        {
+          "word": "be worth it",
+          "meaning": "值得",
+          "example": "The shoes are expensive, but they are worth it."
+        }
+      ],
+      "scenario_intro": "情境：克洛伊和朋友周六下午去买衣服。",
+      "scenario_sentences": [
+        "Chloe finds a coat that looks like a bargain.",
+        "She checks the fabric before choosing a size.",
+        "Her friend tells her to try it on first.",
+        "The smaller size fits better than expected.",
+        "Chloe asks if she can get a refund later.",
+        "She decides the coat is worth it."
+      ],
+      "scenario_mandarin": [
+        "克洛伊找到一件看起来很划算的外套。",
+        "她在选择尺码前检查了面料。",
+        "她的朋友告诉她先试穿一下。",
+        "小一号的尺码比预想中更合身。",
+        "克洛伊询问之后是否可以退款。",
+        "她决定这件外套值得购买。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 30,
+      "topic_en": "Doctor_Appointment",
+      "topic_zh": "看医生预约",
+      "targets": [
+        {
+          "word": "symptom",
+          "meaning": "症状",
+          "example": "A high temperature can be a serious symptom."
+        },
+        {
+          "word": "diagnosis",
+          "meaning": "诊断",
+          "example": "The diagnosis was clear after the blood test."
+        },
+        {
+          "word": "prescription",
+          "meaning": "处方",
+          "example": "The doctor gave me a prescription for antibiotics."
+        },
+        {
+          "word": "book",
+          "meaning": "预约",
+          "example": "I need to book an appointment for tomorrow."
+        },
+        {
+          "word": "describe",
+          "meaning": "描述症状",
+          "example": "Try to describe your symptoms clearly."
+        },
+        {
+          "word": "be allergic to",
+          "meaning": "对某物过敏",
+          "example": "I am allergic to several common painkillers."
+        }
+      ],
+      "scenario_intro": "情境：卢卡早上打电话给诊所预约看医生。",
+      "scenario_sentences": [
+        "Luca calls the clinic to book an appointment.",
+        "The nurse asks him to describe his symptoms.",
+        "Luca says his main symptom is a painful cough.",
+        "He explains that he is allergic to one medicine.",
+        "After the check-up, the doctor gives a diagnosis.",
+        "Luca receives a prescription before leaving."
+      ],
+      "scenario_mandarin": [
+        "卢卡打电话给诊所预约。",
+        "护士请他描述自己的症状。",
+        "卢卡说，他的主要症状是咳嗽时疼痛。",
+        "他解释说自己对一种药过敏。",
+        "检查后，医生给出了诊断。",
+        "离开前，卢卡拿到了处方。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 31,
+      "topic_en": "Hobbies_And_Creativity",
+      "topic_zh": "爱好和创造力",
+      "targets": [
+        {
+          "word": "hobby",
+          "meaning": "爱好",
+          "example": "Photography became her favorite hobby during winter."
+        },
+        {
+          "word": "workshop",
+          "meaning": "工作坊，实践课",
+          "example": "The weekend workshop teaches basic watercolor techniques."
+        },
+        {
+          "word": "sketch",
+          "meaning": "草图，素描",
+          "example": "He made a quick sketch of the old bridge."
+        },
+        {
+          "word": "pick up",
+          "meaning": "开始学习一种爱好",
+          "example": "I want to pick up a hobby that feels relaxing."
+        },
+        {
+          "word": "improve at",
+          "meaning": "在某方面进步",
+          "example": "You improve at drawing by practicing small details."
+        },
+        {
+          "word": "be inspired by",
+          "meaning": "受到某物启发",
+          "example": "Her designs are inspired by old family photos."
+        }
+      ],
+      "scenario_intro": "情境：伊莎贝尔想在工作之外培养一个新的创造性爱好。",
+      "scenario_sentences": [
+        "Isabel wants to pick up a relaxing hobby.",
+        "She joins a weekend workshop at the library.",
+        "The teacher asks everyone to draw a quick sketch.",
+        "Isabel is inspired by an old photo of her grandmother.",
+        "She hopes to improve at drawing over time."
+      ],
+      "scenario_mandarin": [
+        "伊莎贝尔想开始一个让人放松的爱好。",
+        "她参加了图书馆的周末工作坊。",
+        "老师请每个人画一张快速草图。",
+        "伊莎贝尔受到一张祖母旧照片的启发。",
+        "她希望随着时间推移在绘画方面进步。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 32,
+      "topic_en": "City_Life",
+      "topic_zh": "城市生活",
+      "targets": [
+        {
+          "word": "commute",
+          "meaning": "通勤",
+          "example": "Her commute takes forty minutes on a good day."
+        },
+        {
+          "word": "district",
+          "meaning": "城区，区域",
+          "example": "This district has several small parks and cafes."
+        },
+        {
+          "word": "pedestrian",
+          "meaning": "行人",
+          "example": "The new crossing is safer for every pedestrian."
+        },
+        {
+          "word": "get around",
+          "meaning": "出行，四处走动",
+          "example": "It is easy to get around by tram here."
+        },
+        {
+          "word": "be crowded",
+          "meaning": "拥挤",
+          "example": "The station is crowded during the evening rush."
+        },
+        {
+          "word": "settle into",
+          "meaning": "适应并融入某地",
+          "example": "It took me months to settle into the city."
+        }
+      ],
+      "scenario_intro": "情境：本刚搬到一座新城市，正在适应日常生活。",
+      "scenario_sentences": [
+        "Ben is trying to settle into his new city.",
+        "His district has quiet streets and good cafes.",
+        "He uses the tram to get around most days.",
+        "The station is crowded during his morning commute.",
+        "A new crossing makes the road safer for pedestrians."
+      ],
+      "scenario_mandarin": [
+        "本正在努力适应他的新城市。",
+        "他所在的城区有安静的街道和不错的咖啡馆。",
+        "大多数日子，他坐有轨电车出行。",
+        "早上通勤时，车站很拥挤。",
+        "一个新的过街通道让这条路对行人更安全。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 33,
+      "topic_en": "Friendship_Plans",
+      "topic_zh": "朋友之间的计划",
+      "targets": [
+        {
+          "word": "spontaneous",
+          "meaning": "自发的，临时起意的",
+          "example": "A spontaneous plan can be more fun than expected."
+        },
+        {
+          "word": "reliable",
+          "meaning": "可靠的",
+          "example": "Nora is reliable, so she always arrives on time."
+        },
+        {
+          "word": "arrangement",
+          "meaning": "安排",
+          "example": "The arrangement works well for everyone."
+        },
+        {
+          "word": "catch up with",
+          "meaning": "和某人叙旧",
+          "example": "I want to catch up with Sam this weekend."
+        },
+        {
+          "word": "show up",
+          "meaning": "出现，到场",
+          "example": "Please show up before the movie starts."
+        },
+        {
+          "word": "cancel on",
+          "meaning": "临时取消和某人的约定",
+          "example": "I hate to cancel on friends at the last minute."
+        }
+      ],
+      "scenario_intro": "情境：诺拉和山姆计划周末见面喝咖啡。",
+      "scenario_sentences": [
+        "Nora wants to catch up with Sam on Saturday.",
+        "Sam suggests a spontaneous walk after coffee.",
+        "Their arrangement is simple and flexible.",
+        "Nora is reliable, so Sam knows she will show up.",
+        "Sam promises he will not cancel on her again."
+      ],
+      "scenario_mandarin": [
+        "诺拉想在周六和山姆见面叙旧。",
+        "山姆建议喝完咖啡后临时去散步。",
+        "他们的安排简单又灵活。",
+        "诺拉很可靠，所以山姆知道她会到场。",
+        "山姆保证不会再临时取消和她的约定。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 34,
+      "topic_en": "Movies_And_Series",
+      "topic_zh": "电影和剧集",
+      "targets": [
+        {
+          "word": "plot",
+          "meaning": "剧情",
+          "example": "The plot becomes darker in the final episode."
+        },
+        {
+          "word": "character",
+          "meaning": "角色",
+          "example": "My favorite character changes a lot during the story."
+        },
+        {
+          "word": "scene",
+          "meaning": "场景，片段",
+          "example": "The opening scene is quiet but powerful."
+        },
+        {
+          "word": "be overrated",
+          "meaning": "被高估",
+          "example": "Many viewers think the sequel is overrated."
+        },
+        {
+          "word": "recommend",
+          "meaning": "推荐",
+          "example": "I recommend the series if you enjoy slow dramas."
+        },
+        {
+          "word": "spoil",
+          "meaning": "剧透，破坏悬念",
+          "example": "Please do not spoil the ending for me."
+        }
+      ],
+      "scenario_intro": "情境：艾拉和朋友聊昨晚看的新剧。",
+      "scenario_sentences": [
+        "Ella recommends a new series to her friend.",
+        "She says the opening scene is beautifully filmed.",
+        "Her favorite character makes a difficult choice.",
+        "The plot becomes tense in episode three.",
+        "Ella refuses to spoil the ending.",
+        "Her friend thinks the show may be overrated."
+      ],
+      "scenario_mandarin": [
+        "艾拉向朋友推荐一部新剧。",
+        "她说开场场景拍得非常漂亮。",
+        "她最喜欢的角色做出了一个艰难的选择。",
+        "剧情在第三集变得紧张起来。",
+        "艾拉拒绝剧透结局。",
+        "她的朋友认为这部剧可能被高估了。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 35,
+      "topic_en": "Music_And_Concerts",
+      "topic_zh": "音乐和演唱会",
+      "targets": [
+        {
+          "word": "venue",
+          "meaning": "场馆，地点",
+          "example": "The venue is small, but the sound is excellent."
+        },
+        {
+          "word": "playlist",
+          "meaning": "播放列表",
+          "example": "I made a playlist for the train ride."
+        },
+        {
+          "word": "lyrics",
+          "meaning": "歌词",
+          "example": "The lyrics are simple but surprisingly emotional."
+        },
+        {
+          "word": "perform",
+          "meaning": "现场表演",
+          "example": "The band will perform live on Friday."
+        },
+        {
+          "word": "sing along",
+          "meaning": "跟着唱",
+          "example": "Everyone started to sing along during the chorus."
+        },
+        {
+          "word": "be sold out",
+          "meaning": "售罄",
+          "example": "The concert was sold out within two hours."
+        }
+      ],
+      "scenario_intro": "情境：阿米尔和朋友准备去听一场小型演唱会。",
+      "scenario_sentences": [
+        "Amir checks whether the concert is sold out.",
+        "The venue is near the old train station.",
+        "His friend sends a playlist for the journey.",
+        "Amir already knows most of the lyrics.",
+        "When the band performs live, everyone sings along."
+      ],
+      "scenario_mandarin": [
+        "阿米尔查看演唱会是否已经售罄。",
+        "场馆在老火车站附近。",
+        "他的朋友发来一份旅途中听的播放列表。",
+        "阿米尔已经知道大部分歌词。",
+        "乐队现场表演时，大家都跟着唱。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 36,
+      "topic_en": "Pets_And_Daily_Care",
+      "topic_zh": "宠物和日常照顾",
+      "targets": [
+        {
+          "word": "shelter",
+          "meaning": "动物收容所",
+          "example": "The shelter has several dogs waiting for homes."
+        },
+        {
+          "word": "leash",
+          "meaning": "牵引绳",
+          "example": "Keep the dog on a leash near busy roads."
+        },
+        {
+          "word": "temperament",
+          "meaning": "性情，脾气",
+          "example": "The dog's calm temperament suits the family well."
+        },
+        {
+          "word": "adopt",
+          "meaning": "领养宠物",
+          "example": "They hope to adopt a cat this spring."
+        },
+        {
+          "word": "take care of",
+          "meaning": "照顾某人或某物",
+          "example": "Children can learn to take care of a pet."
+        },
+        {
+          "word": "be attached to",
+          "meaning": "依恋某人或某物",
+          "example": "The dog is deeply attached to its owner."
+        }
+      ],
+      "scenario_intro": "情境：莉莉和哥哥去动物收容所考虑领养一只狗。",
+      "scenario_sentences": [
+        "Lily visits a shelter with her brother.",
+        "They want to adopt a calm older dog.",
+        "The worker explains the dog's gentle temperament.",
+        "Lily buys a leash before taking him home.",
+        "Her brother promises to take care of him too.",
+        "Within a week, the dog is attached to Lily."
+      ],
+      "scenario_mandarin": [
+        "莉莉和哥哥一起去动物收容所。",
+        "他们想领养一只安静的年长狗。",
+        "工作人员解释了这只狗温和的性情。",
+        "带它回家前，莉莉买了一条牵引绳。",
+        "她的哥哥也承诺会照顾它。",
+        "一周之内，这只狗就很依恋莉莉。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 37,
+      "topic_en": "Weather_And_Seasons",
+      "topic_zh": "天气和季节",
+      "targets": [
+        {
+          "word": "forecast",
+          "meaning": "天气预报",
+          "example": "The forecast says heavy rain will arrive tonight."
+        },
+        {
+          "word": "heatwave",
+          "meaning": "热浪",
+          "example": "The heatwave made it difficult to sleep."
+        },
+        {
+          "word": "shower",
+          "meaning": "阵雨",
+          "example": "A brief shower cleared the air in the afternoon."
+        },
+        {
+          "word": "cool down",
+          "meaning": "降温，凉快下来",
+          "example": "The apartment should cool down after sunset."
+        },
+        {
+          "word": "warm up",
+          "meaning": "变暖，暖和起来",
+          "example": "The weather will warm up again next week."
+        },
+        {
+          "word": "be humid",
+          "meaning": "潮湿闷热",
+          "example": "It is humid today, so the air feels heavy."
+        }
+      ],
+      "scenario_intro": "情境：凯特和邻居讨论周末天气和出门计划。",
+      "scenario_sentences": [
+        "Kate checks the forecast before planning a picnic.",
+        "The heatwave should end on Saturday evening.",
+        "A short shower may arrive after lunch.",
+        "Her apartment will cool down during the night.",
+        "Sunday should warm up without becoming too humid."
+      ],
+      "scenario_mandarin": [
+        "凯特在计划野餐前查看天气预报。",
+        "热浪应该会在周六晚上结束。",
+        "午饭后可能会有一场短暂阵雨。",
+        "她的公寓会在夜间凉快下来。",
+        "周日会变暖，但不会太潮湿闷热。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 38,
+      "topic_en": "Social_Media_Everyday",
+      "topic_zh": "日常社交媒体",
+      "targets": [
+        {
+          "word": "feed",
+          "meaning": "信息流，动态",
+          "example": "My feed is full of travel photos today."
+        },
+        {
+          "word": "comment",
+          "meaning": "评论",
+          "example": "Her comment was polite but very direct."
+        },
+        {
+          "word": "privacy settings",
+          "meaning": "隐私设置",
+          "example": "Check your privacy settings after every update."
+        },
+        {
+          "word": "scroll through",
+          "meaning": "浏览，刷",
+          "example": "I scroll through my feed during the commute."
+        },
+        {
+          "word": "post",
+          "meaning": "发布内容",
+          "example": "I rarely post personal photos online."
+        },
+        {
+          "word": "mute",
+          "meaning": "静音，屏蔽",
+          "example": "You can mute someone without unfollowing them."
+        }
+      ],
+      "scenario_intro": "情境：梅和朋友整理自己的社交媒体使用习惯。",
+      "scenario_sentences": [
+        "May scrolls through her feed after breakfast.",
+        "She notices a rude comment under her photo.",
+        "Her friend tells her to check her privacy settings.",
+        "May decides not to post personal details anymore.",
+        "She also chooses to mute one stressful account."
+      ],
+      "scenario_mandarin": [
+        "梅早餐后浏览自己的信息流。",
+        "她注意到照片下面有一条不礼貌的评论。",
+        "她的朋友告诉她检查隐私设置。",
+        "梅决定不再发布个人细节。",
+        "她还选择屏蔽一个让她有压力的账号。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 39,
+      "topic_en": "Personal_Budgeting",
+      "topic_zh": "个人预算",
+      "targets": [
+        {
+          "word": "subscription",
+          "meaning": "订阅服务",
+          "example": "I cancelled one subscription that I never used."
+        },
+        {
+          "word": "grocery bill",
+          "meaning": "食品杂货账单",
+          "example": "Our grocery bill has increased since winter."
+        },
+        {
+          "word": "expense",
+          "meaning": "开支，费用",
+          "example": "Rent is my largest monthly expense."
+        },
+        {
+          "word": "cut back on",
+          "meaning": "减少某方面支出或使用",
+          "example": "We should cut back on takeaway meals."
+        },
+        {
+          "word": "split",
+          "meaning": "分摊账单",
+          "example": "Let's split the bill evenly between us."
+        },
+        {
+          "word": "be affordable",
+          "meaning": "负担得起",
+          "example": "The plan is affordable if we cook at home."
+        }
+      ],
+      "scenario_intro": "情境：乔和室友一起检查这个月的生活开支。",
+      "scenario_sentences": [
+        "Joe notices that the grocery bill is higher.",
+        "His largest expense is still the rent.",
+        "His roommate suggests cancelling one subscription.",
+        "They agree to cut back on takeaway meals.",
+        "They split the bill for shared household items.",
+        "The new budget is strict but affordable."
+      ],
+      "scenario_mandarin": [
+        "乔注意到食品杂货账单更高了。",
+        "他最大的开支仍然是房租。",
+        "他的室友建议取消一个订阅服务。",
+        "他们同意减少外卖。",
+        "他们分摊共同家用品的账单。",
+        "新的预算很严格，但可以负担。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 40,
+      "topic_en": "Language_Learning",
+      "topic_zh": "语言学习",
+      "targets": [
+        {
+          "word": "fluency",
+          "meaning": "流利度",
+          "example": "Fluency improves when you speak every day."
+        },
+        {
+          "word": "accent",
+          "meaning": "口音",
+          "example": "Her accent is clear and easy to understand."
+        },
+        {
+          "word": "mistake",
+          "meaning": "错误",
+          "example": "A mistake is useful if you learn from it."
+        },
+        {
+          "word": "pick up a phrase",
+          "meaning": "学会一个短语",
+          "example": "You can pick up a phrase from a podcast."
+        },
+        {
+          "word": "practice",
+          "meaning": "定期练习",
+          "example": "I practice regularly with short daily conversations."
+        },
+        {
+          "word": "be fluent in",
+          "meaning": "流利掌握某种语言",
+          "example": "She wants to be fluent in English by next year."
+        }
+      ],
+      "scenario_intro": "情境：雷切尔和朋友讨论如何提高英语口语。",
+      "scenario_sentences": [
+        "Rachel wants to improve her fluency this year.",
+        "She records herself to understand her accent better.",
+        "Her friend says every mistake can teach her something.",
+        "Rachel tries to pick up a phrase from each podcast.",
+        "She plans to practice regularly after dinner.",
+        "Her goal is to be fluent in everyday English."
+      ],
+      "scenario_mandarin": [
+        "雷切尔想在今年提高自己的流利度。",
+        "她录下自己的声音，以便更好地了解自己的口音。",
+        "她的朋友说，每个错误都能教她一些东西。",
+        "雷切尔努力从每期播客中学会一个短语。",
+        "她计划晚饭后定期练习。",
+        "她的目标是流利掌握日常英语。"
+      ]
+    },
+    {
+      "level": "B2",
+      "lesson": 41,
+      "topic_en": "Weekend_Getaway",
+      "topic_zh": "周末短途旅行",
+      "targets": [
+        {
+          "word": "getaway",
+          "meaning": "短途度假",
+          "example": "A quiet getaway can help you reset after work."
+        },
+        {
+          "word": "landmark",
+          "meaning": "地标",
+          "example": "The old tower is the town's main landmark."
+        },
+        {
+          "word": "route",
+          "meaning": "路线",
+          "example": "This route follows the river for several miles."
+        },
+        {
+          "word": "wander around",
+          "meaning": "四处闲逛",
+          "example": "We love to wander around small towns without a plan."
+        },
+        {
+          "word": "check in",
+          "meaning": "办理入住",
+          "example": "We can check in after three o'clock."
+        },
+        {
+          "word": "be worth visiting",
+          "meaning": "值得参观",
+          "example": "The museum is small but worth visiting."
+        }
+      ],
+      "scenario_intro": "情境：哈娜和汤姆计划一次轻松的周末短途旅行。",
+      "scenario_sentences": [
+        "Hana suggests a quiet weekend getaway by the coast.",
+        "Tom chooses a scenic route along the river.",
+        "They check in at a small hotel after lunch.",
+        "In the afternoon, they wander around the old town.",
+        "The main landmark is crowded but worth visiting."
+      ],
+      "scenario_mandarin": [
+        "哈娜建议去海边进行一次安静的周末短途旅行。",
+        "汤姆选择了一条沿河的风景路线。",
+        "午饭后，他们在一家小酒店办理入住。",
+        "下午，他们在老城区四处闲逛。",
+        "主要地标很拥挤，但值得参观。"
+      ]
+    }
+  ]
+}

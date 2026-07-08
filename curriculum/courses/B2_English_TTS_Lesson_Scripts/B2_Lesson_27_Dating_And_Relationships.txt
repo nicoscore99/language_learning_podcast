@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第27课，级别是B2。
+
+<lang code="zh" />
+今天的主题是约会和感情关系。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the chemistry.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：队伍，排队的人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：登机牌。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行李额度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：广播通知，公告。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I saved my boarding pass on my phone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Our flight may get delayed because of heavy rain.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the chemistry.
+
+<lang code="zh" />
+意思是：默契，来电的感觉。请跟读。
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：默契，来电的感觉。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+They had chemistry from the first conversation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They had chemistry from the first conversation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the boundary.
+
+<lang code="zh" />
+意思是：界限，边界。请跟读。
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：界限，边界。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+A healthy boundary can make a relationship stronger.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A healthy boundary can make a relationship stronger.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the commitment.
+
+<lang code="zh" />
+意思是：承诺，投入。请跟读。
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：承诺，投入。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Commitment matters more than impressive words.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Commitment matters more than impressive words.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to get along with someone.
+
+<lang code="zh" />
+意思是：与某人相处融洽。请跟读。
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：与某人相处融洽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I get along with her friends very well.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I get along with her friends very well.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to break up with someone.
+
+<lang code="zh" />
+意思是：和某人分手。请跟读。
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人分手。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+He decided to break up with her after a long talk.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+He decided to break up with her after a long talk.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be honest with someone.
+
+<lang code="zh" />
+意思是：对某人诚实。请跟读。
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人诚实。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+You should be honest with your partner about money.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You should be honest with your partner about money.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：与某人相处融洽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：默契，来电的感觉。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人诚实。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：承诺，投入。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人分手。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：界限，边界。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They had chemistry from the first conversation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I get along with her friends very well.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You should be honest with your partner about money.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：索菲亚和朋友谈论一段新的感情。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Sophia says she and Leo have real chemistry.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia says she and Leo have real chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend asks if Leo respects her boundaries.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend asks if Leo respects her boundaries.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sophia says they get along with each other's families.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia says they get along with each other's families.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She wants commitment, not just romantic messages.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She wants commitment, not just romantic messages.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend tells her to be honest with Leo.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to be honest with Leo.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sophia is not planning to break up with him.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia is not planning to break up with him.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+索菲亚说，她和利奥之间真的很有默契。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia says she and Leo have real chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友问利奥是否尊重她的界限。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend asks if Leo respects her boundaries.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+索菲亚说他们和彼此的家人相处融洽。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia says they get along with each other's families.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+她想要承诺，而不只是浪漫的信息。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She wants commitment, not just romantic messages.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友告诉她要对利奥诚实。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to be honest with Leo.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+索菲亚并不打算和他分手。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sophia is not planning to break up with him.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：默契，来电的感觉。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：界限，边界。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：承诺，投入。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：与某人相处融洽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人分手。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to break up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人诚实。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be honest with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

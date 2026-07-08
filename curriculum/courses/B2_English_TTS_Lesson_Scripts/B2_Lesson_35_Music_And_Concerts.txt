@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第35课，级别是B2。
+
+<lang code="zh" />
+今天的主题是音乐和演唱会。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the venue.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be sold out.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：剧情。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the plot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：角色。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the character.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场景，片段。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the scene.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被高估。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be overrated.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My favorite character changes a lot during the story.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I recommend the series if you enjoy slow dramas.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the venue.
+
+<lang code="zh" />
+意思是：场馆，地点。请跟读。
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场馆，地点。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The venue is small, but the sound is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The venue is small, but the sound is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the playlist.
+
+<lang code="zh" />
+意思是：播放列表。请跟读。
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：播放列表。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I made a playlist for the train ride.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I made a playlist for the train ride.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the lyrics.
+
+<lang code="zh" />
+意思是：歌词。请跟读。
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：歌词。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The lyrics are simple but surprisingly emotional.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The lyrics are simple but surprisingly emotional.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to perform live.
+
+<lang code="zh" />
+意思是：现场表演。请跟读。
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：现场表演。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The band will perform live on Friday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The band will perform live on Friday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to sing along.
+
+<lang code="zh" />
+意思是：跟着唱。请跟读。
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟着唱。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Everyone started to sing along during the chorus.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Everyone started to sing along during the chorus.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be sold out.
+
+<lang code="zh" />
+意思是：售罄。请跟读。
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：售罄。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The concert was sold out within two hours.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The concert was sold out within two hours.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：现场表演。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：场馆，地点。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：售罄。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：歌词。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟着唱。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：播放列表。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The venue is small, but the sound is excellent.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The band will perform live on Friday.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The concert was sold out within two hours.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：阿米尔和朋友准备去听一场小型演唱会。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Amir checks whether the concert is sold out.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Amir checks whether the concert is sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The venue is near the old train station.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The venue is near the old train station.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His friend sends a playlist for the journey.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His friend sends a playlist for the journey.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Amir already knows most of the lyrics.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Amir already knows most of the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+When the band performs live, everyone sings along.
+
+<break time="5.5s" />
+
+<lang code="en" />
+When the band performs live, everyone sings along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+阿米尔查看演唱会是否已经售罄。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Amir checks whether the concert is sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+场馆在老火车站附近。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The venue is near the old train station.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他的朋友发来一份旅途中听的播放列表。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His friend sends a playlist for the journey.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+阿米尔已经知道大部分歌词。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Amir already knows most of the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+乐队现场表演时，大家都跟着唱。
+
+<break time="5.5s" />
+
+<lang code="en" />
+When the band performs live, everyone sings along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：场馆，地点。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：播放列表。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：歌词。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：现场表演。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟着唱。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to sing along.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：售罄。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sold out.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

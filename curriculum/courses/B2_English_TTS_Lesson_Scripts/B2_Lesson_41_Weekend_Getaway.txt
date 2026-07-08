@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第41课，级别是B2。
+
+<lang code="zh" />
+今天的主题是周末短途旅行。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the getaway.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the route.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to check in.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：流利度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：口音。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：错误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：学会一个短语。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her accent is clear and easy to understand.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I practice regularly with short daily conversations.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the getaway.
+
+<lang code="zh" />
+意思是：短途度假。请跟读。
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：短途度假。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+A quiet getaway can help you reset after work.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A quiet getaway can help you reset after work.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the landmark.
+
+<lang code="zh" />
+意思是：地标。请跟读。
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：地标。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The old tower is the town's main landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The old tower is the town's main landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the route.
+
+<lang code="zh" />
+意思是：路线。请跟读。
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：路线。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+This route follows the river for several miles.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This route follows the river for several miles.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to wander around.
+
+<lang code="zh" />
+意思是：四处闲逛。请跟读。
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：四处闲逛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+We love to wander around small towns without a plan.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We love to wander around small towns without a plan.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to check in.
+
+<lang code="zh" />
+意思是：办理入住。请跟读。
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：办理入住。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+We can check in after three o'clock.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We can check in after three o'clock.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be worth visiting.
+
+<lang code="zh" />
+意思是：值得参观。请跟读。
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得参观。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The museum is small but worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The museum is small but worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：四处闲逛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：短途度假。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得参观。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：路线。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：办理入住。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：地标。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A quiet getaway can help you reset after work.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We love to wander around small towns without a plan.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The museum is small but worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：哈娜和汤姆计划一次轻松的周末短途旅行。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Hana suggests a quiet weekend getaway by the coast.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Hana suggests a quiet weekend getaway by the coast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Tom chooses a scenic route along the river.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Tom chooses a scenic route along the river.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They check in at a small hotel after lunch.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They check in at a small hotel after lunch.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+In the afternoon, they wander around the old town.
+
+<break time="5.5s" />
+
+<lang code="en" />
+In the afternoon, they wander around the old town.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The main landmark is crowded but worth visiting.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The main landmark is crowded but worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+哈娜建议去海边进行一次安静的周末短途旅行。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Hana suggests a quiet weekend getaway by the coast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+汤姆选择了一条沿河的风景路线。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Tom chooses a scenic route along the river.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+午饭后，他们在一家小酒店办理入住。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They check in at a small hotel after lunch.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+下午，他们在老城区四处闲逛。
+
+<break time="5.5s" />
+
+<lang code="en" />
+In the afternoon, they wander around the old town.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+主要地标很拥挤，但值得参观。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The main landmark is crowded but worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：短途度假。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the getaway.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：地标。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the landmark.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：路线。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the route.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：四处闲逛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to wander around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：办理入住。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to check in.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得参观。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth visiting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

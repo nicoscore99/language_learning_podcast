@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第25课，级别是B2。
+
+<lang code="zh" />
+今天的主题是健身和日常训练。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the stamina.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the routine.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the posture.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be sore.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the renovation.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the renovation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the clutter.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the clutter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the appliance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the appliance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：?????。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to tidy something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to tidy something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The hallway looks smaller because of all the clutter.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The neighbors complain about noise after ten.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the stamina.
+
+<lang code="zh" />
+意思是：耐力。请跟读。
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：耐力。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Running twice a week can improve your stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Running twice a week can improve your stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the routine.
+
+<lang code="zh" />
+意思是：固定流程，日常安排。请跟读。
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：固定流程，日常安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Her morning routine includes stretching and coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her morning routine includes stretching and coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the posture.
+
+<lang code="zh" />
+意思是：姿势，体态。请跟读。
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：姿势，体态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Good posture can reduce pain during long workdays.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Good posture can reduce pain during long workdays.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to stretch.
+
+<lang code="zh" />
+意思是：拉伸。请跟读。
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拉伸。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Always stretch gently before a long run.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Always stretch gently before a long run.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to keep up with something.
+
+<lang code="zh" />
+意思是：跟上，保持同步。请跟读。
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟上，保持同步。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I struggled to keep up with the faster runners.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I struggled to keep up with the faster runners.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be sore.
+
+<lang code="zh" />
+意思是：酸痛。请跟读。
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：酸痛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+My legs are sore after yesterday's workout.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My legs are sore after yesterday's workout.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：拉伸。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：耐力。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：酸痛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：姿势，体态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟上，保持同步。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：固定流程，日常安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Running twice a week can improve your stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Always stretch gently before a long run.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My legs are sore after yesterday's workout.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：诺亚和萨拉一起开始新的健身计划。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Noah wants to build stamina before summer.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Noah wants to build stamina before summer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sara suggests a simple weekly routine.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sara suggests a simple weekly routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They stretch before running around the park.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They stretch before running around the park.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Noah checks his posture during each exercise.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Noah checks his posture during each exercise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+He cannot keep up with Sara at first.
+
+<break time="5.5s" />
+
+<lang code="en" />
+He cannot keep up with Sara at first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The next morning, his legs are sore.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The next morning, his legs are sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+诺亚想在夏天之前增强耐力。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Noah wants to build stamina before summer.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+萨拉建议一个简单的每周训练安排。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sara suggests a simple weekly routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们在公园跑步前先拉伸。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They stretch before running around the park.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+诺亚在每个动作中检查自己的姿势。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Noah checks his posture during each exercise.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+一开始，他跟不上萨拉。
+
+<break time="5.5s" />
+
+<lang code="en" />
+He cannot keep up with Sara at first.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第二天早上，他的腿很酸痛。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The next morning, his legs are sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：耐力。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：固定流程，日常安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：姿势，体态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拉伸。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：跟上，保持同步。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to keep up with something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：酸痛。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be sore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

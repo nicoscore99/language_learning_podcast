@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第26课，级别是B2。
+
+<lang code="zh" />
+今天的主题是旅行延误。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the queue.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to make a connection.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：耐力。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the stamina.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：固定流程，日常安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the routine.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：姿势，体态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the posture.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：拉伸。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to stretch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her morning routine includes stretching and coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I struggled to keep up with the faster runners.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the queue.
+
+<lang code="zh" />
+意思是：队伍，排队的人。请跟读。
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：队伍，排队的人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The queue at security moved very slowly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The queue at security moved very slowly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the boarding pass.
+
+<lang code="zh" />
+意思是：登机牌。请跟读。
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：登机牌。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I saved my boarding pass on my phone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I saved my boarding pass on my phone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the luggage allowance.
+
+<lang code="zh" />
+意思是：行李额度。请跟读。
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行李额度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The luggage allowance is lower on this ticket.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The luggage allowance is lower on this ticket.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+the announcement.
+
+<lang code="zh" />
+意思是：广播通知，公告。请跟读。
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：广播通知，公告。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The announcement said our gate had changed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The announcement said our gate had changed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to get delayed.
+
+<lang code="zh" />
+意思是：被延误。请跟读。
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被延误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Our flight may get delayed because of heavy rain.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Our flight may get delayed because of heavy rain.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to make a connection.
+
+<lang code="zh" />
+意思是：赶上转机或转车。请跟读。
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：赶上转机或转车。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+We still have time to make our connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We still have time to make our connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：广播通知，公告。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：队伍，排队的人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：赶上转机或转车。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行李额度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被延误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：登机牌。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The queue at security moved very slowly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The announcement said our gate had changed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We still have time to make our connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：米娅和丹尼尔在机场赶一次转机。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Mia checks the luggage allowance before leaving home.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mia checks the luggage allowance before leaving home.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Daniel saves both boarding passes on his phone.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Daniel saves both boarding passes on his phone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The queue at security is longer than expected.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The queue at security is longer than expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+An announcement says their first flight may get delayed.
+
+<break time="5.5s" />
+
+<lang code="en" />
+An announcement says their first flight may get delayed.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Mia worries they will not make their connection.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mia worries they will not make their connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+米娅出门前检查行李额度。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mia checks the luggage allowance before leaving home.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+丹尼尔把两张登机牌都存在手机上。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Daniel saves both boarding passes on his phone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+安检队伍比预期更长。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The queue at security is longer than expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+广播通知说，他们的第一班飞机可能会延误。
+
+<break time="5.5s" />
+
+<lang code="en" />
+An announcement says their first flight may get delayed.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+米娅担心他们赶不上转机。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Mia worries they will not make their connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：队伍，排队的人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the queue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：登机牌。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boarding pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行李额度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the luggage allowance.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：广播通知，公告。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the announcement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：被延误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get delayed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：赶上转机或转车。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to make a connection.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

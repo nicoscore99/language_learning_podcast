@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第36课，级别是B2。
+
+<lang code="zh" />
+今天的主题是宠物和日常照顾。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the shelter.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the leash.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：场馆，地点。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the venue.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：播放列表。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the playlist.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：歌词。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the lyrics.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：现场表演。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to perform live.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I made a playlist for the train ride.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Everyone started to sing along during the chorus.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the shelter.
+
+<lang code="zh" />
+意思是：动物收容所。请跟读。
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：动物收容所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The shelter has several dogs waiting for homes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The shelter has several dogs waiting for homes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the leash.
+
+<lang code="zh" />
+意思是：牵引绳。请跟读。
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：牵引绳。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Keep the dog on a leash near busy roads.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Keep the dog on a leash near busy roads.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the temperament.
+
+<lang code="zh" />
+意思是：性情，脾气。请跟读。
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：性情，脾气。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The dog's calm temperament suits the family well.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The dog's calm temperament suits the family well.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to adopt a pet.
+
+<lang code="zh" />
+意思是：领养宠物。请跟读。
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：领养宠物。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+They hope to adopt a cat this spring.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They hope to adopt a cat this spring.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to take care of someone or something.
+
+<lang code="zh" />
+意思是：照顾某人或某物。请跟读。
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Children can learn to take care of a pet.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Children can learn to take care of a pet.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be attached to someone or something.
+
+<lang code="zh" />
+意思是：依恋某人或某物。请跟读。
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：依恋某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The dog is deeply attached to its owner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The dog is deeply attached to its owner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：领养宠物。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：动物收容所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：依恋某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：性情，脾气。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：牵引绳。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The shelter has several dogs waiting for homes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They hope to adopt a cat this spring.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The dog is deeply attached to its owner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：莉莉和哥哥去动物收容所考虑领养一只狗。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Lily visits a shelter with her brother.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lily visits a shelter with her brother.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They want to adopt a calm older dog.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They want to adopt a calm older dog.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The worker explains the dog's gentle temperament.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The worker explains the dog's gentle temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Lily buys a leash before taking him home.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lily buys a leash before taking him home.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her brother promises to take care of him too.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her brother promises to take care of him too.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Within a week, the dog is attached to Lily.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Within a week, the dog is attached to Lily.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+莉莉和哥哥一起去动物收容所。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lily visits a shelter with her brother.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们想领养一只安静的年长狗。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They want to adopt a calm older dog.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+工作人员解释了这只狗温和的性情。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The worker explains the dog's gentle temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+带它回家前，莉莉买了一条牵引绳。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lily buys a leash before taking him home.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的哥哥也承诺会照顾它。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her brother promises to take care of him too.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+一周之内，这只狗就很依恋莉莉。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Within a week, the dog is attached to Lily.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：动物收容所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：牵引绳。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：性情，脾气。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：领养宠物。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to take care of someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：依恋某人或某物。
+
+<break time="5.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be attached to someone or something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第37课，级别是B2。
+
+<lang code="zh" />
+今天的主题是天气和季节。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the forecast.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the shower.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be humid.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：动物收容所。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shelter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：牵引绳。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the leash.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：性情，脾气。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the temperament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：领养宠物。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to adopt a pet.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Keep the dog on a leash near busy roads.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Children can learn to take care of a pet.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the forecast.
+
+<lang code="zh" />
+意思是：天气预报。请跟读。
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：天气预报。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The forecast says heavy rain will arrive tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The forecast says heavy rain will arrive tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the heatwave.
+
+<lang code="zh" />
+意思是：热浪。请跟读。
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：热浪。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The heatwave made it difficult to sleep.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The heatwave made it difficult to sleep.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the shower.
+
+<lang code="zh" />
+意思是：阵雨。请跟读。
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：阵雨。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+A brief shower cleared the air in the afternoon.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A brief shower cleared the air in the afternoon.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to cool down.
+
+<lang code="zh" />
+意思是：降温，凉快下来。请跟读。
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：降温，凉快下来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The apartment should cool down after sunset.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The apartment should cool down after sunset.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to warm up.
+
+<lang code="zh" />
+意思是：变暖，暖和起来。请跟读。
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：变暖，暖和起来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The weather will warm up again next week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The weather will warm up again next week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be humid.
+
+<lang code="zh" />
+意思是：潮湿闷热。请跟读。
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：潮湿闷热。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+It is humid today, so the air feels heavy.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It is humid today, so the air feels heavy.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：降温，凉快下来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：天气预报。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：潮湿闷热。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：阵雨。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：变暖，暖和起来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：热浪。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The forecast says heavy rain will arrive tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The apartment should cool down after sunset.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+It is humid today, so the air feels heavy.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：凯特和邻居讨论周末天气和出门计划。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Kate checks the forecast before planning a picnic.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Kate checks the forecast before planning a picnic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The heatwave should end on Saturday evening.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The heatwave should end on Saturday evening.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+A short shower may arrive after lunch.
+
+<break time="5.5s" />
+
+<lang code="en" />
+A short shower may arrive after lunch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her apartment will cool down during the night.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her apartment will cool down during the night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sunday should warm up without becoming too humid.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sunday should warm up without becoming too humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+凯特在计划野餐前查看天气预报。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Kate checks the forecast before planning a picnic.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+热浪应该会在周六晚上结束。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The heatwave should end on Saturday evening.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+午饭后可能会有一场短暂阵雨。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A short shower may arrive after lunch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的公寓会在夜间凉快下来。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her apartment will cool down during the night.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+周日会变暖，但不会太潮湿闷热。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sunday should warm up without becoming too humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：天气预报。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：热浪。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：阵雨。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：降温，凉快下来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：变暖，暖和起来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to warm up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：潮湿闷热。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be humid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

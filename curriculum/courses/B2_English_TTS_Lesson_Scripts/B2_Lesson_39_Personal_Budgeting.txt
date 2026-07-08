@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第39课，级别是B2。
+
+<lang code="zh" />
+今天的主题是个人预算。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the subscription.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the expense.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be affordable.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：信息流，动态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：评论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：隐私设置。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：浏览，刷。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her comment was polite but very direct.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I rarely post personal photos online.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the subscription.
+
+<lang code="zh" />
+意思是：订阅服务。请跟读。
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：订阅服务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I cancelled one subscription that I never used.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I cancelled one subscription that I never used.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the grocery bill.
+
+<lang code="zh" />
+意思是：食品杂货账单。请跟读。
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：食品杂货账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Our grocery bill has increased since winter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Our grocery bill has increased since winter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the expense.
+
+<lang code="zh" />
+意思是：开支，费用。请跟读。
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：开支，费用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Rent is my largest monthly expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Rent is my largest monthly expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to cut back on something.
+
+<lang code="zh" />
+意思是：减少某方面支出或使用。请跟读。
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：减少某方面支出或使用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+We should cut back on takeaway meals.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We should cut back on takeaway meals.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to split the bill.
+
+<lang code="zh" />
+意思是：分摊账单。请跟读。
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：分摊账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Let's split the bill evenly between us.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Let's split the bill evenly between us.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be affordable.
+
+<lang code="zh" />
+意思是：负担得起。请跟读。
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：负担得起。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The plan is affordable if we cook at home.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plan is affordable if we cook at home.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：减少某方面支出或使用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：订阅服务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：负担得起。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：开支，费用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：分摊账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：食品杂货账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I cancelled one subscription that I never used.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+We should cut back on takeaway meals.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The plan is affordable if we cook at home.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：乔和室友一起检查这个月的生活开支。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Joe notices that the grocery bill is higher.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Joe notices that the grocery bill is higher.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His largest expense is still the rent.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His largest expense is still the rent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+His roommate suggests cancelling one subscription.
+
+<break time="5.5s" />
+
+<lang code="en" />
+His roommate suggests cancelling one subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They agree to cut back on takeaway meals.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They agree to cut back on takeaway meals.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+They split the bill for shared household items.
+
+<break time="5.5s" />
+
+<lang code="en" />
+They split the bill for shared household items.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The new budget is strict but affordable.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The new budget is strict but affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+乔注意到食品杂货账单更高了。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Joe notices that the grocery bill is higher.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他最大的开支仍然是房租。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His largest expense is still the rent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他的室友建议取消一个订阅服务。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His roommate suggests cancelling one subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们同意减少外卖。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They agree to cut back on takeaway meals.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们分摊共同家用品的账单。
+
+<break time="5.5s" />
+
+<lang code="en" />
+They split the bill for shared household items.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+新的预算很严格，但可以负担。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The new budget is strict but affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：订阅服务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：食品杂货账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：开支，费用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：减少某方面支出或使用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：分摊账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to split the bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：负担得起。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be affordable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

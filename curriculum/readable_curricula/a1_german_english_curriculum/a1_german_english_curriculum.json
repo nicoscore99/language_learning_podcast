@@ -1,0 +1,554 @@
+{
+  "Curriculum": [
+    {
+      "Level": "A1",
+      "Lesson": "1",
+      "Topic": "Greetings and saying who you are",
+      "Word 1": "hallo",
+      "Word 2": "guten Morgen",
+      "Word 3": "ich",
+      "Word 4": "du",
+      "Word 5": "Name",
+      "Main verb / phrase focus": "sein: ich bin, du bist",
+      "Grammar focus": "Saying “I am…” and “you are…”"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "2",
+      "Topic": "Names and introductions",
+      "Word 1": "heißen",
+      "Word 2": "mein",
+      "Word 3": "dein",
+      "Word 4": "bitte",
+      "Word 5": "danke",
+      "Main verb / phrase focus": "heißen: ich heiße, du heißt",
+      "Grammar focus": "Asking and answering “What is your name?”"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "3",
+      "Topic": "Where you come from",
+      "Word 1": "Deutschland",
+      "Word 2": "Schweiz",
+      "Word 3": "Österreich",
+      "Word 4": "aus",
+      "Word 5": "woher",
+      "Main verb / phrase focus": "kommen: ich komme, du kommst",
+      "Grammar focus": "Using aus with countries and cities"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "4",
+      "Topic": "Where you live",
+      "Word 1": "wohnen",
+      "Word 2": "Stadt",
+      "Word 3": "Dorf",
+      "Word 4": "hier",
+      "Word 5": "dort",
+      "Main verb / phrase focus": "wohnen: ich wohne, du wohnst",
+      "Grammar focus": "Word order in simple statements"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "5",
+      "Topic": "Languages",
+      "Word 1": "Deutsch",
+      "Word 2": "Englisch",
+      "Word 3": "Chinesisch",
+      "Word 4": "ein bisschen",
+      "Word 5": "gut",
+      "Main verb / phrase focus": "sprechen: ich spreche, du sprichst",
+      "Grammar focus": "Asking “Do you speak…?”"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "6",
+      "Topic": "Polite survival phrases",
+      "Word 1": "ja",
+      "Word 2": "nein",
+      "Word 3": "Entschuldigung",
+      "Word 4": "kein Problem",
+      "Word 5": "langsam",
+      "Main verb / phrase focus": "verstehen: ich verstehe, du verstehst",
+      "Grammar focus": "Negation with nicht"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "7",
+      "Topic": "Family basics",
+      "Word 1": "Mutter",
+      "Word 2": "Vater",
+      "Word 3": "Bruder",
+      "Word 4": "Schwester",
+      "Word 5": "Familie",
+      "Main verb / phrase focus": "haben: ich habe, du hast",
+      "Grammar focus": "Using haben for family members"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "8",
+      "Topic": "People and descriptions",
+      "Word 1": "Mann",
+      "Word 2": "Frau",
+      "Word 3": "Kind",
+      "Word 4": "Freund",
+      "Word 5": "Freundin",
+      "Main verb / phrase focus": "sein: er ist, sie ist",
+      "Grammar focus": "He/she forms with sein"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "9",
+      "Topic": "Food basics",
+      "Word 1": "Brot",
+      "Word 2": "Wasser",
+      "Word 3": "Kaffee",
+      "Word 4": "Tee",
+      "Word 5": "Hunger",
+      "Main verb / phrase focus": "möchten: ich möchte, du möchtest",
+      "Grammar focus": "Polite requests with ich möchte"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "10",
+      "Topic": "Ordering simple things",
+      "Word 1": "zahlen",
+      "Word 2": "Rechnung",
+      "Word 3": "Karte",
+      "Word 4": "bar",
+      "Word 5": "nehmen",
+      "Main verb / phrase focus": "nehmen: ich nehme, du nimmst",
+      "Grammar focus": "Verb in second position in questions"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "11",
+      "Topic": "Drinks and preferences",
+      "Word 1": "Milch",
+      "Word 2": "Saft",
+      "Word 3": "Bier",
+      "Word 4": "Wein",
+      "Word 5": "lieber",
+      "Main verb / phrase focus": "trinken: ich trinke, du trinkst",
+      "Grammar focus": "Saying what you like to drink"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "12",
+      "Topic": "Everyday eating",
+      "Word 1": "essen",
+      "Word 2": "Frühstück",
+      "Word 3": "Mittagessen",
+      "Word 4": "Abendessen",
+      "Word 5": "heute",
+      "Main verb / phrase focus": "essen: ich esse, du isst",
+      "Grammar focus": "Stem-changing verb essen → du isst"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "13",
+      "Topic": "Time of day",
+      "Word 1": "Morgen",
+      "Word 2": "Nachmittag",
+      "Word 3": "Abend",
+      "Word 4": "Nacht",
+      "Word 5": "Uhr",
+      "Main verb / phrase focus": "sein: es ist",
+      "Grammar focus": "Saying the time: Es ist…"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "14",
+      "Topic": "Daily routine 1",
+      "Word 1": "aufstehen",
+      "Word 2": "früh",
+      "Word 3": "spät",
+      "Word 4": "jetzt",
+      "Word 5": "müde",
+      "Main verb / phrase focus": "aufstehen: ich stehe auf, du stehst auf",
+      "Grammar focus": "Separable verbs with aufstehen"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "15",
+      "Topic": "Daily routine 2",
+      "Word 1": "arbeiten",
+      "Word 2": "lernen",
+      "Word 3": "Pause",
+      "Word 4": "Schule",
+      "Word 5": "Büro",
+      "Main verb / phrase focus": "arbeiten: ich arbeite, du arbeitest",
+      "Grammar focus": "Regular verb endings with extra -e-"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "16",
+      "Topic": "Going places",
+      "Word 1": "gehen",
+      "Word 2": "nach Hause",
+      "Word 3": "Schule",
+      "Word 4": "Arbeit",
+      "Word 5": "Supermarkt",
+      "Main verb / phrase focus": "gehen: ich gehe, du gehst",
+      "Grammar focus": "Using nach in basic movement phrases"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "17",
+      "Topic": "Transport",
+      "Word 1": "Bus",
+      "Word 2": "Zug",
+      "Word 3": "Auto",
+      "Word 4": "Fahrrad",
+      "Word 5": "Bahnhof",
+      "Main verb / phrase focus": "fahren: ich fahre, du fährst",
+      "Grammar focus": "Stem-changing verb fahren → du fährst"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "18",
+      "Topic": "Shopping basics",
+      "Word 1": "kaufen",
+      "Word 2": "Preis",
+      "Word 3": "Euro",
+      "Word 4": "teuer",
+      "Word 5": "billig",
+      "Main verb / phrase focus": "kaufen: ich kaufe, du kaufst",
+      "Grammar focus": "Yes/no questions: Kaufst du…?"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "19",
+      "Topic": "Objects and gender",
+      "Word 1": "Tisch",
+      "Word 2": "Stuhl",
+      "Word 3": "Tasche",
+      "Word 4": "Handy",
+      "Word 5": "Buch",
+      "Main verb / phrase focus": "haben: ich habe einen/eine/ein…",
+      "Grammar focus": "Articles: der, die, das"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "20",
+      "Topic": "Likes and dislikes",
+      "Word 1": "gern",
+      "Word 2": "Musik",
+      "Word 3": "Film",
+      "Word 4": "Sport",
+      "Word 5": "Buch",
+      "Main verb / phrase focus": "mögen: ich mag, du magst",
+      "Grammar focus": "Saying likes with gern and mögen"
+    },
+    {
+      "Level": "A1",
+      "Lesson": "21",
+      "Topic": "Daily activities: what I do and what I did",
+      "Word 1": "Hausaufgaben",
+      "Word 2": "Sport",
+      "Word 3": "eine Pause",
+      "Word 4": "Kaffee",
+      "Word 5": "gestern",
+      "Main verb / phrase focus": "machen: ich mache, du machst, er/sie macht, wir machen, ich habe gemacht",
+      "Grammar focus": "First intro to perfect tense: haben + gemacht"
+    }
+  ],
+  "Grammar Progression": [
+    {
+      "Lesson": "1",
+      "Main verb / phrase": "sein",
+      "Conjugated forms / pattern": "ich bin; du bist",
+      "Mini grammar objective": "Saying “I am…” and “you are…”"
+    },
+    {
+      "Lesson": "2",
+      "Main verb / phrase": "heißen",
+      "Conjugated forms / pattern": "ich heiße; du heißt",
+      "Mini grammar objective": "Asking and answering “What is your name?”"
+    },
+    {
+      "Lesson": "3",
+      "Main verb / phrase": "kommen",
+      "Conjugated forms / pattern": "ich komme; du kommst",
+      "Mini grammar objective": "Using aus with countries and cities"
+    },
+    {
+      "Lesson": "4",
+      "Main verb / phrase": "wohnen",
+      "Conjugated forms / pattern": "ich wohne; du wohnst",
+      "Mini grammar objective": "Word order in simple statements"
+    },
+    {
+      "Lesson": "5",
+      "Main verb / phrase": "sprechen",
+      "Conjugated forms / pattern": "ich spreche; du sprichst",
+      "Mini grammar objective": "Asking “Do you speak…?”"
+    },
+    {
+      "Lesson": "6",
+      "Main verb / phrase": "verstehen",
+      "Conjugated forms / pattern": "ich verstehe; du verstehst",
+      "Mini grammar objective": "Negation with nicht"
+    },
+    {
+      "Lesson": "7",
+      "Main verb / phrase": "haben",
+      "Conjugated forms / pattern": "ich habe; du hast",
+      "Mini grammar objective": "Using haben for family members"
+    },
+    {
+      "Lesson": "8",
+      "Main verb / phrase": "sein",
+      "Conjugated forms / pattern": "er ist; sie ist",
+      "Mini grammar objective": "He/she forms with sein"
+    },
+    {
+      "Lesson": "9",
+      "Main verb / phrase": "möchten",
+      "Conjugated forms / pattern": "ich möchte; du möchtest",
+      "Mini grammar objective": "Polite requests with ich möchte"
+    },
+    {
+      "Lesson": "10",
+      "Main verb / phrase": "nehmen",
+      "Conjugated forms / pattern": "ich nehme; du nimmst",
+      "Mini grammar objective": "Verb in second position in questions"
+    },
+    {
+      "Lesson": "11",
+      "Main verb / phrase": "trinken",
+      "Conjugated forms / pattern": "ich trinke; du trinkst",
+      "Mini grammar objective": "Saying what you like to drink"
+    },
+    {
+      "Lesson": "12",
+      "Main verb / phrase": "essen",
+      "Conjugated forms / pattern": "ich esse; du isst",
+      "Mini grammar objective": "Stem-changing verb essen → du isst"
+    },
+    {
+      "Lesson": "13",
+      "Main verb / phrase": "sein",
+      "Conjugated forms / pattern": "es ist; es ist sieben Uhr",
+      "Mini grammar objective": "Saying the time: Es ist…"
+    },
+    {
+      "Lesson": "14",
+      "Main verb / phrase": "aufstehen",
+      "Conjugated forms / pattern": "ich stehe auf; du stehst auf",
+      "Mini grammar objective": "Separable verbs with aufstehen"
+    },
+    {
+      "Lesson": "15",
+      "Main verb / phrase": "arbeiten",
+      "Conjugated forms / pattern": "ich arbeite; du arbeitest",
+      "Mini grammar objective": "Regular verb endings with extra -e-"
+    },
+    {
+      "Lesson": "16",
+      "Main verb / phrase": "gehen",
+      "Conjugated forms / pattern": "ich gehe; du gehst",
+      "Mini grammar objective": "Using nach in basic movement phrases"
+    },
+    {
+      "Lesson": "17",
+      "Main verb / phrase": "fahren",
+      "Conjugated forms / pattern": "ich fahre; du fährst",
+      "Mini grammar objective": "Stem-changing verb fahren → du fährst"
+    },
+    {
+      "Lesson": "18",
+      "Main verb / phrase": "kaufen",
+      "Conjugated forms / pattern": "ich kaufe; du kaufst",
+      "Mini grammar objective": "Yes/no questions: Kaufst du…?"
+    },
+    {
+      "Lesson": "19",
+      "Main verb / phrase": "haben",
+      "Conjugated forms / pattern": "ich habe einen; ich habe eine; ich habe ein",
+      "Mini grammar objective": "Articles: der, die, das"
+    },
+    {
+      "Lesson": "20",
+      "Main verb / phrase": "mögen",
+      "Conjugated forms / pattern": "ich mag; du magst",
+      "Mini grammar objective": "Saying likes with gern and mögen"
+    },
+    {
+      "Lesson": "21",
+      "Main verb / phrase": "machen",
+      "Conjugated forms / pattern": "ich mache; du machst; er macht; wir machen; ich habe gemacht",
+      "Mini grammar objective": "First intro to perfect tense: haben + gemacht"
+    }
+  ],
+  "Script Index": [
+    {
+      "Lesson": "1",
+      "Filename": "A1_Lesson_01_Greetings_and_saying_who_you_are.txt",
+      "Topic": "Greetings and saying who you are",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "2",
+      "Filename": "A1_Lesson_02_Names_and_introductions.txt",
+      "Topic": "Names and introductions",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "3",
+      "Filename": "A1_Lesson_03_Where_you_come_from.txt",
+      "Topic": "Where you come from",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "4",
+      "Filename": "A1_Lesson_04_Where_you_live.txt",
+      "Topic": "Where you live",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "5",
+      "Filename": "A1_Lesson_05_Languages.txt",
+      "Topic": "Languages",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "6",
+      "Filename": "A1_Lesson_06_Polite_survival_phrases.txt",
+      "Topic": "Polite survival phrases",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "7",
+      "Filename": "A1_Lesson_07_Family_basics.txt",
+      "Topic": "Family basics",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "8",
+      "Filename": "A1_Lesson_08_People_and_descriptions.txt",
+      "Topic": "People and descriptions",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "9",
+      "Filename": "A1_Lesson_09_Food_basics.txt",
+      "Topic": "Food basics",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "10",
+      "Filename": "A1_Lesson_10_Ordering_simple_things.txt",
+      "Topic": "Ordering simple things",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "11",
+      "Filename": "A1_Lesson_11_Drinks_and_preferences.txt",
+      "Topic": "Drinks and preferences",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "12",
+      "Filename": "A1_Lesson_12_Everyday_eating.txt",
+      "Topic": "Everyday eating",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "13",
+      "Filename": "A1_Lesson_13_Time_of_day.txt",
+      "Topic": "Time of day",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "14",
+      "Filename": "A1_Lesson_14_Daily_routine_1.txt",
+      "Topic": "Daily routine 1",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "15",
+      "Filename": "A1_Lesson_15_Daily_routine_2.txt",
+      "Topic": "Daily routine 2",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "16",
+      "Filename": "A1_Lesson_16_Going_places.txt",
+      "Topic": "Going places",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "17",
+      "Filename": "A1_Lesson_17_Transport.txt",
+      "Topic": "Transport",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "18",
+      "Filename": "A1_Lesson_18_Shopping_basics.txt",
+      "Topic": "Shopping basics",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "19",
+      "Filename": "A1_Lesson_19_Objects_and_gender.txt",
+      "Topic": "Objects and gender",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "20",
+      "Filename": "A1_Lesson_20_Likes_and_dislikes.txt",
+      "Topic": "Likes and dislikes",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    },
+    {
+      "Lesson": "21",
+      "Filename": "A1_Lesson_21_Daily_activities_what_I_do_and_what_I_did.txt",
+      "Topic": "Daily activities: what I do and what I did",
+      "Target language": "German (de-DE)",
+      "Teacher language": "English (en)",
+      "Estimated format": "TTS-ready plain text"
+    }
+  ]
+}

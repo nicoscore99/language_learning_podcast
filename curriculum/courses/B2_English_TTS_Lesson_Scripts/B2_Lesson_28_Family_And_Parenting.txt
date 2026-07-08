@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第28课，级别是B2。
+
+<lang code="zh" />
+今天的主题是家庭和育儿。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the sibling.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：默契，来电的感觉。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the chemistry.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：界限，边界。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the boundary.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：承诺，投入。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commitment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：与某人相处融洽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get along with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A healthy boundary can make a relationship stronger.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="6.5s" />
+
+<lang code="en" />
+He decided to break up with her after a long talk.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the sibling.
+
+<lang code="zh" />
+意思是：兄弟姐妹。请跟读。
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：兄弟姐妹。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+My younger sibling often asks me for advice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My younger sibling often asks me for advice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the responsibility.
+
+<lang code="zh" />
+意思是：责任。请跟读。
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：责任。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Looking after children is a serious responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Looking after children is a serious responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the curfew.
+
+<lang code="zh" />
+意思是：宵禁，回家时间规定。请跟读。
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：宵禁，回家时间规定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Their parents set a curfew for school nights.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Their parents set a curfew for school nights.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to look after someone.
+
+<lang code="zh" />
+意思是：照顾某人。请跟读。
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I promised to look after my cousin tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I promised to look after my cousin tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to set limits.
+
+<lang code="zh" />
+意思是：设定界限。请跟读。
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：设定界限。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Parents need to set limits without shouting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Parents need to set limits without shouting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be patient with someone.
+
+<lang code="zh" />
+意思是：对某人有耐心。请跟读。
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人有耐心。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Try to be patient with younger children.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Try to be patient with younger children.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：照顾某人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：兄弟姐妹。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人有耐心。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：宵禁，回家时间规定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：设定界限。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：责任。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My younger sibling often asks me for advice.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I promised to look after my cousin tonight.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Try to be patient with younger children.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：奥利维亚帮妹妹照顾两个孩子。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Olivia agrees to look after her sister's children.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Olivia agrees to look after her sister's children.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her younger sibling says it is a big responsibility.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her younger sibling says it is a big responsibility.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Olivia explains the curfew before dinner.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Olivia explains the curfew before dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She tries to set limits without sounding strict.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She tries to set limits without sounding strict.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+When the children argue, she is patient with them.
+
+<break time="5.5s" />
+
+<lang code="en" />
+When the children argue, she is patient with them.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+奥利维亚同意照顾她妹妹的孩子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Olivia agrees to look after her sister's children.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的妹妹说这是一项很大的责任。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her younger sibling says it is a big responsibility.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+晚饭前，奥利维亚解释了回家时间规定。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Olivia explains the curfew before dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她努力设定界限，同时不显得太严厉。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She tries to set limits without sounding strict.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+孩子们争吵时，她对他们很有耐心。
+
+<break time="5.5s" />
+
+<lang code="en" />
+When the children argue, she is patient with them.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：兄弟姐妹。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：责任。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：宵禁，回家时间规定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：设定界限。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to set limits.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：对某人有耐心。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be patient with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

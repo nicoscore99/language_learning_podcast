@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第21课，级别是B2。
+
+<lang code="zh" />
+今天的主题是世界杯足球特辑一。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the pitch.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the goal.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the striker.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the defender.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to pass the ball.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：贫困。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the poverty.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the poverty.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：援助。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the aid.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：合作。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the cooperation.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the cooperation.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：危机。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the crisis.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the crisis.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Emergency aid arrived after the crisis began.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Clean water is an essential resource for every community.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the pitch.
+
+<lang code="zh" />
+意思是：足球场，球场。请跟读。
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：足球场，球场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The players walk onto the pitch before kickoff.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The players walk onto the pitch before kickoff.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the goal.
+
+<lang code="zh" />
+意思是：进球，球门。请跟读。
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，球门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The first goal came after only ten minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The first goal came after only ten minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+to score a goal.
+
+<lang code="zh" />
+意思是：进球，得分。请跟读。
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，得分。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Brazil needs to score before half-time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Brazil needs to score before half-time.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+the striker.
+
+<lang code="zh" />
+意思是：前锋。请跟读。
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：前锋。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The striker waits for space near the penalty area.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The striker waits for space near the penalty area.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+the defender.
+
+<lang code="zh" />
+意思是：后卫。请跟读。
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：后卫。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The defender stays close to the fastest forward.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The defender stays close to the fastest forward.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to pass the ball.
+
+<lang code="zh" />
+意思是：传球。请跟读。
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：传球。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The captain decides to pass the ball wide.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The captain decides to pass the ball wide.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：前锋。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：足球场，球场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：传球。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，得分。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：后卫。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，球门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The players walk onto the pitch before kickoff.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The striker waits for space near the penalty area.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The captain decides to pass the ball wide.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：世界杯决赛开始了，杰克和莉娜在客厅看直播。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+The players run onto the pitch before the final.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The players run onto the pitch before the final.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Lena says the striker looks calm and focused.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lena says the striker looks calm and focused.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+A defender blocks the first dangerous pass.
+
+<break time="5.5s" />
+
+<lang code="en" />
+A defender blocks the first dangerous pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The captain passes the ball toward the right side.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The captain passes the ball toward the right side.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Brazil scores the first goal after fifteen minutes.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Brazil scores the first goal after fifteen minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Jack thinks that goal may change the whole match.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Jack thinks that goal may change the whole match.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+决赛开始前，球员们跑上球场。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The players run onto the pitch before the final.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+莉娜说这名前锋看起来冷静又专注。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Lena says the striker looks calm and focused.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+一名后卫挡住了第一次危险的传球。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A defender blocks the first dangerous pass.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+队长把球传向右路。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The captain passes the ball toward the right side.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+巴西在十五分钟后打进第一个进球。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Brazil scores the first goal after fifteen minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+杰克认为这个进球可能会改变整场比赛。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Jack thinks that goal may change the whole match.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：足球场，球场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，球门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，得分。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：前锋。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：后卫。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the defender.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：传球。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pass the ball.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

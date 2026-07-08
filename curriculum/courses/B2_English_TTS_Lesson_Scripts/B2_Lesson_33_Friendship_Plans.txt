@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第33课，级别是B2。
+
+<lang code="zh" />
+今天的主题是朋友之间的计划。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the spontaneous.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to show up.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：通勤。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：城区，区域。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the district.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：行人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pedestrian.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出行，四处走动。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to get around.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This district has several small parks and cafes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The station is crowded during the evening rush.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the spontaneous.
+
+<lang code="zh" />
+意思是：自发的，临时起意的。请跟读。
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：自发的，临时起意的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+A spontaneous plan can be more fun than expected.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A spontaneous plan can be more fun than expected.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the reliable.
+
+<lang code="zh" />
+意思是：可靠的。请跟读。
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：可靠的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Nora is reliable, so she always arrives on time.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora is reliable, so she always arrives on time.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the arrangement.
+
+<lang code="zh" />
+意思是：安排。请跟读。
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The arrangement works well for everyone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The arrangement works well for everyone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to catch up with someone.
+
+<lang code="zh" />
+意思是：和某人叙旧。请跟读。
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人叙旧。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I want to catch up with Sam this weekend.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I want to catch up with Sam this weekend.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to show up.
+
+<lang code="zh" />
+意思是：出现，到场。请跟读。
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出现，到场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Please show up before the movie starts.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Please show up before the movie starts.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to cancel on someone.
+
+<lang code="zh" />
+意思是：临时取消和某人的约定。请跟读。
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：临时取消和某人的约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I hate to cancel on friends at the last minute.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I hate to cancel on friends at the last minute.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：和某人叙旧。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：自发的，临时起意的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：临时取消和某人的约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出现，到场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：可靠的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A spontaneous plan can be more fun than expected.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I want to catch up with Sam this weekend.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I hate to cancel on friends at the last minute.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：诺拉和山姆计划周末见面喝咖啡。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Nora wants to catch up with Sam on Saturday.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora wants to catch up with Sam on Saturday.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sam suggests a spontaneous walk after coffee.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sam suggests a spontaneous walk after coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Their arrangement is simple and flexible.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Their arrangement is simple and flexible.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Nora is reliable, so Sam knows she will show up.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora is reliable, so Sam knows she will show up.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Sam promises he will not cancel on her again.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sam promises he will not cancel on her again.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+诺拉想在周六和山姆见面叙旧。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora wants to catch up with Sam on Saturday.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+山姆建议喝完咖啡后临时去散步。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sam suggests a spontaneous walk after coffee.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+他们的安排简单又灵活。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Their arrangement is simple and flexible.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+诺拉很可靠，所以山姆知道她会到场。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Nora is reliable, so Sam knows she will show up.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+山姆保证不会再临时取消和她的约定。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Sam promises he will not cancel on her again.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：自发的，临时起意的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the spontaneous.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：可靠的。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the reliable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：安排。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the arrangement.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：和某人叙旧。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to catch up with someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：出现，到场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to show up.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：临时取消和某人的约定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cancel on someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

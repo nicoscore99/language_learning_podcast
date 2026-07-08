@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第38课，级别是B2。
+
+<lang code="zh" />
+今天的主题是日常社交媒体。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the feed.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the comment.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to post something.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to mute someone.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：天气预报。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the forecast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：热浪。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the heatwave.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：阵雨。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the shower.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：降温，凉快下来。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cool down.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The heatwave made it difficult to sleep.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The weather will warm up again next week.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the feed.
+
+<lang code="zh" />
+意思是：信息流，动态。请跟读。
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：信息流，动态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+My feed is full of travel photos today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My feed is full of travel photos today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the comment.
+
+<lang code="zh" />
+意思是：评论。请跟读。
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：评论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Her comment was polite but very direct.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her comment was polite but very direct.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the privacy settings.
+
+<lang code="zh" />
+意思是：隐私设置。请跟读。
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：隐私设置。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Check your privacy settings after every update.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Check your privacy settings after every update.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to scroll through something.
+
+<lang code="zh" />
+意思是：浏览，刷。请跟读。
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：浏览，刷。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I scroll through my feed during the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I scroll through my feed during the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to post something.
+
+<lang code="zh" />
+意思是：发布内容。请跟读。
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：发布内容。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I rarely post personal photos online.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I rarely post personal photos online.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to mute someone.
+
+<lang code="zh" />
+意思是：静音，屏蔽。请跟读。
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：静音，屏蔽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+You can mute someone without unfollowing them.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You can mute someone without unfollowing them.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：浏览，刷。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：信息流，动态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：静音，屏蔽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：隐私设置。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：发布内容。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：评论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+My feed is full of travel photos today.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I scroll through my feed during the commute.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You can mute someone without unfollowing them.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：梅和朋友整理自己的社交媒体使用习惯。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+May scrolls through her feed after breakfast.
+
+<break time="5.5s" />
+
+<lang code="en" />
+May scrolls through her feed after breakfast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She notices a rude comment under her photo.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She notices a rude comment under her photo.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend tells her to check her privacy settings.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to check her privacy settings.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+May decides not to post personal details anymore.
+
+<break time="5.5s" />
+
+<lang code="en" />
+May decides not to post personal details anymore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She also chooses to mute one stressful account.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She also chooses to mute one stressful account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+梅早餐后浏览自己的信息流。
+
+<break time="5.5s" />
+
+<lang code="en" />
+May scrolls through her feed after breakfast.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她注意到照片下面有一条不礼貌的评论。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She notices a rude comment under her photo.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友告诉她检查隐私设置。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to check her privacy settings.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+梅决定不再发布个人细节。
+
+<break time="5.5s" />
+
+<lang code="en" />
+May decides not to post personal details anymore.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她还选择屏蔽一个让她有压力的账号。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She also chooses to mute one stressful account.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：信息流，动态。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the feed.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：评论。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the comment.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：隐私设置。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the privacy settings.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：浏览，刷。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to scroll through something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：发布内容。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to post something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：静音，屏蔽。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to mute someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

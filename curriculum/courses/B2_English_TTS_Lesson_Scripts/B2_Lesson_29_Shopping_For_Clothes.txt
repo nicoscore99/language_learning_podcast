@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第29课，级别是B2。
+
+<lang code="zh" />
+今天的主题是购买衣服。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the bargain.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the refund.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the size.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be worth it.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：兄弟姐妹。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the sibling.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：责任。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：宵禁，回家时间规定。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the curfew.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：照顾某人。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to look after someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Looking after children is a serious responsibility.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Parents need to set limits without shouting.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the bargain.
+
+<lang code="zh" />
+意思是：划算的东西，便宜货。请跟读。
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：划算的东西，便宜货。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+This jacket was a real bargain in the sale.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This jacket was a real bargain in the sale.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the refund.
+
+<lang code="zh" />
+意思是：退款。请跟读。
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：退款。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+You can ask for a refund within thirty days.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You can ask for a refund within thirty days.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the size.
+
+<lang code="zh" />
+意思是：尺码。请跟读。
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：尺码。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+This size fits better across the shoulders.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This size fits better across the shoulders.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+the fabric.
+
+<lang code="zh" />
+意思是：布料，面料。请跟读。
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：布料，面料。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The fabric feels soft but looks very durable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The fabric feels soft but looks very durable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to try something on.
+
+<lang code="zh" />
+意思是：试穿。请跟读。
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：试穿。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I want to try on the blue coat.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I want to try on the blue coat.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be worth it.
+
+<lang code="zh" />
+意思是：值得。请跟读。
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The shoes are expensive, but they are worth it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The shoes are expensive, but they are worth it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：布料，面料。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：划算的东西，便宜货。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：尺码。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：试穿。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：退款。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+This jacket was a real bargain in the sale.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The fabric feels soft but looks very durable.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The shoes are expensive, but they are worth it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：克洛伊和朋友周六下午去买衣服。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Chloe finds a coat that looks like a bargain.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Chloe finds a coat that looks like a bargain.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She checks the fabric before choosing a size.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She checks the fabric before choosing a size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend tells her to try it on first.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to try it on first.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The smaller size fits better than expected.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The smaller size fits better than expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Chloe asks if she can get a refund later.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Chloe asks if she can get a refund later.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She decides the coat is worth it.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She decides the coat is worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+克洛伊找到一件看起来很划算的外套。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Chloe finds a coat that looks like a bargain.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+她在选择尺码前检查了面料。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She checks the fabric before choosing a size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友告诉她先试穿一下。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend tells her to try it on first.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+小一号的尺码比预想中更合身。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The smaller size fits better than expected.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+克洛伊询问之后是否可以退款。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Chloe asks if she can get a refund later.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+她决定这件外套值得购买。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She decides the coat is worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：划算的东西，便宜货。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the bargain.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：退款。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the refund.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：尺码。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the size.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：布料，面料。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fabric.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：试穿。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to try something on.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：值得。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be worth it.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

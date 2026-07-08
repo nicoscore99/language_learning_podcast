@@ -1,0 +1,791 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第40课，级别是B2。
+
+<lang code="zh" />
+今天的主题是语言学习。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the fluency.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the accent.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：订阅服务。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the subscription.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：食品杂货账单。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the grocery bill.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：开支，费用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the expense.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：减少某方面支出或使用。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to cut back on something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Our grocery bill has increased since winter.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Let's split the bill evenly between us.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the fluency.
+
+<lang code="zh" />
+意思是：流利度。请跟读。
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：流利度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Fluency improves when you speak every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Fluency improves when you speak every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+the accent.
+
+<lang code="zh" />
+意思是：口音。请跟读。
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：口音。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+Her accent is clear and easy to understand.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her accent is clear and easy to understand.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+the mistake.
+
+<lang code="zh" />
+意思是：错误。请跟读。
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：错误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+A mistake is useful if you learn from it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A mistake is useful if you learn from it.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+to pick up a phrase.
+
+<lang code="zh" />
+意思是：学会一个短语。请跟读。
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：学会一个短语。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+You can pick up a phrase from a podcast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You can pick up a phrase from a podcast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+to practice regularly.
+
+<lang code="zh" />
+意思是：定期练习。请跟读。
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：定期练习。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+I practice regularly with short daily conversations.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+I practice regularly with short daily conversations.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be fluent in something.
+
+<lang code="zh" />
+意思是：流利掌握某种语言。请跟读。
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：流利掌握某种语言。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+She wants to be fluent in English by next year.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She wants to be fluent in English by next year.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：学会一个短语。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：流利度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：流利掌握某种语言。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：错误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：定期练习。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：口音。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Fluency improves when you speak every day.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+You can pick up a phrase from a podcast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She wants to be fluent in English by next year.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：雷切尔和朋友讨论如何提高英语口语。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+Rachel wants to improve her fluency this year.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Rachel wants to improve her fluency this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She records herself to understand her accent better.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She records herself to understand her accent better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her friend says every mistake can teach her something.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend says every mistake can teach her something.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Rachel tries to pick up a phrase from each podcast.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Rachel tries to pick up a phrase from each podcast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+She plans to practice regularly after dinner.
+
+<break time="5.5s" />
+
+<lang code="en" />
+She plans to practice regularly after dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Her goal is to be fluent in everyday English.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her goal is to be fluent in everyday English.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+雷切尔想在今年提高自己的流利度。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Rachel wants to improve her fluency this year.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她录下自己的声音，以便更好地了解自己的口音。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She records herself to understand her accent better.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的朋友说，每个错误都能教她一些东西。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her friend says every mistake can teach her something.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+雷切尔努力从每期播客中学会一个短语。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Rachel tries to pick up a phrase from each podcast.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+她计划晚饭后定期练习。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She plans to practice regularly after dinner.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+她的目标是流利掌握日常英语。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Her goal is to be fluent in everyday English.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：流利度。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the fluency.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：口音。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the accent.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：错误。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the mistake.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：学会一个短语。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to pick up a phrase.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：定期练习。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to practice regularly.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：流利掌握某种语言。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be fluent in something.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。

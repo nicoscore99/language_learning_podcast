@@ -1,0 +1,768 @@
+<lang code="zh" />
+第一部分，课程介绍。
+
+<lang code="zh" />
+欢迎回来。今天是第22课，级别是B2。
+
+<lang code="zh" />
+今天的主题是世界杯足球特辑二。
+
+<lang code="zh" />
+你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。
+
+<lang code="zh" />
+今天的六个新英语表达是。
+
+<lang code="en" />
+the foul.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the save.
+
+<break time="1.0s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="1.0s" />
+
+<lang code="en" />
+to be offside.
+
+<lang code="zh" />
+第二部分，复习。
+
+<lang code="zh" />
+先复习上一课的几个表达。听中文，说英语。
+
+<lang code="zh" />
+请说英语：足球场，球场。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the pitch.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，球门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：进球，得分。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to score a goal.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：前锋。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the striker.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在复习上一课的两个句子。
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The first goal came after only ten minutes.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出上一课的这个句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The defender stays close to the fastest forward.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第三部分，新词介绍。
+
+<lang code="zh" />
+今天的第1个表达是。
+
+<lang code="en" />
+the foul.
+
+<lang code="zh" />
+意思是：犯规。请跟读。
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：犯规。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The referee gives a foul near the box.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The referee gives a foul near the box.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第2个表达是。
+
+<lang code="en" />
+to shoot.
+
+<lang code="zh" />
+意思是：射门。请跟读。
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：射门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The winger chooses to shoot from a tight angle.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The winger chooses to shoot from a tight angle.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第3个表达是。
+
+<lang code="en" />
+to dribble past someone.
+
+<lang code="zh" />
+意思是：带球过人，盘带。请跟读。
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：带球过人，盘带。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+She can dribble past two defenders easily.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+She can dribble past two defenders easily.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第4个表达是。
+
+<lang code="en" />
+the save.
+
+<lang code="zh" />
+意思是：扑救。请跟读。
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：扑救。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The save keeps the team in the match.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The save keeps the team in the match.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+今天的第5个表达是。
+
+<lang code="en" />
+the tackle.
+
+<lang code="zh" />
+意思是：铲球，拦截。请跟读。
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：铲球，拦截。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+His tackle was strong, but it was completely fair.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+His tackle was strong, but it was completely fair.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+今天的第6个表达是。
+
+<lang code="en" />
+to be offside.
+
+<lang code="zh" />
+意思是：越位。请跟读。
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：越位。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请听例句。
+
+<lang code="en" />
+The striker was offside when the pass was played.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The striker was offside when the pass was played.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第四部分，新词练习。
+
+<lang code="zh" />
+现在打乱顺序，练习今天的新表达。
+
+<lang code="zh" />
+请说英语：扑救。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：犯规。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：越位。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：带球过人，盘带。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：铲球，拦截。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：射门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在练习三个完整句子。
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The referee gives a foul near the box.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The save keeps the team in the match.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请回忆并说出这个英语句子。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The striker was offside when the pass was played.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+第五部分，情境句子练习。
+
+<lang code="zh" />
+情境：世界杯半决赛进入下半场，场面越来越紧张。
+
+<lang code="zh" />
+先听每个英语句子，然后在停顿时大声重复。
+
+<lang code="en" />
+The referee gives a foul just outside the box.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The referee gives a foul just outside the box.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The winger tries to dribble past the last defender.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The winger tries to dribble past the last defender.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+A clean tackle stops him before he can shoot.
+
+<break time="5.5s" />
+
+<lang code="en" />
+A clean tackle stops him before he can shoot.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+Moments later, the striker is clearly offside.
+
+<break time="5.5s" />
+
+<lang code="en" />
+Moments later, the striker is clearly offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请重复这个英语句子。
+
+<lang code="en" />
+The goalkeeper makes the save of the tournament.
+
+<break time="5.5s" />
+
+<lang code="en" />
+The goalkeeper makes the save of the tournament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+现在根据中文提示，把这个情境中的句子翻译成英语。
+
+<lang code="zh" />
+裁判在禁区外判了一次犯规。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The referee gives a foul just outside the box.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+边锋试图带球过掉最后一名后卫。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The winger tries to dribble past the last defender.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+一次干净的铲球在他射门前阻止了他。
+
+<break time="5.5s" />
+
+<lang code="en" />
+A clean tackle stops him before he can shoot.
+
+<break time="3.0s" />
+
+<lang code="zh" />
+片刻之后，前锋明显越位了。
+
+<break time="5.5s" />
+
+<lang code="en" />
+Moments later, the striker is clearly offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+守门员做出了本届赛事最佳扑救。
+
+<break time="5.5s" />
+
+<lang code="en" />
+The goalkeeper makes the save of the tournament.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+第六部分，课程总结。
+
+<lang code="zh" />
+最后，再复习今天的六个新表达。
+
+<lang code="zh" />
+请说英语：犯规。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the foul.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：射门。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to shoot.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：带球过人，盘带。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to dribble past someone.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：扑救。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the save.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：铲球，拦截。
+
+<break time="4.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="en" />
+the tackle.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+请说英语：越位。
+
+<break time="4.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="en" />
+to be offside.
+
+<break time="2.5s" />
+
+<lang code="zh" />
+很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。
