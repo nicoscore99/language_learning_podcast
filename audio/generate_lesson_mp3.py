@@ -39,6 +39,7 @@ Example:
       --model-id eleven_multilingual_v2 `
       --output lesson01.mp3 `
       --max-chars 350 `
+      --elevenlabs-speed 1.0 `
       --speech-tempo 0.88 `
       --break-multiplier 1.25
 
@@ -443,6 +444,7 @@ def cache_key_for_speech(
     stability: float,
     similarity_boost: float,
     style: float,
+    elevenlabs_speed: float,
     use_speaker_boost: bool,
     seed: int | None,
     language_code: str | None,
@@ -455,6 +457,7 @@ def cache_key_for_speech(
         "stability": stability,
         "similarity_boost": similarity_boost,
         "style": style,
+        "elevenlabs_speed": elevenlabs_speed,
         "use_speaker_boost": use_speaker_boost,
         "seed": seed,
         "language_code": language_code,
@@ -487,7 +490,8 @@ def build_manifest(
                 stability=args.stability,
                 similarity_boost=args.similarity_boost,
                 style=args.style,
-                use_speaker_boost=not args.no_speaker_boost,
+                elevenlabs_speed=args.elevenlabs_speed,
+                use_speaker_boost=args.use_speaker_boost,
                 seed=args.seed,
                 language_code=language_code,
             )
@@ -540,7 +544,8 @@ def build_manifest(
             "stability": args.stability,
             "similarity_boost": args.similarity_boost,
             "style": args.style,
-            "use_speaker_boost": not args.no_speaker_boost,
+            "elevenlabs_speed": args.elevenlabs_speed,
+            "use_speaker_boost": args.use_speaker_boost,
             "seed": args.seed,
         },
         "processing_settings": {
@@ -619,6 +624,7 @@ def call_elevenlabs_tts(
     stability: float,
     similarity_boost: float,
     style: float,
+    elevenlabs_speed: float,
     use_speaker_boost: bool,
     seed: int | None,
     language_code: str | None,
@@ -641,6 +647,7 @@ def call_elevenlabs_tts(
             "stability": stability,
             "similarity_boost": similarity_boost,
             "style": style,
+            "speed": elevenlabs_speed,
             "use_speaker_boost": use_speaker_boost,
         },
     }
@@ -844,7 +851,29 @@ def main() -> None:
     parser.add_argument("--stability", type=float, default=0.65)
     parser.add_argument("--similarity-boost", type=float, default=0.80)
     parser.add_argument("--style", type=float, default=0.0)
-    parser.add_argument("--no-speaker-boost", action="store_true")
+    parser.add_argument(
+        "--elevenlabs-speed",
+        type=float,
+        default=1.0,
+        help=(
+            "ElevenLabs voice_settings.speed. 1.0 is normal speed; lower slows API "
+            "speech and higher speeds it up before local FFmpeg tempo processing."
+        ),
+    )
+    speaker_boost_group = parser.add_mutually_exclusive_group()
+    speaker_boost_group.add_argument(
+        "--speaker-boost",
+        dest="use_speaker_boost",
+        action="store_true",
+        default=False,
+        help="Enable ElevenLabs voice_settings.use_speaker_boost. Defaults to off.",
+    )
+    speaker_boost_group.add_argument(
+        "--no-speaker-boost",
+        dest="use_speaker_boost",
+        action="store_false",
+        help="Disable ElevenLabs speaker boost. This is the default.",
+    )
 
     parser.add_argument(
         "--seed",
@@ -989,6 +1018,9 @@ def main() -> None:
     if args.seed == -1:
         args.seed = None
 
+    if args.elevenlabs_speed <= 0:
+        parser.error("--elevenlabs-speed must be greater than zero")
+
     if args.teacher_speech_tempo is not None and not args.teacher_language:
         parser.error("--teacher-speech-tempo requires --teacher-language")
     if args.target_speech_tempo is not None and not args.target_language:
@@ -1096,6 +1128,8 @@ def main() -> None:
 
     print(f"Model: {args.model_id}")
     print(f"Voice ID: {args.voice_id}")
+    print(f"ElevenLabs speed: {args.elevenlabs_speed}")
+    print(f"Speaker boost: {'on' if args.use_speaker_boost else 'off'}")
     print(f"Fallback speech tempo: {args.speech_tempo}")
     if args.teacher_language:
         print(f"Teacher speech tempo: {args.teacher_language} = {args.teacher_speech_tempo}")
@@ -1127,7 +1161,8 @@ def main() -> None:
                 stability=args.stability,
                 similarity_boost=args.similarity_boost,
                 style=args.style,
-                use_speaker_boost=not args.no_speaker_boost,
+                elevenlabs_speed=args.elevenlabs_speed,
+                use_speaker_boost=args.use_speaker_boost,
                 seed=args.seed,
                 language_code=language_code,
             )
@@ -1155,7 +1190,8 @@ def main() -> None:
                     stability=args.stability,
                     similarity_boost=args.similarity_boost,
                     style=args.style,
-                    use_speaker_boost=not args.no_speaker_boost,
+                    elevenlabs_speed=args.elevenlabs_speed,
+                    use_speaker_boost=args.use_speaker_boost,
                     seed=args.seed,
                     language_code=language_code,
                 )

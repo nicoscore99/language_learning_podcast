@@ -101,6 +101,7 @@ python audio\generate_lesson_mp3.py `
   --target-language en `
   --target-speech-tempo 0.88 `
   --speech-tempo 1.0 `
+  --elevenlabs-speed 1.0 `
   --break-multiplier 1.0 `
   --stability 0.65 `
   --similarity-boost 0.80 `
@@ -130,6 +131,7 @@ foreach ($lesson in $lessons) {
     --teacher-speech-tempo 1.0 `
     --target-language en `
     --target-speech-tempo 0.88 `
+    --elevenlabs-speed 1.0 `
     --break-multiplier 1.0 `
     --normalize-loudness
 
@@ -243,14 +245,32 @@ Parses a tagged lesson, generates/caches complete speech blocks with ElevenLabs,
 Key options:
 
 - `--voice-id`, `--model-id`, `--output`
+- `--stability`, `--similarity-boost`, `--style`
+- `--elevenlabs-speed` controls ElevenLabs `voice_settings.speed`; default `1.0`
+- `--speaker-boost` enables ElevenLabs `voice_settings.use_speaker_boost`; default is off
 - `--teacher-language`, `--teacher-speech-tempo`
 - `--target-language`, `--target-speech-tempo`
-- `--speech-tempo`
+- `--speech-tempo` applies local FFmpeg tempo processing after ElevenLabs generation
 - `--seed` (`--seed -1` omits the seed)
 - `--min-break`, `--break-multiplier`
 - `--normalize-loudness`, `--loudness-target-i`, `--loudness-target-tp`, `--loudness-target-lra`
 - `--cache-dir`, `--work-dir`, `--keep-work`
 - `--manifest`, `--no-manifest`, `--dry-run`
+
+Example with API-side speed and speaker boost enabled:
+
+```powershell
+python audio\generate_lesson_mp3.py `
+  curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.txt `
+  --voice-id YOUR_VOICE_ID `
+  --model-id eleven_multilingual_v2 `
+  --teacher-language zh `
+  --target-language en `
+  --elevenlabs-speed 0.95 `
+  --speaker-boost `
+  --speech-tempo 1.0 `
+  --normalize-loudness
+```
 
 ### `curriculum/tools/validate_lessons.py`
 

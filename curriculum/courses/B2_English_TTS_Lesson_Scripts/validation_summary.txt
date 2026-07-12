@@ -243,7 +243,259 @@ auto tag count: 0
 English word count: 1235
 CJK character count: 722
 
-files validated: 20
+filename: B2_Lesson_21_World_Championship_Football_One.txt
+status: PASS
+estimated duration: 13.8 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 433.0s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1369
+CJK character count: 789
+
+filename: B2_Lesson_22_World_Championship_Football_Two.txt
+status: PASS
+estimated duration: 13.3 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 418.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1317
+CJK character count: 767
+
+filename: B2_Lesson_23_Cooking_At_Home.txt
+status: PASS
+estimated duration: 12.7 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 417.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1307
+CJK character count: 597
+
+filename: B2_Lesson_24_Home_And_Neighbors.txt
+status: PASS
+estimated duration: 13.3 minutes
+speech segments: 178
+break tags: 129
+max break: 6.5s
+total break time: 436.5s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1376
+CJK character count: 594
+
+filename: B2_Lesson_25_Fitness_And_Routine.txt
+status: PASS
+estimated duration: 13.6 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 429.5s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1340
+CJK character count: 787
+
+filename: B2_Lesson_26_Travel_Delays.txt
+status: PASS
+estimated duration: 13.4 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 414.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1319
+CJK character count: 801
+
+filename: B2_Lesson_27_Dating_And_Relationships.txt
+status: PASS
+estimated duration: 14.5 minutes
+speech segments: 178
+break tags: 129
+max break: 6.5s
+total break time: 435.0s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1420
+CJK character count: 849
+
+filename: B2_Lesson_28_Family_And_Parenting.txt
+status: PASS
+estimated duration: 13.5 minutes
+speech segments: 173
+break tags: 125
+max break: 6.5s
+total break time: 415.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1331
+CJK character count: 812
+
+filename: B2_Lesson_29_Shopping_For_Clothes.txt
+status: PASS
+estimated duration: 13.9 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 435.0s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1373
+CJK character count: 789
+
+filename: B2_Lesson_30_Doctor_Appointment.txt
+status: PASS
+estimated duration: 13.7 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 430.5s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1377
+CJK character count: 768
+
+filename: B2_Lesson_31_Hobbies_And_Creativity.txt
+status: PASS
+estimated duration: 13.8 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 416.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1361
+CJK character count: 824
+
+filename: B2_Lesson_32_City_Life.txt
+status: PASS
+estimated duration: 13.5 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 419.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1334
+CJK character count: 792
+
+filename: B2_Lesson_33_Friendship_Plans.txt
+status: PASS
+estimated duration: 13.7 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 420.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1342
+CJK character count: 818
+
+filename: B2_Lesson_34_Movies_And_Series.txt
+status: PASS
+estimated duration: 13.6 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 430.5s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1346
+CJK character count: 782
+
+filename: B2_Lesson_35_Music_And_Concerts.txt
+status: PASS
+estimated duration: 13.2 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 414.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1310
+CJK character count: 762
+
+filename: B2_Lesson_36_Pets_And_Daily_Care.txt
+status: PASS
+estimated duration: 14.6 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 438.0s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1440
+CJK character count: 834
+
+filename: B2_Lesson_37_Weather_And_Seasons.txt
+status: PASS
+estimated duration: 13.2 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 415.5s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1302
+CJK character count: 784
+
+filename: B2_Lesson_38_Social_Media_Everyday.txt
+status: PASS
+estimated duration: 13.2 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 413.0s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1310
+CJK character count: 781
+
+filename: B2_Lesson_39_Personal_Budgeting.txt
+status: PASS
+estimated duration: 13.9 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 429.5s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1372
+CJK character count: 828
+
+filename: B2_Lesson_40_Language_Learning.txt
+status: PASS
+estimated duration: 14.3 minutes
+speech segments: 178
+break tags: 129
+max break: 5.5s
+total break time: 435.0s
+language counts: en=97, zh=81
+auto tag count: 0
+English word count: 1410
+CJK character count: 832
+
+filename: B2_Lesson_41_Weekend_Getaway.txt
+status: PASS
+estimated duration: 13.4 minutes
+speech segments: 173
+break tags: 125
+max break: 5.5s
+total break time: 418.0s
+language counts: en=94, zh=79
+auto tag count: 0
+English word count: 1329
+CJK character count: 777
+
+files validated: 41
 errors: 0
 warnings: 0
 overall validation: PASS

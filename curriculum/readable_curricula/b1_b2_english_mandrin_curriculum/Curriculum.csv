@@ -1,62 +1,22 @@
-﻿Level,Lesson #,Topic,Lesson Focus,Word 1,Word 2,Word 3,Word 4,Word 5,Word 6,Learning Objective
-B1,1,Health and Appointments,Symptoms and body problems,hurt,cough,dizzy,swollen,rash,injury,Describe common health problems and symptoms clearly.
-B1,2,Health and Appointments,Visiting the doctor,appointment,clinic,prescription,check-up,treatment,specialist,Understand and discuss basic medical appointments.
-B1,3,Health and Appointments,Recovery and habits,recover,rest,diet,exercise,avoid,improve,Talk about getting better and healthy habits.
-B1,4,Work and Jobs,Office routines,colleague,meeting,schedule,task,deadline,report,Discuss common workplace routines and responsibilities.
-B1,5,Work and Jobs,Job search,application,interview,experience,qualification,position,hire,Talk about applying for jobs and work experience.
-B1,6,Work and Jobs,Workplace communication,request,confirm,explain,feedback,problem,solution,Handle simple professional communication at work.
-B1,7,Travel and Transport,Planning a trip,destination,reservation,luggage,passport,itinerary,accommodation,Plan and discuss practical travel arrangements.
-B1,8,Travel and Transport,Travel problems,delay,cancel,miss,platform,connection,refund,Explain travel issues and ask for help.
-B1,9,Housing and Neighborhoods,Finding a place,rent,landlord,tenant,apartment,deposit,contract,Discuss renting a home and basic housing terms.
-B1,10,Housing and Neighborhoods,Home problems,repair,leak,heating,electricity,noise,neighborhood,Describe household problems and neighborhood conditions.
-B1,11,Money and Banking,Personal finance,budget,savings,income,expense,afford,discount,Talk about everyday money decisions.
-B1,12,Money and Banking,Banking and payments,account,transfer,payment,fee,receipt,balance,Understand common banking and payment vocabulary.
-B1,13,Food and Restaurants,Eating out,menu,starter,main course,dessert,waiter,tip,Order food and interact in restaurants.
-B1,14,Food and Restaurants,Cooking and ingredients,recipe,ingredients,boil,fry,slice,portion,Follow and describe simple cooking processes.
-B1,15,Education and Learning,Classes and study,course,subject,assignment,grade,exam,certification,"Talk about school, courses, and study progress."
-B1,16,Education and Learning,Learning strategies,practice,memorize,review,mistake,progress,goal,Discuss ways to study and improve.
-B1,17,Education and Learning,Classroom communication,question,answer,explain,example,topic,discussion,Participate in classroom conversations.
-B1,18,Relationships and Social Life,Making plans,invite,accept,refuse,arrange,cancel,suggest,"Make, accept, and change social plans."
-B1,19,Relationships and Social Life,Feelings and reactions,worried,excited,annoyed,surprised,embarrassed,proud,Describe feelings in everyday situations.
-B1,20,Relationships and Social Life,Disagreements and apologies,argue,apologize,forgive,trust,support,promise,Manage basic disagreements and repairs in relationships.
-B2,1,Opinions and Debate,Giving opinions,claim,perspective,assumption,convincing,reasonable,biased,Express and qualify opinions with more precision.
-B2,2,Opinions and Debate,Building arguments,evidence,argument,support,counterargument,justify,conclude,Build and respond to structured arguments.
-B2,3,Opinions and Debate,Agreement and disagreement,challenge,disagree,acknowledge,persuade,compromise,controversial,Discuss disagreement politely and effectively.
-B2,4,Technology and Online Life,Digital tools,device,software,platform,feature,update,compatibility,Talk about digital products and everyday technology.
-B2,5,Technology and Online Life,Privacy and security,privacy,password,encryption,access,account,breach,Discuss online privacy and security concerns.
-B2,6,Technology and Online Life,Online behavior,notification,algorithm,content,subscribe,influence,moderate,Describe how people interact with online platforms.
-B2,7,Environment and Sustainability,Environmental problems,pollution,emissions,waste,deforestation,shortage,contamination,Discuss environmental problems and causes.
-B2,8,Environment and Sustainability,Solutions and policy,recycle,renewable,sustainable,regulation,incentive,conservation,Explain possible environmental solutions.
-B2,9,Environment and Sustainability,Climate impacts,climate,drought,flood,biodiversity,adaptation,resilience,Talk about climate-related impacts and responses.
-B2,10,Career and Business,Professional development,ambition,promotion,performance,leadership,mentor,expertise,Discuss career growth and professional skills.
-B2,11,Career and Business,Negotiation and decisions,negotiate,proposal,priority,risk,benefit,trade-off,"Discuss choices, risks, and negotiations."
-B2,12,Career and Business,Markets and strategy,market,demand,profit,investment,competitor,strategy,Use basic business and economic vocabulary.
-B2,13,Society and Politics,Citizens and institutions,citizen,government,policy,election,representative,rights,Discuss public life and civic participation.
-B2,14,Society and Politics,Public issues,inequality,justice,welfare,reform,minority,campaign,Talk about social and political problems.
-B2,15,Science and Research,Research methods,research,hypothesis,experiment,sample,survey,data,Understand and describe basic research processes.
-B2,16,Science and Research,Results and interpretation,analysis,evidence,trend,variable,significant,proof,Discuss research findings and their meaning.
-B2,17,Emotions and Psychology,Mental well-being,anxiety,confidence,stress,motivation,self-esteem,cope,Talk about mental well-being and coping strategies.
-B2,18,Emotions and Psychology,Behavior and personality,attitude,habit,greedy,empathy,resilience,personality,Describe behavior and personal traits.
-B2,19,Global Issues,Migration and conflict,migration,refugee,border,conflict,security,integration,Discuss migration and conflict with careful vocabulary.
-B2,20,Global Issues,Development and cooperation,poverty,aid,cooperation,crisis,resource,development,Talk about global development and cooperation.
-B2,21,World Championship Football One,World Championship basics,pitch,goal,score,striker,defender,pass,"Discuss the pitch, goals, scoring, players, and passing in a World Championship match."
-B2,22,World Championship Football Two,World Championship action,foul,shoot,dribble,save,tackle,be offside,"Describe fouls, shots, dribbling, tackles, offsides, and saves during a tense match."
-B2,23,Cooking At Home,Cooking dinner,recipe,portion,seasoning,leftovers,simmer,chop,"Discuss recipes, portions, seasoning, and leftovers naturally."
-B2,24,Home And Neighbors,Home organization,renovation,clutter,appliance,tidy,complain about,be considerate,"Talk about home improvements, clutter, appliances, and neighborly behavior."
-B2,25,Fitness And Routine,Exercise habits,stamina,routine,posture,stretch,keep up with,be sore,"Describe fitness routines, stamina, posture, and physical recovery."
-B2,26,Travel Delays,Airport problems,queue,boarding pass,luggage allowance,announcement,get delayed,make a connection,"Handle travel delays, queues, boarding passes, and missed connections."
-B2,27,Dating And Relationships,Romantic relationships,chemistry,boundary,commitment,get along with,break up with,be honest with,"Discuss chemistry, boundaries, commitment, and honest communication."
-B2,28,Family And Parenting,Caring for family,sibling,responsibility,curfew,look after,set limits,be patient with,"Talk about family responsibilities, limits, and patience with children."
-B2,29,Shopping For Clothes,Buying clothes,bargain,refund,size,fabric,try on,be worth it,"Discuss sizes, fabric, refunds, bargains, and whether purchases are worth it."
-B2,30,Doctor Appointment,Medical appointments,symptom,diagnosis,prescription,book,describe,be allergic to,"Describe symptoms, allergies, diagnosis, and prescriptions clearly."
-B2,31,Hobbies And Creativity,Creative hobbies,hobby,workshop,sketch,pick up,improve at,be inspired by,"Talk about hobbies, workshops, sketches, and creative improvement."
-B2,32,City Life,Urban routines,commute,district,pedestrian,get around,be crowded,settle into,"Discuss city districts, commuting, pedestrians, and getting around."
-B2,33,Friendship Plans,Making plans with friends,spontaneous,reliable,arrangement,catch up with,show up,cancel on,Arrange flexible social plans and discuss reliability politely.
-B2,34,Movies And Series,Talking about shows,plot,character,scene,be overrated,recommend,spoil,"Discuss plots, characters, scenes, recommendations, and spoilers."
-B2,35,Music And Concerts,Concert plans,venue,playlist,lyrics,perform,sing along,be sold out,"Talk about venues, playlists, lyrics, live performances, and sold-out events."
-B2,36,Pets And Daily Care,Pet adoption,shelter,leash,temperament,adopt,take care of,be attached to,"Discuss shelters, pet temperament, leashes, and daily animal care."
-B2,37,Weather And Seasons,Weather plans,forecast,heatwave,shower,cool down,warm up,be humid,"Discuss forecasts, heatwaves, showers, humidity, and changing temperatures."
-B2,38,Social Media Everyday,Social media habits,feed,comment,privacy settings,scroll through,post,mute,"Discuss feeds, comments, privacy settings, posting, and muting accounts."
-B2,39,Personal Budgeting,Managing money,subscription,grocery bill,expense,cut back on,split,be affordable,"Talk about expenses, subscriptions, grocery bills, and affordable budgets."
-B2,40,Language Learning,Speaking practice,fluency,accent,mistake,pick up a phrase,practice,be fluent in,"Discuss fluency, accent, mistakes, phrases, and regular language practice."
-B2,41,Weekend Getaway,Short trips,getaway,landmark,route,wander around,check in,be worth visiting,"Plan a weekend getaway with routes, landmarks, check-in, and sightseeing."
+﻿Column1.1;Column1.2;Column1.3;Column1.4;Column1.5;Column1.6;Column1.7;Column1.8;Column1.9;Column1.10;Column1.11
+B2;21;World Championship Football One;World Championship basics;pitch;goal;score;striker;defender;pass;Discuss the pitch, goals, scoring, players, and passing in a World Championship match.
+B2;22;World Championship Football Two;World Championship action;foul;shoot;dribble;save;tackle;be offside;Describe fouls, shots, dribbling, tackles, offsides, and saves during a tense match.
+B2;23;Cooking At Home;Cooking dinner;recipe;portion;seasoning;leftovers;simmer;chop;Discuss recipes, portions, seasoning, and leftovers naturally.
+B2;24;Home And Neighbors;Home organization;renovation;clutter;appliance;tidy;complain about;be considerate;Talk about home improvements, clutter, appliances, and neighborly behavior.
+B2;25;Fitness And Routine;Exercise habits;stamina;routine;posture;stretch;keep up with;be sore;Describe fitness routines, stamina, posture, and physical recovery.
+B2;26;Travel Delays;Airport problems;queue;boarding pass;luggage allowance;announcement;get delayed;make a connection;Handle travel delays, queues, boarding passes, and missed connections.
+B2;27;Dating And Relationships;Romantic relationships;chemistry;boundary;commitment;get along with;break up with;be honest with;Discuss chemistry, boundaries, commitment, and honest communication.
+B2;28;Family And Parenting;Caring for family;sibling;responsibility;curfew;look after;set limits;be patient with;Talk about family responsibilities, limits, and patience with children.
+B2;29;Shopping For Clothes;Buying clothes;bargain;refund;size;fabric;try on;be worth it;Discuss sizes, fabric, refunds, bargains, and whether purchases are worth it.
+B2;30;Doctor Appointment;Medical appointments;symptom;diagnosis;prescription;book;describe;be allergic to;Describe symptoms, allergies, diagnosis, and prescriptions clearly.
+B2;31;Hobbies And Creativity;Creative hobbies;hobby;workshop;sketch;pick up;improve at;be inspired by;Talk about hobbies, workshops, sketches, and creative improvement.
+B2;32;City Life;Urban routines;commute;district;pedestrian;get around;be crowded;settle into;Discuss city districts, commuting, pedestrians, and getting around.
+B2;33;Friendship Plans;Making plans with friends;spontaneous;reliable;arrangement;catch up with;show up;cancel on;Arrange flexible social plans and discuss reliability politely.
+B2;34;Movies And Series;Talking about shows;plot;character;scene;be overrated;recommend;spoil;Discuss plots, characters, scenes, recommendations, and spoilers.
+B2;35;Music And Concerts;Concert plans;venue;playlist;lyrics;perform;sing along;be sold out;Talk about venues, playlists, lyrics, live performances, and sold-out events.
+B2;36;Pets And Daily Care;Pet adoption;shelter;leash;temperament;adopt;take care of;be attached to;Discuss shelters, pet temperament, leashes, and daily animal care.
+B2;37;Weather And Seasons;Weather plans;forecast;heatwave;shower;cool down;warm up;be humid;Discuss forecasts, heatwaves, showers, humidity, and changing temperatures.
+B2;38;Social Media Everyday;Social media habits;feed;comment;privacy settings;scroll through;post;mute;Discuss feeds, comments, privacy settings, posting, and muting accounts.
+B2;39;Personal Budgeting;Managing money;subscription;grocery bill;expense;cut back on;split;be affordable;Talk about expenses, subscriptions, grocery bills, and affordable budgets.
+B2;40;Language Learning;Speaking practice;fluency;accent;mistake;pick up a phrase;practice;be fluent in;Discuss fluency, accent, mistakes, phrases, and regular language practice.
+B2;41;Weekend Getaway;Short trips;getaway;landmark;route;wander around;check in;be worth visiting;Plan a weekend getaway with routes, landmarks, check-in, and sightseeing.
