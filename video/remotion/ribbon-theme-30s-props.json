@@ -1,0 +1,113 @@
+{
+  "waveform": {
+    "width": 520,
+    "height": 390,
+    "x": 120,
+    "y": 345,
+    "colorPairs": [
+      [
+        "#14C8F2",
+        "#1E5BFF"
+      ],
+      [
+        "#1D56E8",
+        "#6F2BEF"
+      ],
+      [
+        "#7428E8",
+        "#CC3B2F"
+      ],
+      [
+        "#f02b99",
+        "#FFA043"
+      ]
+    ],
+    "opacity": 1.0,
+    "glowOpacity": 0.5,
+    "amplitude": 116,
+    "gain": 5.8,
+    "minVolume": 0.18,
+    "sampleCount": 96,
+    "smoothFrames": 7,
+    "waveCount": 2.4,
+    "trebleWaveInfluence": 0.05,
+    "bassThicknessInfluence": 0.5,
+    "rhythmSpeedInfluence": 0.04,
+    "ribbonCount": 4,
+    "thickness": 100,
+    "modeCountMin": 2,
+    "modeCountMax": 5,
+    "modeWidth": 0.1,
+    "centerDrift": 0.08,
+    "modeSpeed": 0.4,
+    "spread": 0.18,
+    "gradientPeak": 85,
+    "gradientSpread": 90,
+    "gradientAngleVariance": 75,
+    "gradientHardness": 34
+  },
+  "audioSrc": "demo-audio.mp3",
+  "durationInSeconds": 30.0,
+  "subtitleEntries": [
+    {
+      "start": 0.0,
+      "end": 2.335283,
+      "lang": "zh",
+      "text": "第一部分，课程介绍。"
+    },
+    {
+      "start": 2.335283,
+      "end": 6.367664,
+      "lang": "zh",
+      "text": "欢迎回来。今天是第1课，级别是B2。"
+    },
+    {
+      "start": 6.367664,
+      "end": 9.303628,
+      "lang": "zh",
+      "text": "今天的主题是观点和辩论。"
+    },
+    {
+      "start": 9.303628,
+      "end": 16.169138,
+      "lang": "zh",
+      "text": "你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。"
+    },
+    {
+      "start": 16.169138,
+      "end": 18.777369,
+      "lang": "zh",
+      "text": "今天的六个新英语表达是。"
+    },
+    {
+      "start": 18.777369,
+      "end": 21.20619,
+      "lang": "en",
+      "text": "the claim."
+    },
+    {
+      "start": 21.20619,
+      "end": 24.103582,
+      "lang": "en",
+      "text": "the perspective."
+    },
+    {
+      "start": 24.103582,
+      "end": 26.747323,
+      "lang": "en",
+      "text": "the assumption."
+    },
+    {
+      "start": 26.747323,
+      "end": 29.64755,
+      "lang": "en",
+      "text": "to be convincing."
+    },
+    {
+      "start": 29.64755,
+      "end": 30.0,
+      "lang": "en",
+      "text": "to be reasonable."
+    }
+  ]
+}

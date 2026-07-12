@@ -1,5 +1,5 @@
 {
-  "_comment": "Configuration for the waveform ribbon still and 30s test render. JSON does not support real comments, so these _comment fields are documentation and are ignored by the Remotion components.",
+  "_comment": "Standalone Ribbon Theme props for the still image and 30-second ribbon test render. JSON does not support real comments, so these _comment fields are documentation and are ignored by the Remotion components.",
   "_comments": {
     "audioSrc": "Audio file in public/ or an absolute/URL source. The waveform reacts to this audio.",
     "backgroundColor": "Background color behind the ribbon.",

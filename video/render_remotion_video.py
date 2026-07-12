@@ -123,15 +123,26 @@ def prepare_render_props(
     props: dict[str, Any],
     original_props_path: Path,
     output: Path,
-) -> tuple[Path, dict[str, str] | None]:
-    audio_src = props.get("audioSrc")
-    if not isinstance(audio_src, str) or not is_local_path(audio_src):
-        return original_props_path, None
-
-    source = local_media_path(audio_src)
-    staged_src = stage_public_asset(source)
+) -> tuple[Path, list[dict[str, str]] | None]:
+    staged_assets: list[dict[str, str]] = []
     render_props = dict(props)
-    render_props["audioSrc"] = staged_src
+
+    for key in ("audioSrc", "teacherFlagSrc", "targetFlagSrc"):
+        src = props.get(key)
+        if not isinstance(src, str) or not is_local_path(src):
+            continue
+
+        source = local_media_path(src)
+        staged_src = stage_public_asset(source)
+        render_props[key] = staged_src
+        staged_assets.append({
+            "prop": key,
+            "original_src": src,
+            "staged_src": staged_src,
+        })
+
+    if not staged_assets:
+        return original_props_path, None
 
     render_props_path = output.with_name(f"{output.stem}.render.props.json")
     render_props_path.parent.mkdir(parents=True, exist_ok=True)
@@ -140,11 +151,10 @@ def prepare_render_props(
         encoding="utf-8",
     )
 
-    return render_props_path, {
-        "original_audio_src": audio_src,
-        "staged_audio_src": staged_src,
-        "render_props": str(render_props_path),
-    }
+    for asset in staged_assets:
+        asset["render_props"] = str(render_props_path)
+
+    return render_props_path, staged_assets
 
 
 def resolve_executable(name: str) -> str:
@@ -195,7 +205,7 @@ def main() -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
     video_manifest = args.video_manifest or default_manifest_path(output)
     try:
-        render_props_path, staged_asset = prepare_render_props(props, args.props, output)
+        render_props_path, staged_assets = prepare_render_props(props, args.props, output)
     except FileNotFoundError as error:
         parser.error(str(error))
 
@@ -238,7 +248,7 @@ def main() -> None:
             "codec": args.codec,
             "crf": args.crf,
             "concurrency": args.concurrency,
-            "staged_asset": staged_asset,
+            "staged_assets": staged_assets,
         },
         "inputs": {
             "props": {

@@ -4,7 +4,7 @@ This project generates language-learning podcast episodes from tagged lesson scr
 
 - `curriculum/` - lesson source files, curriculum spreadsheets, style rules, and lesson QA tools.
 - `audio/` - ElevenLabs/FFmpeg audio generation and reproducibility manifests.
-- `video/` - subtitle generation, FFmpeg video rendering, and Remotion waveform videos.
+- `video/` - subtitle generation, FFmpeg video rendering, and Remotion theme videos.
 
 Generated media, cache files, work folders, and local secrets are ignored by Git.
 
@@ -19,8 +19,8 @@ Generated media, cache files, work folders, and local secrets are ignored by Git
 - `video/ffmpeg/generate_subtitles.py` - SRT and flowing ASS subtitle generation from completed manifests.
 - `video/ffmpeg/render_lesson_video.py` - FFmpeg renderer for image/video backgrounds plus ASS subtitles.
 - `video/ffmpeg/video_style.json` - subtitle/video style config for the FFmpeg renderer.
-- `video/manifest_to_remotion_props.py` - converts a completed audio manifest into Remotion subtitle props.
-- `video/remotion/` - React/TypeScript Remotion compositions and waveform ribbon settings.
+- `video/manifest_to_remotion_props.py` - converts a completed audio manifest into Ribbon Theme Remotion props.
+- `video/remotion/` - React/TypeScript Remotion compositions and theme props.
 - `public/` - local Remotion assets such as `demo-audio.mp3`.
 - `out/` - local render outputs.
 - `tts_cache/`, `tts_work/` - audio cache and temporary segment work directories.
@@ -174,9 +174,15 @@ python video\ffmpeg\render_lesson_video.py `
 
 Use `--preview-start` and `--preview-duration` to render short styling checks before full episodes.
 
-## Remotion Waveform Video Workflow
+## Remotion Video Themes
 
-The Remotion video uses the same audio plus manifest-derived subtitle timings. This keeps Mandarin and target-language text synchronized with the exact stitched audio segments.
+The Remotion video layer has two separate themes. Both use the same stitched audio and manifest-derived subtitle timings, but they use different compositions, props files, and render commands.
+
+### Ribbon Theme
+
+Composition: `PodcastFinal`
+
+This is the waveform ribbon layout. It shows previous, current, and next dialogue text beside the ribbon visualization.
 
 Copy or generate the episode audio into `public/` for Remotion:
 
@@ -185,56 +191,229 @@ Copy-Item `
   public\demo-audio.mp3
 ```
 
-Create 30-second demo Remotion props from the measured manifest:
+Create 30-second Ribbon Theme props from the measured manifest:
 
 ```powershell
 python video\manifest_to_remotion_props.py `
   curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.manifest.json `
-  --output video\remotion\combined-30s-props.json `
+  --output video\remotion\ribbon-theme-30s-props.json `
   --audio-src demo-audio.mp3 `
-  --style-props video\remotion\podcast-final-style.json `
+  --style-props video\remotion\ribbon-theme-final-props.json `
   --preview-duration 30
 ```
 
 For a full episode, omit `--preview-duration`; the converter uses the completed manifest duration.
 
-Render the 30-second combined demo:
+Render the 30-second Ribbon Theme demo:
 
 ```powershell
-npm run remotion:render:combined30
+npm run remotion:ribbon:props30
+npm run remotion:ribbon:render30
 ```
 
-Output: `out\podcast-combined-30s-demo.mp4`.
+Output: `out\ribbon-theme-30s-test.mp4`.
 
 The render command uses `video/render_remotion_video.py`, which also writes a sidecar video manifest:
 
 ```text
-out\podcast-combined-30s-demo.video.manifest.json
+out\ribbon-theme-30s-test.video.manifest.json
 ```
 
 That sidecar records the render command, Remotion entry/composition, props hash, audio manifest hash, props snapshot, output hash, output probe data, timestamp, and git state.
 
-The reusable visual settings live in:
+Ribbon Theme props files:
 
 ```text
-video\remotion\podcast-final-style.json
+video\remotion\ribbon-theme-final-props.json
+video\remotion\ribbon-theme-30s-props.json
+video\remotion\ribbon-theme-standalone-props.json
 ```
 
-Pass a different file with `--style-props` when creating Remotion props if you want a different waveform/layout preset.
+Use `ribbon-theme-final-props.json` as the reusable visual preset. Use `ribbon-theme-30s-props.json` as the generated episode test props. Use `ribbon-theme-standalone-props.json` only for isolated ribbon stills and animation tests.
 
 Iterate on the standalone waveform ribbon:
 
 ```powershell
-npm run remotion:still:ribbon
-npm run remotion:render:ribbon
+npm run remotion:ribbon:still
+npm run remotion:ribbon:render-standalone
 ```
-
-Useful standalone ribbon settings live in `video/remotion/ribbon-still-props.json`. Production `PodcastFinal` settings live in `video/remotion/podcast-final-style.json`.
 
 - `width`, `height` - ribbon canvas size.
 - `amplitude`, `gain`, `minVolume` - how strongly audio drives movement.
 - `smoothFrames`, `modeSpeed`, `centerDrift`, `rhythmSpeedInfluence` - calmness vs. nervousness.
 - `opacity`, `glowOpacity`, `gradientPeak`, `gradientSpread`, `gradientHardness`, `colorPairs` - color intensity and glow.
+
+### Flag Dialogue Theme
+
+Composition: `FlagDialogue`
+
+`FlagDialogue` is a separate Remotion composition for the sentence-focused flag animation. It does not use the waveform ribbon. The teacher flag appears on the left, the target-language flag appears on the right, and both sit on the same horizontal line as the current sentence. Like the ribbon composition, it shows the previous two, current, and next two sentences, with the surrounding sentences dimmed. The active language is determined from each manifest subtitle entry's `lang` value.
+
+For the default B2 English lessons with Mandarin teacher audio:
+
+- teacher language: `zh`
+- target language: `en`
+- teacher flag: China
+- target flag: United States
+
+The render is a two-step workflow:
+
+1. Generate a props JSON file from the audio manifest.
+2. Render a still image, 30-second test video, or full video from that props file.
+
+Quick default workflow:
+
+```powershell
+npm run remotion:flag-dialogue:props30
+npm run remotion:flag-dialogue:still
+npm run remotion:flag-dialogue:render30
+
+npm run remotion:flag-dialogue:propsfull
+npm run remotion:flag-dialogue:renderfull
+```
+
+Outputs:
+
+- `out/flag-dialogue-still.png`
+- `out/flag-dialogue-30s-test.mp4`
+- `out/flag-dialogue-full.mp4`
+
+To tune the visual parameters, run the props generator directly, then render with the same npm scripts:
+
+```powershell
+python video\manifest_to_flag_dialogue_props.py `
+  --manifest curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.manifest.json `
+  --audio curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp3 `
+  --teacher-flag video\country_flags\china.png `
+  --target-flag video\country_flags\us.png `
+  --output video\remotion\flag-dialogue-30s-props.json `
+  --preview-duration 30 `
+  --halo-min-scale 1.45 `
+  --halo-max-scale 2.3 `
+  --halo-smooth-frames 18 `
+  --halo-normalization-offset 0.04 `
+  --halo-min-visible-volume 0 `
+  --halo-min-opacity 0.42 `
+  --halo-opacity-range 0.06 `
+  --halo-blob-motion-divisor 30 `
+  --halo-blob-variance-base 0.5 `
+  --halo-blob-variance-volume 0.75 `
+  --halo-gradient-inner-color "#777777" `
+  --halo-gradient-mid-color "#777777" `
+  --halo-gradient-outer-color "#777777" `
+  --halo-gradient-inner-opacity 1 `
+  --halo-gradient-mid-opacity 1 `
+  --halo-gradient-outer-opacity 0 `
+  --halo-gradient-mid-offset 84 `
+  --halo-gradient-fill-opacity 1
+
+npm run remotion:flag-dialogue:still
+npm run remotion:flag-dialogue:render30
+```
+
+For a full episode with the same tuned parameters, omit `--preview-duration` and write the full props file:
+
+```powershell
+python video\manifest_to_flag_dialogue_props.py `
+  --manifest curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.manifest.json `
+  --audio curriculum\courses\B2_English_TTS_Lesson_Scripts\B2_Lesson_01_Opinions_and_Debate.mp3 `
+  --teacher-flag video\country_flags\china.png `
+  --target-flag video\country_flags\us.png `
+  --output video\remotion\flag-dialogue-full-props.json `
+  --halo-min-scale 1.45 `
+  --halo-max-scale 2.3 `
+  --halo-smooth-frames 18 `
+  --halo-normalization-offset 0.04 `
+  --halo-min-visible-volume 0 `
+  --halo-min-opacity 0.42 `
+  --halo-opacity-range 0.06 `
+  --halo-blob-motion-divisor 30 `
+  --halo-blob-variance-base 0.5 `
+  --halo-blob-variance-volume 0.75 `
+  --halo-gradient-inner-color "#777777" `
+  --halo-gradient-mid-color "#777777" `
+  --halo-gradient-outer-color "#777777" `
+  --halo-gradient-inner-opacity 1 `
+  --halo-gradient-mid-opacity 1 `
+  --halo-gradient-outer-opacity 0 `
+  --halo-gradient-mid-offset 84 `
+  --halo-gradient-fill-opacity 1
+
+npm run remotion:flag-dialogue:renderfull
+```
+
+For a German target-language course, generate props with the Germany flag and target language `de`:
+
+```powershell
+python video\manifest_to_flag_dialogue_props.py `
+  --manifest path\to\lesson.manifest.json `
+  --output video\remotion\flag-dialogue-30s-props.json `
+  --preview-duration 30 `
+  --teacher-language en `
+  --target-language de `
+  --teacher-flag video\country_flags\us.png `
+  --target-flag video\country_flags\germany.png
+```
+
+Flag dialogue parameters:
+
+| Option | Default | Effect |
+| --- | ---: | --- |
+| `--background-color` | `#ffffff` | Video background color. |
+| `--flag-size` | `132` | Diameter of each circular flag in pixels. |
+| `--flag-gap` | `34` | Horizontal gap between the two flags. |
+| `--line-y` | `540` | Vertical center line for flags and current sentence. |
+| `--flags-left` | `250` | Left position of the teacher flag. |
+| `--text-left` | `660` | Left position of the sentence text. |
+| `--text-width` | `1010` | Maximum sentence text width. |
+| `--halo-min-scale` | `1.45` | Minimum active halo diameter relative to flag size. Increase if the halo is too small. |
+| `--halo-max-scale` | `2.3` | Maximum active halo diameter relative to flag size. Decrease if loud sections get too wide. |
+| `--halo-gain` | `22` | Audio sensitivity for the visualization only. Higher reacts more strongly. |
+| `--halo-smooth-frames` | `18` | Number of frames on each side sampled for smoothing. Higher is calmer and gives pauses a longer fade. |
+| `--halo-fade-seconds` | `0.32` | Crossfade duration when switching active languages. |
+| `--halo-volume-threshold` | `0.012` | Below this visual volume, the halo is hidden. |
+| `--halo-normalization-offset` | `0.04` | Low-volume fade range and visual normalization floor before scaling begins. Higher makes pause fade-ins/outs longer. |
+| `--halo-normalization-range` | `0.74` | Visual normalization range. Higher compresses the effect. |
+| `--halo-min-visible-volume` | `0` | Optional visual volume floor while speech is active. Keep at `0` to avoid minimum-size jumps around pauses. |
+| `--halo-volume-power` | `0.82` | Curve for volume-to-size response. |
+| `--halo-min-opacity` | `0.42` | Base halo opacity while active. |
+| `--halo-opacity-range` | `0.06` | How much opacity changes with volume. Lower makes opacity steadier. |
+| `--halo-blob-points` | `72` | Number of points in the organic halo shape. Higher is smoother. |
+| `--halo-blob-base-radius` | `72` | Base radius inside the SVG viewBox. Usually leave this alone. |
+| `--halo-blob-variance-base` | `0.5` | Baseline non-circular shape variance. Lower is more circular. |
+| `--halo-blob-variance-volume` | `0.75` | Extra shape variance as volume rises. Lower is more circular. |
+| `--halo-blob-motion-divisor` | `30` | Shape drift speed. Higher is slower. |
+| `--halo-blur-std-deviation` | `3` | Soft blur around the halo. Keep this low for a clean edge. |
+| `--halo-blur-opacity` | `0.04` | Opacity of the blurred backing shape. |
+| `--halo-gradient-radius` | `76` | Radius of the radial gradient, as a percent. Higher keeps the center flatter and fades only near the edge. |
+| `--halo-gradient-inner-color` | `#777777` | Center halo color. Use the same value for inner/mid/outer for a single-color halo. |
+| `--halo-gradient-inner-opacity` | `1` | Center halo opacity before global opacity is applied. |
+| `--halo-gradient-mid-color` | `#777777` | Midpoint halo color. |
+| `--halo-gradient-mid-offset` | `84` | Midpoint gradient stop as a percent. Higher means only the edge fades. |
+| `--halo-gradient-mid-opacity` | `1` | Midpoint opacity before global opacity is applied. |
+| `--halo-gradient-outer-color` | `#777777` | Edge halo color. |
+| `--halo-gradient-outer-opacity` | `0` | Edge opacity before global opacity is applied. |
+| `--halo-gradient-fill-opacity` | `1` | Overall opacity of the gradient fill. |
+| `--chinese-text-font-size` | `48` | Current sentence font size for Chinese text. |
+| `--default-text-font-size` | `52` | Current sentence font size for non-Chinese text. |
+| `--text-font-weight` | `700` | Current sentence font weight. |
+| `--chinese-text-line-height` | `1.22` | Chinese sentence line height. |
+| `--default-text-line-height` | `1.14` | Non-Chinese sentence line height. |
+| `--active-flag-shadow` | `0 12px 34px rgba(0, 0, 0, 0.18)` | CSS shadow for the active flag. Quote this value in PowerShell. |
+| `--inactive-flag-shadow` | `0 8px 22px rgba(0, 0, 0, 0.10)` | CSS shadow for inactive flags. Quote this value in PowerShell. |
+| `--no-render-audio` | off | Writes `renderAudio: false` into props. Usually only useful for visual-only tests. |
+
+Useful tuning shortcuts:
+
+- More visible at all volumes: increase `--halo-min-scale` and `--halo-min-opacity`.
+- More visible without changing size: increase `--halo-min-opacity`, or use a darker single color such as `#666666`.
+- Single-color halo with only edge fade: set `--halo-gradient-inner-color`, `--halo-gradient-mid-color`, and `--halo-gradient-outer-color` to the same value; keep inner/mid opacity at `1`; set `--halo-gradient-mid-offset` around `84`; leave `--halo-gradient-outer-opacity 0`.
+- Very transparent center: lower `--halo-min-opacity`. Do not also lower `--halo-gradient-inner-opacity` and `--halo-gradient-fill-opacity` unless you want the halo to nearly disappear; these values multiply together.
+- Less huge on loud speech: decrease `--halo-max-scale` or increase `--halo-normalization-range`.
+- Less opacity change: decrease `--halo-opacity-range`.
+- More circular: decrease `--halo-blob-variance-base` and `--halo-blob-variance-volume`.
+- Smoother movement: increase `--halo-smooth-frames` and `--halo-blob-motion-divisor`.
+- Slower fade around pauses: increase `--halo-normalization-offset`. Faster fade around pauses: decrease it.
 
 ## Script Reference
 
@@ -286,7 +465,11 @@ Uses FFmpeg to burn ASS subtitles over a static image or looping video. Useful o
 
 ### `video/manifest_to_remotion_props.py`
 
-Converts a completed manifest into Remotion `PodcastFinal` props with exact segment timings. Omit `--preview-duration` for a full episode, or set it for short demos. Use `--style-props` to pass reusable waveform/layout settings instead of editing the converter.
+Converts a completed manifest into Ribbon Theme `PodcastFinal` props with exact segment timings. Omit `--preview-duration` for a full episode, or set it for short demos. Use `--style-props video/remotion/ribbon-theme-final-props.json` to pass reusable ribbon layout settings instead of editing the converter.
+
+### `video/manifest_to_flag_dialogue_props.py`
+
+Converts a completed manifest into Flag Dialogue Theme `FlagDialogue` props with staged audio and flag image assets. Use `--preview-duration 30` for a short test, or omit it for the full manifest duration. Use `--teacher-language`, `--target-language`, `--teacher-flag-src`, and `--target-flag-src` to switch courses. The flag layout, halo, text, and shadow parameters are exposed as CLI options and written into the generated props JSON.
 
 ### `video/render_remotion_video.py`
 
@@ -294,4 +477,4 @@ Renders Remotion through a Python wrapper and writes a `.video.manifest.json` si
 
 ## Current Direction
 
-The project is ready for full-episode video generation once we add a production Remotion props command for full lesson duration and settle the final visual layout. The manifest is the timing source of truth for both subtitles and waveform synchronization.
+The manifest is the timing source of truth for both subtitle display and audio-reactive Remotion theme synchronization.

@@ -5,10 +5,15 @@
   "scripts": {
     "remotion:studio": "remotion studio video/remotion/index.ts",
     "remotion:preview": "remotion preview video/remotion/index.ts",
-    "remotion:render:demo": "remotion render video/remotion/index.ts PodcastFinal out/waveform-ribbon-demo.mp4 --props=video/remotion/demo-props.json",
-    "remotion:render:combined30": "python video/render_remotion_video.py --props video/remotion/combined-30s-props.json --output out/podcast-combined-30s-demo.mp4 --audio-manifest curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json",
-    "remotion:still:ribbon": "remotion still video/remotion/index.ts WaveformRibbonsStill out/waveform-ribbon-still.png --props=video/remotion/ribbon-still-props.json",
-    "remotion:render:ribbon": "remotion render video/remotion/index.ts WaveformRibbonsVideo out/waveform-ribbon-30s-test.mp4 --props=video/remotion/ribbon-still-props.json"
+    "remotion:ribbon:props30": "python video/manifest_to_remotion_props.py curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json --output video/remotion/ribbon-theme-30s-props.json --preview-duration 30 --style-props video/remotion/ribbon-theme-final-props.json",
+    "remotion:ribbon:render30": "python video/render_remotion_video.py --composition PodcastFinal --props video/remotion/ribbon-theme-30s-props.json --output out/ribbon-theme-30s-test.mp4 --audio-manifest curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json",
+    "remotion:ribbon:still": "remotion still video/remotion/index.ts WaveformRibbonsStill out/ribbon-theme-still.png --props=video/remotion/ribbon-theme-standalone-props.json",
+    "remotion:ribbon:render-standalone": "remotion render video/remotion/index.ts WaveformRibbonsVideo out/ribbon-theme-standalone-30s-test.mp4 --props=video/remotion/ribbon-theme-standalone-props.json",
+    "remotion:flag-dialogue:props30": "python video/manifest_to_flag_dialogue_props.py curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json --output video/remotion/flag-dialogue-30s-props.json --preview-duration 30",
+    "remotion:flag-dialogue:propsfull": "python video/manifest_to_flag_dialogue_props.py curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json --output video/remotion/flag-dialogue-full-props.json",
+    "remotion:flag-dialogue:still": "remotion still video/remotion/index.ts FlagDialogueStill out/flag-dialogue-still.png --props=video/remotion/flag-dialogue-30s-props.json",
+    "remotion:flag-dialogue:render30": "python video/render_remotion_video.py --composition FlagDialogue --props video/remotion/flag-dialogue-30s-props.json --output out/flag-dialogue-30s-test.mp4 --audio-manifest curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json",
+    "remotion:flag-dialogue:renderfull": "python video/render_remotion_video.py --composition FlagDialogue --props video/remotion/flag-dialogue-full-props.json --output out/flag-dialogue-full.mp4 --audio-manifest curriculum/courses/B2_English_TTS_Lesson_Scripts/B2_Lesson_01_Opinions_and_Debate.manifest.json"
   },
   "dependencies": {
     "@fontsource/inter": "^5.0.20",

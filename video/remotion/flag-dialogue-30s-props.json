@@ -1,0 +1,114 @@
+{
+  "audioSrc": "render-assets/B2_Lesson_01_Opinions_and_Debate-0b6b7d61731c1660.mp3",
+  "teacherFlagSrc": "render-assets/Flag_of_Peoples_Republic_of_China_Flat_Round-512x512-fcf9e803de0ed9d3.png",
+  "targetFlagSrc": "render-assets/Flag_of_United_States_Flat_Round-512x512-e169de6440e450c1.png",
+  "teacherLanguage": "zh",
+  "targetLanguage": "en",
+  "durationInSeconds": 30.0,
+  "subtitleEntries": [
+    {
+      "start": 0.0,
+      "end": 2.335283,
+      "lang": "zh",
+      "text": "第一部分，课程介绍。"
+    },
+    {
+      "start": 2.335283,
+      "end": 6.367664,
+      "lang": "zh",
+      "text": "欢迎回来。今天是第1课，级别是B2。"
+    },
+    {
+      "start": 6.367664,
+      "end": 9.303628,
+      "lang": "zh",
+      "text": "今天的主题是观点和辩论。"
+    },
+    {
+      "start": 9.303628,
+      "end": 16.169138,
+      "lang": "zh",
+      "text": "你会听到中文提示，并用英语回答。听到英语示范后，请大声重复。"
+    },
+    {
+      "start": 16.169138,
+      "end": 18.777369,
+      "lang": "zh",
+      "text": "今天的六个新英语表达是。"
+    },
+    {
+      "start": 18.777369,
+      "end": 21.20619,
+      "lang": "en",
+      "text": "the claim."
+    },
+    {
+      "start": 21.20619,
+      "end": 24.103582,
+      "lang": "en",
+      "text": "the perspective."
+    },
+    {
+      "start": 24.103582,
+      "end": 26.747323,
+      "lang": "en",
+      "text": "the assumption."
+    },
+    {
+      "start": 26.747323,
+      "end": 29.64755,
+      "lang": "en",
+      "text": "to be convincing."
+    },
+    {
+      "start": 29.64755,
+      "end": 30.0,
+      "lang": "en",
+      "text": "to be reasonable."
+    }
+  ],
+  "frame": 120,
+  "backgroundColor": "#ffffff",
+  "flagSize": 132,
+  "flagGap": 34,
+  "haloMaxScale": 2.3,
+  "haloMinScale": 1.45,
+  "haloGain": 22,
+  "haloSmoothFrames": 18,
+  "haloFadeSeconds": 0.32,
+  "haloVolumeThreshold": 0.012,
+  "haloNormalizationOffset": 0.04,
+  "haloNormalizationRange": 0.74,
+  "haloMinVisibleVolume": 0,
+  "haloVolumePower": 0.82,
+  "haloMinOpacity": 0.42,
+  "haloOpacityRange": 0.06,
+  "haloBlobPoints": 72,
+  "haloBlobBaseRadius": 72,
+  "haloBlobVarianceBase": 0.5,
+  "haloBlobVarianceVolume": 0.75,
+  "haloBlobMotionDivisor": 30,
+  "haloBlurStdDeviation": 3,
+  "haloBlurOpacity": 0.04,
+  "haloGradientRadius": 76,
+  "haloGradientInnerColor": "#777777",
+  "haloGradientInnerOpacity": 1,
+  "haloGradientMidColor": "#777777",
+  "haloGradientMidOffset": 84,
+  "haloGradientMidOpacity": 1,
+  "haloGradientOuterColor": "#777777",
+  "haloGradientOuterOpacity": 0,
+  "haloGradientFillOpacity": 1,
+  "lineY": 540,
+  "flagsLeft": 250,
+  "textLeft": 660,
+  "textWidth": 1010,
+  "chineseTextFontSize": 48,
+  "defaultTextFontSize": 52,
+  "textFontWeight": 700,
+  "chineseTextLineHeight": 1.22,
+  "defaultTextLineHeight": 1.14,
+  "activeFlagShadow": "0 12px 34px rgba(0, 0, 0, 0.18)",
+  "inactiveFlagShadow": "0 8px 22px rgba(0, 0, 0, 0.10)",
+  "renderAudio": true
+}

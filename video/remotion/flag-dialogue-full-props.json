@@ -1,52 +1,9 @@
 {
-  "waveform": {
-    "width": 520,
-    "height": 390,
-    "x": 120,
-    "y": 345,
-    "colorPairs": [
-      [
-        "#14C8F2",
-        "#1E5BFF"
-      ],
-      [
-        "#1D56E8",
-        "#6F2BEF"
-      ],
-      [
-        "#7428E8",
-        "#CC3B2F"
-      ],
-      [
-        "#f02b99",
-        "#FFA043"
-      ]
-    ],
-    "opacity": 1.0,
-    "glowOpacity": 0.5,
-    "amplitude": 116,
-    "gain": 5.8,
-    "minVolume": 0.18,
-    "sampleCount": 96,
-    "smoothFrames": 7,
-    "waveCount": 2.4,
-    "trebleWaveInfluence": 0.05,
-    "bassThicknessInfluence": 0.5,
-    "rhythmSpeedInfluence": 0.04,
-    "ribbonCount": 4,
-    "thickness": 100,
-    "modeCountMin": 2,
-    "modeCountMax": 5,
-    "modeWidth": 0.1,
-    "centerDrift": 0.08,
-    "modeSpeed": 0.4,
-    "spread": 0.18,
-    "gradientPeak": 85,
-    "gradientSpread": 90,
-    "gradientAngleVariance": 75,
-    "gradientHardness": 34
-  },
-  "audioSrc": "C:\\Users\\nicol\\OneDrive\\Projects\\language_learning_channel\\curriculum\\courses\\B2_English_TTS_Lesson_Scripts\\B2_Lesson_01_Opinions_and_Debate.mp3",
+  "audioSrc": "render-assets/B2_Lesson_01_Opinions_and_Debate-0b6b7d61731c1660.mp3",
+  "teacherFlagSrc": "render-assets/Flag_of_Peoples_Republic_of_China_Flat_Round-512x512-fcf9e803de0ed9d3.png",
+  "targetFlagSrc": "render-assets/Flag_of_United_States_Flat_Round-512x512-e169de6440e450c1.png",
+  "teacherLanguage": "zh",
+  "targetLanguage": "en",
   "durationInSeconds": 824.68358,
   "subtitleEntries": [
     {
@@ -955,5 +912,49 @@
       "lang": "zh",
       "text": "很好。今天的练习到这里结束。请继续保持每天开口练习的习惯。"
     }
-  ]
+  ],
+  "frame": 120,
+  "backgroundColor": "#ffffff",
+  "flagSize": 132,
+  "flagGap": 34,
+  "haloMaxScale": 2.3,
+  "haloMinScale": 1.45,
+  "haloGain": 22,
+  "haloSmoothFrames": 18,
+  "haloFadeSeconds": 0.32,
+  "haloVolumeThreshold": 0.012,
+  "haloNormalizationOffset": 0.04,
+  "haloNormalizationRange": 0.74,
+  "haloMinVisibleVolume": 0,
+  "haloVolumePower": 0.82,
+  "haloMinOpacity": 0.42,
+  "haloOpacityRange": 0.06,
+  "haloBlobPoints": 72,
+  "haloBlobBaseRadius": 72,
+  "haloBlobVarianceBase": 0.5,
+  "haloBlobVarianceVolume": 0.75,
+  "haloBlobMotionDivisor": 30,
+  "haloBlurStdDeviation": 3,
+  "haloBlurOpacity": 0.04,
+  "haloGradientRadius": 76,
+  "haloGradientInnerColor": "#777777",
+  "haloGradientInnerOpacity": 1,
+  "haloGradientMidColor": "#777777",
+  "haloGradientMidOffset": 84,
+  "haloGradientMidOpacity": 1,
+  "haloGradientOuterColor": "#777777",
+  "haloGradientOuterOpacity": 0,
+  "haloGradientFillOpacity": 1,
+  "lineY": 540,
+  "flagsLeft": 250,
+  "textLeft": 660,
+  "textWidth": 1010,
+  "chineseTextFontSize": 48,
+  "defaultTextFontSize": 52,
+  "textFontWeight": 700,
+  "chineseTextLineHeight": 1.22,
+  "defaultTextLineHeight": 1.14,
+  "activeFlagShadow": "0 12px 34px rgba(0, 0, 0, 0.18)",
+  "inactiveFlagShadow": "0 8px 22px rgba(0, 0, 0, 0.10)",
+  "renderAudio": true
 }

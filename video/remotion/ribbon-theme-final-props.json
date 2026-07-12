@@ -1,5 +1,5 @@
 {
-  "_comment": "Reusable PodcastFinal visual settings. Pass this to video/manifest_to_remotion_props.py with --style-props.",
+  "_comment": "Reusable Ribbon Theme visual props for PodcastFinal. Pass this to video/manifest_to_remotion_props.py with --style-props.",
   "waveform": {
     "width": 520,
     "height": 390,

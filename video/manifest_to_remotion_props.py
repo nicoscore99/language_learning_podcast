@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-DEFAULT_STYLE_PROPS = Path(__file__).with_name("remotion") / "podcast-final-style.json"
+DEFAULT_STYLE_PROPS = Path(__file__).with_name("remotion") / "ribbon-theme-final-props.json"
 
 
 def load_json(path: Path) -> dict[str, Any]:
